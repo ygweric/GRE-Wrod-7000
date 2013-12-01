@@ -8291,6 +8291,9 @@ happening, touching, to touch" (see contact)
 </item><item>    <word>contort</word>
     <trans><![CDATA[vt. 扭曲；曲解 
 vi. 扭曲 
+thwart  n.  横座板, 划手座; 独木舟的横梁
+v.  反对, 横过, 阻碍
+adj.  横放的, 横着的; 执拗的, 固执的
 ]]></trans>
     <phonetic><![CDATA[[kən'tɔ:t]]]></phonetic>
     <tags>GRE</tags>
@@ -8298,6 +8301,7 @@ vi. 扭曲
 </item><item>    <word>contraband</word>
     <trans><![CDATA[n. 走私；走私货；战时禁运品（等于contraband of war） 
 adj. 禁运的；非法买卖的 
+contra + ban
 ]]></trans>
     <phonetic><![CDATA[['kɔntrə,bænd]]]></phonetic>
     <tags>GRE</tags>
@@ -8313,6 +8317,7 @@ vi. 收缩；感染；订约
 </item><item>    <word>contradict</word>
     <trans><![CDATA[vt. 反驳；否定；与…矛盾；与…抵触 
 vi. 反驳；否认；发生矛盾 
+contra + dic
 ]]></trans>
     <phonetic><![CDATA[[,kɔntrə'dikt]]]></phonetic>
     <tags>GRE</tags>
@@ -8327,12 +8332,17 @@ vi. 对比；形成对照
     <progress>2</progress>
 </item><item>    <word>contravene</word>
     <trans><![CDATA[vt. 抵触；违反；反驳；否认 
+        went 走
+     vent-词根:走
+     ven
 ]]></trans>
     <phonetic><![CDATA[[,kɔntrə'vi:n]]]></phonetic>
     <tags>GRE</tags>
     <progress>2</progress>
 </item><item>    <word>contrite</word>
     <trans><![CDATA[adj. 悔悟了的；后悔的；悔罪的 
+        （as）字面意思 磨破 com + throw(投, 抛, 掷)
+        磨破了，倦怠了，要忏悔啦
 ]]></trans>
     <phonetic><![CDATA[['kɔntrait]]]></phonetic>
     <tags>GRE</tags>
@@ -8340,12 +8350,14 @@ vi. 对比；形成对照
 </item><item>    <word>contrive</word>
     <trans><![CDATA[vt. 设计；发明；图谋 
 vi. 谋划；设法做到 
+trope  n.  修辞, 比喻
 ]]></trans>
     <phonetic><![CDATA[[kən'traiv]]]></phonetic>
     <tags>GRE</tags>
     <progress>2</progress>
 </item><item>    <word>contrived</word>
     <trans><![CDATA[adj. 人为的；做作的；不自然的 
+        trope  n.  修辞, 比喻
 ]]></trans>
     <phonetic><![CDATA[[kən'traivd]]]></phonetic>
     <tags>GRE</tags>
@@ -8359,6 +8371,9 @@ vt. 控制；管理；抑制
     <progress>5</progress>
 </item><item>    <word>controversial</word>
     <trans><![CDATA[adj. 有争议的；有争论的 
+        controversy  n.  论争; 论战; 辩论
+        contra + verse
+        verse  n.  韵文; 诗节; 诗
 ]]></trans>
     <phonetic><![CDATA[[,kɔntrə'və:ʃəl]]]></phonetic>
     <tags>GRE</tags>
@@ -8372,18 +8387,22 @@ vi. 争论；辩论
     <progress>1</progress>
 </item><item>    <word>contumacious</word>
     <trans><![CDATA[adj. 不听命令的；反抗法院命令的；顽固的 
+        contumely  n.  无礼, 傲慢, 侮辱
+(see com-), + tumere "to swell up" (see thigh)
 ]]></trans>
     <phonetic><![CDATA[[,kɔntju:'meiʃəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>conundrum</word>
     <trans><![CDATA[n. 难题；谜语 
+        no
 ]]></trans>
     <phonetic><![CDATA[[kə'nʌndrəm]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>convalesce</word>
     <trans><![CDATA[vi. 渐愈；渐渐康复 
+        valiant  adj.  勇敢的, 英勇的
 ]]></trans>
     <phonetic><![CDATA[[,kɔnvə'les]]]></phonetic>
     <tags>GRE</tags>
@@ -8391,18 +8410,22 @@ vi. 争论；辩论
 </item><item>    <word>convalescent</word>
     <trans><![CDATA[n. 恢复中的病人；康复的人 
 adj. 康复的；恢复期的 
+valiant  adj.  勇敢的, 英勇的
 ]]></trans>
     <phonetic><![CDATA[[,kɔnvə'lesənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>convenience</word>
     <trans><![CDATA[n. 便利；厕所；便利的事物 
+        convene  v.  集会; 聚集; 召集; 传唤...出庭受审, 票传
+convenience  n.  方便, 无忧虑, 便利的事物
 ]]></trans>
     <phonetic><![CDATA[[kən'vi:njəns]]]></phonetic>
     <tags>GRE</tags>
     <progress>5</progress>
 </item><item>    <word>conventional</word>
     <trans><![CDATA[adj. 符合习俗的，传统的；常见的；惯例的 
+        convene  v.  集会; 聚集; 召集; 传唤...出庭受审, 票传
 ]]></trans>
     <phonetic><![CDATA[[kən'venʃənəl]]]></phonetic>
     <tags>GRE</tags>
@@ -8410,12 +8433,14 @@ adj. 康复的；恢复期的
 </item><item>    <word>converge</word>
     <trans><![CDATA[vi. 聚合；集中于一点 
 vt. 会聚；使聚集；使向一点会合 
+verge  n.  边缘 v.  接近; 趋向, 下沉
 ]]></trans>
     <phonetic><![CDATA[[kən'və:dʒ]]]></phonetic>
     <tags>GRE</tags>
     <progress>2</progress>
 </item><item>    <word>convergent</word>
     <trans><![CDATA[adj. [数] 收敛的；会聚性的；趋集于一点的 
+        verge  n.  边缘 v.  接近; 趋向, 下沉
 ]]></trans>
     <phonetic><![CDATA[[kən'və:dʒənt]]]></phonetic>
     <tags>GRE</tags>
@@ -8430,6 +8455,10 @@ vt. 会聚；使聚集；使向一点会合
     <trans><![CDATA[n. 逆行，逆向；倒；相反的事物 
 adj. 相反的，逆向的；颠倒的 
 vi. 交谈，谈话；认识 
+(as)交谈大都是辩论说服
+converse  n.  谈话; 交谈#逆, 相反的事物; 反题, 反转语
+v.  交谈, 谈话
+adj.  相反的, 逆的, 颠倒的
 ]]></trans>
     <phonetic><![CDATA[[kən'və:s]]]></phonetic>
     <tags>GRE</tags>
@@ -8451,13 +8480,15 @@ adj. 可改变的；同意义的；可交换的
     <progress>4</progress>
 </item><item>    <word>convey</word>
     <trans><![CDATA[vt. 传达；运输；让与 
+        via  prep.  经由, 通过, 经过
 ]]></trans>
     <phonetic><![CDATA[[kən'vei]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>convict</word>
     <trans><![CDATA[n. 罪犯 
-vt. 证明…有罪；宣告…有罪 
+vt.使知罪, 证明…有罪；宣告…有罪 
+convince (as)使知罪，当然是说服
 ]]></trans>
     <phonetic><![CDATA[[kən'vikt]]]></phonetic>
     <tags>GRE</tags>
@@ -8495,18 +8526,22 @@ vt. 证明…有罪；宣告…有罪
 </item><item>    <word>convoluted</word>
     <trans><![CDATA[adj. 复杂的；费解的；旋绕的 
 v. 盘绕；缠绕（convolute的过去分词） 
+   volve-词根：旋转
+convolute  回旋, 卷绕, 盘旋
 ]]></trans>
     <phonetic><![CDATA[['kɔnvə,lu:tid]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>convulse</word>
     <trans><![CDATA[vt. 震撼；使剧烈震动；使抽搐 
+        convulsion  n.  震动, 动乱, 震撼
 ]]></trans>
     <phonetic><![CDATA[[kən'vʌls]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>convulsion</word>
     <trans><![CDATA[n. [医] 惊厥；动乱；震撼；震动 
+        no
 ]]></trans>
     <phonetic><![CDATA[[kən'vʌlʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -8515,6 +8550,7 @@ v. 盘绕；缠绕（convolute的过去分词）
     <trans><![CDATA[n. 鸡笼；小屋；捕鱼篓 
 vi. 值勤警察在警车里打瞌睡 
 vt. 把…关进笼子里；限制；拘禁 
+cup
 ]]></trans>
     <phonetic><![CDATA[[ku:p]]]></phonetic>
     <tags>GRE</tags>
@@ -8536,6 +8572,7 @@ vi. 协调
     <progress>5</progress>
 </item><item>    <word>copious</word>
     <trans><![CDATA[adj. 丰富的；很多的；多产的 
+        copy ous  88888888888888888888888888888888
 ]]></trans>
     <phonetic><![CDATA[['kəupiəs]]]></phonetic>
     <tags>GRE</tags>
@@ -8543,6 +8580,7 @@ vi. 协调
 </item><item>    <word>cord</word>
     <trans><![CDATA[n. 绳索；束缚 
 vt. 用绳子捆绑 
+no
 ]]></trans>
     <phonetic><![CDATA[[kɔ:d]]]></phonetic>
     <tags>GRE</tags>
@@ -8556,30 +8594,37 @@ vt. 挖...的核
     <progress>5</progress>
 </item><item>    <word>cornucopia</word>
     <trans><![CDATA[n. 哺乳宙斯的羊角；装满花果及谷穗表丰饶的羊角状物；丰饶的象征 
+        no
 ]]></trans>
     <phonetic><![CDATA[[,kɔ:nju'kəupjə]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>coronation</word>
     <trans><![CDATA[n. 加冕礼 
+         crown n.  王冠, 顶点, 王权
+v.  加冕; 表彰; 顶上有
 ]]></trans>
     <phonetic><![CDATA[[,kɔ:rə'neiʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>corporate</word>
     <trans><![CDATA[adj. 法人的；共同的，全体的；社团的 
+          group
+  corp-词根：集合，集体
 ]]></trans>
     <phonetic><![CDATA[['kɔ:pərit]]]></phonetic>
     <tags>GRE</tags>
     <progress>4</progress>
 </item><item>    <word>corporeal</word>
     <trans><![CDATA[adj. 物质的，有形的；肉体的 
+        no
 ]]></trans>
     <phonetic><![CDATA[[kɔ:'pɔ:riəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>corpuscle</word>
     <trans><![CDATA[n. [解剖] 小体；[光] 微粒；血球 
+        corporeal  adj.  肉体的, 物质的, 有形的
 ]]></trans>
     <phonetic><![CDATA[['kɔ:pʌsl]]]></phonetic>
     <tags>GRE</tags>
@@ -8587,18 +8632,23 @@ vt. 挖...的核
 </item><item>    <word>corral</word>
     <trans><![CDATA[n. 畜栏；环形车阵 
 vt. 把…关进畜栏；捕捉；把…布成车阵 
+no
 ]]></trans>
     <phonetic><![CDATA[[kɔ:'rɑ:l]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>correspondent</word>
     <trans><![CDATA[n. 通讯记者；客户；通信者；代理商行 
+        correspond  v.  符合; 通信; 协调
+        respond  v.  作答, 回答; 响应;
 ]]></trans>
     <phonetic><![CDATA[[,kɔ:ri'spɔndənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>corroborate</word>
     <trans><![CDATA[vt. 证实；使坚固 
+           robot 机器人
+   robust  健康和有力的
 ]]></trans>
     <phonetic><![CDATA[[kə'rɔbə,reit]]]></phonetic>
     <tags>GRE</tags>
@@ -8606,6 +8656,10 @@ vt. 把…关进畜栏；捕捉；把…布成车阵
 </item><item>    <word>corrosive</word>
     <trans><![CDATA[n. 腐蚀物 
 adj. 腐蚀的；侵蚀性的 
+  rat  老鼠
+  ratton  耗子
+  rotten  a.腐烂的
+  rot (使)腐烂, (使)腐败
 ]]></trans>
     <phonetic><![CDATA[[kə'rəusiv]]]></phonetic>
     <tags>GRE</tags>
@@ -8614,6 +8668,7 @@ adj. 腐蚀的；侵蚀性的
     <trans><![CDATA[adj. 起皱的；波状的 
 vt. 使起皱；成波状 
 vi. 起皱；缩成皱状 
+no
 ]]></trans>
     <phonetic><![CDATA[['kɔ:ruɡeit]]]></phonetic>
     <tags>GRE</tags>
@@ -8622,12 +8677,16 @@ vi. 起皱；缩成皱状
     <trans><![CDATA[adj. 腐败的，贪污的；堕落的 
 vt. 使腐烂；使堕落，使恶化 
 vi. 堕落，腐化；腐烂 
+  ripe 成熟
+  rupt-词根：破
 ]]></trans>
     <phonetic><![CDATA[[kə'rʌpt]]]></phonetic>
     <tags>GRE</tags>
     <progress>5</progress>
 </item><item>    <word>cosmic</word>
     <trans><![CDATA[adj. 宇宙的（等于cosmical） 
+        chaos  混沌(宇宙未形成前的情形)
+cosmos  宇宙
 ]]></trans>
     <phonetic><![CDATA[['kɔzmik]]]></phonetic>
     <tags>GRE</tags>
@@ -8635,6 +8694,7 @@ vi. 堕落，腐化；腐烂
 </item><item>    <word>cosmopolitan</word>
     <trans><![CDATA[n. 四海为家者；世界主义者；世界各地都有的东西 
 adj. 世界性的；世界主义的，四海一家的 
+cosmic 宇宙的
 ]]></trans>
     <phonetic><![CDATA[[,kɔzmə'pɔlitən]]]></phonetic>
     <tags>GRE</tags>
@@ -8647,6 +8707,7 @@ adj. 世界性的；世界主义的，四海一家的
     <progress>2</progress>
 </item><item>    <word>cosmos</word>
     <trans><![CDATA[n. 宇宙；和谐；秩序；大波斯菊 
+        chaos  混沌(宇宙未形成前的情形)
 ]]></trans>
     <phonetic><![CDATA[['kɔzmɔs]]]></phonetic>
     <tags>GRE</tags>
@@ -8654,6 +8715,7 @@ adj. 世界性的；世界主义的，四海一家的
 </item><item>    <word>cosset</word>
     <trans><![CDATA[n. 宠儿；爱畜；供玩赏的小动物 
 vt. 宠爱；溺爱；纵容 
+no
 ]]></trans>
     <phonetic><![CDATA[['kɔsit]]]></phonetic>
     <tags>GRE</tags>
@@ -8661,24 +8723,32 @@ vt. 宠爱；溺爱；纵容
 </item><item>    <word>costume</word>
     <trans><![CDATA[n. 服装，装束；戏装，剧装 
 vt. 给…穿上服装 
+custom  n.  习惯; 海关; 风俗
 ]]></trans>
     <phonetic><![CDATA[['kɔstju:m, kɔ'stju:m]]]></phonetic>
     <tags>GRE</tags>
     <progress>3</progress>
 </item><item>    <word>coterie</word>
     <trans><![CDATA[n. 圈内人；小集团；伙伴；同志 
+        house
+h u t   小屋, 棚屋
+cottage村舍, 小别墅
+cote 棚, 栏, 窝
 ]]></trans>
     <phonetic><![CDATA[['kəutəri]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>coterminous</word>
     <trans><![CDATA[adj. 相连的；毗连的（等于conterminous） 
+        terminal n.  末端; 极限; 终点; 总站, 终站
+
 ]]></trans>
     <phonetic><![CDATA[[kəu'tə:minəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>cougar</word>
     <trans><![CDATA[n. [脊椎] 美洲狮，美洲豹（特指felis concolor） 
+        no
 ]]></trans>
     <phonetic><![CDATA[['ku:ɡə]]]></phonetic>
     <tags>GRE</tags>
@@ -8686,12 +8756,15 @@ vt. 给…穿上服装
 </item><item>    <word>countenance</word>
     <trans><![CDATA[n. 面容，表情；支持 
 vt. 支持，赞同 
+contain  v. 包含, 容纳, 容忍
+counten ance
 ]]></trans>
     <phonetic><![CDATA[['kauntənəns]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>counteract</word>
     <trans><![CDATA[vt. 抵消；中和；阻碍 
+        conter + act
 ]]></trans>
     <phonetic><![CDATA[[,kauntə'rækt]]]></phonetic>
     <tags>GRE</tags>
@@ -8708,6 +8781,9 @@ vt. 使平衡；抵消
 adj. 假冒的，伪造的；虚伪的 
 vt. 伪造，仿造；假装，伪装 
 vi. 仿造；假装 
+ fact-词根：做
+ fect-
+ feit-
 ]]></trans>
     <phonetic><![CDATA[['kauntəfit]]]></phonetic>
     <tags>GRE</tags>
@@ -8735,6 +8811,7 @@ n. 取消；反对命令
     <trans><![CDATA[n. 政变；妙计；出乎意料的行动；砰然的一击 
 vt. 使…颠倒；使…倾斜 
 vi. 推倒；倾斜；溢出 
+no
 ]]></trans>
     <phonetic><![CDATA[[ku:]]]></phonetic>
     <tags>GRE</tags>
@@ -8743,6 +8820,9 @@ vi. 推倒；倾斜；溢出
     <trans><![CDATA[n. 法院；球场；朝廷；奉承 
 vt. 招致（失败、危险等）；向…献殷勤；设法获得 
 vi. 求爱 
+square 广场；四方的
+ quart-词根：四
+ qu
 ]]></trans>
     <phonetic><![CDATA[[kɔ:t]]]></phonetic>
     <tags>GRE</tags>
@@ -8751,6 +8831,7 @@ vi. 求爱
     <trans><![CDATA[n. 契约，盟约；圣约；盖印合同 
 vt. 立约承诺 
 vi. 订立盟约、契约 
+convene  v.  集会; 聚集; 召集; 传唤...出庭受审, 票传
 ]]></trans>
     <phonetic><![CDATA[['kʌvənənt]]]></phonetic>
     <tags>GRE</tags>
@@ -8758,6 +8839,7 @@ vi. 订立盟约、契约
 </item><item>    <word>covert</word>
     <trans><![CDATA[n. 隐藏处；树丛；蔽覆羽翮基部的羽毛 
 adj. 隐蔽的；隐密的；偷偷摸摸的；在丈夫保护下的 
+cover
 ]]></trans>
     <phonetic><![CDATA[['kʌvət]]]></phonetic>
     <tags>GRE</tags>
@@ -8765,6 +8847,8 @@ adj. 隐蔽的；隐密的；偷偷摸摸的；在丈夫保护下的
 </item><item>    <word>covet</word>
     <trans><![CDATA[vt. 垂涎；觊觎 
 vi. 垂涎；觊觎 
+crab 螃蟹
+crave  v. 恳求, 渴望
 ]]></trans>
     <phonetic><![CDATA[['kʌvit]]]></phonetic>
     <tags>GRE</tags>
@@ -8785,6 +8869,9 @@ adj. 胆小的，懦怯的
     <progress>5</progress>
 </item><item>    <word>cower</word>
     <trans><![CDATA[vi. 退缩；抖缩；蜷缩；弯腰屈膝 
+        cow n.  母牛; 母兽; 奶牛
+v.  恐吓, 威胁
+(as) 受恐吓后退缩
 ]]></trans>
     <phonetic><![CDATA[['kauə]]]></phonetic>
     <tags>GRE</tags>
@@ -8793,13 +8880,15 @@ adj. 胆小的，懦怯的
     <trans><![CDATA[adj. 腼腆的；忸怩作态的；怕羞的 
 vt. 爱抚 
 vi. 忸怩作态 
+no
 ]]></trans>
     <phonetic><![CDATA[[kɔi]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>cozen</word>
     <trans><![CDATA[vt. 瞒；欺骗 
-vi. 瞒；欺骗 
+vi. 瞒；欺骗
+no 
 ]]></trans>
     <phonetic><![CDATA[['kʌzən]]]></phonetic>
     <tags>GRE</tags>
@@ -8815,6 +8904,7 @@ vi. 捕蟹；发牢骚；抱怨
 </item><item>    <word>crabbed</word>
     <trans><![CDATA[adj. 暴躁的；难懂的；晦涩的；潦草的 
 v. 抱怨；侧航（crab的过去分词） 
+crab
 ]]></trans>
     <phonetic><![CDATA[['kræbid]]]></phonetic>
     <tags>GRE</tags>
@@ -8831,6 +8921,9 @@ vt. 使破裂；打开；变声
 </item><item>    <word>craft</word>
     <trans><![CDATA[n. 工艺；手艺；太空船 
 vt. 精巧地制作 
+crab 螃蟹
+creep 爬
+art 艺术
 ]]></trans>
     <phonetic><![CDATA[[krɑ:ft, kræft]]]></phonetic>
     <tags>GRE</tags>
@@ -8840,6 +8933,7 @@ vt. 精巧地制作
 adj. 填鸭式学的 
 vi. 狼吞虎咽地吃东西；死记硬背功课 
 vt. 填满，塞满；死记硬背；猛吃 
+no
 ]]></trans>
     <phonetic><![CDATA[[kræm]]]></phonetic>
     <tags>GRE</tags>
@@ -8848,18 +8942,22 @@ vt. 填满，塞满；死记硬背；猛吃
     <trans><![CDATA[n. 痉挛，绞痛；[五金] 铁夹钳 
 adj. 狭窄的；难解的；受限制的 
 vt. 束缚，限制；使…抽筋；以铁箍扣紧 
+no
 ]]></trans>
     <phonetic><![CDATA[[kræmp]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>cranky</word>
     <trans><![CDATA[adj. 暴躁的；古怪的；动摇的 
+        crank  n.  曲柄, 曲轴; 怪念头; 怪人; 怪行为
+v.  用曲柄启动; 使成曲柄状; 给...装曲柄; 使加快; 转动曲柄; 曲折行进
 ]]></trans>
     <phonetic><![CDATA[['kræŋki]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>crass</word>
     <trans><![CDATA[adj. 愚钝的；粗鲁的；非常的 
+        no
 ]]></trans>
     <phonetic><![CDATA[[kræs]]]></phonetic>
     <tags>GRE</tags>
@@ -8867,6 +8965,7 @@ vt. 束缚，限制；使…抽筋；以铁箍扣紧
 </item><item>    <word>crate</word>
     <trans><![CDATA[n. 板条箱；篓 
 vt. 将某物装入大木箱或板条箱中 
+no
 ]]></trans>
     <phonetic><![CDATA[[kreit]]]></phonetic>
     <tags>GRE</tags>
@@ -8875,12 +8974,14 @@ vt. 将某物装入大木箱或板条箱中
     <trans><![CDATA[n. 火山口；弹坑 
 vt. 在…上形成坑；取消；毁坏 
 vi. 形成坑；消亡 
+create 制造
 ]]></trans>
     <phonetic><![CDATA[['kreitə]]]></phonetic>
     <tags>GRE</tags>
     <progress>3</progress>
 </item><item>    <word>cravat</word>
     <trans><![CDATA[n. 领带；领巾，领结 
+        no
 ]]></trans>
     <phonetic><![CDATA[[krə'væt]]]></phonetic>
     <tags>GRE</tags>
@@ -8888,6 +8989,8 @@ vi. 形成坑；消亡
 </item><item>    <word>craven</word>
     <trans><![CDATA[adj. 畏缩的；怯懦的 
 n. 懦夫 
+crave v.  渴望获得; 恳求, 请求; 迫切需要; 渴望; 恳求, 请求
+(as)渴望，才回畏缩，懦夫 
 ]]></trans>
     <phonetic><![CDATA[['kreivən]]]></phonetic>
     <tags>GRE</tags>
@@ -8902,6 +9005,7 @@ v. 渴望；恳求（crave的ing形式）
 </item><item>    <word>crayon</word>
     <trans><![CDATA[n. 蜡笔，有色粉笔 
 vt. 以蜡笔作画，用颜色粉笔画 
+no
 ]]></trans>
     <phonetic><![CDATA[['kreiən]]]></phonetic>
     <tags>GRE</tags>
@@ -8910,6 +9014,8 @@ vt. 以蜡笔作画，用颜色粉笔画
     <trans><![CDATA[n. 折痕；折缝 
 vt. 弄皱；使起折痕 
 vi. 起皱 
+crest n.  冠, 顶部, 饰毛
+v.  加以顶饰; 到达绝顶
 ]]></trans>
     <phonetic><![CDATA[[kri:s]]]></phonetic>
     <tags>GRE</tags>
@@ -8941,6 +9047,9 @@ vt. 相信，信任；把…归给，归功于；赞颂
     <progress>2</progress>
 </item><item>    <word>creek</word>
     <trans><![CDATA[n. 小溪；小湾 
+        hooker 渔船；妓女
+        hook 钩子
+        crook  钩状物, (河、道的)弯处
 ]]></trans>
     <phonetic><![CDATA[[kri:k]]]></phonetic>
     <tags>GRE</tags>
