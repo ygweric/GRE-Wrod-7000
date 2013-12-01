@@ -9986,6 +9986,8 @@ vi. 推迟；延期；服从
     <progress>1</progress>
 </item><item>    <word>defiance</word>
     <trans><![CDATA[n. 蔑视；挑战；反抗 
+         deny v.否认，拒绝
+ defy v.公然违抗 
 ]]></trans>
     <phonetic><![CDATA[[di'faiəns]]]></phonetic>
     <tags>GRE</tags>
@@ -10013,6 +10015,7 @@ vi. 以纵队前进
 </item><item>    <word>definitive</word>
     <trans><![CDATA[n. 限定词 
 adj. 决定性的；最后的；限定的 
+define限定, 规定；下定义
 ]]></trans>
     <phonetic><![CDATA[[di'finitiv]]]></phonetic>
     <tags>GRE</tags>
@@ -10027,31 +10030,38 @@ v. 抽气；使泄气（deflate的过去式和过去分词）
 </item><item>    <word>deflect</word>
     <trans><![CDATA[vt. 使转向；使偏斜；使弯曲 
 vi. 转向；偏斜 
+flexible
 ]]></trans>
     <phonetic><![CDATA[[di'flekt]]]></phonetic>
     <tags>GRE</tags>
     <progress>2</progress>
 </item><item>    <word>defoliator</word>
     <trans><![CDATA[n. 去叶剂；食叶虫 
+        no
 ]]></trans>
     <phonetic><![CDATA[[,di:'fəulieitə]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>defraud</word>
-    <trans><![CDATA[vi. 进行诈骗（过去式defrauded，过去分词defrauded，现在分词defrauding，第三人称单数defrauds，名词defraudation） 
+    <trans><![CDATA[vi. 进行诈骗 
 vt. 欺骗 
+fraud  [frɔːd]
+n.  欺骗; 骗局; 诡计; 骗子
 ]]></trans>
     <phonetic><![CDATA[[di'frɔ:d]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>deft</word>
     <trans><![CDATA[adj. 灵巧的；机敏的；敏捷熟练的 
+           expert 专家
+ adept 老手，专家；熟练的, 拿手的
 ]]></trans>
     <phonetic><![CDATA[[deft]]]></phonetic>
     <tags>GRE</tags>
     <progress>3</progress>
 </item><item>    <word>defuse</word>
     <trans><![CDATA[vt. 平息；去掉…的雷管；使除去危险性 
+        fuse  n.  导火线, 导火索; 引信, 信管#保险丝
 ]]></trans>
     <phonetic><![CDATA[[,di:'fju:z]]]></phonetic>
     <tags>GRE</tags>
@@ -10059,6 +10069,7 @@ vt. 欺骗
 </item><item>    <word>defy</word>
     <trans><![CDATA[n. 挑战；对抗 
 vt. 藐视；公然反抗；挑衅；使落空 
+deny v.否认，绝决
 ]]></trans>
     <phonetic><![CDATA[[di'fai, 'di:-]]]></phonetic>
     <tags>GRE</tags>
@@ -10078,6 +10089,7 @@ vi. 脱水；去水
     <progress>4</progress>
 </item><item>    <word>deify</word>
     <trans><![CDATA[vt. 把…奉若神明；把…神化；崇拜 
+        Zeus
 ]]></trans>
     <phonetic><![CDATA[['di:ifai]]]></phonetic>
     <tags>GRE</tags>
@@ -10085,18 +10097,22 @@ vi. 脱水；去水
 </item><item>    <word>deign</word>
     <trans><![CDATA[vt. 赐予 
 vi. 屈尊 
+ decent 体面的，正派的，达到可接受标准的
+  dign-词根：尊严
 ]]></trans>
     <phonetic><![CDATA[[dein]]]></phonetic>
     <tags>GRE</tags>
     <progress>4</progress>
 </item><item>    <word>dejected</word>
     <trans><![CDATA[adj. 沮丧的，灰心的 
+        deject v.  使沮丧, 使灰心
 ]]></trans>
     <phonetic><![CDATA[[di'dʒektid]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>delectable</word>
     <trans><![CDATA[adj. 美味的；令人愉快的 
+        delight  n.  高兴, 愉快
 ]]></trans>
     <phonetic><![CDATA[[di'lektəbl]]]></phonetic>
     <tags>GRE</tags>
@@ -10110,6 +10126,7 @@ vt. 委派…为代表
     <progress>5</progress>
 </item><item>    <word>deleterious</word>
     <trans><![CDATA[adj. 有毒的，有害的 
+        delete  删除器；删除人
 ]]></trans>
     <phonetic><![CDATA[[,deli'tiəriəs]]]></phonetic>
     <tags>GRE</tags>
@@ -10117,12 +10134,17 @@ vt. 委派…为代表
 </item><item>    <word>deliberate</word>
     <trans><![CDATA[adj. 故意的；深思熟虑的；从容的 
 vt. 仔细考虑；商议 
+  liber-词根：自由
+   free 自由
+  liberty  liberate  liberal 自由的
+  liberate 使…自由，解放
 ]]></trans>
     <phonetic><![CDATA[[di'libərət]]]></phonetic>
     <tags>GRE</tags>
     <progress>4</progress>
 </item><item>    <word>delicacy</word>
     <trans><![CDATA[n. 微妙；精密 
+        delicate adj.  细致优雅的, 
 ]]></trans>
     <phonetic><![CDATA[['delikəsi]]]></phonetic>
     <tags>GRE</tags>
@@ -10141,12 +10163,15 @@ vt. 仔细考虑；商议
     <progress>5</progress>
 </item><item>    <word>delineate</word>
     <trans><![CDATA[vt. 描绘；描写；画…的轮廓 
+         line-线
 ]]></trans>
     <phonetic><![CDATA[[di'linieit]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>delinquency</word>
     <trans><![CDATA[n. 行为不良，违法犯罪；失职，怠工 
+        delinquent  n.  行为不良的人, 流氓
+ relinquish  v.  放弃; 弃绝; 撤出; 交出, 让与
 ]]></trans>
     <phonetic><![CDATA[[di'liŋkwənsi]]]></phonetic>
     <tags>GRE</tags>
@@ -10154,12 +10179,14 @@ vt. 仔细考虑；商议
 </item><item>    <word>delinquent</word>
     <trans><![CDATA[n. 流氓；行为不良的人；失职者 
 adj. 有过失的；怠忽的；拖欠债务的 
+ relinquish  v.  放弃; 弃绝; 撤出; 交出, 让与
 ]]></trans>
     <phonetic><![CDATA[[di'liŋkwənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>2</progress>
 </item><item>    <word>delirious</word>
     <trans><![CDATA[adj. 发狂的；神志昏迷的；精神错乱的 
+        delirium n.  精神错乱, 说胡话; 极度兴奋, 发狂
 ]]></trans>
     <phonetic><![CDATA[[di'liriəs]]]></phonetic>
     <tags>GRE</tags>
@@ -10185,6 +10212,7 @@ adj. 有过失的；怠忽的；拖欠债务的
 </item><item>    <word>deluge</word>
     <trans><![CDATA[n. 洪水；泛滥；暴雨 
 vt. 使泛滥；压倒 
+lave 洗；沐浴
 ]]></trans>
     <phonetic><![CDATA[['delju:dʒ]]]></phonetic>
     <tags>GRE</tags>
@@ -10199,12 +10227,15 @@ vt. 使泛滥；压倒
     <trans><![CDATA[n. 穴；洞 
 vi. 钻研；探究；挖 
 vt. 钻研；探究；挖 
+no
 ]]></trans>
     <phonetic><![CDATA[[delv]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>demagogue</word>
     <trans><![CDATA[n. 煽动者；煽动家；煽动政治家 
+        demotic  adj.  大众的; 通俗的
+    demotic + act
 ]]></trans>
     <phonetic><![CDATA[['deməɡɔɡ]]]></phonetic>
     <tags>GRE</tags>
@@ -10219,6 +10250,8 @@ vi. 需要；请求；查问
     <progress>5</progress>
 </item><item>    <word>demean</word>
     <trans><![CDATA[vt. 贬低...的身分；举止 
+          main 主要的
+  mean 含义；低劣的, 卑鄙的, 普通的
 ]]></trans>
     <phonetic><![CDATA[[di'mi:n]]]></phonetic>
     <tags>GRE</tags>
@@ -10226,12 +10259,15 @@ vi. 需要；请求；查问
 </item><item>    <word>demise</word>
     <trans><![CDATA[n. 死亡，终止；转让；传位 
 vt. 遗赠；禅让 
+mission n.  任务, 使命, 代表团
 ]]></trans>
     <phonetic><![CDATA[[di'maiz]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>demography</word>
     <trans><![CDATA[n. 人口统计学 
+        demotic adj.  大众的; 通俗的
+        demotic + graphy
 ]]></trans>
     <phonetic><![CDATA[[di:'mɔɡrəfi]]]></phonetic>
     <tags>GRE</tags>
@@ -10270,12 +10306,15 @@ n. 指示词
     <progress>2</progress>
 </item><item>    <word>demote</word>
     <trans><![CDATA[vt. 使降级；使降职 
+        de- + promote.
 ]]></trans>
     <phonetic><![CDATA[[,di:'məut]]]></phonetic>
     <tags>GRE</tags>
     <progress>3</progress>
 </item><item>    <word>demotic</word>
     <trans><![CDATA[adj. 通俗的，民众的 
+          demos古希腊城邦平民, 民众
+  democracy  n.民主
 ]]></trans>
     <phonetic><![CDATA[[di'mɔtik]]]></phonetic>
     <tags>GRE</tags>
@@ -10283,12 +10322,16 @@ n. 指示词
 </item><item>    <word>demur</word>
     <trans><![CDATA[n. 异议；反对 
 vi. 反对；抗辩；提出异议 
+no
 ]]></trans>
     <phonetic><![CDATA[[di'mə:]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>demystify</word>
     <trans><![CDATA[vt. 使非神秘化；阐明；启发 
+          mist 薄雾
+  mystery  n.神秘
+   mystify    使…神秘；迷惑
 ]]></trans>
     <phonetic><![CDATA[[di:'mistifai]]]></phonetic>
     <tags>GRE</tags>
@@ -10297,12 +10340,15 @@ vi. 反对；抗辩；提出异议
     <trans><![CDATA[n. 贼窝，私室；兽穴，窝巢；小房间 
 vt. 把……赶进洞穴 
 vi. 藏到洞里；住在肮脏简陋的小房间里 
+no
 ]]></trans>
     <phonetic><![CDATA[[den]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>denigrate</word>
-    <trans><![CDATA[vt. 诋毁；使变黑；玷污 
+    <trans><![CDATA[vt. 诋毁；使变黑；玷污
+      night 黑天
+  negro 黑人 
 ]]></trans>
     <phonetic><![CDATA[['deniɡreit]]]></phonetic>
     <tags>GRE</tags>
@@ -10310,12 +10356,15 @@ vi. 藏到洞里；住在肮脏简陋的小房间里
 </item><item>    <word>denizen</word>
     <trans><![CDATA[n. 居民；外来语；外籍居民 
 vt. 给…居住权；移植 
+no
 ]]></trans>
     <phonetic><![CDATA[['denizən]]]></phonetic>
     <tags>GRE</tags>
     <progress>2</progress>
 </item><item>    <word>denomination</word>
     <trans><![CDATA[n. 面额；名称；教派 
+         nominate  v.  提名; 命名; 任命, 指定
+        name
 ]]></trans>
     <phonetic><![CDATA[[di,nɔmi'neiʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -10328,6 +10377,7 @@ vt. 给…居住权；移植
     <progress>1</progress>
 </item><item>    <word>denouement</word>
     <trans><![CDATA[n. 结局；终场 
+        no
 ]]></trans>
     <phonetic><![CDATA[[deinu:'mɔŋ]]]></phonetic>
     <tags>GRE</tags>
@@ -10342,6 +10392,7 @@ vt. 给…居住权；移植
     <trans><![CDATA[n. 凹痕；削弱；减少；齿 
 vt. 削弱；使产生凹痕 
 vi. 产生凹陷；凹进去；削减 
+dint n.  凹痕; 打
 ]]></trans>
     <phonetic><![CDATA[[dent]]]></phonetic>
     <tags>GRE</tags>
@@ -10354,30 +10405,35 @@ vi. 产生凹陷；凹进去；削减
     <progress>1</progress>
 </item><item>    <word>denude</word>
     <trans><![CDATA[vt. 剥夺；使裸露 
+        nake
 ]]></trans>
     <phonetic><![CDATA[[di'nju:d]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>depict</word>
     <trans><![CDATA[vt. 描述；描画 
+        paint
 ]]></trans>
     <phonetic><![CDATA[[di'pikt]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>deplete</word>
     <trans><![CDATA[vt. 耗尽，用尽；使衰竭，使空虚 
+        complete  完整的
 ]]></trans>
     <phonetic><![CDATA[[di'pli:t]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>deplore</word>
     <trans><![CDATA[vt. 谴责；悲悼；哀叹；对…深感遗憾 
+        no
 ]]></trans>
     <phonetic><![CDATA[[di'plɔ:]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>deport</word>
     <trans><![CDATA[vt. 驱逐出境；举止；放逐 
+        port
 ]]></trans>
     <phonetic><![CDATA[[di'pɔ:t]]]></phonetic>
     <tags>GRE</tags>
@@ -10385,12 +10441,15 @@ vi. 产生凹陷；凹进去；削减
 </item><item>    <word>depose</word>
     <trans><![CDATA[vt. 免职；作证；废黜 
 vi. 宣誓作证 
+put, place" (see pose )
 ]]></trans>
     <phonetic><![CDATA[[di'pəuz]]]></phonetic>
     <tags>GRE</tags>
     <progress>5</progress>
 </item><item>    <word>deposition</word>
     <trans><![CDATA[n. 沉积物；矿床；革职 
+        deposit n.  存款, 堆积物, 定金
+v.  存放; 堆积; 沉淀
 ]]></trans>
     <phonetic><![CDATA[[,depə'ziʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -10398,6 +10457,7 @@ vi. 宣誓作证
 </item><item>    <word>depraved</word>
     <trans><![CDATA[adj. 堕落的；腐化的；卑鄙的 
 v. 使腐化（deprave的过去式和过去分词） 
+no
 ]]></trans>
     <phonetic><![CDATA[[di'preivd]]]></phonetic>
     <tags>GRE</tags>
@@ -10443,6 +10503,7 @@ v. 使沮丧；使萧条（depress的过去式和过去分词形式）；压低
 </item><item>    <word>deputy</word>
     <trans><![CDATA[n. 代理人，代表 
 adj. 副的；代理的 
+no
 ]]></trans>
     <phonetic><![CDATA[['depjuti]]]></phonetic>
     <tags>GRE</tags>
@@ -10456,24 +10517,30 @@ adj. 副的；代理的
 </item><item>    <word>derelict</word>
     <trans><![CDATA[n. 遗弃物；玩忽职守者；被遗弃的人 
 adj. 玩忽职守的；无主的；被抛弃了的 
+  relinquish v.放弃
+  relic  n.遗物，遗迹
 ]]></trans>
     <phonetic><![CDATA[['derilikt]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>dereliction</word>
     <trans><![CDATA[n. 玩忽职守；抛弃物；遗弃 
+        relinquish v.放弃
+  relic  n.遗物，遗迹
 ]]></trans>
     <phonetic><![CDATA[[,deri'likʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>deride</word>
     <trans><![CDATA[vt. 嘲笑；嘲弄 
+        no
 ]]></trans>
     <phonetic><![CDATA[[di'raid]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>derivation</word>
     <trans><![CDATA[n. 引出；来历；词源 
+        derive  v.  得自; 起源
 ]]></trans>
     <phonetic><![CDATA[[,deri'veiʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -10481,12 +10548,15 @@ adj. 玩忽职守的；无主的；被抛弃了的
 </item><item>    <word>derivative</word>
     <trans><![CDATA[n. [化学] 衍生物，派生物 
 adj. 派生的；引出的 
+derive v.起源；衍生
+derivate  adj.引出的, 系出的
 ]]></trans>
     <phonetic><![CDATA[[di'rivətiv]]]></phonetic>
     <tags>GRE</tags>
     <progress>2</progress>
 </item><item>    <word>dermatologist</word>
     <trans><![CDATA[n. 皮肤科医生；皮肤学者 
+        dermato- 或 dermat-  皮肤
 ]]></trans>
     <phonetic><![CDATA[[,də:mə'tɔlədʒist]]]></phonetic>
     <tags>GRE</tags>
@@ -10494,6 +10564,8 @@ adj. 派生的；引出的
 </item><item>    <word>derogate</word>
     <trans><![CDATA[vi. 减损；贬损 
 vt. 毁损；贬低；诽谤 
+  rock 石头
+  rogue 流氓, 无赖
 ]]></trans>
     <phonetic><![CDATA[['derəuɡeit, -git, -geit]]]></phonetic>
     <tags>GRE</tags>
@@ -10514,12 +10586,16 @@ vt. 除去…的气味；使…失去香味
     <progress>4</progress>
 </item><item>    <word>descry</word>
     <trans><![CDATA[vt. 看见；发现；察看 
+          screen 屏幕
+        scre-词根：看
 ]]></trans>
     <phonetic><![CDATA[[di'skrai]]]></phonetic>
     <tags>GRE</tags>
     <progress>2</progress>
 </item><item>    <word>desecrate</word>
     <trans><![CDATA[vt. 亵渎；污辱；把（神物）供俗用 
+        sacred  神的, 宗教的
+    　secret 秘密；神秘的
 ]]></trans>
     <phonetic><![CDATA[['desikreit]]]></phonetic>
     <tags>GRE</tags>
@@ -10536,6 +10612,7 @@ vi. 遗弃；开小差；逃掉
 </item><item>    <word>desiccate</word>
     <trans><![CDATA[vt. 使干；干贮 
 vi. 变干 
+siccative  n.  干燥剂 adj.  干燥的
 ]]></trans>
     <phonetic><![CDATA[['desikeit]]]></phonetic>
     <tags>GRE</tags>
@@ -10561,6 +10638,7 @@ adj. 令人满意的；值得要的
     <progress>1</progress>
 </item><item>    <word>despicable</word>
     <trans><![CDATA[adj. 卑劣的；可鄙的 
+        de + scope
 ]]></trans>
     <phonetic><![CDATA[['despikəbl]]]></phonetic>
     <tags>GRE</tags>
@@ -10573,12 +10651,14 @@ adj. 令人满意的；值得要的
     <progress>3</progress>
 </item><item>    <word>despot</word>
     <trans><![CDATA[n. 专制君主，暴君；独裁者 
+         potent  adj.  有力的, 有效的
 ]]></trans>
     <phonetic><![CDATA[['despɔt]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>destitution</word>
     <trans><![CDATA[n. 穷困；缺乏 
+        destitute  adj.  困穷的; 缺乏的
 ]]></trans>
     <phonetic><![CDATA[[,desti'tju:ʃən]]]></phonetic>
     <tags>GRE</tags>
