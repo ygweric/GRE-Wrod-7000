@@ -7797,24 +7797,31 @@ vt. 使聚结；凝聚成团
     <trans><![CDATA[vi. 聚集 
 adj. 集合在一起的 
 vt. 聚集 
+gregarious  adj.  社交的, 群居的
 ]]></trans>
     <phonetic><![CDATA[['kɔŋɡri,ɡeit]]]></phonetic>
     <tags>GRE</tags>
     <progress>6</progress>
 </item><item>    <word>congruent</word>
     <trans><![CDATA[adj. 适合的，一致的；全等的；合谐的 
+        agree
 ]]></trans>
     <phonetic><![CDATA[['kɔŋɡruənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>congruous</word>
     <trans><![CDATA[adj. 一致的；适合的；协调的 
+        agree
 ]]></trans>
     <phonetic><![CDATA[['kɔŋɡruəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>2</progress>
 </item><item>    <word>conifer</word>
     <trans><![CDATA[n. 针叶树；[植] 松柏科植物 
+        cone n.  圆锥体, 球果
+    bear 熊；生产
+　　　fer-词根：生育  fertile能繁殖的；肥沃的
+cone fer
 ]]></trans>
     <phonetic><![CDATA[['kəunifə]]]></phonetic>
     <tags>GRE</tags>
@@ -7843,24 +7850,37 @@ vi. 结合；连结
 </item><item>    <word>conjure</word>
     <trans><![CDATA[vt. 想象；念咒召唤；用魔法变出 
 vi. 以念咒召唤神灵；施魔法，变魔术 
+“这”
+ jet 喷气飞机
+ ject-词根：投、射
+inject注射, 注入
+con ject ure 推测，臆测
+conjecture 推测，臆测
 ]]></trans>
     <phonetic><![CDATA[['kʌndʒə, 'kɔn-]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>connive</word>
     <trans><![CDATA[vi. 共谋；纵容；默许 
+           blink 眨眼
+   wink眨眼
 ]]></trans>
     <phonetic><![CDATA[[kə'naiv]]]></phonetic>
     <tags>GRE</tags>
     <progress>2</progress>
 </item><item>    <word>connoisseur</word>
     <trans><![CDATA[n. 鉴赏家；内行 
+           know
+   gnos-词根：知道   diagnose v.诊断
+   nois
 ]]></trans>
     <phonetic><![CDATA[[,kɔnə'sə:]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>connotation</word>
     <trans><![CDATA[n. 内涵；含蓄；暗示，隐含意义；储蓄的东西（词、语等） 
+        know
+　　　 not-词根：知道   notice  notify 
 ]]></trans>
     <phonetic><![CDATA[[,kɔnəu'teiʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -7874,18 +7894,23 @@ vi. 胜利；得胜
     <progress>6</progress>
 </item><item>    <word>conquest</word>
     <trans><![CDATA[n. 征服，战胜；战利品 
+        conquer  战胜
 ]]></trans>
     <phonetic><![CDATA[['kɔŋkwest]]]></phonetic>
     <tags>GRE</tags>
     <progress>5</progress>
 </item><item>    <word>conscience</word>
     <trans><![CDATA[n. 道德心，良心 
+         sci-词根：知道
+   science 科学；知识
 ]]></trans>
     <phonetic><![CDATA[['kɔnʃəns]]]></phonetic>
     <tags>GRE</tags>
     <progress>5</progress>
 </item><item>    <word>conscientious</word>
     <trans><![CDATA[adj. 认真的；尽责的；本着良心的；小心谨慎的 
+          sci-词根：知道
+   science 科学；知识
 ]]></trans>
     <phonetic><![CDATA[[,kɔnʃi'enʃəs]]]></phonetic>
     <tags>GRE</tags>
@@ -7894,12 +7919,15 @@ vi. 胜利；得胜
     <trans><![CDATA[n. 应征士兵 
 adj. 被征召的 
 vt. 征召 
+script  n.  手稿, 剧本, 手迹
 ]]></trans>
     <phonetic><![CDATA[[kən'skript]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>consensus</word>
     <trans><![CDATA[n. 一致；舆论；合意 
+        sense n.  感官; 感觉; 官能; 意识
+v.  感到, 认识, 理解
 ]]></trans>
     <phonetic><![CDATA[[kən'sensəs]]]></phonetic>
     <tags>GRE</tags>
@@ -7907,18 +7935,21 @@ vt. 征召
 </item><item>    <word>consent</word>
     <trans><![CDATA[n. 同意；（意见等的）一致；赞成 
 vi. 同意；赞成；答应 
+sense
 ]]></trans>
     <phonetic><![CDATA[[kən'sent]]]></phonetic>
     <tags>GRE</tags>
     <progress>3</progress>
 </item><item>    <word>consequence</word>
     <trans><![CDATA[n. 结果；重要性；推论 
+        sequel  n.  继续, 随之而来的事; 结局; 续集, 续篇; 余波
 ]]></trans>
     <phonetic><![CDATA[['kɔnsi,kwəns]]]></phonetic>
     <tags>GRE</tags>
     <progress>6</progress>
 </item><item>    <word>consequential</word>
     <trans><![CDATA[adj. 间接的；结果的；重要的；随之发生的；自傲的 
+        consequence n. 结果；重要性；推论 
 ]]></trans>
     <phonetic><![CDATA[[,kɔnsi'kwenʃəl]]]></phonetic>
     <tags>GRE</tags>
@@ -7926,6 +7957,9 @@ vi. 同意；赞成；答应
 </item><item>    <word>conservative</word>
     <trans><![CDATA[n. 保守派，守旧者 
 adj. 保守的 
+ save 保存          
+   serve-词根：保留   servant n.奴仆
+                     serve  服务
 ]]></trans>
     <phonetic><![CDATA[[kən'sə:vətiv]]]></phonetic>
     <tags>GRE</tags>
@@ -7933,6 +7967,7 @@ adj. 保守的
 </item><item>    <word>conservatory</word>
     <trans><![CDATA[n. 温室；音乐学校 
 adj. 有保存力的；保存性的 
+save 保存     serve-词根：保留
 ]]></trans>
     <phonetic><![CDATA[[kən'sə:və,tɔ:ri]]]></phonetic>
     <tags>GRE</tags>
@@ -7940,6 +7975,7 @@ adj. 有保存力的；保存性的
 </item><item>    <word>conserve</word>
     <trans><![CDATA[n. 果酱；蜜饯 
 vt. 保存；将…做成蜜饯；使守恒 
+save 保存     serve-词根：保留
 ]]></trans>
     <phonetic><![CDATA[[kən'sə:v, 'kɔnsə:v]]]></phonetic>
     <tags>GRE</tags>
@@ -7952,6 +7988,7 @@ vt. 保存；将…做成蜜饯；使守恒
     <progress>6</progress>
 </item><item>    <word>consign</word>
     <trans><![CDATA[vt. 交付；托运；寄存；把…委托给 
+        assign  v.  分派, 分配; 让渡; 选派, 指定, 派定; 把...归于
 ]]></trans>
     <phonetic><![CDATA[[kən'sain]]]></phonetic>
     <tags>GRE</tags>
@@ -7965,6 +8002,7 @@ vt. 保存；将…做成蜜饯；使守恒
 </item><item>    <word>console</word>
     <trans><![CDATA[n. [计] 控制台；[电] 操纵台 
 vt. 安慰；慰藉 
+soul 灵魂
 ]]></trans>
     <phonetic><![CDATA[[kən'səul]]]></phonetic>
     <tags>GRE</tags>
@@ -7972,6 +8010,7 @@ vt. 安慰；慰藉
 </item><item>    <word>consolidate</word>
     <trans><![CDATA[vt. 巩固，使固定；联合 
 vi. 巩固，加强 
+solid
 ]]></trans>
     <phonetic><![CDATA[[kən'sɔlideit]]]></phonetic>
     <tags>GRE</tags>
@@ -7985,12 +8024,15 @@ vi. 巩固，加强
 </item><item>    <word>consonant</word>
     <trans><![CDATA[n. 辅音；辅音字母 
 adj. 辅音的；一致的；和谐的 
+sonata  n.  奏鸣曲
+ com-  + "to sound" (see sonata)
 ]]></trans>
     <phonetic><![CDATA[['kɔnsənənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>conspicuous</word>
     <trans><![CDATA[adj. 显著的；显而易见的 
+        scope  n.  范围, 广度, 机会
 ]]></trans>
     <phonetic><![CDATA[[kən'spikjuəs]]]></phonetic>
     <tags>GRE</tags>
@@ -7998,6 +8040,8 @@ adj. 辅音的；一致的；和谐的
 </item><item>    <word>conspire</word>
     <trans><![CDATA[vi. 共谋；协力 
 vt. [法] 密谋策划 
+pore 气孔，毛孔，小孔
+   spire-词根：呼吸
 ]]></trans>
     <phonetic><![CDATA[[kən'spaiɔ]]]></phonetic>
     <tags>GRE</tags>
@@ -8011,12 +8055,17 @@ adj. 不变的；恒定的；经常的
     <progress>5</progress>
 </item><item>    <word>constellation</word>
     <trans><![CDATA[n. [天] 星座；星群；荟萃；兴奋丛 
+        star stell-
 ]]></trans>
     <phonetic><![CDATA[[,kɔnstə'leiʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>6</progress>
 </item><item>    <word>consternation</word>
     <trans><![CDATA[n. 惊愕；惊惶失措；恐怖 
+          expensive 
+  expend 花费
+   spend
+　extend
 ]]></trans>
     <phonetic><![CDATA[[,kɔnstə'neiʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -8068,6 +8117,8 @@ adj. 宪法的；本质的；体质上的；保健的
 </item><item>    <word>construct</word>
     <trans><![CDATA[n. 构想，概念 
 vt. 建造，构造；创立 
+destruct 毁坏
+destroy 毁坏
 ]]></trans>
     <phonetic><![CDATA[[kən'strʌkt]]]></phonetic>
     <tags>GRE</tags>
@@ -8075,12 +8126,15 @@ vt. 建造，构造；创立
 </item><item>    <word>construe</word>
     <trans><![CDATA[vt. 分析；解释；翻译 
 vi. 作文法性的分析 
+construct  建造, 构造
 ]]></trans>
     <phonetic><![CDATA[[kən'stru:, 'kɔnstru:]]]></phonetic>
     <tags>GRE</tags>
     <progress>2</progress>
 </item><item>    <word>consul</word>
     <trans><![CDATA[n. 领事；（古罗马的）两执政官之一 
+        reconcile  v.和解
+council  会议；理事会，委员会
 ]]></trans>
     <phonetic><![CDATA[['kɔnsəl]]]></phonetic>
     <tags>GRE</tags>
@@ -8088,6 +8142,9 @@ vi. 作文法性的分析
 </item><item>    <word>consummate</word>
     <trans><![CDATA[adj. 至上的；完美的；圆满的 
 vt. 完成；作成；使达到极点 
+   sume-词根：抓、摘
+   summary 摘要
+   sum 总和
 ]]></trans>
     <phonetic><![CDATA[['kɔnsə,meit]]]></phonetic>
     <tags>GRE</tags>
@@ -8122,6 +8179,8 @@ vt. 包含；控制；容纳；牵制（敌军）
 </item><item>    <word>contaminate</word>
     <trans><![CDATA[vt. 污染，弄脏 
 n. 受到污染的 
+tangent  n.  切线, 正切
+adj.  接触的, 相切的, 切线的
 ]]></trans>
     <phonetic><![CDATA[[kən'tæmi,neit]]]></phonetic>
     <tags>GRE</tags>
@@ -8129,18 +8188,23 @@ n. 受到污染的
 </item><item>    <word>contemplate</word>
     <trans><![CDATA[vt. 沉思；注视；思忖；预期 
 vi. 冥思苦想；深思熟虑 
+temple 寺庙；太阳穴
 ]]></trans>
     <phonetic><![CDATA[['kɔntəm,pleit]]]></phonetic>
     <tags>GRE</tags>
     <progress>3</progress>
 </item><item>    <word>contempt</word>
-    <trans><![CDATA[n. 轻视，蔑视；耻辱 
+    <trans><![CDATA[n. 轻视，蔑视；耻辱
+       damn v.谴责
+condemn v.谴责
+contemn v.蔑视 
 ]]></trans>
     <phonetic><![CDATA[[kən'tempt]]]></phonetic>
     <tags>GRE</tags>
     <progress>5</progress>
 </item><item>    <word>contemptible</word>
     <trans><![CDATA[adj. 可鄙的；卑劣的；可轻视的 
+        contempt n. 轻视，蔑视；耻辱
 ]]></trans>
     <phonetic><![CDATA[[kən'temptəbl]]]></phonetic>
     <tags>GRE</tags>
@@ -8154,6 +8218,7 @@ vi. 冥思苦想；深思熟虑
 </item><item>    <word>contend</word>
     <trans><![CDATA[vi. 竞争；奋斗；斗争；争论 
 vt. 主张；为...斗争 
+to+end=tend-词根：伸
 ]]></trans>
     <phonetic><![CDATA[[kən'tend]]]></phonetic>
     <tags>GRE</tags>
@@ -8175,6 +8240,7 @@ adj. 满足的；心安的
     <progress>6</progress>
 </item><item>    <word>contention</word>
     <trans><![CDATA[n. 争论，争辩；争夺；论点 
+        contend v.竞争；争论
 ]]></trans>
     <phonetic><![CDATA[[kən'tenʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -8201,6 +8267,7 @@ vi. 竞争；争辩
     <progress>6</progress>
 </item><item>    <word>contiguous</word>
     <trans><![CDATA[adj. 连续的；邻近的；接触的 
+        contact  n.  接触; 联系
 ]]></trans>
     <phonetic><![CDATA[[kən'tiɡjuəs]]]></phonetic>
     <tags>GRE</tags>
@@ -8208,6 +8275,7 @@ vi. 竞争；争辩
 </item><item>    <word>continent</word>
     <trans><![CDATA[n. 大陆，洲，陆地 
 adj. 自制的，克制的 
+hold together" (see contain)
 ]]></trans>
     <phonetic><![CDATA[['kɔntinənt]]]></phonetic>
     <tags>GRE</tags>
@@ -8215,6 +8283,7 @@ adj. 自制的，克制的
 </item><item>    <word>contingent</word>
     <trans><![CDATA[n. 分遣队；偶然事件；分得部分 
 adj. 因情况而异的；不一定的；偶然发生的 
+happening, touching, to touch" (see contact)
 ]]></trans>
     <phonetic><![CDATA[[kən'tindʒənt]]]></phonetic>
     <tags>GRE</tags>
