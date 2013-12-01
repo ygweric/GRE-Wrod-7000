@@ -9594,12 +9594,14 @@ vi. 潮湿；丧气
 </item><item>    <word>dandy</word>
     <trans><![CDATA[n. 花花公子；好打扮的人 
 adj. 上等的，极好的（口语）；服装华丽的 
+no
 ]]></trans>
     <phonetic><![CDATA[['dændi]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>dapper</word>
     <trans><![CDATA[adj. 短小精悍的；衣冠楚楚的；整洁的；整齐的 
+        no
 ]]></trans>
     <phonetic><![CDATA[['dæpə]]]></phonetic>
     <tags>GRE</tags>
@@ -9607,6 +9609,7 @@ adj. 上等的，极好的（口语）；服装华丽的
 </item><item>    <word>dappled</word>
     <trans><![CDATA[adj. 斑纹的；有斑点的；花的 
 v. 起斑纹（dapple的过去式和过去分词） 
+no
 ]]></trans>
     <phonetic><![CDATA[['dæpld]]]></phonetic>
     <tags>GRE</tags>
@@ -9614,6 +9617,9 @@ v. 起斑纹（dapple的过去式和过去分词）
 </item><item>    <word>daredevil</word>
     <trans><![CDATA[n. 铤而走险的人，蛮勇的人 
 adj. 蛮勇的，不怕死的 
+dare + devil
+devil  n.  魔王; 魔鬼, 恶魔; 撒旦; 恶棍
+v.  折磨, 困扰
 ]]></trans>
     <phonetic><![CDATA[['dεə,devəl]]]></phonetic>
     <tags>GRE</tags>
@@ -9622,12 +9628,14 @@ adj. 蛮勇的，不怕死的
     <trans><![CDATA[n. 镖；飞镖；标枪；猛冲 
 vi. 突进；投掷；猛冲 
 vt. 投掷；投射 
+(as) '打他'
 ]]></trans>
     <phonetic><![CDATA[[dɑ:t]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>daunt</word>
     <trans><![CDATA[vt. 使气馁，使畏缩；威吓 
+        doubt  怀疑，拿不准
 ]]></trans>
     <phonetic><![CDATA[[dɔ:nt]]]></phonetic>
     <tags>GRE</tags>
@@ -9635,6 +9643,7 @@ vt. 投掷；投射
 </item><item>    <word>dawdle</word>
     <trans><![CDATA[vt. 混日子；游手好闲；浪费时间 
 vi. 混日子；游手好闲；偷懒 
+daw  寒鸦
 ]]></trans>
     <phonetic><![CDATA[['dɔ:dl]]]></phonetic>
     <tags>GRE</tags>
@@ -9642,6 +9651,7 @@ vi. 混日子；游手好闲；偷懒
 </item><item>    <word>deaden</word>
     <trans><![CDATA[vt. 使减弱；使麻木；隔阻 
 vi. 变得如死一般；失去活力 
+dead
 ]]></trans>
     <phonetic><![CDATA[['dedən]]]></phonetic>
     <tags>GRE</tags>
@@ -9676,6 +9686,7 @@ vt. 面无表情地表达（或表演、行动）
     <progress>2</progress>
 </item><item>    <word>debacle</word>
     <trans><![CDATA[n. 崩溃；灾害；解冻 
+        no
 ]]></trans>
     <phonetic><![CDATA[[dei'bɑ:kl]]]></phonetic>
     <tags>GRE</tags>
@@ -9683,12 +9694,15 @@ vt. 面无表情地表达（或表演、行动）
 </item><item>    <word>debark</word>
     <trans><![CDATA[vt. 使下船；使登陆；卸 
 vi. 登陆 
+bark  n.  吠声;  轻舟, 小帆船
+v.  吠, 叫骂; 厉声说出; 高声叫卖; 剥去的皮; 用树皮覆盖; 擦破的皮
 ]]></trans>
     <phonetic><![CDATA[[di'bɑ:k]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>debase</word>
     <trans><![CDATA[vt. 降低；使…贬值；掺杂 
+        base
 ]]></trans>
     <phonetic><![CDATA[[di'beis]]]></phonetic>
     <tags>GRE</tags>
@@ -9703,6 +9717,8 @@ vi. 辩论，争论，讨论
     <progress>1</progress>
 </item><item>    <word>debilitate</word>
     <trans><![CDATA[vt. 使衰弱；使虚弱 
+         ability  能力
+    debility n.衰弱, 无活力
 ]]></trans>
     <phonetic><![CDATA[[di'biliteit]]]></phonetic>
     <tags>GRE</tags>
@@ -9710,24 +9726,28 @@ vi. 辩论，争论，讨论
 </item><item>    <word>debouch</word>
     <trans><![CDATA[vt. 使出来；使流注 
 vi. （河川向广阔处）流出；进出于（广阔地方） 
+no
 ]]></trans>
     <phonetic><![CDATA[[di'bautʃ]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>debrief</word>
     <trans><![CDATA[vt. 盘问；听取报告 
+        brief
 ]]></trans>
     <phonetic><![CDATA[[di:'bri:f]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>debris</word>
     <trans><![CDATA[n. 碎片，残骸 
+        de- + break
 ]]></trans>
     <phonetic><![CDATA[['deibri:]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>debunk</word>
     <trans><![CDATA[vt. 揭穿；拆穿…的假面具；暴露 
+        bunk n. 假话; 架式床铺, v.  在临时的处所睡觉; 睡在架式床铺上; 为...提供睡觉处
 ]]></trans>
     <phonetic><![CDATA[[di:'bʌŋk]]]></phonetic>
     <tags>GRE</tags>
@@ -9735,6 +9755,7 @@ vi. （河川向广阔处）流出；进出于（广阔地方）
 </item><item>    <word>debut</word>
     <trans><![CDATA[n. 初次登台；开张 
 vi. 初次登台 
+no
 ]]></trans>
     <phonetic><![CDATA[['deibju:]]]></phonetic>
     <tags>GRE</tags>
@@ -9747,6 +9768,7 @@ vi. 初次登台
     <progress>4</progress>
 </item><item>    <word>deceit</word>
     <trans><![CDATA[n. 欺骗；谎言；欺诈手段 
+        deceive v.  欺骗, 蒙蔽; 哄骗做; 欺诈, 行骗
 ]]></trans>
     <phonetic><![CDATA[[di'si:t]]]></phonetic>
     <tags>GRE</tags>
@@ -9765,12 +9787,15 @@ vi. 初次登台
     <progress>4</progress>
 </item><item>    <word>decibel</word>
     <trans><![CDATA[n. 分贝 
+        deci- 十分之一(10-1)： 
+bel贝尔：10个分贝
 ]]></trans>
     <phonetic><![CDATA[['desibel]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>deciduous</word>
     <trans><![CDATA[adj. 落叶性的，脱落性的；非永久性的 
+        de + case
 ]]></trans>
     <phonetic><![CDATA[[di'sidjuəs]]]></phonetic>
     <tags>GRE</tags>
@@ -9838,36 +9863,43 @@ vi. 装饰；布置
     <progress>4</progress>
 </item><item>    <word>decorum</word>
     <trans><![CDATA[n. 礼仪；礼貌；端正；恪守礼仪 
+        decent a.达到了可接受的标准
 ]]></trans>
     <phonetic><![CDATA[[di'kɔ:rəm]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>decrepit</word>
     <trans><![CDATA[adj. 衰老的；破旧的 
+        no
 ]]></trans>
     <phonetic><![CDATA[[di'krepit]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>decry</word>
     <trans><![CDATA[vt. 责难，谴责；诽谤 
+        cry
 ]]></trans>
     <phonetic><![CDATA[[di'krai]]]></phonetic>
     <tags>GRE</tags>
     <progress>3</progress>
 </item><item>    <word>dedication</word>
     <trans><![CDATA[n. 奉献；献身 
+        dedicate  v.  献; 题献; 致力
+diction  n.  措词, 用语; 发音法; 发音
 ]]></trans>
     <phonetic><![CDATA[[,dedi'keiʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>deduce</word>
     <trans><![CDATA[vt. 推论，推断；演绎出 
+        duke  n.  公爵; 手; 拳头
 ]]></trans>
     <phonetic><![CDATA[[di'dju:s]]]></phonetic>
     <tags>GRE</tags>
     <progress>4</progress>
 </item><item>    <word>deduct</word>
     <trans><![CDATA[vt. 扣除，减去；演绎 
+        deduce
 ]]></trans>
     <phonetic><![CDATA[[di'dʌkt]]]></phonetic>
     <tags>GRE</tags>
@@ -9902,6 +9934,8 @@ vi. 拖欠；不履行；不到场
 </item><item>    <word>defeatist</word>
     <trans><![CDATA[n. 失败主义者 
 adj. 失败主义（者）的 
+defeat  n.  败北, 失败
+v.  击败; 使失败; 战胜
 ]]></trans>
     <phonetic><![CDATA[[di'fi:tist]]]></phonetic>
     <tags>GRE</tags>
@@ -9909,6 +9943,7 @@ adj. 失败主义（者）的
 </item><item>    <word>defect</word>
     <trans><![CDATA[n. 缺点，缺陷；不足之处 
 vi. 变节；叛变 
+fect-词根：做
 ]]></trans>
     <phonetic><![CDATA[['di:fekt, di'f-, di'fekt]]]></phonetic>
     <tags>GRE</tags>
@@ -9930,12 +9965,15 @@ vt. 谋划抵御
 </item><item>    <word>defer</word>
     <trans><![CDATA[vt. 使推迟；使延期 
 vi. 推迟；延期；服从 
+  bear 熊；生育；带给
+  fer-词根：带
 ]]></trans>
     <phonetic><![CDATA[[di'fə:]]]></phonetic>
     <tags>GRE</tags>
     <progress>2</progress>
 </item><item>    <word>deference</word>
     <trans><![CDATA[n. 顺从 
+        defer  v.  推迟, 使展期; 使缓期服役; 推迟, 延期; 听从, 顺从; 把...委托给
 ]]></trans>
     <phonetic><![CDATA[['defərəns]]]></phonetic>
     <tags>GRE</tags>
