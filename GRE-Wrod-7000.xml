@@ -10665,6 +10665,7 @@ adj. 令人满意的；值得要的
     <progress>1</progress>
 </item><item>    <word>desultory</word>
     <trans><![CDATA[adj. 断断续续的；散漫的；不连贯的，无条理的 
+        sult-词根：跳 result n.结果
 ]]></trans>
     <phonetic><![CDATA[['desəltəri]]]></phonetic>
     <tags>GRE</tags>
@@ -10696,12 +10697,14 @@ adj. 分离的，分开的；超然的
     <progress>2</progress>
 </item><item>    <word>deter</word>
     <trans><![CDATA[vt. 制止，阻止；使打消念头 
+        terror恐怖
 ]]></trans>
     <phonetic><![CDATA[[di'tə:]]]></phonetic>
     <tags>GRE</tags>
     <progress>5</progress>
 </item><item>    <word>detergent</word>
     <trans><![CDATA[n. 清洁剂；去垢剂 
+    (as)洗洁剂 terror 细菌
 ]]></trans>
     <phonetic><![CDATA[[di'tə:dʒənt]]]></phonetic>
     <tags>GRE</tags>
@@ -10715,12 +10718,15 @@ vt. 恶化
     <progress>1</progress>
 </item><item>    <word>detest</word>
     <trans><![CDATA[vt. 厌恶；憎恨 
+        (as)对test憎恨
 ]]></trans>
     <phonetic><![CDATA[[di'test]]]></phonetic>
     <tags>GRE</tags>
     <progress>2</progress>
 </item><item>    <word>detonation</word>
     <trans><![CDATA[n. 爆炸；爆炸声；爆发 
+        thunder  n.  雷, 轰隆声, 雷声
+v.  打雷, 怒喝, 轰隆地响; 轰隆地发出; 厉声发出吼出; 砰然重击
 ]]></trans>
     <phonetic><![CDATA[[,detə'neiʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -10729,12 +10735,15 @@ vt. 恶化
     <trans><![CDATA[n. 绕道；便道 
 vt. 使…绕道而行 
 vi. 绕道；迂回 
+tour 旅行, 游历, 巡回
 ]]></trans>
     <phonetic><![CDATA[['di:,tuə, di'tuə]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>detraction</word>
     <trans><![CDATA[n. 诽谤；减损 
+         "to pull" (see tract)
+        tract  n.  道#广阔的地面; 地方; 土地#短文; 小册子; 传单
 ]]></trans>
     <phonetic><![CDATA[[di'trækʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -10742,18 +10751,22 @@ vi. 绕道；迂回
 </item><item>    <word>detrimental</word>
     <trans><![CDATA[n. 有害的人（或物）；不受欢迎的求婚者 
 adj. 不利的；有害的 
+detriment  n.  伤害; 危害; 损害
+throw  n.  投掷
 ]]></trans>
     <phonetic><![CDATA[[,detri'mentəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>detritus</word>
     <trans><![CDATA[n. 碎石，[地质] 岩屑 
+        no
 ]]></trans>
     <phonetic><![CDATA[[di'traitəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>devastate</word>
     <trans><![CDATA[vt. 毁灭；毁坏 
+         waste  浪费
 ]]></trans>
     <phonetic><![CDATA[['devəsteit]]]></phonetic>
     <tags>GRE</tags>
@@ -10761,6 +10774,7 @@ adj. 不利的；有害的
 </item><item>    <word>deviant</word>
     <trans><![CDATA[n. 不正常者；偏移值；变异物 
 adj. 不正常的；离经叛道的 
+de+way+ate= deviate 脱离，背离；越轨
 ]]></trans>
     <phonetic><![CDATA[['di:viənt]]]></phonetic>
     <tags>GRE</tags>
@@ -10768,18 +10782,21 @@ adj. 不正常的；离经叛道的
 </item><item>    <word>deviate</word>
     <trans><![CDATA[vi. 脱离；越轨 
 vt. 使偏离 
+de+way+ate= deviate 脱离，背离；越轨
 ]]></trans>
     <phonetic><![CDATA[['di:vieit, 'di:viət]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>deviation</word>
     <trans><![CDATA[n. 偏差；误差；背离 
+        de+way+ate= deviate 脱离，背离；越轨
 ]]></trans>
     <phonetic><![CDATA[[,di:vi'eiʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>devious</word>
     <trans><![CDATA[adj. 偏僻的；弯曲的；不光明正大的 
+        de+way+ate= deviate 脱离，背离；越轨
 ]]></trans>
     <phonetic><![CDATA[['di:viəs]]]></phonetic>
     <tags>GRE</tags>
@@ -10793,6 +10810,7 @@ vt. 设计；想出；发明；图谋；遗赠给
     <progress>3</progress>
 </item><item>    <word>devoid</word>
     <trans><![CDATA[adj. 缺乏的；全无的 
+        void
 ]]></trans>
     <phonetic><![CDATA[[di'vɔid]]]></phonetic>
     <tags>GRE</tags>
@@ -10812,12 +10830,14 @@ adj. 献身的；忠诚的
     <progress>3</progress>
 </item><item>    <word>devotional</word>
     <trans><![CDATA[adj. 虔诚的，祷告的；信仰的；献身的 
+        devotion  n.  热爱; 投入
 ]]></trans>
     <phonetic><![CDATA[[di'vəuʃənəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>devour</word>
     <trans><![CDATA[vt. 吞食；毁灭；凝视 
+        wolf
 ]]></trans>
     <phonetic><![CDATA[[di'vauə]]]></phonetic>
     <tags>GRE</tags>
@@ -10830,6 +10850,7 @@ adj. 献身的；忠诚的
     <progress>1</progress>
 </item><item>    <word>dexterity</word>
     <trans><![CDATA[n. 灵巧；敏捷；机敏 
+        no
 ]]></trans>
     <phonetic><![CDATA[[dek'sterəti]]]></phonetic>
     <tags>GRE</tags>
@@ -10842,19 +10863,23 @@ adj. 献身的；忠诚的
     <progress>1</progress>
 </item><item>    <word>diabetes</word>
     <trans><![CDATA[n. 糖尿病；多尿症 
+        no
 ]]></trans>
     <phonetic><![CDATA[[,daiə'bi:ti:z]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>diabolical</word>
     <trans><![CDATA[adj. 恶魔的 
+        diabolic  adj.  魔鬼似的; 残忍的
+        devil
 ]]></trans>
     <phonetic><![CDATA[['daiə'bɔlik / -kəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>diagnose</word>
     <trans><![CDATA[vt. 诊断；断定 
-vi. 诊断；判断 
+vi. 诊断；判断                  
+dia-前缀：对穿    gnos-词根：知道 know
 ]]></trans>
     <phonetic><![CDATA[['daiəɡnəuz, ,daiəɡ'nəuz]]]></phonetic>
     <tags>GRE</tags>
@@ -10862,6 +10887,8 @@ vi. 诊断；判断
 </item><item>    <word>diagonal</word>
     <trans><![CDATA[n. 对角线；斜线 
 adj. 斜的；对角线的；斜纹的 
+ angle 角
+     agon-词根：角
 ]]></trans>
     <phonetic><![CDATA[[dai'æɡənəl]]]></phonetic>
     <tags>GRE</tags>
@@ -10876,24 +10903,29 @@ vt. 用图解法表示
 </item><item>    <word>dialect</word>
     <trans><![CDATA[n. 方言，土话；同源语；行话；个人用语特征 
 adj. 方言的 
+dia- "across, between" (see dia-) + legein "speak" (see lecture ).
 ]]></trans>
     <phonetic><![CDATA[['daiəlekt]]]></phonetic>
     <tags>GRE</tags>
     <progress>3</progress>
 </item><item>    <word>diameter</word>
     <trans><![CDATA[n. 直径 
+        meter
 ]]></trans>
     <phonetic><![CDATA[[dai'æmitə]]]></phonetic>
     <tags>GRE</tags>
     <progress>3</progress>
 </item><item>    <word>diaphanous</word>
     <trans><![CDATA[adj. 透明的；精致的；模糊的 
+        phantasm  n.  幻像, 幽灵, 幻影
 ]]></trans>
     <phonetic><![CDATA[[dai'æfənəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>diatribe</word>
     <trans><![CDATA[n. 诽谤；恶骂 
+        tribe  n.  部落, 部族
+        (as)部落相互攻击谩骂
 ]]></trans>
     <phonetic><![CDATA[['daiətraib]]]></phonetic>
     <tags>GRE</tags>
@@ -10916,6 +10948,7 @@ vi. 口述；听写
     <trans><![CDATA[n. 冲模，钢模；骰子 
 vi. 死亡；凋零；熄灭 
 vt. 死，死于… 
+(as)钢印是死的
 ]]></trans>
     <phonetic><![CDATA[[dai]]]></phonetic>
     <tags>GRE</tags>
@@ -10968,6 +11001,8 @@ vi. 传播；四散
 </item><item>    <word>dilapidate</word>
     <trans><![CDATA[vt. 荒废；毁坏 
 vi. 毁坏；荒废；浪费 
+lapis  石头; 宝石
+dilapidate   使损毁 ；(使)荒废,  浪费
 ]]></trans>
     <phonetic><![CDATA[[di'læpideit]]]></phonetic>
     <tags>GRE</tags>
@@ -10988,12 +11023,15 @@ vi. 扩大；膨胀；详述
     <progress>2</progress>
 </item><item>    <word>dilatory</word>
     <trans><![CDATA[adj. 拖拉的；缓慢的，不慌不忙的 
+             last 持续
+di-   lat-词根：拉扯
 ]]></trans>
     <phonetic><![CDATA[['dilətəri]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>dilemma</word>
     <trans><![CDATA[n. 困境；进退两难；两刀论法 
+        no
 ]]></trans>
     <phonetic><![CDATA[[di'lemə, ,dai-]]]></phonetic>
     <tags>GRE</tags>
@@ -11002,6 +11040,8 @@ vi. 扩大；膨胀；详述
     <trans><![CDATA[n. 业余爱好者；一知半解者 
 adj. 浅薄的；业余艺术爱好的 
 vi. （在艺术、科学等方面）浅尝辄止 
+delight 高兴，欢喜；喜欢
+(as)业余的就图个高兴
 ]]></trans>
     <phonetic><![CDATA[[,dili'tænti, 'dilitɑ:nt]]]></phonetic>
     <tags>GRE</tags>
@@ -11032,13 +11072,15 @@ vi. 变模糊，变暗淡
 </item><item>    <word>dimension</word>
     <trans><![CDATA[n. [数] 维；尺寸；次元；容积 
 adj. 规格的 
-vt. 标出尺寸 
+vt. 标出尺寸
+measure 
 ]]></trans>
     <phonetic><![CDATA[[di'menʃən, dai-]]]></phonetic>
     <tags>GRE</tags>
     <progress>3</progress>
 </item><item>    <word>diminution</word>
     <trans><![CDATA[n. 减少，降低；缩小 
+        min
 ]]></trans>
     <phonetic><![CDATA[[,dimi'nju:ʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -11047,6 +11089,7 @@ vt. 标出尺寸
     <trans><![CDATA[n. 酒窝；涟漪；浅凹 
 vt. 使起涟漪；使现酒窝 
 vi. 出现酒窝；起涟漪 
+no
 ]]></trans>
     <phonetic><![CDATA[[dimpl]]]></phonetic>
     <tags>GRE</tags>
@@ -11054,37 +11097,44 @@ vi. 出现酒窝；起涟漪
 </item><item>    <word>din</word>
     <trans><![CDATA[n. 喧嚣 
 vt. 喧闹，絮絮不休地说 
-vi. 喧闹，絮絮不休地说 
+no
 ]]></trans>
     <phonetic><![CDATA[[din]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>dingy</word>
     <trans><![CDATA[adj. 昏暗的；肮脏的 
+        dung n.  粪
 ]]></trans>
     <phonetic><![CDATA[[dindʒi]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>diplomatic</word>
     <trans><![CDATA[adj. 外交的；外交上的；老练的 
+        double+paper
+diploma  文凭, 毕业证书；(通关文牒)
+diplomat外交官; 有外交手腕的人
 ]]></trans>
     <phonetic><![CDATA[[,diplə'mætik]]]></phonetic>
     <tags>GRE</tags>
     <progress>2</progress>
 </item><item>    <word>dire</word>
     <trans><![CDATA[adj. 可怕的；悲惨的；极端的 
+        dare 反义同源
 ]]></trans>
     <phonetic><![CDATA[['daiə]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>dirge</word>
     <trans><![CDATA[n. 挽歌；哀悼歌 
+        no
 ]]></trans>
     <phonetic><![CDATA[[də:dʒ]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>disabuse</word>
     <trans><![CDATA[vt. 使省悟；解迷惑；释疑；矫正 
+        abuse 滥用, 虐待
 ]]></trans>
     <phonetic><![CDATA[[,disə'bju:z]]]></phonetic>
     <tags>GRE</tags>
@@ -11123,12 +11173,14 @@ vt. 使混乱；弄乱；使脱去衣服
     <progress>3</progress>
 </item><item>    <word>disbar</word>
     <trans><![CDATA[vt. 剥夺律师资格 
+        dis + bar
 ]]></trans>
     <phonetic><![CDATA[[dis'bɑ:]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>disburse</word>
     <trans><![CDATA[vt. 支付；支出 
+        dis + burse
 ]]></trans>
     <phonetic><![CDATA[[dis'bə:s]]]></phonetic>
     <tags>GRE</tags>
@@ -11144,12 +11196,16 @@ vi. 放弃
 </item><item>    <word>discern</word>
     <trans><![CDATA[vt. 识别；领悟，认识 
 vi. 看清楚，辨别 
+ carve 砍
+ cern-词根：分开
 ]]></trans>
     <phonetic><![CDATA[[di'sə:n, -'zə:n]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>discernible</word>
     <trans><![CDATA[adj. 可辨别的；可识别的 
+         carve 砍
+        cern-词根：分开
 ]]></trans>
     <phonetic><![CDATA[[di'sə:nəbl, -'zə:-]]]></phonetic>
     <tags>GRE</tags>
@@ -11197,6 +11253,8 @@ vi. 否认；放弃；弃权
     <progress>2</progress>
 </item><item>    <word>discography</word>
     <trans><![CDATA[n. 音乐唱片分类目录；音乐唱片分类学；录音作品目录 
+        disc  n.  圆盘; 唱片
+        disk
 ]]></trans>
     <phonetic><![CDATA[[dis'kɔɡrəfi]]]></phonetic>
     <tags>GRE</tags>
