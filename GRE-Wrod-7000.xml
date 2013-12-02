@@ -11261,18 +11261,21 @@ vi. 否认；放弃；弃权
     <progress>1</progress>
 </item><item>    <word>discombobulate</word>
     <trans><![CDATA[vt. 使混乱；使泄气；使困惑 
+        no
 ]]></trans>
     <phonetic><![CDATA[[diskəm'bɔbjuleit]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>discombobulated</word>
     <trans><![CDATA[vt. 使混乱；使泄气；使困惑 
+        no
 ]]></trans>
     <phonetic><![CDATA[[diskəm'bɔbjuleit]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>discomfit</word>
     <trans><![CDATA[vt. 挫败；扰乱，破坏；使…为难；使…破灭 
+        same with discomfort
 ]]></trans>
     <phonetic><![CDATA[[dis'kʌmfit]]]></phonetic>
     <tags>GRE</tags>
@@ -11285,6 +11288,7 @@ vi. 否认；放弃；弃权
     <progress>2</progress>
 </item><item>    <word>disconcert</word>
     <trans><![CDATA[vt. 使仓皇失措；使困惑；破坏 
+         dis- + concerter (see concert)
 ]]></trans>
     <phonetic><![CDATA[[,diskən'sə:t]]]></phonetic>
     <tags>GRE</tags>
@@ -11292,6 +11296,7 @@ vi. 否认；放弃；弃权
 </item><item>    <word>discord</word>
     <trans><![CDATA[n. 不和；不调和；嘈杂声 
 vi. 不一致；刺耳 
+dis- +  "heart" (see heart)
 ]]></trans>
     <phonetic><![CDATA[['diskɔ:d, dis'kɔ:d]]]></phonetic>
     <tags>GRE</tags>
@@ -11321,12 +11326,18 @@ vt. 不信；使……丢脸
     <progress>1</progress>
 </item><item>    <word>discreet</word>
     <trans><![CDATA[adj. 谨慎的；小心的 
+        discern  v.  分辨, 识别; 认识, 领悟; 看出, 察觉到; 辨明, 分清
+        see
 ]]></trans>
     <phonetic><![CDATA[[dis'kri:t]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>discrepancy</word>
     <trans><![CDATA[n. 不符；矛盾；相差 
+          discern v.区分，辨别
+          discr-词根：分开
+          retro-
+          return
 ]]></trans>
     <phonetic><![CDATA[[dis'krepənsi]]]></phonetic>
     <tags>GRE</tags>
@@ -11334,12 +11345,17 @@ vt. 不信；使……丢脸
 </item><item>    <word>discrete</word>
     <trans><![CDATA[n. 分立元件；独立部件 
 adj. 离散的，不连续的 
+  discern v.区分，辨别
+  discr-词根：分开
+  retro-
+  return
 ]]></trans>
     <phonetic><![CDATA[[dis'kri:t]]]></phonetic>
     <tags>GRE</tags>
     <progress>2</progress>
 </item><item>    <word>discretion</word>
     <trans><![CDATA[n. 自由裁量权；谨慎；判断力；判定；考虑周到 
+        discrete 分离的，个别的；不连续的
 ]]></trans>
     <phonetic><![CDATA[[dis'kreʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -11365,6 +11381,8 @@ vt. 歧视；区别；辨别
     <progress>2</progress>
 </item><item>    <word>discursive</word>
     <trans><![CDATA[adj. 散漫的；离题的；东拉西扯的；无层次的 
+            precursor   先驱    excursion n.远足；离题
+        dis  curs-词根：跑  
 ]]></trans>
     <phonetic><![CDATA[[dis'kə:siv]]]></phonetic>
     <tags>GRE</tags>
@@ -11372,18 +11390,22 @@ vt. 歧视；区别；辨别
 </item><item>    <word>disdain</word>
     <trans><![CDATA[n. 蔑视 
 vt. 鄙弃 
+dis+tain= disdain  不屑于拿
 ]]></trans>
     <phonetic><![CDATA[[dis'dein]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>disembodied</word>
     <trans><![CDATA[adj. 空洞的；无实质的；无实体的 
+        dis- "not" + embody
+        embody v.  具体表达; 包含; 使具体化
 ]]></trans>
     <phonetic><![CDATA[[,disim'bɔdid]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>disenchant</word>
     <trans><![CDATA[vt. 使清醒；使不抱幻想 
+        enchant  v.  施魔法; 使迷惑
 ]]></trans>
     <phonetic><![CDATA[[,disin'tʃɑ:nt, -'tʃænt]]]></phonetic>
     <tags>GRE</tags>
@@ -11391,6 +11413,7 @@ vt. 鄙弃
 </item><item>    <word>disengage</word>
     <trans><![CDATA[vt. 使脱离；解开；解除 
 vi. 脱出；松开 
+engage  v. 订婚, 使忙碌; 预定; 雇佣; 答应; 交战; 从事
 ]]></trans>
     <phonetic><![CDATA[[,disin'ɡeidʒ]]]></phonetic>
     <tags>GRE</tags>
@@ -11398,6 +11421,8 @@ vi. 脱出；松开
 </item><item>    <word>disentangle</word>
     <trans><![CDATA[vt. 解开；松开；使解脱 
 vi. 解决；松开；解开纠结；解决（纠纷） 
+entangle  [en·tan·gle || ɪn'tæŋgl]
+v.  使纠缠, 使混乱, 卷入
 ]]></trans>
     <phonetic><![CDATA[[,disin'tæŋɡl]]]></phonetic>
     <tags>GRE</tags>
@@ -11410,18 +11435,24 @@ vi. 解决；松开；解开纠结；解决（纠纷）
     <progress>1</progress>
 </item><item>    <word>disfranchise</word>
     <trans><![CDATA[vt. 剥夺公民权；剥夺推举议员权 
+         franchise  n.  公民权, 免赔额, 特权 v.  给以特权
+frank  adj.  坦白的; 真诚的; 直率的 n.  免费递送的章; 免费递寄的权利; 免费递送的邮件#法兰克
+v.  免费邮寄
 ]]></trans>
     <phonetic><![CDATA[[,dis'fræntʃaiz]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>disgorge</word>
     <trans><![CDATA[vt. 吐出；被迫交出；香槟酒酿制过程中的一道程序，即在插入最后的软木塞前，把沉淀物从酒瓶中取出 
+        gorge 咽喉；峡谷
 ]]></trans>
     <phonetic><![CDATA[]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>disgruntle</word>
     <trans><![CDATA[vt. 使……不高兴 
+          grunt 咕哝着说出
+        gruntle 咕哝；使高兴，使满意
 ]]></trans>
     <phonetic><![CDATA[[dis'ɡrʌntl]]]></phonetic>
     <tags>GRE</tags>
@@ -11429,6 +11460,8 @@ vi. 解决；松开；解开纠结；解决（纠纷）
 </item><item>    <word>disguise</word>
     <trans><![CDATA[n. 伪装；假装；用作伪装的东西 
 vt. 掩饰；假装；隐瞒 
+guise  n.  外观; 装束; 姿态
+wise
 ]]></trans>
     <phonetic><![CDATA[[dis'ɡaiz]]]></phonetic>
     <tags>GRE</tags>
@@ -11436,6 +11469,8 @@ vt. 掩饰；假装；隐瞒
 </item><item>    <word>disgust</word>
     <trans><![CDATA[n. 厌恶，嫌恶 
 vt. 使厌恶；使作呕 
+gorge 咽喉；峡谷
+      v.咽
 ]]></trans>
     <phonetic><![CDATA[[dis'ɡʌst]]]></phonetic>
     <tags>GRE</tags>
@@ -11449,6 +11484,8 @@ vt. 使醒悟；使不再抱幻想
     <progress>2</progress>
 </item><item>    <word>disinfect</word>
     <trans><![CDATA[vt. 将…消毒 
+         infect  [in·fect || ɪn'fekt]
+v.  传染; 感染
 ]]></trans>
     <phonetic><![CDATA[[,disin'fekt]]]></phonetic>
     <tags>GRE</tags>
@@ -11456,6 +11493,8 @@ vt. 使醒悟；使不再抱幻想
 </item><item>    <word>disinfectant</word>
     <trans><![CDATA[n. 消毒剂 
 adj. 消毒的 
+ infect  [in·fect || ɪn'fekt]
+v.  传染; 感染
 ]]></trans>
     <phonetic><![CDATA[[,disin'fektənt]]]></phonetic>
     <tags>GRE</tags>
@@ -11495,6 +11534,9 @@ adj. 分隔的；分离的
 </item><item>    <word>dislodge</word>
     <trans><![CDATA[vt. 逐出，驱逐；使……移动；用力移动 
 vi. 驱逐，逐出；离开原位 
+lodge  [lɑdʒ /lɒd-]
+n.  小屋, 支部, 门房
+v.  安顿, 提出, 容纳; 临时住宿, 寄宿, 倒伏
 ]]></trans>
     <phonetic><![CDATA[[dis'lɔdʒ]]]></phonetic>
     <tags>GRE</tags>
@@ -11502,6 +11544,8 @@ vi. 驱逐，逐出；离开原位
 </item><item>    <word>dismal</word>
     <trans><![CDATA[n. 低落的情绪 
 adj. 凄凉的，忧郁的；阴沉的，沉闷的；可怕的 
+days mal-词根：坏
+　　　maltreat  malfunction
 ]]></trans>
     <phonetic><![CDATA[['dizməl]]]></phonetic>
     <tags>GRE</tags>
@@ -11509,6 +11553,9 @@ adj. 凄凉的，忧郁的；阴沉的，沉闷的；可怕的
 </item><item>    <word>dismantle</word>
     <trans><![CDATA[vt. 拆除；取消；解散；除掉…的覆盖物 
 vi. 可拆卸 
+mantle  [man·tle || 'mæntl]
+n.  披风, 斗篷; 覆盖物; 衣钵; 罩
+v.  覆盖; 掩藏, 遮掩; 覆盖, 脸红
 ]]></trans>
     <phonetic><![CDATA[[dis'mæntl]]]></phonetic>
     <tags>GRE</tags>
@@ -11516,12 +11563,15 @@ vi. 可拆卸
 </item><item>    <word>dismay</word>
     <trans><![CDATA[n. 沮丧，灰心；惊慌 
 vt. 使沮丧；使惊慌 
+dis + may  没有可能，所以沮丧
 ]]></trans>
     <phonetic><![CDATA[[dis'mei]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>disparage</word>
     <trans><![CDATA[vt. 蔑视；毁谤 
+           pair 一双、对
+        peer  同等的人；贵族
 ]]></trans>
     <phonetic><![CDATA[[dis'pæridʒ]]]></phonetic>
     <tags>GRE</tags>
@@ -11529,6 +11579,8 @@ vt. 使沮丧；使惊慌
 </item><item>    <word>disparate</word>
     <trans><![CDATA[n. 无法相比的东西 
 adj. 不同的；不相干的；全异的 
+   pair 一双、对
+   peer  同等的人；贵族
 ]]></trans>
     <phonetic><![CDATA[['dispərət]]]></phonetic>
     <tags>GRE</tags>
@@ -11547,13 +11599,17 @@ vt. 派遣；分派
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>dispel</word>
-    <trans><![CDATA[vt. 驱散，驱逐；消除（烦恼等） 
+    <trans><![CDATA[vt. 驱散，驱逐；消除（烦恼等）    
+　palm 手掌
+  pel-词根：推 
 ]]></trans>
     <phonetic><![CDATA[[dis'pel]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>dispensable</word>
     <trans><![CDATA[adj. 可有可无的；非必要的 
+          expensive  penny
+   pens-词根：钱
 ]]></trans>
     <phonetic><![CDATA[[dis'pensəbl]]]></phonetic>
     <tags>GRE</tags>
@@ -11561,6 +11617,8 @@ vt. 派遣；分派
 </item><item>    <word>dispense</word>
     <trans><![CDATA[vi. 免除，豁免 
 vt. 分配，分发；免除；执行 
+ expensive  penny
+   pens-词根：钱
 ]]></trans>
     <phonetic><![CDATA[[dis'pens]]]></phonetic>
     <tags>GRE</tags>
@@ -11569,6 +11627,7 @@ vt. 分配，分发；免除；执行
     <trans><![CDATA[vt. 分散；使散开；传播 
 adj. 分散的 
 vi. 分散 
+  part 分开
 ]]></trans>
     <phonetic><![CDATA[[dis'pə:s]]]></phonetic>
     <tags>GRE</tags>
@@ -11660,7 +11719,9 @@ adj. 分裂的，中断的；分散的
     <progress>1</progress>
 </item><item>    <word>dissect</word>
     <trans><![CDATA[vt. 切细；仔细分析 
-vi. 进行解剖；进行详细分析 
+vi. 进行解剖；进行详细分析
+sect  n.  派别; 宗派; 党派; 学派
+-sect  切开；分开：
 ]]></trans>
     <phonetic><![CDATA[[di'sekt]]]></phonetic>
     <tags>GRE</tags>
@@ -11668,6 +11729,8 @@ vi. 进行解剖；进行详细分析
 </item><item>    <word>dissemble</word>
     <trans><![CDATA[vt. 掩饰，掩盖；假装 
 vi. 隐藏，掩饰（思想、感情等） 
+resemble  [re·sem·ble || rɪ'zembl]
+v.  相似, 象, 类似
 ]]></trans>
     <phonetic><![CDATA[[di'sembl]]]></phonetic>
     <tags>GRE</tags>
@@ -11675,6 +11738,8 @@ vi. 隐藏，掩饰（思想、感情等）
 </item><item>    <word>disseminate</word>
     <trans><![CDATA[vt. 宣传，传播；散布 
 vi. 散布；广为传播 
+semen  [se·men || 'sɪːmen]
+n.  精液, 精子
 ]]></trans>
     <phonetic><![CDATA[[di'semineit]]]></phonetic>
     <tags>GRE</tags>
@@ -11682,12 +11747,15 @@ vi. 散布；广为传播
 </item><item>    <word>dissent</word>
     <trans><![CDATA[n. 异议；（大写）不信奉国教 
 vi. 不同意；不信奉国教 
+sense
 ]]></trans>
     <phonetic><![CDATA[[di'sent]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>dissertation</word>
     <trans><![CDATA[n. 论文，专题；学术演讲 
+        series  n.  连续, 丛书, 系列
+        学术是成体系，连续的
 ]]></trans>
     <phonetic><![CDATA[[,disə'teiʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -11695,6 +11763,8 @@ vi. 不同意；不信奉国教
 </item><item>    <word>dissident</word>
     <trans><![CDATA[n. 持不同政见者，意见不同的人 
 adj. 持不同政见的，意见不同的 
+dis- + sedere "to sit" (see sedentary).
+sedentary  adj.  久坐的, 土生的, 坐惯的
 ]]></trans>
     <phonetic><![CDATA[['disidənt]]]></phonetic>
     <tags>GRE</tags>
@@ -11702,6 +11772,8 @@ adj. 持不同政见的，意见不同的
 </item><item>    <word>dissimulate</word>
     <trans><![CDATA[vt. 掩饰；假装；装糊涂 
 vi. 掩饰；假装；装糊涂 
+simulate  [sim·u·late || 'sɪmjəleɪt /-jʊl-]
+v.  假装, 冒充; 看上去像; 模仿
 ]]></trans>
     <phonetic><![CDATA[[di'simjuleit]]]></phonetic>
     <tags>GRE</tags>
@@ -11709,6 +11781,8 @@ vi. 掩饰；假装；装糊涂
 </item><item>    <word>dissipate</word>
     <trans><![CDATA[vi. 驱散；放荡 
 vt. 浪费；使…消散 
+spit  n.  唾液, 口水 (as)模仿吐口水，驱散，不礼貌，放荡
+sip n.  啜饮 
 ]]></trans>
     <phonetic><![CDATA[['disipeit]]]></phonetic>
     <tags>GRE</tags>
@@ -11721,6 +11795,8 @@ vt. 浪费；使…消散
     <progress>1</progress>
 </item><item>    <word>dissolute</word>
     <trans><![CDATA[adj. 放荡的；风流的 
+        dissolve  [dis·solve || dɪ'zɒlv]
+v.  分解; 使融化; 使溶解; 使液化; 分解; 融化; 溶解; 液化
 ]]></trans>
     <phonetic><![CDATA[['disəlju:t]]]></phonetic>
     <tags>GRE</tags>
@@ -11735,12 +11811,17 @@ vi. 溶解；解散；消失
     <progress>1</progress>
 </item><item>    <word>dissonant</word>
     <trans><![CDATA[adj. 刺耳的；不谐和的；不调和的 
+          sound
+          son--  supersonic 
+                resonance 共鸣, 回声
 ]]></trans>
     <phonetic><![CDATA[['disənənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>dissuade</word>
     <trans><![CDATA[vt. 劝阻，劝止 
+         persuade  [per·suade || pər'sweɪd /pə's-]
+v.  劝, 说服, 使相信
 ]]></trans>
     <phonetic><![CDATA[[di'sweid]]]></phonetic>
     <tags>GRE</tags>
@@ -11754,12 +11835,14 @@ vi. 溶解；解散；消失
 </item><item>    <word>distend</word>
     <trans><![CDATA[vt. 使…膨胀；使…扩张 
 vi. 扩张；膨胀 
+ tend-词根：伸
 ]]></trans>
     <phonetic><![CDATA[[dis'tend]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>distension</word>
     <trans><![CDATA[n. 膨胀，扩张 
+         tend-词根：伸
 ]]></trans>
     <phonetic><![CDATA[[dis'tenʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -11767,6 +11850,7 @@ vi. 扩张；膨胀
 </item><item>    <word>distill</word>
     <trans><![CDATA[vt. 提取；蒸馏；使滴下 
 vi. 蒸馏；滴下；作为精华产生（等于distil） 
+(as)蒸馏需要still一直往下滴水
 ]]></trans>
     <phonetic><![CDATA[[dis'til]]]></phonetic>
     <tags>GRE</tags>
@@ -11818,6 +11902,9 @@ adj. 心烦意乱的；思想不集中的
     <progress>1</progress>
 </item><item>    <word>distraught</word>
     <trans><![CDATA[adj. 发狂的；心烦意乱的 
+          tract-词根：拉扯
+        attract v.吸引
+        distract v.分散…注意力；使分心；使发狂
 ]]></trans>
     <phonetic><![CDATA[[dis'trɔ:t]]]></phonetic>
     <tags>GRE</tags>
@@ -11843,6 +11930,7 @@ vt. 使悲痛；使贫困
     <progress>1</progress>
 </item><item>    <word>ditty</word>
     <trans><![CDATA[n. 小曲；小调 
+       (as) 拟声词 （低T）调的歌曲
 ]]></trans>
     <phonetic><![CDATA[['diti]]]></phonetic>
     <tags>GRE</tags>
@@ -11850,12 +11938,14 @@ vt. 使悲痛；使贫困
 </item><item>    <word>diurnal</word>
     <trans><![CDATA[n. 日记账；日报，日刊 
 adj. 白天的；每日的，一日间的 
+day
 ]]></trans>
     <phonetic><![CDATA[[dai'ə:nəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>diva</word>
     <trans><![CDATA[n. 歌剧中的首席女主角 
+        no
 ]]></trans>
     <phonetic><![CDATA[['di:və]]]></phonetic>
     <tags>GRE</tags>
@@ -11869,6 +11959,9 @@ adj. 白天的；每日的，一日间的
 </item><item>    <word>diverge</word>
     <trans><![CDATA[vt. 使偏离；使分叉 
 vi. 分歧；偏离；分叉；离题 
+verge  [vɜrdʒ / vɜːd-]
+n.  边缘
+v.  接近; 趋向, 下沉
 ]]></trans>
     <phonetic><![CDATA[[dai'və:dʒ, di-]]]></phonetic>
     <tags>GRE</tags>
@@ -11894,12 +11987,18 @@ vi. 转移
     <progress>1</progress>
 </item><item>    <word>divest</word>
     <trans><![CDATA[vt. 剥夺；使脱去，迫使放弃 
+        vest  [vest]
+n.  汗衫, 内衣, 背心
+v.  使穿衣服, 授予; 穿衣服, 归属
 ]]></trans>
     <phonetic><![CDATA[[dai'vest, di-]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>divestiture</word>
     <trans><![CDATA[n. 脱衣；剥夺 
+        vest  [vest]
+n.  汗衫, 内衣, 背心
+v.  使穿衣服, 授予; 穿衣服, 归属
 ]]></trans>
     <phonetic><![CDATA[[dai'vestitʃə, di-]]]></phonetic>
     <tags>GRE</tags>
@@ -11909,12 +12008,16 @@ vi. 转移
 adj. 神圣的；非凡的；天赐的；极好的 
 vt. 占卜；预言；用占卜勘探 
 vi. 占卜；预言；使用占卜勘探矿 
+no
 ]]></trans>
     <phonetic><![CDATA[[di'vain]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>divulge</word>
     <trans><![CDATA[vt. 泄露；暴露 
+        folk 人民
+      vulg-词根：人民
+      vulgar 
 ]]></trans>
     <phonetic><![CDATA[[dai'vʌldʒ, di-]]]></phonetic>
     <tags>GRE</tags>
