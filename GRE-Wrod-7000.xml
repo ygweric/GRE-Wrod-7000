@@ -12024,6 +12024,7 @@ no
     <progress>1</progress>
 </item><item>    <word>docile</word>
     <trans><![CDATA[adj. 温顺的，驯服的；容易教的 
+        duce-词根：引导   educate 教育
 ]]></trans>
     <phonetic><![CDATA[['dəusail, 'dɔsəl]]]></phonetic>
     <tags>GRE</tags>
@@ -12031,12 +12032,16 @@ no
 </item><item>    <word>doctrinaire</word>
     <trans><![CDATA[adj. 教条主义的；空谈理论的 
 n. 教条主义者；空论家，纯理论家 
+doctor  学者
+doctrine  教条 理论
 ]]></trans>
     <phonetic><![CDATA[[,dɔktri'nεə]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>doctrine</word>
     <trans><![CDATA[n. 主义；学说；教义；信条 
+        doctor  学者
+doctrine  教条 理论
 ]]></trans>
     <phonetic><![CDATA[['dɔktrin]]]></phonetic>
     <tags>GRE</tags>
@@ -12051,6 +12056,7 @@ vt. 用文件证明
 </item><item>    <word>dodder</word>
     <trans><![CDATA[n. 菟丝子 
 vi. （因老弱、中风等而）摇摆；蹒跚 
+no
 ]]></trans>
     <phonetic><![CDATA[['dɔdə]]]></phonetic>
     <tags>GRE</tags>
@@ -12059,12 +12065,14 @@ vi. （因老弱、中风等而）摇摆；蹒跚
     <trans><![CDATA[n. 躲闪；托词 
 vt. 躲避，避开 
 vi. 躲避，避开 
+(as)读音“躲着”
 ]]></trans>
     <phonetic><![CDATA[[dɔdʒ]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>doff</word>
     <trans><![CDATA[vt. 脱（衣，帽等）；丢弃，废除；落纱 
+        no
 ]]></trans>
     <phonetic><![CDATA[[dɔf]]]></phonetic>
     <tags>GRE</tags>
@@ -12072,6 +12080,7 @@ vi. 躲避，避开
 </item><item>    <word>dogged</word>
     <trans><![CDATA[adj. 顽强的；顽固的 
 vt. 跟踪；尾随（dog的过去式） 
+dog
 ]]></trans>
     <phonetic><![CDATA[['dɔgid]]]></phonetic>
     <tags>GRE</tags>
@@ -12079,42 +12088,52 @@ vt. 跟踪；尾随（dog的过去式）
 </item><item>    <word>doggerel</word>
     <trans><![CDATA[n. 打油诗 
 adj. 打油诗的 
+dog + rel
 ]]></trans>
     <phonetic><![CDATA[['dɔɡərəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>dogma</word>
     <trans><![CDATA[n. 教条，教理；武断的意见 
+        doct-
 ]]></trans>
     <phonetic><![CDATA[['dɔɡmə]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>dogmatism</word>
     <trans><![CDATA[n. 教条主义；独断，武断 
+        doct-
 ]]></trans>
     <phonetic><![CDATA[['dɔɡmətizəm]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>doldrums</word>
     <trans><![CDATA[n. 忧郁；赤道无风带 
+        dull  [dʌl]
+v.  使迟钝; 缓和; 使阴暗; 变迟钝; 减少
+adj.  钝的, 呆滞的, 无趣的
 ]]></trans>
     <phonetic><![CDATA[['dɔldrəmz]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>doleful</word>
     <trans><![CDATA[adj. 寂寞的；悲哀的；阴沉的；忧郁的 
+        no
 ]]></trans>
     <phonetic><![CDATA[['dəulful]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>dolorous</word>
     <trans><![CDATA[adj. 忧伤的；悲痛的 
+        doleful  [dole·ful || 'dəʊlfʊl]
+adj.  悲哀的, 阴沉的, 寂寞的
 ]]></trans>
     <phonetic><![CDATA[['dɔlərəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>dolt</word>
     <trans><![CDATA[n. 笨蛋，傻瓜；呆子 
+        dull
 ]]></trans>
     <phonetic><![CDATA[[dəult]]]></phonetic>
     <tags>GRE</tags>
@@ -12129,6 +12148,7 @@ adj. 打油诗的
     <trans><![CDATA[n. 圆屋顶 
 vi. 成圆顶状 
 vt. 加圆屋顶于…上 
+home 家
 ]]></trans>
     <phonetic><![CDATA[[dəum]]]></phonetic>
     <tags>GRE</tags>
@@ -12136,6 +12156,10 @@ vt. 加圆屋顶于…上
 </item><item>    <word>domesticate</word>
     <trans><![CDATA[vt. 驯养；教化；引进 
 vi. 驯养；使习惯于或喜爱家务和家庭生活 
+dome 圆屋顶
+dome  master n.师傅，硕士，主人
+             v.精通，掌握
+domestic 驯服的；家里的；国内的
 ]]></trans>
     <phonetic><![CDATA[[dəu'mestikeit, dəu'mestikət, -keit]]]></phonetic>
     <tags>GRE</tags>
@@ -12143,6 +12167,10 @@ vi. 驯养；使习惯于或喜爱家务和家庭生活
 </item><item>    <word>domicile</word>
     <trans><![CDATA[n. 住宅；永久居住地；期票支付场所 
 vt. 使定居；使在指定的场所支付（期票等） 
+dome 圆屋顶
+dome  master n.师傅，硕士，主人
+             v.精通，掌握
+domestic 驯服的；家里的；国内的
 vi. 居住 
 ]]></trans>
     <phonetic><![CDATA[['dɔmisail,-sil]]]></phonetic>
@@ -12151,6 +12179,7 @@ vi. 居住
 </item><item>    <word>dominant</word>
     <trans><![CDATA[n. 显性 
 adj. 显性的；占优势的；支配的，统治的 
+dome  master n.师傅，硕士，主人
 ]]></trans>
     <phonetic><![CDATA[['dɔminənt]]]></phonetic>
     <tags>GRE</tags>
@@ -12158,6 +12187,7 @@ adj. 显性的；占优势的；支配的，统治的
 </item><item>    <word>dominate</word>
     <trans><![CDATA[vt. 控制；支配；占优势；在…中占主要地位 
 vi. 占优势；处于支配地位 
+dome  master n.师傅，硕士，主人
 ]]></trans>
     <phonetic><![CDATA[['dɔmineit]]]></phonetic>
     <tags>GRE</tags>
@@ -12187,12 +12217,15 @@ vi. 涂鸦；闲混；随意弹奏
     <progress>1</progress>
 </item><item>    <word>dormant</word>
     <trans><![CDATA[adj. 休眠的；静止的；睡眠状态的；隐匿的 
+        dome 圆屋顶;家
+dorm  寝室，宿舍  dormitory
 ]]></trans>
     <phonetic><![CDATA[['dɔ:mənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>dorsal</word>
     <trans><![CDATA[adj. 背部的；背的，背侧的 
+        (as)抖擞
 ]]></trans>
     <phonetic><![CDATA[[dɔ:səl]]]></phonetic>
     <tags>GRE</tags>
@@ -12201,12 +12234,14 @@ vi. 涂鸦；闲混；随意弹奏
     <trans><![CDATA[n. 剂量；一剂，一服 
 vt. 给药；给…服药 
 vi. 服药 
+(as)“豆子”
 ]]></trans>
     <phonetic><![CDATA[[dəus]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>dossier</word>
     <trans><![CDATA[n. 档案，卷宗；病历表册 
+         "back" (see dorsal). Supposedly so called because the bundle bore a label on the back,
 ]]></trans>
     <phonetic><![CDATA[['dɔsiei, dəu'sjei]]]></phonetic>
     <tags>GRE</tags>
@@ -12214,6 +12249,9 @@ vi. 服药
 </item><item>    <word>dote</word>
     <trans><![CDATA[vt. 溺爱 
 vi. 溺爱；昏聩 
+   down 
+   donate 赠予 给予
+   dote-词根：给
 ]]></trans>
     <phonetic><![CDATA[[dəut]]]></phonetic>
     <tags>GRE</tags>
@@ -12221,12 +12259,16 @@ vi. 溺爱；昏聩
 </item><item>    <word>doting</word>
     <trans><![CDATA[adj. 溺爱的，偏爱的 
 v. 宠爱（dote的ing形式） 
+   down 
+   donate 赠予 给予
+   dote-词根：给
 ]]></trans>
     <phonetic><![CDATA[['dəutiŋ]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>dour</word>
     <trans><![CDATA[adj. 严厉的；顽强的；阴沉的；不爱讲话的 
+        no
 ]]></trans>
     <phonetic><![CDATA[[duə]]]></phonetic>
     <tags>GRE</tags>
@@ -12235,19 +12277,9 @@ v. 宠爱（dote的ing形式）
     <trans><![CDATA[vt. 插入水中；弄湿；弄熄；急速收帆；脱掉（衣鞋等） 
 vi. 浸泡 
 n. 泼洒 
+no
 ]]></trans>
     <phonetic><![CDATA[[daus]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>1</progress>
-</item><item>    <word>down</word>
-    <trans><![CDATA[prep. 沿着，往下 
-n. 软毛，绒毛；[地质] 开阔的高地 
-adj. 向下的 
-vt. 打倒，击败 
-adv. 向下，下去；在下面 
-vi. 下降；下去 
-]]></trans>
-    <phonetic><![CDATA[[daun]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>downplay</word>
@@ -12270,6 +12302,9 @@ vi. 下降；下去
     <progress>1</progress>
 </item><item>    <word>doyen</word>
     <trans><![CDATA[n. 首席；老资格；老前辈 
+        dean  n.  院长, 主持牧师
+        ten
+dean:   head of a group of 10 monks in a monastery
 ]]></trans>
     <phonetic><![CDATA[[dwɑ:'jæŋ]]]></phonetic>
     <tags>GRE</tags>
@@ -12278,13 +12313,16 @@ vi. 下降；下去
     <trans><![CDATA[n. 浅褐色；无生气；邋遢；小额 
 adj. 单调的；土褐色的 
 vt. 使无生气 
-vi. 嫖妓 
+vi. 嫖妓
+ drop 掉下来
+drape 窗帘
 ]]></trans>
     <phonetic><![CDATA[[dræb]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>draconian</word>
     <trans><![CDATA[adj. 严厉的，苛刻的 
+        dragon n.  龙, 凶暴的人
 ]]></trans>
     <phonetic><![CDATA[[drə'kəunjən]]]></phonetic>
     <tags>GRE</tags>
@@ -12319,12 +12357,15 @@ vi. 排水；流干
 </item><item>    <word>drastic</word>
     <trans><![CDATA[n. 烈性泻药 
 adj. 激烈的；猛烈的 
+drug 药
+抓死他
 ]]></trans>
     <phonetic><![CDATA[['dræstik]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>drawbridge</word>
     <trans><![CDATA[n. （可开闭的）吊桥 
+        drawer  n.  抽屉; 拖曳者, 拉丝工; 内裤; 制图者
 ]]></trans>
     <phonetic><![CDATA[['drɔ:bridʒ]]]></phonetic>
     <tags>GRE</tags>
@@ -12333,18 +12374,23 @@ adj. 激烈的；猛烈的
     <trans><![CDATA[n. 慢吞吞拉长调子的说话方式 
 vt. 慢吞吞地说 
 vi. 慢吞吞地说 
+draw   ---to linger, delay,
 ]]></trans>
     <phonetic><![CDATA[[drɔ:l]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>dreary</word>
-    <trans><![CDATA[adj. 沉闷的，枯燥的 
+    <trans><![CDATA[adj. 沉闷的，枯燥的 、
+        （as）滴水，落泪
+        drip  n.  滴下; 水滴, 滴下之液体; 滴水声; 静脉滴注
+v.  滴下; 漏下, 撒下; 滴水, 湿淋淋, 滴下液体; 充溢, 充满; 使滴下; 溢出, 发出
 ]]></trans>
     <phonetic><![CDATA[['driəri]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>dregs</word>
     <trans><![CDATA[n. 渣滓；少量；沉淀物（dreg的复数） 
+        no
 ]]></trans>
     <phonetic><![CDATA[[dregz]]]></phonetic>
     <tags>GRE</tags>
@@ -12352,6 +12398,7 @@ vi. 慢吞吞地说
 </item><item>    <word>drench</word>
     <trans><![CDATA[n. 滂沱大雨；浸液 
 vt. 使湿透；给（牲畜）灌药 
+drink
 ]]></trans>
     <phonetic><![CDATA[[drentʃ]]]></phonetic>
     <tags>GRE</tags>
@@ -12360,6 +12407,7 @@ vt. 使湿透；给（牲畜）灌药
     <trans><![CDATA[n. 训练；钻孔机；钻子；播种机 
 vt. 钻孔；训练；条播 
 vi. 钻孔；训练 
+no
 ]]></trans>
     <phonetic><![CDATA[[dril]]]></phonetic>
     <tags>GRE</tags>
@@ -12368,6 +12416,7 @@ vi. 钻孔；训练
     <trans><![CDATA[n. 鼻涕；口水；糊涂话 
 vi. 淌口水；流鼻涕；说傻话 
 vt. 浪费 
+no
 ]]></trans>
     <phonetic><![CDATA[[drivəl]]]></phonetic>
     <tags>GRE</tags>
@@ -12375,13 +12424,14 @@ vt. 浪费
 </item><item>    <word>drizzle</word>
     <trans><![CDATA[n. 细雨，毛毛雨 
 vt. 下毛毛雨 
-vi. 下毛毛雨 
+drip v.(使)滴下
 ]]></trans>
     <phonetic><![CDATA[['drizl]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>drizzly</word>
     <trans><![CDATA[adj. 下毛毛雨的，毛毛雨似的 
+        drip v.(使)滴下
 ]]></trans>
     <phonetic><![CDATA[['drizli]]]></phonetic>
     <tags>GRE</tags>
@@ -12390,6 +12440,7 @@ vi. 下毛毛雨
     <trans><![CDATA[n. 小丑，滑稽可笑的人 
 adj. 滑稽的；好笑的；逗趣的 
 vi. 开玩笑 
+ roll 滚动
 ]]></trans>
     <phonetic><![CDATA[[drəul]]]></phonetic>
     <tags>GRE</tags>
@@ -12398,6 +12449,7 @@ vi. 开玩笑
     <trans><![CDATA[n. 雄蜂；嗡嗡的声音；懒惰者 
 vt. 低沉地说 
 vi. 嗡嗡作声；混日子 
+no
 ]]></trans>
     <phonetic><![CDATA[['drəun]]]></phonetic>
     <tags>GRE</tags>
@@ -12406,24 +12458,28 @@ vi. 嗡嗡作声；混日子
     <trans><![CDATA[n. 下垂；消沉 
 vt. 使…下垂 
 vi. 下垂；萎靡；凋萎 
+drip
 ]]></trans>
     <phonetic><![CDATA[[dru:p]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>droplet</word>
     <trans><![CDATA[n. 小滴，微滴 
+        drip
 ]]></trans>
     <phonetic><![CDATA[['drɔplit]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>dross</word>
     <trans><![CDATA[n. 渣滓；浮渣；碎屑 
+        no
 ]]></trans>
     <phonetic><![CDATA[[drɔs]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>drought</word>
     <trans><![CDATA[n. 干旱；缺乏 
+        dry
 ]]></trans>
     <phonetic><![CDATA[[draut]]]></phonetic>
     <tags>GRE</tags>
@@ -12431,12 +12487,15 @@ vi. 下垂；萎靡；凋萎
 </item><item>    <word>drove</word>
     <trans><![CDATA[n. 畜群；牛群、羊群等；移动的人群或大批的东西 
 v. 驾驶（drive的过去分词） 
+drive 
 ]]></trans>
     <phonetic><![CDATA[[drəuv]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>drudgery</word>
     <trans><![CDATA[n. 苦工，苦差事 
+          durable 持久的, 耐用的
+  drudge n.苦工
 ]]></trans>
     <phonetic><![CDATA[['drʌdʒəri]]]></phonetic>
     <tags>GRE</tags>
@@ -12444,6 +12503,7 @@ v. 驾驶（drive的过去分词）
 </item><item>    <word>dual</word>
     <trans><![CDATA[n. 双数；双数词 
 adj. 双的；双重的 
+two
 ]]></trans>
     <phonetic><![CDATA[['dju:əl]]]></phonetic>
     <tags>GRE</tags>
@@ -12456,6 +12516,9 @@ adj. 双的；双重的
     <progress>1</progress>
 </item><item>    <word>duckling</word>
     <trans><![CDATA[n. 小鸭子 
+duck  [dʌk]
+n.  鸭子#迅速低头; 躲避; 迅速弯身#帆布; 帆布裤子; 粗布#亲爱的人, 宝贝儿; 零分
+v.  突然低下; 躲避; 将...按入; 回避; 迅速低头; 闪避; 迅速弯身; 躲避
 ]]></trans>
     <phonetic><![CDATA[['dʌkliŋ]]]></phonetic>
     <tags>GRE</tags>
@@ -12463,6 +12526,7 @@ adj. 双的；双重的
 </item><item>    <word>duct</word>
     <trans><![CDATA[n. 输送管，导管 
 vt. 用导管输送；以导管封住 
+duce-词根：引导r
 ]]></trans>
     <phonetic><![CDATA[[dʌkt]]]></phonetic>
     <tags>GRE</tags>
@@ -12470,12 +12534,14 @@ vt. 用导管输送；以导管封住
 </item><item>    <word>duel</word>
     <trans><![CDATA[n. 决斗；斗争，抗争 
 vi. 决斗 
+two
 ]]></trans>
     <phonetic><![CDATA[['dju:əl]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>duet</word>
     <trans><![CDATA[n. 二重奏 
+        two
 ]]></trans>
     <phonetic><![CDATA[[dju'et]]]></phonetic>
     <tags>GRE</tags>
@@ -12491,12 +12557,14 @@ vi. 减少；变迟钝
 </item><item>    <word>dummy</word>
     <trans><![CDATA[n. 傀儡；哑巴；仿制品 
 adj. 虚拟的；假的 
+dumb  adj.  哑的, 无声音的, 不说话的
 ]]></trans>
     <phonetic><![CDATA[['dʌmi]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>dune</word>
     <trans><![CDATA[n. （由风吹积而成的）沙丘 
+        no
 ]]></trans>
     <phonetic><![CDATA[[dju:n]]]></phonetic>
     <tags>GRE</tags>
@@ -12504,6 +12572,7 @@ adj. 虚拟的；假的
 </item><item>    <word>dupe</word>
     <trans><![CDATA[vt. 欺骗；愚弄（等于duplicate） 
 n. 上当者；易受骗的人 
+stupid 愚蠢的
 ]]></trans>
     <phonetic><![CDATA[[dju:p]]]></phonetic>
     <tags>GRE</tags>
@@ -12528,12 +12597,15 @@ n. 上当者；易受骗的人
     <progress>1</progress>
 </item><item>    <word>duress</word>
     <trans><![CDATA[n. 强迫；监禁 
+        endure
 ]]></trans>
     <phonetic><![CDATA[[djuə'res]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>dutiful</word>
     <trans><![CDATA[adj. 忠实的；顺从的；守本分的 
+        do
+duty n.职责
 ]]></trans>
     <phonetic><![CDATA[['dju:tiful]]]></phonetic>
     <tags>GRE</tags>
@@ -12541,8 +12613,9 @@ n. 上当者；易受骗的人
 </item><item>    <word>dwarf</word>
     <trans><![CDATA[n. 侏儒，矮子 
 adj. 矮小的 
-vi. 变矮小 
-vt. 使矮小 
+蹲
+短
+dwarf 侏儒-------“短夫”
 ]]></trans>
     <phonetic><![CDATA[[dwɔ:f]]]></phonetic>
     <tags>GRE</tags>
@@ -12550,6 +12623,7 @@ vt. 使矮小
 </item><item>    <word>dwelling</word>
     <trans><![CDATA[n. 住处；寓所 
 v. 居住（dwell的现在分词） 
+dwell  v.  居住; 踌躇
 ]]></trans>
     <phonetic><![CDATA[['dweliŋ]]]></phonetic>
     <tags>GRE</tags>
@@ -12557,6 +12631,7 @@ v. 居住（dwell的现在分词）
 </item><item>    <word>dwindle</word>
     <trans><![CDATA[vi. 减少；变小 
 vt. 使缩小，使减少 
+die
 ]]></trans>
     <phonetic><![CDATA[['dwindl]]]></phonetic>
     <tags>GRE</tags>
@@ -12576,6 +12651,7 @@ adj. 动态的；动力的；动力学的；有活力的
     <progress>1</progress>
 </item><item>    <word>dyslexia</word>
     <trans><![CDATA[n. 难语症；[医] 诵读困难；阅读障碍 
+         difficult" (see dys-) + lexis "word," from legein "speak" (see lecture
 ]]></trans>
     <phonetic><![CDATA[[dis'leksiə]]]></phonetic>
     <tags>GRE</tags>
@@ -12583,6 +12659,8 @@ adj. 动态的；动力的；动力学的；有活力的
 </item><item>    <word>dyspeptic</word>
     <trans><![CDATA[n. 消化不良者 
 adj. 消化不良的；患胃病的；胃弱的 
+peptic adj.  有助消化的, 胃液素的
+"bad" (see dys-) + peptos "digested," from peptein "digest" (see cook
 ]]></trans>
     <phonetic><![CDATA[[dis'peptik,-kəl]]]></phonetic>
     <tags>GRE</tags>
@@ -12596,6 +12674,7 @@ adj. 认真的，热心的；重要的
     <progress>1</progress>
 </item><item>    <word>earplug</word>
     <trans><![CDATA[n. 耳栓 
+        ear + plug
 ]]></trans>
     <phonetic><![CDATA[['iəplʌɡ]]]></phonetic>
     <tags>GRE</tags>
@@ -12615,6 +12694,8 @@ v. 抽穗；听见（ear的ing形式）
     <progress>1</progress>
 </item><item>    <word>earsplitting</word>
     <trans><![CDATA[adj. 震耳欲聋的 
+        split  [splɪt]
+n.  裂缝, 裂痕; 分割; 分裂; 派系
 ]]></trans>
     <phonetic><![CDATA[['iə,splitiŋ]]]></phonetic>
     <tags>GRE</tags>
@@ -12633,6 +12714,7 @@ v. 抽穗；听见（ear的ing形式）
     <progress>1</progress>
 </item><item>    <word>easel</word>
     <trans><![CDATA[n. 画架；黑板架 
+        no
 ]]></trans>
     <phonetic><![CDATA[['i:zəl]]]></phonetic>
     <tags>GRE</tags>
@@ -12647,12 +12729,16 @@ vi. 偷听，窃听
 </item><item>    <word>ebb</word>
     <trans><![CDATA[n. 衰退；退潮；衰落 
 vi. 衰退；减少；衰落；潮退 
+away
+ab-前缀：远离    abnormal 
 ]]></trans>
     <phonetic><![CDATA[[eb]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>ebullience</word>
     <trans><![CDATA[n. 奔放；兴高采烈；沸腾；冒泡 
+        ebullient  adj.  冒泡的; 热情的; 沸腾的
+boil  n.  沸腾; 翻滚; 煮沸#疖, 疮
 ]]></trans>
     <phonetic><![CDATA[[i'bʌljəns,-jənsi]]]></phonetic>
     <tags>GRE</tags>
@@ -12660,6 +12746,7 @@ vi. 衰退；减少；衰落；潮退
 </item><item>    <word>eccentric</word>
     <trans><![CDATA[n. 古怪的人 
 adj. 古怪的，反常的 
+ center
 ]]></trans>
     <phonetic><![CDATA[[ik'sentrik]]]></phonetic>
     <tags>GRE</tags>
@@ -12667,18 +12754,22 @@ adj. 古怪的，反常的
 </item><item>    <word>eclectic</word>
     <trans><![CDATA[n. 折衷派的人；折衷主义者 
 adj. 折衷的；选择的；折衷学派的 
+elect 选择
 ]]></trans>
     <phonetic><![CDATA[[e'klektik]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>eclecticism</word>
     <trans><![CDATA[n. 折衷主义，折衷说 
+        elect 选择
 ]]></trans>
     <phonetic><![CDATA[[e'klektisizəm]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>ecologist</word>
     <trans><![CDATA[n. 生态学者 
+        equal 相等的
+eco-前缀：相等
 ]]></trans>
     <phonetic><![CDATA[[i:'kɔlədʒist]]]></phonetic>
     <tags>GRE</tags>
@@ -12690,7 +12781,9 @@ adj. 折衷的；选择的；折衷学派的
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>ecstasy</word>
-    <trans><![CDATA[n. 狂喜；入迷；忘形 
+    <trans><![CDATA[n. 狂喜；入迷；忘形         
+n. 保留，不删
+stet vt. 对…加注表示不删，保留
 ]]></trans>
     <phonetic><![CDATA[['ekstəsi]]]></phonetic>
     <tags>GRE</tags>
@@ -12698,6 +12791,7 @@ adj. 折衷的；选择的；折衷学派的
 </item><item>    <word>ecstatic</word>
     <trans><![CDATA[adj. 狂喜的；入迷的 
 n. 狂喜的人 
+stet vt. 对…加注表示不删，保留
 ]]></trans>
     <phonetic><![CDATA[[ik'stætik]]]></phonetic>
     <tags>GRE</tags>
@@ -12706,6 +12800,7 @@ n. 狂喜的人
     <trans><![CDATA[n. 涡流；漩涡；逆流 
 vi. 旋转；起漩涡 
 vt. 使…起漩涡 
+no
 ]]></trans>
     <phonetic><![CDATA[['edi]]]></phonetic>
     <tags>GRE</tags>
