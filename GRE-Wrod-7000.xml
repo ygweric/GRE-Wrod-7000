@@ -14517,18 +14517,24 @@ adj. 独有的；排外的；专一的
     <progress>0</progress>
 </item><item>    <word>excursion</word>
     <trans><![CDATA[n. 偏移；远足；短程旅行；离题；游览圆 
+        course 过程，路线, 跑道, 课程
+   curs-词根：跑 
 ]]></trans>
     <phonetic><![CDATA[[ik'skə:ʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>excursive</word>
     <trans><![CDATA[adj. 离题的；散漫的 
+        course 过程，路线, 跑道, 课程
+   curs-词根：跑 
 ]]></trans>
     <phonetic><![CDATA[[iks'kə:siv]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>execrable</word>
     <trans><![CDATA[adj. 恶劣的；可憎恨的 
+        execrate  v.  憎恨; 诅咒
+sacred  adj.  神的, 宗教的; 不可侵犯的; 神圣的; 庄严的
 ]]></trans>
     <phonetic><![CDATA[['eksikrəbl]]]></phonetic>
     <tags>GRE</tags>
@@ -14536,6 +14542,7 @@ adj. 独有的；排外的；专一的
 </item><item>    <word>execrate</word>
     <trans><![CDATA[vt. 诅咒；憎恶；痛骂 
 vi. 诅咒 
+sacred  adj.  神的, 宗教的; 不可侵犯的; 神圣的; 庄严的
 ]]></trans>
     <phonetic><![CDATA[['eksikreit]]]></phonetic>
     <tags>GRE</tags>
@@ -14568,6 +14575,7 @@ vt. 免除；豁免
     <progress>0</progress>
 </item><item>    <word>exert</word>
     <trans><![CDATA[vt. 运用，发挥；施以影响 
+        ex sert-词根：插入    insert  v.插入
 ]]></trans>
     <phonetic><![CDATA[[iɡ'zə:t]]]></phonetic>
     <tags>GRE</tags>
@@ -14575,6 +14583,8 @@ vt. 免除；豁免
 </item><item>    <word>exhale</word>
     <trans><![CDATA[vt. 呼气；发出；发散；使蒸发 
 vi. 呼气；发出；发散 
+ hale-词根：呼吸
+  haul  用力拖拉；一网捕获的鱼
 ]]></trans>
     <phonetic><![CDATA[[eks'heil]]]></phonetic>
     <tags>GRE</tags>
@@ -14583,24 +14593,34 @@ vi. 呼气；发出；发散
     <trans><![CDATA[n. 排气；废气；排气装置 
 vt. 排出；耗尽；使精疲力尽；彻底探讨 
 vi. 排气 
+ hale-词根：呼吸
+  haul  用力拖拉；一网捕获的鱼
 ]]></trans>
     <phonetic><![CDATA[[iɡ'zɔ:st]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>exhaustive</word>
     <trans><![CDATA[adj. 详尽的；彻底的；消耗的 
+         hale-词根：呼吸
+  haul  用力拖拉；一网捕获的鱼
 ]]></trans>
     <phonetic><![CDATA[[iɡ'zɔ:stiv]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>exhilarate</word>
     <trans><![CDATA[vt. 使高兴，使振奋；使愉快 
+        　　　hill  high
+　　　hilar-词根：高兴
+　　　hilarity 欢闹
 ]]></trans>
     <phonetic><![CDATA[[iɡ'ziləreit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>exhilaration</word>
     <trans><![CDATA[n. 愉快；令人高兴 
+        　　　hill  high
+　　　hilar-词根：高兴
+　　　hilarity 欢闹
 ]]></trans>
     <phonetic><![CDATA[[iɡ,zilə'reiʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -14608,12 +14628,17 @@ vi. 排气
 </item><item>    <word>exhort</word>
     <trans><![CDATA[vt. 忠告；劝诫 
 vi. 劝告 
+hortatory  adj.  劝告的, 忠告的; 勉励性的, 激励性的
 ]]></trans>
     <phonetic><![CDATA[[iɡ'zɔ:t]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>exigent</word>
     <trans><![CDATA[adj. 迫切的；紧急的；苛求的 
+        exact  [ex·act || ɪg'zækt]
+v.  强要; 急需, 需要; 勒索
+adj.  精确的, 精密的, 准确的
+act
 ]]></trans>
     <phonetic><![CDATA[['eksidʒənt]]]></phonetic>
     <tags>GRE</tags>
@@ -14626,30 +14651,40 @@ vi. 劝告
     <progress>0</progress>
 </item><item>    <word>exodus</word>
     <trans><![CDATA[n. 大批的离去 
+        cede-词根：走
+ precede n.领先
+   ex+cod+us
 ]]></trans>
     <phonetic><![CDATA[['eksədəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>exonerate</word>
-    <trans><![CDATA[vt. 使免罪 
+    <trans><![CDATA[vt. 使免罪
+    exodus大批离去，成群外出 
+     cede-词根：走
+ precede n.领先
+   ex+cod+us
 ]]></trans>
     <phonetic><![CDATA[[iɡ'zɔnəreit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>exorbitant</word>
     <trans><![CDATA[adj. （要价等）过高的；（性格等）过分的；不在法律范围之内的 
+         orbit 轨道    -词根：走   exit 
 ]]></trans>
     <phonetic><![CDATA[[iɡ'zɔ:bitənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>exorcise</word>
     <trans><![CDATA[vt. 驱邪；除怪 
+         oath  誓言, 宣誓, 诅咒
 ]]></trans>
     <phonetic><![CDATA[['eksɔ:saiz]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>exotic</word>
     <trans><![CDATA[adj. 异国的；外来的；异国情调的 
+        ex boat ic 舶来品；外来的；脱衣舞
 ]]></trans>
     <phonetic><![CDATA[[,iɡ'zɔtik]]]></phonetic>
     <tags>GRE</tags>
@@ -14669,6 +14704,9 @@ vi. 发展；张开，展开
     <progress>0</progress>
 </item><item>    <word>expediency</word>
     <trans><![CDATA[n. 方便，权宜；私利 
+        expedient n.  权宜之计, 临时手段 adj.  权宜的, 有用的, 方便的
+        expedite v.  加快, 派出, 促进
+        ex- + foot
 ]]></trans>
     <phonetic><![CDATA[[ik'spi:diənsi,-əns]]]></phonetic>
     <tags>GRE</tags>
@@ -14676,12 +14714,15 @@ vi. 发展；张开，展开
 </item><item>    <word>expedient</word>
     <trans><![CDATA[n. 权宜之计；应急手段 
 adj. 权宜的；方便的；有利的 
+ expedite v.  加快, 派出, 促进
+        ex- + foot
 ]]></trans>
     <phonetic><![CDATA[[ik'spi:diənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>expel</word>
     <trans><![CDATA[vt. 驱逐；开除 
+        ex- + palm
 ]]></trans>
     <phonetic><![CDATA[[ik'spel]]]></phonetic>
     <tags>GRE</tags>
@@ -14700,6 +14741,7 @@ adj. 权宜的；方便的；有利的
     <progress>0</progress>
 </item><item>    <word>expertise</word>
     <trans><![CDATA[n. 专门知识；专门技术；专家的意见 
+        expert vise-
 ]]></trans>
     <phonetic><![CDATA[[,ekspə:'ti:z]]]></phonetic>
     <tags>GRE</tags>
@@ -14707,12 +14749,17 @@ adj. 权宜的；方便的；有利的
 </item><item>    <word>expiate</word>
     <trans><![CDATA[vt. 赎罪；补偿 
 vi. 赎罪；补偿 
+expiation n.  赎罪; 补偿
+pious  adj.  虔诚的
+pure
 ]]></trans>
     <phonetic><![CDATA[['ekspieit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>expiration</word>
     <trans><![CDATA[n. 呼气；终结；届期 
+        expire v.  期满, 断气, 呼气; 呼出
+       ex- "completely" (see ex-) + spirare "to breathe" (see spirit (n.))
 ]]></trans>
     <phonetic><![CDATA[[,ekspi'reiʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -14720,18 +14767,29 @@ vi. 赎罪；补偿
 </item><item>    <word>expire</word>
     <trans><![CDATA[vi. 期满；终止；死亡；呼气 
 vt. 呼出（空气） 
+ ex- "completely" (see ex-) + spirare "to breathe" (see spirit (n.))
 ]]></trans>
     <phonetic><![CDATA[[ik'spaiə, ek-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>explicate</word>
     <trans><![CDATA[vt. 说明，解释 
+        flex-词根：折   flex- flect   reflect v. 反射, 反映,
+plex-词根：叠
+complex  v. 合成的,复杂的 
+ply  n.  一层; 胶合板; 一股; 倾向
+
 ]]></trans>
     <phonetic><![CDATA[['eksplikeit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>explicit</word>
     <trans><![CDATA[adj. 明确的；清楚的；直率的；详述的 
+        flex-词根：折   flex- flect   reflect v. 反射, 反映,
+plex-词根：叠
+complex  v. 合成的,复杂的 
+ply  n.  一层; 胶合板; 一股; 倾向
+
 ]]></trans>
     <phonetic><![CDATA[[ik'splisit]]]></phonetic>
     <tags>GRE</tags>
@@ -14739,6 +14797,7 @@ vt. 呼出（空气）
 </item><item>    <word>exploit</word>
     <trans><![CDATA[n. 勋绩；功绩 
 vt. 开发，开拓；剥削；开采 
+employ  雇佣   employer  employee
 ]]></trans>
     <phonetic><![CDATA[['eksplɔit, ik's-]]]></phonetic>
     <tags>GRE</tags>
@@ -14753,36 +14812,49 @@ adj. 爆炸的；爆炸性的；爆发性的
 </item><item>    <word>exponent</word>
     <trans><![CDATA[n. [数] 指数；典型；说明者，说明物 
 adj. 说明的 
+expound v.  解释; 详细述说
+ "forth" (see ex-) + ponere "to put, place" (see position);
+ 指数：解释解释就容易夸张了，呈指数增长
 ]]></trans>
     <phonetic><![CDATA[[ik'spəunənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>exponentially</word>
     <trans><![CDATA[adv. 以指数方式 
+        expound v.  解释; 详细述说
+ "forth" (see ex-) + ponere "to put, place" (see position);
+  指数：解释解释就容易夸张了，呈指数增长
 ]]></trans>
     <phonetic><![CDATA[[,ekspəu'nenʃəli]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>exposition</word>
     <trans><![CDATA[n. 博览会；阐述；展览会 
+        ex position
 ]]></trans>
     <phonetic><![CDATA[[,ekspəu'ziʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>expository</word>
     <trans><![CDATA[adj. 说明的；解释的；评注的（等于expositive） 
+        ex position
 ]]></trans>
     <phonetic><![CDATA[[ik'spɔzitəri]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>expostulate</word>
     <trans><![CDATA[vi. 劝诫，告诫；忠告 
+        postulate n.  假定, 基本条件
+v.  要求, 假定
 ]]></trans>
     <phonetic><![CDATA[[ik'spɔstjuleit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>exposure</word>
     <trans><![CDATA[n. 暴露；曝光；揭露；陈列 
+        explore 探究；勘探,探测
+  plore-词根：声波
+expose v.暴露；曝光
 ]]></trans>
     <phonetic><![CDATA[[ik'spəuʒə]]]></phonetic>
     <tags>GRE</tags>
@@ -14790,6 +14862,7 @@ adj. 说明的
 </item><item>    <word>expound</word>
     <trans><![CDATA[vt. 解释；详细说明 
 vi. 解释；详细说明 
+ex- "forth" (see ex-) + ponere "to put, place" (see position); with intrusive -d (cf. sound (n.1))
 ]]></trans>
     <phonetic><![CDATA[[ik'spaund]]]></phonetic>
     <tags>GRE</tags>
@@ -14802,12 +14875,16 @@ vi. 解释；详细说明
     <progress>0</progress>
 </item><item>    <word>expunge</word>
     <trans><![CDATA[vt. 擦去；删掉 
+        purge n.  净化, 清除, 从硬盘上删除多余的文件 (计算机用语); 没有 "取消" 选择地消除文件 (计算机用语); 泻药
+v.  使洁净, 使净化; 清洗; 清除; 使通便; 净化; 清洗; 清除; 通便
 ]]></trans>
     <phonetic><![CDATA[[ik'spʌndʒ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>expurgate</word>
     <trans><![CDATA[vt. 删除，删去 
+        purge n.  净化, 清除, 从硬盘上删除多余的文件 (计算机用语); 没有 "取消" 选择地消除文件 (计算机用语); 泻药
+v.  使洁净, 使净化; 清洗; 清除; 使通便; 净化; 清洗; 清除; 通便
 ]]></trans>
     <phonetic><![CDATA[['ekspə:ɡeit]]]></phonetic>
     <tags>GRE</tags>
@@ -14815,18 +14892,25 @@ vi. 解释；详细说明
 </item><item>    <word>exquisite</word>
     <trans><![CDATA[n. 服饰过于讲究的男子 
 adj. 精致的；细腻的；优美的，高雅的；异常的；剧烈的 
+  question n.问题     寻医问药 寻花问柳
+                    金玉良缘 獐头鼠目
+  quest  n.寻求
 ]]></trans>
     <phonetic><![CDATA[['ekskwizit, ek'skwizit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>extant</word>
     <trans><![CDATA[adj. 现存的；显著的 
+        ex+sist= exist存在, 生存
+ex+stand= extant现存的, 未毁的
 ]]></trans>
     <phonetic><![CDATA[[ek'stænt, 'ekstənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>extemporaneous</word>
     <trans><![CDATA[adj. 即席的，临时的；无准备的；不用讲稿的；善于即席讲话的 
+        temporal adj.  时间的; 世间的; 暂存的, 非永恒的, 短暂的; 世俗的#太阳穴的, 颞的
+extempore  adj.  即席的; 当场的
 ]]></trans>
     <phonetic><![CDATA[[ik,stempə'reiniəs]]]></phonetic>
     <tags>GRE</tags>
@@ -14834,6 +14918,8 @@ adj. 精致的；细腻的；优美的，高雅的；异常的；剧烈的
 </item><item>    <word>extemporize</word>
     <trans><![CDATA[vt. 即兴演奏或演说；当场作成 
 vi. 即兴演奏或演说；临时凑合 
+ temporal adj.  时间的; 世间的; 暂存的, 非永恒的, 短暂的; 世俗的#太阳穴的, 颞的
+extempore  adj.  即席的; 当场的
 ]]></trans>
     <phonetic><![CDATA[[ik'stempəraiz]]]></phonetic>
     <tags>GRE</tags>
@@ -14847,18 +14933,25 @@ vi. 延伸；扩大；伸展；使疏开
     <progress>0</progress>
 </item><item>    <word>extenuate</word>
     <trans><![CDATA[vt. 减轻；低估；为…找借口；使人原谅 
+        tenet  n.  教义, 原则, 宗旨
 ]]></trans>
     <phonetic><![CDATA[[ik'stenjueit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>exterminate</word>
     <trans><![CDATA[vt. 消灭；根除 
+        ex term-词根：终点
+  term 学期；期限，条款；术语
+  terminal 终点的   end     terminal
+  （turn转弯）
 ]]></trans>
     <phonetic><![CDATA[[ik'stə:mineit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>externalize</word>
     <trans><![CDATA[vt. 给…以外形；使具体化，使客观化 
+         external  n.  外部; 外面 adj.  外部的, 表面的, 客观的
+         exterior  n.  外部; 外型; 表面 adj.  外部的; 表面的; 外在的
 ]]></trans>
     <phonetic><![CDATA[[ik'stə:nəlaiz]]]></phonetic>
     <tags>GRE</tags>
@@ -14866,30 +14959,42 @@ vi. 延伸；扩大；伸展；使疏开
 </item><item>    <word>extinct</word>
     <trans><![CDATA[adj. 灭绝的，绝种的；熄灭的 
 vt. 使熄灭 
+ex   stinct-词根：刺
+     sting  v. 刺, 刺痛, 针刺
 ]]></trans>
     <phonetic><![CDATA[[ik'stiŋkt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>extinguish</word>
     <trans><![CDATA[vt. 熄灭；压制；偿清 
+        ex   stinct-词根：刺
+     sting  v. 刺, 刺痛, 针刺
 ]]></trans>
     <phonetic><![CDATA[[ik'stiŋɡwiʃ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>extirpation</word>
     <trans><![CDATA[n. 消灭，根除；毁灭 
+        stirps  n.  种族; 家谱; 血统; 祖先
+    stem n.  茎, 柄, 干; 高脚酒杯的脚; 杆, 把; 烟斗柄
 ]]></trans>
     <phonetic><![CDATA[[,ekstə:'peiʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>extol</word>
     <trans><![CDATA[vt. 颂扬；赞美；赞颂 
+        ex tall   exalt  赞扬：赞美
 ]]></trans>
     <phonetic><![CDATA[[ik'stəul]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>extort</word>
     <trans><![CDATA[vt. 敲诈；侵占；强求；牵强地引出 
+        extortion  n.  勒索; 强取; 敲诈
+ex- "out" (see ex-) + torquere "to twist" (see thwart).
+ thwart  n.  横座板, 划手座; 独木舟的横梁
+v.  反对, 横过, 阻碍
+adj.  横放的, 横着的; 执拗的, 固执的
 ]]></trans>
     <phonetic><![CDATA[[ik'stɔ:t]]]></phonetic>
     <tags>GRE</tags>
@@ -14897,12 +15002,17 @@ vt. 使熄灭
 </item><item>    <word>extract</word>
     <trans><![CDATA[n. 汁；摘录；榨出物；选粹 
 vt. 提取；取出；摘录；榨取 
+  drag 拽   tongzhi  dongzi
+  tract-词根：拉扯
+  tractor 拖拉机    
+  attract 吸引 
 ]]></trans>
     <phonetic><![CDATA[[ik'strækt, 'ekstrækt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>extraneous</word>
     <trans><![CDATA[adj. 外来的；没有关联的；来自体外的 
+        strange 陌生的, 生疏的
 ]]></trans>
     <phonetic><![CDATA[[ek'streinjəs]]]></phonetic>
     <tags>GRE</tags>
@@ -14910,48 +15020,61 @@ vt. 提取；取出；摘录；榨取
 </item><item>    <word>extrapolate</word>
     <trans><![CDATA[vt. 外推；推断 
 vi. 外推；进行推断 
+interpolate  窜改, 添写进去, 插入新语句
+    pole  杆子
+    bole  树干
+    bone 骨头
 ]]></trans>
     <phonetic><![CDATA[[ek'stræpəleit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>extravagance</word>
     <trans><![CDATA[n. 奢侈，浪费；过度；放肆的言行 
+        extravagant adj.  奢侈的, 浪费的, 挥霍无度的
+a "outside of" (see extra-) + vagari "wander, roam" (see vague)
+vague adj.  含糊的, 茫然的, 不清楚的
 ]]></trans>
     <phonetic><![CDATA[[ik'strævəɡəns,-ɡənsi]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>extremist</word>
     <trans><![CDATA[n. 极端主义者，过激分子 
+        exterior  n.  外部; 外型; 表面
 ]]></trans>
     <phonetic><![CDATA[[ik'stri:mist]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>extricable</word>
     <trans><![CDATA[adj. 可解救的；可救出的 
+        extract
 ]]></trans>
     <phonetic><![CDATA[['ekstrikəbl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>extricate</word>
     <trans><![CDATA[vt. 使解脱；解救；使游离 
+        extract
 ]]></trans>
     <phonetic><![CDATA[['ekstrikeit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>extrovert</word>
     <trans><![CDATA[n. 外向；外倾者；性格外向者（等于extravert） 
+        versus  prep.  对; 与...相对
 ]]></trans>
     <phonetic><![CDATA[['ekstrəuvə:t, ,ekstrə'və:t]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>exuberance</word>
     <trans><![CDATA[n. 丰富，茂盛；健康 
+        uber  n. 乳房
 ]]></trans>
     <phonetic><![CDATA[[iɡ'zju:bərəns,-ənsi]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>exuberant</word>
     <trans><![CDATA[adj. 繁茂的；生气勃勃的，充溢的 
+        uber  n. 乳房
 ]]></trans>
     <phonetic><![CDATA[[iɡ'zju:bərənt]]]></phonetic>
     <tags>GRE</tags>
@@ -14959,30 +15082,35 @@ vi. 外推；进行推断
 </item><item>    <word>exude</word>
     <trans><![CDATA[vt. 散发；流出；使渗出 
 vi. 流出；渗出；发散 
+sudare 网络释义  流汗
 ]]></trans>
     <phonetic><![CDATA[[iɡ'zju:d]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>exult</word>
     <trans><![CDATA[vi. 狂喜，欢欣鼓舞；非常高兴 
+        no
 ]]></trans>
     <phonetic><![CDATA[[iɡ'zʌlt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>fabric</word>
     <trans><![CDATA[n. 织物；布；组织；构造；建筑物 
+        fable  n.  寓言; 谎言; 神话
 ]]></trans>
     <phonetic><![CDATA[['fæbrik]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>fabricate</word>
     <trans><![CDATA[vt. 制造；伪造；装配 
+        fable  n.  寓言; 谎言; 神话
 ]]></trans>
     <phonetic><![CDATA[['fæbrikeit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>facade</word>
     <trans><![CDATA[n. 正面；表面；外观 
+        face
 ]]></trans>
     <phonetic><![CDATA[[fə'sɑ:d]]]></phonetic>
     <tags>GRE</tags>
@@ -14996,12 +15124,14 @@ vt. 在…上琢面
     <progress>0</progress>
 </item><item>    <word>facetious</word>
     <trans><![CDATA[adj. 诙谐的；爱开玩笑的；滑稽的 
+        facet 小面
 ]]></trans>
     <phonetic><![CDATA[[fə'si:ʃəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>facile</word>
     <trans><![CDATA[adj. 温和的；灵巧的；易做到的 
+        facility 容易
 ]]></trans>
     <phonetic><![CDATA[['fæsail]]]></phonetic>
     <tags>GRE</tags>
@@ -15020,6 +15150,7 @@ vt. 在…上琢面
     <progress>0</progress>
 </item><item>    <word>faction</word>
     <trans><![CDATA[n. 派别；内讧；小集团；纪实小说 
+        no
 ]]></trans>
     <phonetic><![CDATA[[fækʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -15032,6 +15163,7 @@ vt. 在…上琢面
     <progress>0</progress>
 </item><item>    <word>factotum</word>
     <trans><![CDATA[n. 家务总管；杂役；杂工 
+        no
 ]]></trans>
     <phonetic><![CDATA[['fæktəutəm]]]></phonetic>
     <tags>GRE</tags>
@@ -15044,18 +15176,23 @@ vt. 在…上琢面
     <progress>0</progress>
 </item><item>    <word>faculty</word>
     <trans><![CDATA[n. 科，系；能力；全体教员 
+        facile adj.  温和的, 灵巧的, 容易的
 ]]></trans>
     <phonetic><![CDATA[['fækəlti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>fad</word>
     <trans><![CDATA[n. 时尚；一时的爱好；一时流行的狂热 
+        夜半钟声dock船
+        六千fad无颜色
 ]]></trans>
     <phonetic><![CDATA[[fæd]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>faddish</word>
     <trans><![CDATA[adj. 风行的；流行一时的 
+        夜半钟声dock船
+        六千fad无颜色
 ]]></trans>
     <phonetic><![CDATA[['fædiʃ]]]></phonetic>
     <tags>GRE</tags>
@@ -15071,30 +15208,38 @@ vt. 使褪色
     <progress>0</progress>
 </item><item>    <word>falcon</word>
     <trans><![CDATA[n. [鸟] 猎鹰；[鸟] 隼 
+        no
 ]]></trans>
     <phonetic><![CDATA[['fælkən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>fallacious</word>
     <trans><![CDATA[adj. 谬误的；骗人的；靠不住的；不合理的 
+        true  a.真的；正确的
+        false  a.假的；谬误的
+        fallacy 谬误, 谬论
 ]]></trans>
     <phonetic><![CDATA[[fə'leiʃəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>fallacy</word>
     <trans><![CDATA[n. 谬论，谬误 
+        true  a.真的；正确的
+        false  a.假的；谬误的
 ]]></trans>
     <phonetic><![CDATA[['fæleisi]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>fallibility</word>
     <trans><![CDATA[n. 易误；不可靠；出错性 
+        false  a.假的；谬误的
 ]]></trans>
     <phonetic><![CDATA[[,fælə'biləti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>fallible</word>
     <trans><![CDATA[adj. 易犯错误的；不可靠的 
+        false  a.假的；谬误的
 ]]></trans>
     <phonetic><![CDATA[['fæləbl]]]></phonetic>
     <tags>GRE</tags>
@@ -15103,12 +15248,14 @@ vt. 使褪色
     <trans><![CDATA[n. 休耕地；休耕 
 adj. 休耕的；不活跃的 
 vt. 使（土地）休闲；潜伏 
+fall  秋天; 瀑布; 落下   ---秋天休耕
 ]]></trans>
     <phonetic><![CDATA[['fæləu]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>falsehood</word>
     <trans><![CDATA[n. 说谎；假话；不真实；错误的信仰 
+        -hood 成人，人的状态  错误，虚妄  姐妹关系
 ]]></trans>
     <phonetic><![CDATA[['fɔ:lshud]]]></phonetic>
     <tags>GRE</tags>
