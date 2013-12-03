@@ -15264,6 +15264,7 @@ fall  秋天; 瀑布; 落下   ---秋天休耕
     <trans><![CDATA[n. 踌躇；支吾；颤抖 
 vi. 支吾；蹒跚地走 
 vt. 支吾地说；结巴地讲出 
+fold 折叠
 ]]></trans>
     <phonetic><![CDATA[['fɔ:ltə]]]></phonetic>
     <tags>GRE</tags>
@@ -15276,6 +15277,7 @@ vt. 支吾地说；结巴地讲出
     <progress>0</progress>
 </item><item>    <word>famine</word>
     <trans><![CDATA[n. 饥荒；饥饿，奇缺 
+        (as)‘发迷’，饿晕了
 ]]></trans>
     <phonetic><![CDATA[['fæmin]]]></phonetic>
     <tags>GRE</tags>
@@ -15283,6 +15285,7 @@ vt. 支吾地说；结巴地讲出
 </item><item>    <word>famish</word>
     <trans><![CDATA[vt. 使挨饿 
 vi. 挨饿 
+famine
 ]]></trans>
     <phonetic><![CDATA[['feimiʃ]]]></phonetic>
     <tags>GRE</tags>
@@ -15290,6 +15293,7 @@ vi. 挨饿
 </item><item>    <word>fanatic</word>
     <trans><![CDATA[n. 狂热入迷者；盲信者；盲信 
 adj. 狂热的；盲信的 
+fans
 ]]></trans>
     <phonetic><![CDATA[[fə'nætik]]]></phonetic>
     <tags>GRE</tags>
@@ -15297,6 +15301,7 @@ adj. 狂热的；盲信的
 </item><item>    <word>fang</word>
     <trans><![CDATA[n. （犬，狼等的）尖牙；[解剖] 牙根；（毒蛇的）毒牙；尖端 
 vt. 灌水引动（水泵） 
+no
 ]]></trans>
     <phonetic><![CDATA[[fæŋ]]]></phonetic>
     <tags>GRE</tags>
@@ -15306,12 +15311,14 @@ vt. 灌水引动（水泵）
 adj. 虚幻的 
 vt. 空想；想像 
 vi. 耽于幻想；奏幻想曲（等于phantasy） 
+fancy   n.幻想  a.幻想的；奇特的  v.迷住
 ]]></trans>
     <phonetic><![CDATA[['fæntəsi]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>farce</word>
     <trans><![CDATA[n. 闹剧；胡闹；笑剧 
+        far  闹剧传千里
 ]]></trans>
     <phonetic><![CDATA[[fɑ:s]]]></phonetic>
     <tags>GRE</tags>
@@ -15320,14 +15327,9 @@ vi. 耽于幻想；奏幻想曲（等于phantasy）
     <trans><![CDATA[n. 告别，辞别；再见；再会 
 adj. 告别的 
 int. 别了！（常含有永别或不容易再见面的意思）；再会！ 
+fare  n.  费用; 食物; 旅客 v.  进展, 经营, 进步
 ]]></trans>
     <phonetic><![CDATA[['fεə'wel]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
-</item><item>    <word>far-reaching</word>
-    <trans><![CDATA[adj. 深远的；广泛的；伸至远处的 
-]]></trans>
-    <phonetic><![CDATA[['fɑ:'ri:tʃiŋ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>fast</word>
@@ -15348,6 +15350,7 @@ vi. 扣紧；抓住；集中注意力
     <progress>0</progress>
 </item><item>    <word>fastidious</word>
     <trans><![CDATA[adj. 挑剔的；苛求的，难取悦的；（微生物等）需要复杂营养地 
+        fast 禁食，斋戒；很快的
 ]]></trans>
     <phonetic><![CDATA[[fæs'tidiəs]]]></phonetic>
     <tags>GRE</tags>
@@ -15365,17 +15368,17 @@ vi. 扣紧；抓住；集中注意力
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>fathom</word>
-    <trans><![CDATA[n. 英寻（测量水深的长度单位） 
+    <trans><![CDATA[n. 深度单位; 寻
 vt. 看穿；彻底了解；测量…的深度 
+far
 ]]></trans>
     <phonetic><![CDATA[['fæðəm]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>fatigue</word>
     <trans><![CDATA[n. 疲劳，疲乏；杂役 
-adj. 疲劳的 
-vt. 使疲劳；使心智衰弱 
-vi. 疲劳 
+adj. 疲劳的 vt. 使疲劳；使心智衰弱 vi. 疲劳 
+faint v.晕
 ]]></trans>
     <phonetic><![CDATA[[fə'ti:ɡ]]]></phonetic>
     <tags>GRE</tags>
@@ -15389,18 +15392,21 @@ vi. 养肥；（靠…）发财
     <progress>0</progress>
 </item><item>    <word>fatuity</word>
     <trans><![CDATA[n. 昏庸；愚昧；愚蠢的言行 
+        越fat越愚蠢
 ]]></trans>
     <phonetic><![CDATA[[fə'tju(:)iti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>fatuous</word>
     <trans><![CDATA[adj. 愚笨的；昏庸的；发呆的；自满的 
+        越fat越愚蠢
 ]]></trans>
     <phonetic><![CDATA[['fætjuəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>faucet</word>
     <trans><![CDATA[n. 旋塞；插口 
+        no
 ]]></trans>
     <phonetic><![CDATA[['fɔ:sit]]]></phonetic>
     <tags>GRE</tags>
@@ -15415,6 +15421,7 @@ vi. 弄错；产生断层
     <progress>0</progress>
 </item><item>    <word>faultfinder</word>
     <trans><![CDATA[n. 挑剔；吹毛求疵的人 
+        fault + finder
 ]]></trans>
     <phonetic><![CDATA[['fɔ:ltfaində]]]></phonetic>
     <tags>GRE</tags>
@@ -15430,12 +15437,14 @@ vi. 弄错；产生断层
 n. 小鹿；浅黄褐色；小动物 
 adj. 浅黄褐色的 
 vt. 生（小鹿或小动物） 
+fain  adj.  乐意的; 只得...; 不得不的 adv.  欣然, 乐意
 ]]></trans>
     <phonetic><![CDATA[[fɔ:n]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>faze</word>
     <trans><![CDATA[vt. 打扰；使狼狈；折磨 
+        no
 ]]></trans>
     <phonetic><![CDATA[[feiz]]]></phonetic>
     <tags>GRE</tags>
@@ -15449,6 +15458,11 @@ vt. 生（小鹿或小动物）
 </item><item>    <word>feat</word>
     <trans><![CDATA[n. 功绩，壮举；技艺表演 
 adj. 合适的；灵巧的 
+for fact
+   fect
+   fict
+   fic
+   fit
 ]]></trans>
     <phonetic><![CDATA[[fi:t]]]></phonetic>
     <tags>GRE</tags>
@@ -15463,12 +15477,14 @@ vi. 起重要作用
     <progress>0</progress>
 </item><item>    <word>feckless</word>
     <trans><![CDATA[adj. 无效的；软弱的；没精神的；不负责任的；无气力的 
+        effect
 ]]></trans>
     <phonetic><![CDATA[['feklis]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>fecundity</word>
     <trans><![CDATA[n. [生物] 繁殖力；多产；肥沃 
+        fecund adj.  多产的, 肥沃的, 丰饶的
 ]]></trans>
     <phonetic><![CDATA[[fi'kʌnditi]]]></phonetic>
     <tags>GRE</tags>
@@ -15482,6 +15498,7 @@ vi. 起重要作用
 </item><item>    <word>feign</word>
     <trans><![CDATA[vt. 假装；装作；捏造；想象 
 vi. 假装；装作；作假；佯作 
+feint  n.  伪装, 假托, 假装
 ]]></trans>
     <phonetic><![CDATA[[fein]]]></phonetic>
     <tags>GRE</tags>
@@ -15504,6 +15521,8 @@ adj. 假的
     <progress>0</progress>
 </item><item>    <word>felicitous</word>
     <trans><![CDATA[adj. 恰当的；善于措辞的；幸福的 
+        felicity  n.  快乐, 幸运, 幸福
+        fecund  [fe·cund || 'fɪːkənd] adj.  多产的, 肥沃的, 丰饶的
 ]]></trans>
     <phonetic><![CDATA[[fi'lisitəs]]]></phonetic>
     <tags>GRE</tags>
@@ -15513,18 +15532,21 @@ adj. 假的
 v. 掉下；摔倒；下垂；变坏（fall的过去式） 
 adj. 凶猛的；毁灭性的 
 vt. 砍伐；打倒；击倒 
+fall
 ]]></trans>
     <phonetic><![CDATA[[fel]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>felon</word>
     <trans><![CDATA[n. [法] 重罪犯；瘭疽；恶棍 
+        no
 ]]></trans>
     <phonetic><![CDATA[['felən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>felony</word>
     <trans><![CDATA[n. 重罪 
+        no
 ]]></trans>
     <phonetic><![CDATA[['feləni]]]></phonetic>
     <tags>GRE</tags>
@@ -15532,12 +15554,16 @@ vt. 砍伐；打倒；击倒
 </item><item>    <word>feminist</word>
     <trans><![CDATA[n. 男女平等主义者 
 adj. 主张男女平等的 
+　female
+ woman  feminine  妇女(似)的, 娇柔的
+        masculine  男性的, 男子气概的
 ]]></trans>
     <phonetic><![CDATA[['feminist]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>fender</word>
     <trans><![CDATA[n. （汽车等的）挡泥板；防卫物；（暖炉的）炉围；（船只的）碰垫 
+        defender n.  防卫者; 辩护者; 拥护者
 ]]></trans>
     <phonetic><![CDATA[['fendə]]]></phonetic>
     <tags>GRE</tags>
@@ -15552,12 +15578,14 @@ adj. 主张男女平等的
     <trans><![CDATA[vt. 使发酵；酝酿；使动乱 
 vi. 发酵；动乱 
 n. 发酵；酵素；动乱 
+warm
 ]]></trans>
     <phonetic><![CDATA[[fə:'ment, 'fə:ment]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>fern</word>
     <trans><![CDATA[n. [植] 蕨；[植] 蕨类植物 
+        no
 ]]></trans>
     <phonetic><![CDATA[[fə:n]]]></phonetic>
     <tags>GRE</tags>
@@ -15566,12 +15594,14 @@ n. 发酵；酵素；动乱
     <trans><![CDATA[n. 雪貂；白鼬；侦探 
 vi. 搜索，侦破 
 vt. 搜出，查获；驱出；用雪貂猎取 
+no
 ]]></trans>
     <phonetic><![CDATA[['ferit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>ferrous</word>
     <trans><![CDATA[adj. [化学] 亚铁的；铁的，含铁的 
+        fire +on=iron 
 ]]></trans>
     <phonetic><![CDATA[['ferəs]]]></phonetic>
     <tags>GRE</tags>
@@ -15579,30 +15609,39 @@ vt. 搜出，查获；驱出；用雪貂猎取
 </item><item>    <word>fertile</word>
     <trans><![CDATA[n. 肥沃，多产 
 adj. 富饶的，肥沃的；能生育的 
+bear 熊；生育
+fer-词根:生育
 ]]></trans>
     <phonetic><![CDATA[['fə:tail]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>fertilize</word>
     <trans><![CDATA[vt. 使受精；使肥沃 
+        bear 熊；生育
+fer-词根:生育
 ]]></trans>
     <phonetic><![CDATA[['fə:tilaiz]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>fertilizer</word>
     <trans><![CDATA[n. [肥料] 肥料；受精媒介物；促进发展者 
+        bear 熊；生育
+fer-词根:生育
 ]]></trans>
     <phonetic><![CDATA[['fə:tilaizə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>fervid</word>
     <trans><![CDATA[adj. 热的；热心的 
+           fever 发烧
+   fev
 ]]></trans>
     <phonetic><![CDATA[['fə:vid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>fervor</word>
     <trans><![CDATA[n. 热情；热烈；热心；炽热 
+        fever 发烧
 ]]></trans>
     <phonetic><![CDATA[['fə:və]]]></phonetic>
     <tags>GRE</tags>
@@ -15611,6 +15650,7 @@ adj. 富饶的，肥沃的；能生育的
     <trans><![CDATA[n. 溃烂；脓疮，脓疱 
 vt. 使……溃烂；使……痛苦；使……恶化 
 vi. 溃烂；化脓 
+no
 ]]></trans>
     <phonetic><![CDATA[['festə]]]></phonetic>
     <tags>GRE</tags>
@@ -15623,6 +15663,8 @@ vi. 溃烂；化脓
     <progress>0</progress>
 </item><item>    <word>fetid</word>
     <trans><![CDATA[adj. 臭的；恶臭的；腐臭的 
+        foot
+        feet
 ]]></trans>
     <phonetic><![CDATA[[fetid]]]></phonetic>
     <tags>GRE</tags>
@@ -15630,12 +15672,14 @@ vi. 溃烂；化脓
 </item><item>    <word>fetter</word>
     <trans><![CDATA[n. 束缚；羁绊；脚镣 
 vt. 束缚；加脚镣 
+feet
 ]]></trans>
     <phonetic><![CDATA[['fetə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>fetus</word>
     <trans><![CDATA[n. 胎儿，胎 
+        fecund  adj.  多产的, 肥沃的, 丰饶的
 ]]></trans>
     <phonetic><![CDATA[['fi:təs]]]></phonetic>
     <tags>GRE</tags>
@@ -15643,12 +15687,14 @@ vt. 束缚；加脚镣
 </item><item>    <word>feud</word>
     <trans><![CDATA[n. 不和；争执；封地 
 vi. 长期不和；长期争斗 
+foe n.  仇敌, 敌人, 反对者
 ]]></trans>
     <phonetic><![CDATA[[fju:d]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>fiasco</word>
     <trans><![CDATA[n. 惨败 
+        no
 ]]></trans>
     <phonetic><![CDATA[[fi'æskəu]]]></phonetic>
     <tags>GRE</tags>
@@ -15656,18 +15702,20 @@ vi. 长期不和；长期争斗
 </item><item>    <word>fiat</word>
     <trans><![CDATA[n. 命令；许可；政法 
 vt. 批准；颁布 
+factitious adj.  人为的, 人工的, 不自然的
 ]]></trans>
     <phonetic><![CDATA[['faiət]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>fickle</word>
-    <trans><![CDATA[adj. 浮躁的；易变的；变幻无常的 
+    <trans><![CDATA[adj. 浮躁的；易变的；变幻无常的     
 ]]></trans>
     <phonetic><![CDATA[['fikl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>fictitious</word>
     <trans><![CDATA[adj. 虚构的；假想的；编造的；假装的 
+        fiction 虚构, 编造, 小说
 ]]></trans>
     <phonetic><![CDATA[[fik'tiʃəs]]]></phonetic>
     <tags>GRE</tags>
@@ -15676,6 +15724,7 @@ vt. 批准；颁布
     <trans><![CDATA[n. 烦躁；坐立不安；烦躁不安的人 
 vt. 使不安；使烦乱 
 vi. 烦躁；坐立不安；玩弄 
+fuck
 ]]></trans>
     <phonetic><![CDATA[['fidʒit]]]></phonetic>
     <tags>GRE</tags>
@@ -15683,30 +15732,37 @@ vi. 烦躁；坐立不安；玩弄
 </item><item>    <word>fig</word>
     <trans><![CDATA[n. 无花果；无花果树；少许，一些；无价值的东西；服装 
 vt. 打扮；使马跑快 
+no
 ]]></trans>
     <phonetic><![CDATA[[fiɡ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>figment</word>
     <trans><![CDATA[n. 虚构的事；臆造的事物 
+        fiction 虚构, 编造, 小说
+fict-    pigment [生]色素, 颜料
+fig-     picture 绘画
 ]]></trans>
     <phonetic><![CDATA[['fiɡmənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>figurative</word>
     <trans><![CDATA[adj. 比喻的；修饰丰富的；形容多的 
+         figure n.  图形, 形状, 数字
 ]]></trans>
     <phonetic><![CDATA[['fiɡjurətiv]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>figurehead</word>
     <trans><![CDATA[n. 破浪神；有名无实的领袖；装饰船头的人像 
+        figure (n.) + head (n.)
 ]]></trans>
     <phonetic><![CDATA[['fiɡəhed]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>figurine</word>
     <trans><![CDATA[n. 小雕像，小塑像 
+        figure
 ]]></trans>
     <phonetic><![CDATA[['fiɡjuri:n]]]></phonetic>
     <tags>GRE</tags>
@@ -15723,6 +15779,7 @@ vi. 列队行进；用锉刀锉
     <trans><![CDATA[n. 海盗；暴兵，掠夺兵；阻挠议事的议员；阻挠议事的行动 
 vt. 阻碍议案通过 
 vi. 掠夺；阻饶议事 
+no
 ]]></trans>
     <phonetic><![CDATA[['filibʌstə]]]></phonetic>
     <tags>GRE</tags>
@@ -15731,18 +15788,22 @@ vi. 掠夺；阻饶议事
     <trans><![CDATA[n. 金银丝细工；金银丝工艺品 
 adj. 饰有金银丝细工的 
 vt. 用金银丝细工饰品装饰 
+"thread" (see file (v.)) + granum "grain" (see corn )
 ]]></trans>
     <phonetic><![CDATA[['filiɡri:]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>filings</word>
     <trans><![CDATA[n. [机] 锉屑；锉末 
+        no
 ]]></trans>
     <phonetic><![CDATA[['failiŋz]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>filly</word>
     <trans><![CDATA[n. 小雌马，小母马（通常未满四岁）；活泼的小姑娘 
+        foal  n.  驹
+        "few, little" (see few).
 ]]></trans>
     <phonetic><![CDATA[['fili]]]></phonetic>
     <tags>GRE</tags>
@@ -15757,6 +15818,7 @@ vi. 滤过；渗入；慢慢传开
     <progress>0</progress>
 </item><item>    <word>filth</word>
     <trans><![CDATA[n. 污秽；肮脏；猥亵；不洁 
+        foul  n.  犯规; 缠绕
 ]]></trans>
     <phonetic><![CDATA[[filθ]]]></phonetic>
     <tags>GRE</tags>
@@ -15771,12 +15833,15 @@ vi. 滤过；渗入；慢慢传开
     <trans><![CDATA[n. 策略；纤细；灵巧 
 vt. 巧妙处理；以偷牌方式先出 
 vi. 偷牌；施展巧计 
+ "subtle, delicate" (see fine (adj.)).
 ]]></trans>
     <phonetic><![CDATA[[fi'nes]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>finicky</word>
     <trans><![CDATA[adj. 过分讲究的；过分注意的；过分繁琐的 
+        fine  精细的  refine  精练
+finical 过分注意的, 过分讲究的, 过分周到的
 ]]></trans>
     <phonetic><![CDATA[['finiki]]]></phonetic>
     <tags>GRE</tags>
@@ -15784,6 +15849,7 @@ vi. 偷牌；施展巧计
 </item><item>    <word>finite</word>
     <trans><![CDATA[n. 有限之物 
 adj. 有限的；限定的 
+finish
 ]]></trans>
     <phonetic><![CDATA[['fainait]]]></phonetic>
     <tags>GRE</tags>
@@ -15802,6 +15868,7 @@ adj. 有限的；限定的
     <progress>0</progress>
 </item><item>    <word>fiscal</word>
     <trans><![CDATA[adj. 会计的，财政的；国库的 
+        no
 ]]></trans>
     <phonetic><![CDATA[[fiskəl]]]></phonetic>
     <tags>GRE</tags>
@@ -15809,7 +15876,7 @@ adj. 有限的；限定的
 </item><item>    <word>fissure</word>
     <trans><![CDATA[n. 裂缝；裂沟（尤指岩石上的） 
 vt. 裂开；分裂 
-vi. 裂开；分裂 
+no
 ]]></trans>
     <phonetic><![CDATA[['fiʃə]]]></phonetic>
     <tags>GRE</tags>
@@ -15817,12 +15884,14 @@ vi. 裂开；分裂
 </item><item>    <word>fixate</word>
     <trans><![CDATA[vt. 注视…；使固定 
 vi. 注视；固定下来 
+fix + at
 ]]></trans>
     <phonetic><![CDATA[['fikseit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>flaccid</word>
     <trans><![CDATA[adj. [医] 弛缓的；软弱的；无活力的 
+        no
 ]]></trans>
     <phonetic><![CDATA[['flæksid]]]></phonetic>
     <tags>GRE</tags>
@@ -15844,7 +15913,7 @@ v. 悬旗于（flag的现在分词）
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>flaggy</word>
-    <trans><![CDATA[adj. 多菖蒲的；多扁石的；凋萎的 
+    <trans><![CDATA[adj.凋萎的 , 多菖蒲的；多扁石的；
 ]]></trans>
     <phonetic><![CDATA[['flæɡi]]]></phonetic>
     <tags>GRE</tags>
@@ -15853,19 +15922,22 @@ v. 悬旗于（flag的现在分词）
     <trans><![CDATA[n. 连枷（打谷物用的工具） 
 vt. 打；用连枷打 
 vi. 打；用连枷打 
+no
 ]]></trans>
     <phonetic><![CDATA[[fleil]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>flak</word>
     <trans><![CDATA[n. 高射炮；抨击；谴责 
+      no
 ]]></trans>
     <phonetic><![CDATA[[fleik]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>flamboyant</word>
-    <trans><![CDATA[adj. 艳丽的；火焰似的；炫耀的 
+    <trans><![CDATA[adj. 艳丽的；火焰似的；炫耀的         
 n. 凤凰木 
+flame
 ]]></trans>
     <phonetic><![CDATA[['flæm'bɔiənt]]]></phonetic>
     <tags>GRE</tags>
@@ -15873,6 +15945,7 @@ n. 凤凰木
 </item><item>    <word>flammable</word>
     <trans><![CDATA[n. 易燃物 
 adj. 易燃的；可燃的；可燃性的 
+flame
 ]]></trans>
     <phonetic><![CDATA[['flæməbl]]]></phonetic>
     <tags>GRE</tags>
@@ -15880,6 +15953,8 @@ adj. 易燃的；可燃的；可燃性的
 </item><item>    <word>flange</word>
     <trans><![CDATA[n. [机] 法兰；[古生][机] 凸缘；轮缘；边缘 
 vt. 给…装凸缘 
+flank  n.  侧面, 胁, 侧腹 v.  攻击侧面, 守侧面, 面临着
+link 
 ]]></trans>
     <phonetic><![CDATA[[flændʒ]]]></phonetic>
     <tags>GRE</tags>
@@ -15888,18 +15963,23 @@ vt. 给…装凸缘
     <trans><![CDATA[n. 闪光，闪耀；耀斑；爆发；照明弹 
 vi. 闪耀，闪光；燃烧；突然发怒 
 vt. 使闪耀；使张开；用发光信号发出；使外倾 
+no
 ]]></trans>
     <phonetic><![CDATA[[flεə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>flask</word>
     <trans><![CDATA[n. [分化] 烧瓶；长颈瓶，细颈瓶；酒瓶，携带瓶 
+        flax  n.  亚麻; 亚麻织品; 麻布 ----烧瓶向细长的植物
+        ply  n.  一层; 胶合板; 一股; 倾向
+        flay v.  剥皮; 抢夺; 去皮
 ]]></trans>
     <phonetic><![CDATA[[flɑ:sk]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>flatcar</word>
     <trans><![CDATA[n. 无盖货车；平台型铁路货车 
+        no
 ]]></trans>
     <phonetic><![CDATA[['flæt,kɑ:]]]></phonetic>
     <tags>GRE</tags>
@@ -15907,12 +15987,17 @@ vt. 使闪耀；使张开；用发光信号发出；使外倾
 </item><item>    <word>flatten</word>
     <trans><![CDATA[vt. 击败，摧毁；使……平坦 
 vi. 变平；变单调 
+flat n.  平面, 平坦部分; 浅滩; 沼地; 泄了气的轮胎#一层; 公寓大楼; 公寓房间
 ]]></trans>
     <phonetic><![CDATA[['flætn]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>flatter</word>
     <trans><![CDATA[vt. 奉承；谄媚；使高兴 
+        blow 吹
+        flute 长笛, 笛状物  lute 琵琶
+        flate-词根：吹   inflate  
+                       deflate 
 ]]></trans>
     <phonetic><![CDATA[['flætə]]]></phonetic>
     <tags>GRE</tags>
@@ -15921,6 +16006,10 @@ vi. 变平；变单调
     <trans><![CDATA[n. 瑕疵，裂纹；缺点；一阵狂风 
 vt. 使无效；使破裂，使有缺陷 
 vi. 生裂缝，变的有缺陷 
+break 破裂，破碎
+frag-词根：破
+frag-词根：破碎
+flaw   
 ]]></trans>
     <phonetic><![CDATA[[flɔ:]]]></phonetic>
     <tags>GRE</tags>
@@ -15934,12 +16023,15 @@ vi. 生裂缝，变的有缺陷
 </item><item>    <word>fledge</word>
     <trans><![CDATA[vt. 装上羽毛 
 vi. 长羽毛 
+fly
 ]]></trans>
     <phonetic><![CDATA[[fledʒ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>fledgling</word>
     <trans><![CDATA[n. 无经验的人；刚会飞的幼鸟 
+        fledge  v.  喂养, 装上羽毛, 用羽毛盖上; 长羽毛
+        fly
 ]]></trans>
     <phonetic><![CDATA[['fledʒliŋ]]]></phonetic>
     <tags>GRE</tags>
