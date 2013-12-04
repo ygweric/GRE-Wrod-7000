@@ -19998,12 +19998,14 @@ vi. 点火；燃烧
     <progress>0</progress>
 </item><item>    <word>ignominious</word>
     <trans><![CDATA[adj. 可耻的；下流的 
+        ignoble adj. 不光彩的；卑鄙的；卑贱的 
 ]]></trans>
     <phonetic><![CDATA[[,iɡnəu'miniəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>3</progress>
 </item><item>    <word>ignominy</word>
     <trans><![CDATA[n. 耻辱；不体面；丑行 
+        ignoble adj. 不光彩的；卑鄙的；卑贱的 
 ]]></trans>
     <phonetic><![CDATA[['iɡnəmini]]]></phonetic>
     <tags>GRE</tags>
@@ -20031,13 +20033,18 @@ vt. 认做私生子；认为违法
     <progress>0</progress>
 </item><item>    <word>illicit</word>
     <trans><![CDATA[adj. 违法的；不正当的 
-]]></trans>
+          legal 合法的
+         licence 
+  ]]></trans>
     <phonetic><![CDATA[[i'lisit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>illiterate</word>
     <trans><![CDATA[n. 文盲 
 adj. 文盲的；不识字的；没受教育的 
+  letter 字母，文字
+  liter-词根：文字
+  literate a.认字的
 ]]></trans>
     <phonetic><![CDATA[[i'litərət]]]></phonetic>
     <tags>GRE</tags>
@@ -20045,18 +20052,22 @@ adj. 文盲的；不识字的；没受教育的
 </item><item>    <word>illuminate</word>
     <trans><![CDATA[vt. 阐明，说明；照亮；使灿烂；用灯装饰 
 vi. 照亮 
+'一路明'
 ]]></trans>
     <phonetic><![CDATA[[i'lju:mineit]]]></phonetic>
     <tags>GRE</tags>
     <progress>5</progress>
 </item><item>    <word>illuminati</word>
     <trans><![CDATA[n. 先觉者 
+        '一路明'
 ]]></trans>
     <phonetic><![CDATA[[i,lu:mi'nɑ:ti:]]]></phonetic>
     <tags>GRE</tags>
     <progress>4</progress>
 </item><item>    <word>illusion</word>
     <trans><![CDATA[n. 幻觉，错觉；错误的观念或信仰 
+        ludicrous  adj.  可笑的, 荒唐的, 滑稽的
+        ill+ 
 ]]></trans>
     <phonetic><![CDATA[[i'lju:ʒən]]]></phonetic>
     <tags>GRE</tags>
@@ -20075,12 +20086,15 @@ vi. 照亮
     <progress>0</progress>
 </item><item>    <word>imbibe</word>
     <trans><![CDATA[vt. 吸收，接受；喝；吸入 
+        　pipe 管子
 ]]></trans>
     <phonetic><![CDATA[[im'baib]]]></phonetic>
     <tags>GRE</tags>
     <progress>5</progress>
 </item><item>    <word>imbroglio</word>
     <trans><![CDATA[n. 纠葛；纷乱；纷扰 
+        broil  n.  烤炙食品; 灼热; 烤, 炙; 激动#争吵, 打架; 混乱
+        brew  n.  酿造酒, 酝酿
 ]]></trans>
     <phonetic><![CDATA[[im'brəuljəu]]]></phonetic>
     <tags>GRE</tags>
@@ -20094,54 +20108,78 @@ adj. 人造的，仿制的
     <progress>5</progress>
 </item><item>    <word>imitative</word>
     <trans><![CDATA[adj. 模仿的；仿制的 
+        imagine  v.想象
+image n.形象，像
 ]]></trans>
     <phonetic><![CDATA[['imitətiv]]]></phonetic>
     <tags>GRE</tags>
     <progress>4</progress>
 </item><item>    <word>immaculate</word>
     <trans><![CDATA[adj. 完美的；洁净的；无瑕疵的 
+        spring 春天，泉，弹簧
+        sprinkle  v.撒(某物)于(某物之表面
+        speckle 
+        　speckle
+        maculate  adj.有斑点的
 ]]></trans>
     <phonetic><![CDATA[[i'mækjulət]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>immanent</word>
     <trans><![CDATA[adj. 内在的；固有的 
+         (see in- (2)) + manere "to dwell" (see manor)
+         manor n.  领地; 庄园
+         men- "to remain" (see mansion)
+          mansion n.  大厦; 公寓; 官邸
 ]]></trans>
     <phonetic><![CDATA[['imənənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>immemorial</word>
     <trans><![CDATA[adj. 远古的，古老的；无法追忆的 
+         (see in- (1)) + memorialis (see memorial).
+         memory
 ]]></trans>
     <phonetic><![CDATA[[,imi'mɔ:riəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>immense</word>
     <trans><![CDATA[adj. 巨大的，广大的；无边无际的；非常好的 
+         mens-词根：测量
+   mend-词根：测量   tremendous极大的, 巨大的
+   metre  meter 
 ]]></trans>
     <phonetic><![CDATA[[i'mens]]]></phonetic>
     <tags>GRE</tags>
     <progress>4</progress>
 </item><item>    <word>immensity</word>
     <trans><![CDATA[n. 巨大；无限；广大 
+         mens-词根：测量
+   mend-词根：测量   tremendous极大的, 巨大的
+   metre  meter 
 ]]></trans>
     <phonetic><![CDATA[[i'mensəti]]]></phonetic>
     <tags>GRE</tags>
     <progress>2</progress>
 </item><item>    <word>immerse</word>
     <trans><![CDATA[vt. 沉浸；使陷入 
+        " (see in- (2)) + Latin mergere "plunge, dip" (see merge). 
 ]]></trans>
     <phonetic><![CDATA[[i'mə:s]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>imminent</word>
     <trans><![CDATA[adj. 即将来临的；迫近的 
+          mountain  山
+  min-词根：凸起
+  eminent 凸出的；杰出的
 ]]></trans>
     <phonetic><![CDATA[['iminənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>immolate</word>
     <trans><![CDATA[vt. 献祭；牺牲；为供神而宰杀 
+        no
 ]]></trans>
     <phonetic><![CDATA[['iməuleit]]]></phonetic>
     <tags>GRE</tags>
@@ -20149,24 +20187,28 @@ adj. 人造的，仿制的
 </item><item>    <word>immune</word>
     <trans><![CDATA[n. 免疫者；免除者 
 adj. 免疫的；免于……的，免除的 
+ communicate 交流
 ]]></trans>
     <phonetic><![CDATA[[i'mju:n]]]></phonetic>
     <tags>GRE</tags>
     <progress>5</progress>
 </item><item>    <word>immunity</word>
     <trans><![CDATA[n. 免疫力；豁免权；免除 
+         communicate 交流
 ]]></trans>
     <phonetic><![CDATA[[i'mju:nəti]]]></phonetic>
     <tags>GRE</tags>
     <progress>3</progress>
 </item><item>    <word>immunize</word>
     <trans><![CDATA[vt. 使免疫；赋予免疫性 
+         communicate 交流
 ]]></trans>
     <phonetic><![CDATA[['imju:naiz]]]></phonetic>
     <tags>GRE</tags>
     <progress>3</progress>
 </item><item>    <word>immure</word>
     <trans><![CDATA[vt. 把…嵌在墙上；监禁，禁闭 
+        no
 ]]></trans>
     <phonetic><![CDATA[[i'mjuə]]]></phonetic>
     <tags>GRE</tags>
@@ -20200,12 +20242,14 @@ vi. 冲击；产生影响
     <progress>0</progress>
 </item><item>    <word>impalpable</word>
     <trans><![CDATA[adj. 感触不到的；难理解的；无形的 
+        palpable  adj.  可触知的, 明显的
 ]]></trans>
     <phonetic><![CDATA[[im'pælpəbl]]]></phonetic>
     <tags>GRE</tags>
     <progress>2</progress>
 </item><item>    <word>impart</word>
     <trans><![CDATA[vt. 给予（尤指抽象事物），传授；告知，透露 
+        part
 ]]></trans>
     <phonetic><![CDATA[[im'pɑ:t]]]></phonetic>
     <tags>GRE</tags>
@@ -20218,6 +20262,7 @@ vi. 冲击；产生影响
     <progress>0</progress>
 </item><item>    <word>impasse</word>
     <trans><![CDATA[n. 僵局；死路 
+        im- + pass
 ]]></trans>
     <phonetic><![CDATA[[im'pɑ:s]]]></phonetic>
     <tags>GRE</tags>
@@ -20238,30 +20283,44 @@ v. 使充满激情（impassion的过去式和过去分词）
 </item><item>    <word>impeach</word>
     <trans><![CDATA[n. 控告，检举；弹劾；怀疑 
 vt. 弹劾；归咎；怀疑 
+     plea 恳求
+   appeal 恳求，上诉
+   appeal控诉
+     peach 控诉
 ]]></trans>
     <phonetic><![CDATA[[im'pi:tʃ]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>impeccable</word>
-    <trans><![CDATA[adj. 无瑕疵的；没有缺点的 
+    <trans><![CDATA[adj. 无瑕疵的；没有缺点的         
+          spring 春天，喷泉
+  sprinkle v.撒
+  speckle  小的斑点, 褐斑, 斑点
+  peccable 有瑕疵的；犯过罪的
 ]]></trans>
     <phonetic><![CDATA[[im'pekəbl]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>impecunious</word>
     <trans><![CDATA[adj. 没有钱的；贫穷的 
+        pecuniary  [pe·cu·ni·ar·y || pɪ'kjuːnɪerɪ /-nɪərɪ]
+adj.  金钱的, 课罚款的, 金钱上的
+penny
 ]]></trans>
     <phonetic><![CDATA[[,impi'kju:njəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>impede</word>
     <trans><![CDATA[vt. 阻碍；妨碍；阻止 
+          foot  feet
+  pod-词根：足  ped-词根：足
 ]]></trans>
     <phonetic><![CDATA[[im'pi:d]]]></phonetic>
     <tags>GRE</tags>
     <progress>3</progress>
 </item><item>    <word>impediment</word>
     <trans><![CDATA[n. 口吃；妨碍；阻止 
+        pod-词根：足  ped-词根：足
 ]]></trans>
     <phonetic><![CDATA[[im'pedimənt]]]></phonetic>
     <tags>GRE</tags>
@@ -20281,6 +20340,8 @@ v. 迫近；悬空（impend的现在分词）
     <progress>5</progress>
 </item><item>    <word>impenetrable</word>
     <trans><![CDATA[adj. 不能通过的；顽固的；费解的；不接纳的 
+        penetrate 刺穿，穿透，看穿
+         pend-词根：挂
 ]]></trans>
     <phonetic><![CDATA[[im'penitrəbl]]]></phonetic>
     <tags>GRE</tags>
@@ -20288,6 +20349,7 @@ v. 迫近；悬空（impend的现在分词）
 </item><item>    <word>impenitent</word>
     <trans><![CDATA[n. 顽固的人；不知悔改的人 
 adj. 顽固的；不知悔改的 
+ pend-词根：挂
 ]]></trans>
     <phonetic><![CDATA[[im'penitənt]]]></phonetic>
     <tags>GRE</tags>
@@ -20295,6 +20357,7 @@ adj. 顽固的；不知悔改的
 </item><item>    <word>imperative</word>
     <trans><![CDATA[n. 需要；命令；祈使语气；规则 
 adj. 必要的，势在必行的；命令的；紧急的 
+empire  n.帝国, 帝权
 ]]></trans>
     <phonetic><![CDATA[[im'perətiv]]]></phonetic>
     <tags>GRE</tags>
@@ -20302,60 +20365,81 @@ adj. 必要的，势在必行的；命令的；紧急的
 </item><item>    <word>imperial</word>
     <trans><![CDATA[n. 纸张尺寸；特等品 
 adj. 帝国的；皇帝的；至高无上的；威严的 
+  pare
+emperor皇帝, 君主
 ]]></trans>
     <phonetic><![CDATA[[im'piəriəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>imperious</word>
     <trans><![CDATA[adj. 专横的；迫切的；傲慢的 
+          pare
+emperor皇帝, 君主
 ]]></trans>
     <phonetic><![CDATA[[im'piəriəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>impermanent</word>
     <trans><![CDATA[adj. 暂时的；非永久的 
+        permanent永久的, 持久的
 ]]></trans>
     <phonetic><![CDATA[[im'pə:mənənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>impermeable</word>
     <trans><![CDATA[adj. 不渗透性的；（对水等）不能渗透的 
+        permeate  v.  弥漫, 充满, 渗透; 透入
 ]]></trans>
     <phonetic><![CDATA[[im'pə:miəbl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>impersonate</word>
     <trans><![CDATA[vt. 扮演；模仿；拟人，人格化 
+        person
 ]]></trans>
     <phonetic><![CDATA[[im'pə:səneit, im'pə:sənit, -neit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>impertinence</word>
     <trans><![CDATA[n. 鲁莽，无理；不恰当 
+        pertinent  adj.  相关的, 切题的, 中肯的
+pertain  v.  属于, 附属, 关于
+ per- "through" (see per) + tenere "to hold" (see tenet). 
+ tenet  n.  教义, 原则, 宗旨
 ]]></trans>
     <phonetic><![CDATA[[im'pə:tinəns,-nənsi]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>imperturbable</word>
     <trans><![CDATA[adj. 冷静的；泰然自若的 
+             trouble 麻烦；打扰
+   disturb v.打搅
+   perturb v. 感到不安
 ]]></trans>
     <phonetic><![CDATA[[,impə'tə:bəbl]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>impervious</word>
     <trans><![CDATA[adj. 不受影响的，无动于衷的；不能渗透的 
+          pervious
+   de+way+ate= deviate v.脱轨，偏离
 ]]></trans>
     <phonetic><![CDATA[[im'pə:viəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>impetuous</word>
     <trans><![CDATA[adj. 冲动的；鲁莽的；猛烈的 
+          palm
+          pel
+          impetus  n.推动力
 ]]></trans>
     <phonetic><![CDATA[[im'petjuəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>impetus</word>
     <trans><![CDATA[n. 动力；促进；冲力 
+          palm
+            pel
 ]]></trans>
     <phonetic><![CDATA[['impitəs]]]></phonetic>
     <tags>GRE</tags>
@@ -20363,6 +20447,8 @@ adj. 帝国的；皇帝的；至高无上的；威严的
 </item><item>    <word>impinge</word>
     <trans><![CDATA[vi. 撞击；侵犯 
 vt. 撞击 
+in- "into, in, on, upon" (see in- (2)) + pangere "to fix, fasten" (see pact).
+pact  n.  契约, 条约, 协定
 ]]></trans>
     <phonetic><![CDATA[[im'pindʒ]]]></phonetic>
     <tags>GRE</tags>
@@ -20371,12 +20457,16 @@ vt. 撞击
     <trans><![CDATA[n. [医] 植入物；植入管 
 vt. 种植；灌输；嵌入 
 vi. 被移植 
+plant
 ]]></trans>
     <phonetic><![CDATA[[im'plɑ:nt, -'plænt, 'implɑ:nt, -plænt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>implausible</word>
     <trans><![CDATA[adj. 难以置信的，不像真实的 
+        plausible  adj.  貌似真实的, 貌似有理的; 花言巧语的; 貌似可信的
+        plaudit  n.  拍手喝采, 赞美, 称赞
+        (also in applaud, explode)
 ]]></trans>
     <phonetic><![CDATA[[im'plɔ:zəbl]]]></phonetic>
     <tags>GRE</tags>
@@ -20410,6 +20500,7 @@ vt. 暗示；使牵连其中；含有…的意思
 </item><item>    <word>implode</word>
     <trans><![CDATA[vt. 使内爆 
 vi. 向内破裂；内爆 
+explode
 ]]></trans>
     <phonetic><![CDATA[[im'pləud]]]></phonetic>
     <tags>GRE</tags>
@@ -20417,6 +20508,7 @@ vi. 向内破裂；内爆
 </item><item>    <word>implore</word>
     <trans><![CDATA[vt. 恳求或乞求 
 vi. 恳求或乞求 
+no
 ]]></trans>
     <phonetic><![CDATA[[im'plɔ:]]]></phonetic>
     <tags>GRE</tags>
@@ -20430,6 +20522,7 @@ vi. 恳求或乞求
 </item><item>    <word>imponderable</word>
     <trans><![CDATA[adj. 无重量的；无法计算的 
 n. 无法衡量的事物 
+pound
 ]]></trans>
     <phonetic><![CDATA[[im'pɔndərəbl]]]></phonetic>
     <tags>GRE</tags>
@@ -20445,6 +20538,7 @@ vi. 输入，进口
 </item><item>    <word>importune</word>
     <trans><![CDATA[vt. 强求；一再向某人要求 
 vi. 强求；胡搅蛮缠 
+in- "not, opposite of" (see in- (1)) + portus "harbor港湾" (see port (n.1)). 
 ]]></trans>
     <phonetic><![CDATA[[im'pɔ:tju:n, ,impɔ:'tju:n]]]></phonetic>
     <tags>GRE</tags>
@@ -20465,6 +20559,7 @@ adj. （建筑物等）壮观的；威风的；（仪表）堂堂的；给人深
     <progress>3</progress>
 </item><item>    <word>hallowed</word>
     <trans><![CDATA[adj. 神圣的，神圣化的 
+        from PIE root *kailo- "whole, uninjured, of good omen" (see health).
 ]]></trans>
     <phonetic><![CDATA[['hæləud]]]></phonetic>
     <tags>GRE</tags>
@@ -20472,6 +20567,9 @@ adj. （建筑物等）壮观的；威风的；（仪表）堂堂的；给人深
 </item><item>    <word>corrode</word>
     <trans><![CDATA[vt. 侵蚀；损害 
 vi. 受腐蚀；起腐蚀作用 
+ from com-, intensive prefix (see com-), + rodere "to gnaw" (see rodent). 
+ rodent  n.  啮齿动物
+ rat
 ]]></trans>
     <phonetic><![CDATA[[kə'rəud]]]></phonetic>
     <tags>GRE</tags>
@@ -20479,6 +20577,11 @@ vi. 受腐蚀；起腐蚀作用
 </item><item>    <word>illustrate</word>
     <trans><![CDATA[vi. 举例 
 vt. 阐明，举例说明；图解 
+luster 光彩，光泽，光亮
+ lux-力士
+ luxury  奢侈，华贵
+ lux-词根：光明
+ luc lus
 ]]></trans>
     <phonetic><![CDATA[['iləstreit]]]></phonetic>
     <tags>GRE</tags>
@@ -20486,18 +20589,22 @@ vt. 阐明，举例说明；图解
 </item><item>    <word>hankering</word>
     <trans><![CDATA[n. 渴望；向往 
 v. 渴望（hanker的ing形式） 
+hanker  v.  渴望, 追求
+hang  n.  悬挂的方式; 中止; 暂停
 ]]></trans>
     <phonetic><![CDATA[['hæŋkəriŋ]]]></phonetic>
     <tags>GRE</tags>
     <progress>3</progress>
 </item><item>    <word>heretical</word>
     <trans><![CDATA[adj. 异端的；异教的 
+        heresy [her·e·sy || 'herəsɪ] 异端, 异教
 ]]></trans>
     <phonetic><![CDATA[[hi'retikəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>expeditious</word>
     <trans><![CDATA[adj. 迅速的；敏捷的 
+        speed 速度
 ]]></trans>
     <phonetic><![CDATA[[,ekspi'diʃəs]]]></phonetic>
     <tags>GRE</tags>
@@ -20505,6 +20612,7 @@ v. 渴望（hanker的ing形式）
 </item><item>    <word>generalize</word>
     <trans><![CDATA[vi. 形成概念 
 vt. 概括；推广；使...一般化 
+general
 ]]></trans>
     <phonetic><![CDATA[['dʒenərəlaiz]]]></phonetic>
     <tags>GRE</tags>
@@ -20517,12 +20625,16 @@ vt. 概括；推广；使...一般化
     <progress>2</progress>
 </item><item>    <word>imbue</word>
     <trans><![CDATA[vt. 灌输；使感染；使渗透 
+        　pipe 管子
+        imbibe v.吸收
+        imbue使吸入(水分等)，浸染；使充满，灌输，激发
 ]]></trans>
     <phonetic><![CDATA[[im'bju:]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>euphoria</word>
     <trans><![CDATA[n. 精神欢快，[临床] 欣快；兴高采烈；欣快症；幸福愉快感 
+           from eu "well" (see eu-) + pherein "to carry" (see infer).
 ]]></trans>
     <phonetic><![CDATA[[ju:'fɔ:riə]]]></phonetic>
     <tags>GRE</tags>
@@ -20531,42 +20643,44 @@ vt. 概括；推广；使...一般化
     <trans><![CDATA[n. 吃吃的笑 
 vt. 咯咯地笑着说 
 vi. 傻笑；咯咯地笑 
+拟声词
 ]]></trans>
     <phonetic><![CDATA[['ɡiɡl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
-</item><item>    <word>heavy-handed</word>
-    <trans><![CDATA[adj. 严厉的；笨手笨脚的；手辣的 
-]]></trans>
-    <phonetic><![CDATA[['hevi'hændid]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>4</progress>
 </item><item>    <word>impostor</word>
     <trans><![CDATA[n. 骗子；冒充者 
+        impose v.强迫；施影响；欺骗
 ]]></trans>
     <phonetic><![CDATA[[im'pɔstə]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>imposture</word>
     <trans><![CDATA[n. 欺诈，欺骗；冒牌 
+        impose v.强迫；施影响；欺骗
 ]]></trans>
     <phonetic><![CDATA[[im'pɔstʃə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>impoverish</word>
     <trans><![CDATA[vt. 使贫穷；使枯竭 
+        poor
 ]]></trans>
     <phonetic><![CDATA[[im'pɔvəriʃ]]]></phonetic>
     <tags>GRE</tags>
     <progress>2</progress>
 </item><item>    <word>impregnable</word>
     <trans><![CDATA[adj. 无法攻取的；不受影响的；要塞坚固的；可以受孕的 
+        pregnable adj.  可攻击的; 可受孕的; 易受攻击的
 ]]></trans>
     <phonetic><![CDATA[[im'preɡnəbl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>impresario</word>
     <trans><![CDATA[n. （意）（歌剧、乐团等的）演出者；经理人；乐队指挥，导演 
+        in- "into, in, on, onto" (see in- (2)) + prehendere "to grasp" (see prehensile).
+        prehensile  adj.  适于抓住的
+        prae- "before" (see pre-) + -hendere, 
 ]]></trans>
     <phonetic><![CDATA[[,impri'sɑ:riəu]]]></phonetic>
     <tags>GRE</tags>
@@ -20598,14 +20712,17 @@ vt. 加特征；刻上记号
     <progress>3</progress>
 </item><item>    <word>impromptu</word>
     <trans><![CDATA[n. 即兴曲；即席演出 
-adj. 即席的 
-adv. 即席地 
+adj. 即席的 adv. 即席地 
+  promote  v.促进；提升
+  prompt v.促进； a.敏捷的 
 ]]></trans>
     <phonetic><![CDATA[[im'prɔmptju:]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>improvident</word>
     <trans><![CDATA[adj. 浪费的；无远见的；无先见之明的 
+        provident  adj.  有先见之明的, 节俭的, 有远虑的
+        provide
 ]]></trans>
     <phonetic><![CDATA[[im'prɔvidənt]]]></phonetic>
     <tags>GRE</tags>
@@ -20619,18 +20736,23 @@ vi. 即兴创作；即兴表演；临时凑合
     <progress>0</progress>
 </item><item>    <word>imprudent</word>
     <trans><![CDATA[adj. 轻率的，鲁莽的；不小心的 
+           provident有远见的
+           prudent  a.谨慎的，审慎的
 ]]></trans>
     <phonetic><![CDATA[[im'pru:dənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>impudent</word>
     <trans><![CDATA[adj. 无耻的；鲁莽的；放肆无礼的 
+        pudendum  [pu·den·dum || pjuː'dendəm] n.  外生殖器, 外阴
 ]]></trans>
     <phonetic><![CDATA[['impjudənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>impugn</word>
     <trans><![CDATA[vt. 责难；驳斥 
+          fight 打
+  punch拳击：用拳头猛击
 ]]></trans>
     <phonetic><![CDATA[[im'pju:n]]]></phonetic>
     <tags>GRE</tags>
