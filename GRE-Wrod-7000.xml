@@ -19187,6 +19187,7 @@ heir
 </item><item>    <word>heretic</word>
     <trans><![CDATA[adj. 异端的；异教的 
 n. 异教徒，异端者 
+no
 ]]></trans>
     <phonetic><![CDATA[['herətik]]]></phonetic>
     <tags>GRE</tags>
@@ -19194,6 +19195,7 @@ n. 异教徒，异端者
 </item><item>    <word>hermetic</word>
     <trans><![CDATA[n. 炼金术士 
 adj. 密封的；与外界隔绝的；不透气的；炼金术的 
+no
 ]]></trans>
     <phonetic><![CDATA[[hə:'metik]]]></phonetic>
     <tags>GRE</tags>
@@ -19206,12 +19208,17 @@ adj. 密封的；与外界隔绝的；不透气的；炼金术的
     <progress>2</progress>
 </item><item>    <word>herpetologist</word>
     <trans><![CDATA[n. 爬虫学者 
+        herpetology n.  爬虫学
+        "to creep" (see serpent) + logia (see -logy).
+        serpent n.  蛇, 狡猾的人, 蛇一般的人
 ]]></trans>
     <phonetic><![CDATA[[,hə:pə'tɔlədʒist]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>heterodox</word>
     <trans><![CDATA[adj. 异端的；非正统的 
+        orient 
+        orthodox adj.  正统的, 惯常的, 传统的
 ]]></trans>
     <phonetic><![CDATA[['hetərəudɔks]]]></phonetic>
     <tags>GRE</tags>
@@ -19219,6 +19226,7 @@ adj. 密封的；与外界隔绝的；不透气的；炼金术的
 </item><item>    <word>hew</word>
     <trans><![CDATA[vt. 砍；劈；砍倒 
 vi. 砍；劈；坚持 
+no
 ]]></trans>
     <phonetic><![CDATA[[hju:]]]></phonetic>
     <tags>GRE</tags>
@@ -19226,12 +19234,14 @@ vi. 砍；劈；坚持
 </item><item>    <word>hexagon</word>
     <trans><![CDATA[n. 六角形，六边形 
 adj. 成六角的；成六边的 
+hex "six" (see hexa-) + gonia "angle" (see knee (n.)
 ]]></trans>
     <phonetic><![CDATA[['heksəɡən]]]></phonetic>
     <tags>GRE</tags>
     <progress>2</progress>
 </item><item>    <word>hiatus</word>
     <trans><![CDATA[n. 裂缝，空隙；脱漏部分 
+        no
 ]]></trans>
     <phonetic><![CDATA[[hai'eitəs]]]></phonetic>
     <tags>GRE</tags>
@@ -19252,12 +19262,14 @@ vi. 隐藏
     <progress>5</progress>
 </item><item>    <word>hidebound</word>
     <trans><![CDATA[adj. 死板的；保守的；顽固的；墨守成规的 
+         from hide (n.1) + past tense of bind (v.)
 ]]></trans>
     <phonetic><![CDATA[['haidbaund]]]></phonetic>
     <tags>GRE</tags>
     <progress>2</progress>
 </item><item>    <word>hideous</word>
     <trans><![CDATA[adj. 可怕的；丑恶的 
+        no
 ]]></trans>
     <phonetic><![CDATA[['hidiəs]]]></phonetic>
     <tags>GRE</tags>
@@ -19265,6 +19277,7 @@ vi. 隐藏
 </item><item>    <word>hie</word>
     <trans><![CDATA[vt. 催促；快走；使赶紧 
 vi. 赶快；催促 
+拟声词
 ]]></trans>
     <phonetic><![CDATA[[hai]]]></phonetic>
     <tags>GRE</tags>
@@ -19277,6 +19290,7 @@ vi. 赶快；催促
     <progress>0</progress>
 </item><item>    <word>hieroglyph</word>
     <trans><![CDATA[n. 象形文字；图画文字；秘密符号 
+        hier-higher  graph-词根：写、画
 ]]></trans>
     <phonetic><![CDATA[['haiərəuɡlif]]]></phonetic>
     <tags>GRE</tags>
@@ -19284,6 +19298,7 @@ vi. 赶快；催促
 </item><item>    <word>hieroglyphic</word>
     <trans><![CDATA[n. 象形文字；象形文字写的文章 
 adj. 象形文字的；难解的 
+hier-higher  graph-词根：写、画
 ]]></trans>
     <phonetic><![CDATA[[,haiərəu'ɡlifik]]]></phonetic>
     <tags>GRE</tags>
@@ -19291,6 +19306,8 @@ adj. 象形文字的；难解的
 </item><item>    <word>highbrow</word>
     <trans><![CDATA[n. 卖弄知识的人；知识分子 
 adj. 不切实际的；自炫博学的；知识分子的 
+from high (adj.) + brow (cf. also lowbrow).
+brow  n.  额头; 面容, 表情; 眉毛; 悬崖边缘, 峭壁顶端
 ]]></trans>
     <phonetic><![CDATA[['haibrau]]]></phonetic>
     <tags>GRE</tags>
@@ -19305,6 +19322,7 @@ vi. 远足；徒步旅行；上升
     <progress>5</progress>
 </item><item>    <word>hilarious</word>
     <trans><![CDATA[adj. 欢闹的；非常滑稽的；喜不自禁的 
+        hilarity n.  欢喜
 ]]></trans>
     <phonetic><![CDATA[[hi'lεəriəs]]]></phonetic>
     <tags>GRE</tags>
@@ -19312,7 +19330,8 @@ vi. 远足；徒步旅行；上升
 </item><item>    <word>hinder</word>
     <trans><![CDATA[vt. 阻碍；打扰 
 adj. 后面的 
-vi. 成为阻碍 
+vi. 成为阻碍
+no 
 ]]></trans>
     <phonetic><![CDATA[['hində]]]></phonetic>
     <tags>GRE</tags>
@@ -19321,12 +19340,14 @@ vi. 成为阻碍
     <trans><![CDATA[n. 铰链；枢纽；关键 
 vi. 依…而转移 
 vt. 给…安装铰链 
+hang
 ]]></trans>
     <phonetic><![CDATA[[hindʒ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>hirsute</word>
     <trans><![CDATA[adj. 多毛的；[昆] 有粗毛的 
+        horror
 ]]></trans>
     <phonetic><![CDATA[['hə:sju:t]]]></phonetic>
     <tags>GRE</tags>
@@ -19334,12 +19355,15 @@ vt. 给…安装铰链
 </item><item>    <word>hiss</word>
     <trans><![CDATA[n. 嘘声；嘶嘶声 
 vi. 发出嘘声；发嘘声 
+拟声词
 ]]></trans>
     <phonetic><![CDATA[[his]]]></phonetic>
     <tags>GRE</tags>
     <progress>3</progress>
 </item><item>    <word>histology</word>
     <trans><![CDATA[n. 组织学 
+        from histo- + -ology.
+        histo- 或 hist-  组织发生 身体组织：
 ]]></trans>
     <phonetic><![CDATA[[his'tɔlədʒi]]]></phonetic>
     <tags>GRE</tags>
@@ -19347,12 +19371,15 @@ vi. 发出嘘声；发嘘声
 </item><item>    <word>histrionic</word>
     <trans><![CDATA[n. 演员 
 adj. 戏剧的；演员的，表演的 
+no
 ]]></trans>
     <phonetic><![CDATA[[,histri'ɔnik]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>hitherto</word>
     <trans><![CDATA[adv. 迄今；至今 
+        hither这里
+here 
 ]]></trans>
     <phonetic><![CDATA[[,hiðə'tu:]]]></phonetic>
     <tags>GRE</tags>
@@ -19361,6 +19388,7 @@ adj. 戏剧的；演员的，表演的
     <trans><![CDATA[n. 蜂房，蜂巢；热闹的场所；熙攘喧闹的人群 
 vi. 群居；入蜂房；生活在蜂房中 
 vt. 入蜂箱；贮备 
+cave 洞
 ]]></trans>
     <phonetic><![CDATA[[haiv]]]></phonetic>
     <tags>GRE</tags>
@@ -19369,12 +19397,15 @@ vt. 入蜂箱；贮备
     <trans><![CDATA[n. 贮藏物 
 vt. 贮藏 
 vi. 积聚钱财；贮藏货物 
+hide 藏
+huddle  拥挤, 卷缩
 ]]></trans>
     <phonetic><![CDATA[[hɔ:d]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>hoary</word>
-    <trans><![CDATA[adj. 久远的，古老的；灰白的 
+    <trans><![CDATA[adj.灰白的 ; 久远的，古老的；
+        no
 ]]></trans>
     <phonetic><![CDATA[['hɔ:ri]]]></phonetic>
     <tags>GRE</tags>
@@ -19382,6 +19413,10 @@ vi. 积聚钱财；贮藏货物
 </item><item>    <word>hoax</word>
     <trans><![CDATA[n. 骗局；恶作剧 
 vt. 愚弄；欺骗 
+cock 公鸡；阴茎；水龙头
+31 62  傻diao 
+cock -----傻子
+coax哄诱，巧言哄诱
 ]]></trans>
     <phonetic><![CDATA[[həuks]]]></phonetic>
     <tags>GRE</tags>
@@ -19389,6 +19424,7 @@ vt. 愚弄；欺骗
 </item><item>    <word>hodgepodge</word>
     <trans><![CDATA[n. 大杂烩；混煮；一团糟 
 vt. 使混乱 
+no
 ]]></trans>
     <phonetic><![CDATA[['hɔdʒpɔdʒ]]]></phonetic>
     <tags>GRE</tags>
@@ -19397,6 +19433,7 @@ vt. 使混乱
     <trans><![CDATA[n. 锄头 
 vi. 用锄耕地 
 vt. 锄，用锄头 
+no
 ]]></trans>
     <phonetic><![CDATA[[həu]]]></phonetic>
     <tags>GRE</tags>
@@ -19404,7 +19441,8 @@ vt. 锄，用锄头
 </item><item>    <word>hoist</word>
     <trans><![CDATA[n. 起重机；升起，吊起 
 vt. （用绳索，起重机等）使升起 
-vi. 升起；吊起 
+vi. 升起；吊起
+no 
 ]]></trans>
     <phonetic><![CDATA[[hɔist]]]></phonetic>
     <tags>GRE</tags>
@@ -19419,36 +19457,43 @@ vt. 持有；拥有；保存；拘留；约束或控制
     <progress>5</progress>
 </item><item>    <word>holster</word>
     <trans><![CDATA[n. 手枪皮套 
+        no
 ]]></trans>
     <phonetic><![CDATA[['həulstə]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>homage</word>
     <trans><![CDATA[n. 敬意；尊敬；效忠 
+        no
 ]]></trans>
     <phonetic><![CDATA[['hɔmidʒ]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>homeostasis</word>
     <trans><![CDATA[n. [生理] 体内平衡；[自] 内稳态 
+        from homeo- + Greek stasis "standing still" (see stasis). 
+        homeo- 或 homoio-  象；相似：
 ]]></trans>
     <phonetic><![CDATA[[,həumiəu'steisis]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>homiletics</word>
     <trans><![CDATA[n. 讲道术，说教术 
+        homily  n.  说教; 布道; 训诫
 ]]></trans>
     <phonetic><![CDATA[[,hɔmi'letiks]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>homogeneity</word>
     <trans><![CDATA[n. 同质；同种；同次性（等于homogeneousness） 
+        homeo- 或 homoio-  象；相似：
 ]]></trans>
     <phonetic><![CDATA[[,hɔməudʒe'ni:əti, ,həu-]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>homogeneous</word>
     <trans><![CDATA[adj. 均匀的；[数] 齐次的；同种的 
+        homeo- 或 homoio-  象；相似：
 ]]></trans>
     <phonetic><![CDATA[[,hɔmə'dʒi:niəs, ,həu-]]]></phonetic>
     <tags>GRE</tags>
@@ -19456,6 +19501,7 @@ vt. 持有；拥有；保存；拘留；约束或控制
 </item><item>    <word>homogenize</word>
     <trans><![CDATA[vt. 使均匀；使类同 
 vi. 变均匀 
+homeo- 或 homoio-  象；相似：
 ]]></trans>
     <phonetic><![CDATA[[hɔ'mɔdʒənaiz]]]></phonetic>
     <tags>GRE</tags>
@@ -19463,18 +19509,24 @@ vi. 变均匀
 </item><item>    <word>hone</word>
     <trans><![CDATA[n. 磨刀石；想念；抱怨 
 vt. 用磨刀石磨 
+no
 ]]></trans>
     <phonetic><![CDATA[[həun]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>honorarium</word>
     <trans><![CDATA[n. 报酬，酬金；谢礼 
+        honor
 ]]></trans>
     <phonetic><![CDATA[[,ɔnə'rεəriəm]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>hoodwink</word>
     <trans><![CDATA[vt. 蒙蔽；欺骗；遮眼 
+         from hood (n.1) + wink;
+         hood n.  风帽; 兜帽; 似风帽的东西#头巾
+        hat
+        wink n.  眨眼, 瞬间, 使眼色
 ]]></trans>
     <phonetic><![CDATA[['hudwiŋk]]]></phonetic>
     <tags>GRE</tags>
@@ -19483,6 +19535,7 @@ vt. 用磨刀石磨
     <trans><![CDATA[n. 蹄；人的脚 
 vt. 用蹄踢；步行 
 vi. 步行；踢；跳舞 
+(as)foot 反过来
 ]]></trans>
     <phonetic><![CDATA[[hu:f]]]></phonetic>
     <tags>GRE</tags>
@@ -19491,6 +19544,7 @@ vi. 步行；踢；跳舞
     <trans><![CDATA[n. 箍；铁环；呼呼声 
 vt. 加箍于；包围 
 vi. 发呼呼声 
+(as)oooooooooo
 ]]></trans>
     <phonetic><![CDATA[[hu:p]]]></phonetic>
     <tags>GRE</tags>
@@ -19504,6 +19558,7 @@ adj. 水平的；地平线的；同一阶层的
     <progress>5</progress>
 </item><item>    <word>hormone</word>
     <trans><![CDATA[n. [生理] 激素，荷尔蒙 
+        拟声词
 ]]></trans>
     <phonetic><![CDATA[['hɔ:məun]]]></phonetic>
     <tags>GRE</tags>
@@ -19511,24 +19566,33 @@ adj. 水平的；地平线的；同一阶层的
 </item><item>    <word>horn</word>
     <trans><![CDATA[n. 喇叭，号角；角 
 vt. 装角于 
+corn 玉米
+horn 牛角
 ]]></trans>
     <phonetic><![CDATA[[hɔ:n]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>horrific</word>
     <trans><![CDATA[adj. 可怕的；令人毛骨悚然的 
+        terrify 
+        hair
+        horror 恐怖
+        terror  恐怖, 可怕的人
 ]]></trans>
     <phonetic><![CDATA[[hɔ'rifik]]]></phonetic>
     <tags>GRE</tags>
     <progress>4</progress>
 </item><item>    <word>hortative</word>
     <trans><![CDATA[adj. 劝告的；奖励的 
+        hortatory  adj.  劝告的, 忠告的; 勉励性的, 激励性的
 ]]></trans>
     <phonetic><![CDATA[['hɔ:tətiv]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>horticulture</word>
     <trans><![CDATA[n. 园艺，园艺学 
+        " (see yard (n.1)) + cultura (see culture); 
+        hort.园艺（学）的
 ]]></trans>
     <phonetic><![CDATA[['hɔ:tikʌltʃə]]]></phonetic>
     <tags>GRE</tags>
@@ -19555,6 +19619,7 @@ adj. 敌对的，敌方的；怀敌意的
 </item><item>    <word>hovel</word>
     <trans><![CDATA[n. 小屋；栅舍；茅舍 
 vt. 使…住在茅屋；把…拴入棚舍 
+no
 ]]></trans>
     <phonetic><![CDATA[['hɔvəl, 'hʌ-]]]></phonetic>
     <tags>GRE</tags>
@@ -19563,6 +19628,7 @@ vt. 使…住在茅屋；把…拴入棚舍
     <trans><![CDATA[n. 徘徊；盘旋；犹豫 
 vi. 盘旋，翱翔；徘徊 
 vt. 孵；徘徊在…近旁 
+hawk  n.  鹰, 隼; 骗子; 贪婪的家伙; 鹰派人物, 主战派成员
 ]]></trans>
     <phonetic><![CDATA[['hɔvə, 'hʌ-]]]></phonetic>
     <tags>GRE</tags>
@@ -19575,6 +19641,7 @@ vt. 孵；徘徊在…近旁
     <progress>4</progress>
 </item><item>    <word>hubris</word>
     <trans><![CDATA[n. 傲慢；狂妄自大 
+        no
 ]]></trans>
     <phonetic><![CDATA[['hju:bris]]]></phonetic>
     <tags>GRE</tags>
@@ -19583,12 +19650,14 @@ vt. 孵；徘徊在…近旁
     <trans><![CDATA[n. 叫卖的小贩；小商人；吃广告饭的人 
 vt. 叫卖；讨价还价 
 vi. 叫卖；做小商贩 
+hawk  n.  鹰, 隼; 骗子; 贪婪的家伙; 鹰派人物, 主战派成员
 ]]></trans>
     <phonetic><![CDATA[['hʌkstə]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>hue</word>
     <trans><![CDATA[n. 色彩；色度；叫声 
+        (as) hu(虎)e(饿)
 ]]></trans>
     <phonetic><![CDATA[[hju:]]]></phonetic>
     <tags>GRE</tags>
@@ -19596,6 +19665,8 @@ vi. 叫卖；做小商贩
 </item><item>    <word>hulk</word>
     <trans><![CDATA[n. 废船；笨重的船；船体 
 vi. 庞然大物般出现；赫然显现 
+hull 船体；（果实的）外壳
+hold
 ]]></trans>
     <phonetic><![CDATA[[hʌlk]]]></phonetic>
     <tags>GRE</tags>
@@ -19603,19 +19674,24 @@ vi. 庞然大物般出现；赫然显现
 </item><item>    <word>hull</word>
     <trans><![CDATA[n. 船体；（果实的）外壳 
 vt. [粮食] 去壳 
+hold
 ]]></trans>
     <phonetic><![CDATA[[hʌl]]]></phonetic>
     <tags>GRE</tags>
     <progress>2</progress>
 </item><item>    <word>humane</word>
     <trans><![CDATA[adj. 仁慈的，人道的；高尚的 
+        human
 ]]></trans>
     <phonetic><![CDATA[[hju:'mein]]]></phonetic>
     <tags>GRE</tags>
     <progress>4</progress>
 </item><item>    <word>humble</word>
     <trans><![CDATA[adj. 谦卑的，谦虚的，谦恭的，恭顺的；(等级、身份、重要性等)低下的；粗劣的，粗陋的；微末的 
-vt. 使谦恭，使谦卑；使温顺：；压下…的锐气，使威风扫地： 
+vt. 使谦恭，使谦卑；使温顺：；压下…的锐气，使威风扫地：
+"of low birth or rank" 
+Don't be so humble; you're not that great. [Golda Meir] 
+numbles n. 内脏
 ]]></trans>
     <phonetic><![CDATA[['hʌmbl]]]></phonetic>
     <tags>GRE</tags>
@@ -19624,6 +19700,8 @@ vt. 使谦恭，使谦卑；使温顺：；压下…的锐气，使威风扫地�
     <trans><![CDATA[n. 单调；乏味 
 adj. 单调的；无聊的 
 vi. 单调令味地进行 
+hum-drum
+hum  n.  嗡嗡声, 杂声, 哼声
 ]]></trans>
     <phonetic><![CDATA[['hʌmdrʌm]]]></phonetic>
     <tags>GRE</tags>
@@ -19642,12 +19720,14 @@ vi. 单调令味地进行
     <progress>5</progress>
 </item><item>    <word>humiliate</word>
     <trans><![CDATA[vt. 羞辱；使…丢脸；耻辱 
+        humble 卑微的;谦卑的
 ]]></trans>
     <phonetic><![CDATA[[hju:'milieit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>humility</word>
     <trans><![CDATA[n. 谦卑，谦逊 
+        humble 卑微的;谦卑的
 ]]></trans>
     <phonetic><![CDATA[[hju:'miləti]]]></phonetic>
     <tags>GRE</tags>
@@ -19663,6 +19743,7 @@ vt. 迎合，迁就；顺应
     <trans><![CDATA[n. 预感；大块；肉峰 
 vt. 耸肩；预感到；弯腰驼背 
 vi. 隆起；向前移动 
+hump  n.  峰; 驼背; 隆肉; 小圆丘, 小丘
 ]]></trans>
     <phonetic><![CDATA[[hʌntʃ]]]></phonetic>
     <tags>GRE</tags>
@@ -19671,6 +19752,7 @@ vi. 隆起；向前移动
     <trans><![CDATA[n. 障碍；栏；跳栏 
 vt. 克服 
 vi. 克服；跳过 
+no
 ]]></trans>
     <phonetic><![CDATA[['hə:dl]]]></phonetic>
     <tags>GRE</tags>
@@ -19707,6 +19789,7 @@ vt. 节约地使用（或管理）
 n. 安静；肃静；沉默 
 vi. 沉默；安静下来 
 int. 嘘；别作声 
+no
 ]]></trans>
     <phonetic><![CDATA[[hʌʃ]]]></phonetic>
     <tags>GRE</tags>
@@ -19715,6 +19798,7 @@ int. 嘘；别作声
     <trans><![CDATA[n. 皮；外壳；无价值之物 
 vt. 削皮；以粗哑的嗓音说 
 vi. 嗓音变得嘶哑 
+house
 ]]></trans>
     <phonetic><![CDATA[[hʌsk]]]></phonetic>
     <tags>GRE</tags>
@@ -19722,6 +19806,7 @@ vi. 嗓音变得嘶哑
 </item><item>    <word>husky</word>
     <trans><![CDATA[adj. 声音沙哑的；有壳的；强壮的 
 n. 强壮结实之人；爱斯基摩人 
+husk n. 皮；外壳 vt. 削皮；以粗哑的嗓音说 
 ]]></trans>
     <phonetic><![CDATA[['hʌski]]]></phonetic>
     <tags>GRE</tags>
@@ -19729,12 +19814,14 @@ n. 强壮结实之人；爱斯基摩人
 </item><item>    <word>hybrid</word>
     <trans><![CDATA[n. 杂种，混血儿；混合物 
 adj. 混合的；杂种的 
+hy- + bired
 ]]></trans>
     <phonetic><![CDATA[['haibrid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>hydrant</word>
     <trans><![CDATA[n. 消防栓；水龙头；给水栓 
+        no
 ]]></trans>
     <phonetic><![CDATA[['haidrənt]]]></phonetic>
     <tags>GRE</tags>
@@ -19749,8 +19836,9 @@ vi. 与水化合
     <progress>1</progress>
 </item><item>    <word>hymn</word>
     <trans><![CDATA[n. 赞美诗；圣歌；欢乐的歌 
-vt. 唱赞美歌 
-vi. 唱赞歌 
+vt. 唱赞美歌 vi. 唱赞歌 
+hymen  n.  处女膜
+hy- + men
 ]]></trans>
     <phonetic><![CDATA[[him]]]></phonetic>
     <tags>GRE</tags>
@@ -19763,6 +19851,8 @@ vi. 唱赞歌
     <progress>4</progress>
 </item><item>    <word>hyperbole</word>
     <trans><![CDATA[n. 夸张的语句；夸张法 
+         hyper- "beyond" + bole "a throwing, a casting, 
+        bole  n.  树干#红玄武土
 ]]></trans>
     <phonetic><![CDATA[[hai'pə:bəli]]]></phonetic>
     <tags>GRE</tags>
@@ -19776,6 +19866,7 @@ vi. 唱赞歌
 </item><item>    <word>hyphen</word>
     <trans><![CDATA[n. 连字号 
 vt. 以连字号连接 
+from hypo "under" (see sub-) + hen
 ]]></trans>
     <phonetic><![CDATA[['haifən]]]></phonetic>
     <tags>GRE</tags>
@@ -19783,18 +19874,21 @@ vt. 以连字号连接
 </item><item>    <word>hypnotic</word>
     <trans><![CDATA[n. 安眠药；催眠状态的人 
 adj. 催眠的，催眠术的；易于催眠的 
+no
 ]]></trans>
     <phonetic><![CDATA[[hip'nɔtik]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>hypocrite</word>
     <trans><![CDATA[n. 伪君子；伪善者 
+        critic
 ]]></trans>
     <phonetic><![CDATA[['hipəkrit]]]></phonetic>
     <tags>GRE</tags>
     <progress>1</progress>
 </item><item>    <word>hypocritical</word>
     <trans><![CDATA[adj. 虚伪的；伪善的 
+        critic
 ]]></trans>
     <phonetic><![CDATA[[,hipə'kritikl]]]></phonetic>
     <tags>GRE</tags>
@@ -19807,6 +19901,7 @@ adj. 催眠的，催眠术的；易于催眠的
     <progress>1</progress>
 </item><item>    <word>hypothesis</word>
     <trans><![CDATA[n. 假设 
+         under," from hypo- "under" (see sub-) + thesis "a placing, 
 ]]></trans>
     <phonetic><![CDATA[[hai'pɔθisis]]]></phonetic>
     <tags>GRE</tags>
@@ -19819,6 +19914,7 @@ adj. 催眠的，催眠术的；易于催眠的
     <progress>3</progress>
 </item><item>    <word>hysteria</word>
     <trans><![CDATA[n. 癔病，歇斯底里；不正常的兴奋 
+        拟声词
 ]]></trans>
     <phonetic><![CDATA[[his'tiəriə]]]></phonetic>
     <tags>GRE</tags>
@@ -19837,6 +19933,7 @@ adj. 催眠的，催眠术的；易于催眠的
     <progress>5</progress>
 </item><item>    <word>iconoclast</word>
     <trans><![CDATA[n. 偶像破坏者；提倡打破旧习的人 
+        eikon (genitive eikonos) "image" + klastes "breaker,
 ]]></trans>
     <phonetic><![CDATA[[ai'kɔnəuklæst]]]></phonetic>
     <tags>GRE</tags>
@@ -19869,12 +19966,16 @@ vi. 无所事事；虚度；空转
     <progress>4</progress>
 </item><item>    <word>idyll</word>
     <trans><![CDATA[n. 田园诗；牧歌；田园生活 
+        idle 闲散    able
 ]]></trans>
     <phonetic><![CDATA[['idil, 'aidil]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>igneous</word>
     <trans><![CDATA[adj. 火的；[岩] 火成的；似火的 
+         night
+         ignite v.点火
+         ignite
 ]]></trans>
     <phonetic><![CDATA[['iɡniəs]]]></phonetic>
     <tags>GRE</tags>
@@ -19882,6 +19983,9 @@ vi. 无所事事；虚度；空转
 </item><item>    <word>ignite</word>
     <trans><![CDATA[vt. 点燃；使燃烧；使激动 
 vi. 点火；燃烧 
+ night
+         ignite v.点火
+         ignite
 ]]></trans>
     <phonetic><![CDATA[[iɡ'nait]]]></phonetic>
     <tags>GRE</tags>
