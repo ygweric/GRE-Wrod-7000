@@ -23156,12 +23156,14 @@ no
 </item><item>    <word>jaunt</word>
     <trans><![CDATA[n. 远足；短途旅游 
 vi. 远足；作短途旅游 
+no
 ]]></trans>
     <phonetic><![CDATA[[dʒɔ:nt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>jaunty</word>
     <trans><![CDATA[adj. 快活的；活泼的；洋洋得意的；感到自信和自满的 
+        no
 ]]></trans>
     <phonetic><![CDATA[['dʒɔ:nti]]]></phonetic>
     <tags>GRE</tags>
@@ -23177,6 +23179,7 @@ adj. 爵士乐的；喧吵的
     <progress>0</progress>
 </item><item>    <word>jealousy</word>
     <trans><![CDATA[n. 嫉妒；猜忌；戒备 
+        zeal  [zɪːl] n.  热心, 热诚, 热情
 ]]></trans>
     <phonetic><![CDATA[['dʒeləsi]]]></phonetic>
     <tags>GRE</tags>
@@ -23185,12 +23188,14 @@ adj. 爵士乐的；喧吵的
     <trans><![CDATA[n. 嘲笑；戏弄；揶揄的言语 
 vt. 嘲笑；戏弄 
 vi. 嘲笑；戏弄 
+no
 ]]></trans>
     <phonetic><![CDATA[[dʒiə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>jejune</word>
     <trans><![CDATA[adj. 枯燥无味的；幼稚的；缺乏营养的 
+        no
 ]]></trans>
     <phonetic><![CDATA[[dʒi'dʒu:n]]]></phonetic>
     <tags>GRE</tags>
@@ -23199,18 +23204,22 @@ vi. 嘲笑；戏弄
     <trans><![CDATA[n. 肌肉抽搐；性情古怪的人；蠢人；急拉 
 vi. 痉挛；急拉；颠簸地行进 
 vt. 猛拉 
+no
 ]]></trans>
     <phonetic><![CDATA[[dʒə:k]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>jeopardize</word>
     <trans><![CDATA[vt. 危害；使陷危地；使受危困 
+        jeopardy  ['jeop·ard·y || 'dʒepə(r)dɪ] n.  危险
+ joke + part 
 ]]></trans>
     <phonetic><![CDATA[['dʒepədaiz]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>jeopardy</word>
     <trans><![CDATA[n. 危险；（被告处于被判罪或受处罚的）危险境地 
+         joke + part 
 ]]></trans>
     <phonetic><![CDATA[['dʒepədi]]]></phonetic>
     <tags>GRE</tags>
@@ -23219,6 +23228,7 @@ vt. 猛拉
     <trans><![CDATA[n. 开玩笑；笑话；滑稽 
 adj. 爱开玩笑的；打趣的；滑稽的 
 v. 开玩笑（jest的ing形式） 
+no
 ]]></trans>
     <phonetic><![CDATA[['dʒestiŋ]]]></phonetic>
     <tags>GRE</tags>
@@ -23226,6 +23236,7 @@ v. 开玩笑（jest的ing形式）
 </item><item>    <word>jettison</word>
     <trans><![CDATA[n. 投弃；投弃货物 
 vt. 投弃（船舶遇难时投弃货物以为减轻负载） 
+jet
 ]]></trans>
     <phonetic><![CDATA[['dʒetisən]]]></phonetic>
     <tags>GRE</tags>
@@ -23234,18 +23245,15 @@ vt. 投弃（船舶遇难时投弃货物以为减轻负载）
     <trans><![CDATA[n. 嘲笑 
 vt. 嘲笑 
 vi. 嘲笑 
+JB
 ]]></trans>
     <phonetic><![CDATA[[dʒaib]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
-</item><item>    <word>jigsaw puzzle</word>
-    <trans><![CDATA[n. 七巧板；智力拼图玩具 
-]]></trans>
-    <phonetic><![CDATA[]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
 </item><item>    <word>jingoism</word>
     <trans><![CDATA[n. 侵略主义；沙文主义；武力外交政策 
+        jingo  [jin·go || 'dʒɪŋgəʊ] n.  沙文主义者; 主张武力外交者; 侵略主义者
+        "进攻"
 ]]></trans>
     <phonetic><![CDATA[['dʒiŋɡəuizəm]]]></phonetic>
     <tags>GRE</tags>
@@ -23254,18 +23262,21 @@ vi. 嘲笑
     <trans><![CDATA[n. 操作工；驾驶员；赛马的骑师 
 vt. 驾驶；欺骗；移动 
 vi. 当赛马的骑师；耍手段图谋；搞欺骗 
+no
 ]]></trans>
     <phonetic><![CDATA[['dʒɔki]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>jocular</word>
     <trans><![CDATA[adj. 爱开玩笑的；打趣的；滑稽的 
+        joke 玩笑
 ]]></trans>
     <phonetic><![CDATA[['dʒɔkjulə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>jocund</word>
     <trans><![CDATA[adj. 快活的；高兴的 
+        joke 玩笑
 ]]></trans>
     <phonetic><![CDATA[['dʒɔkənd]]]></phonetic>
     <tags>GRE</tags>
@@ -23282,6 +23293,7 @@ vi. 慢跑；轻推；蹒跚行进；颠簸着移动
     <trans><![CDATA[n. 颠簸；摇晃；震惊；严重挫折 
 vt. 使颠簸；使震惊；使摇动 
 vi. 摇晃；颠簸而行 
+“揍他”
 ]]></trans>
     <phonetic><![CDATA[[dʒəult]]]></phonetic>
     <tags>GRE</tags>
@@ -23289,18 +23301,21 @@ vi. 摇晃；颠簸而行
 </item><item>    <word>jot</word>
     <trans><![CDATA[n. 少量；稍许 
 vt. 略记；摘要记载下来 
+no
 ]]></trans>
     <phonetic><![CDATA[[dʒɔt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>jovial</word>
     <trans><![CDATA[adj. 天性快活的；主神朱庇特的 
+         Jove 宙斯(Zeus)是众神之王,拉丁文名字是朱庇忒(Jupiter)或是朱威(Jove),
 ]]></trans>
     <phonetic><![CDATA[['dʒəuviəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>jubilation</word>
     <trans><![CDATA[n. 喜欢；庆祝；欢呼 
+        (as)猪，bill 当然高兴了
 ]]></trans>
     <phonetic><![CDATA[[,dʒu:bi'leiʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -23313,12 +23328,14 @@ vt. 略记；摘要记载下来
     <progress>0</progress>
 </item><item>    <word>judicious</word>
     <trans><![CDATA[adj. 明智的；头脑精明的；判断正确的 
+        judge
 ]]></trans>
     <phonetic><![CDATA[[dʒu:'diʃəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>juggernaut</word>
     <trans><![CDATA[n. 世界主宰；强大的破坏力 
+        no
 ]]></trans>
     <phonetic><![CDATA[['dʒʌɡənɔ:t]]]></phonetic>
     <tags>GRE</tags>
@@ -23327,6 +23344,7 @@ vt. 略记；摘要记载下来
     <trans><![CDATA[n. 混乱；杂乱的一堆东西 
 vi. 混杂；搀杂 
 vt. 使混乱；搞乱 
+jump 跳
 ]]></trans>
     <phonetic><![CDATA[['dʒʌmbl]]]></phonetic>
     <tags>GRE</tags>
@@ -23365,32 +23383,30 @@ adj. 青少年的；幼稚的
     <progress>0</progress>
 </item><item>    <word>juxtapose</word>
     <trans><![CDATA[vt. 并列；并置 
+        no
 ]]></trans>
     <phonetic><![CDATA[[,dʒʌkstə'pəuz]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>kaleidoscope</word>
     <trans><![CDATA[n. 万花筒；千变万化 
+         kalos "beautiful" + eidos "shape" (see -oid) + -scope, on model of telescope,
 ]]></trans>
     <phonetic><![CDATA[[kə'laidəskəup]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>kangaroo</word>
     <trans><![CDATA[n. 袋鼠 
+        no
 ]]></trans>
     <phonetic><![CDATA[[,kænɡə'ru:]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
-</item><item>    <word>ken</word>
-    <trans><![CDATA[n. 肯恩（男名） 
-]]></trans>
-    <phonetic><![CDATA[[ken]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>kennel</word>
     <trans><![CDATA[n. 狗屋；养狗场；[建] 阴沟；一群狗 
 vt. 把…关进狗舍；宿于狗舍 
 vi. 呆在狗舍里 
+canine  [ca·nine || 'keɪnaɪn] n.  犬, 狗; 犬齿; 犬科动物
 ]]></trans>
     <phonetic><![CDATA[['kenəl]]]></phonetic>
     <tags>GRE</tags>
@@ -23403,12 +23419,15 @@ vi. 呆在狗舍里
     <progress>0</progress>
 </item><item>    <word>kidnap</word>
     <trans><![CDATA[vt. 绑架；诱拐；拐骗 
+        kid + nap
+        nab  [næb] v.  捉住, 抢夺, 逮捕
 ]]></trans>
     <phonetic><![CDATA[['kidnæp]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>kidney</word>
     <trans><![CDATA[n. [解剖] 肾脏；腰子；个性 
+        kind (个性 )
 ]]></trans>
     <phonetic><![CDATA[['kidni]]]></phonetic>
     <tags>GRE</tags>
@@ -23422,6 +23441,7 @@ vi. 呆在狗舍里
 </item><item>    <word>kin</word>
     <trans><![CDATA[n. 亲戚；家族；同族 
 adj. 同类的；有亲属关系的；性质类似的 
+no
 ]]></trans>
     <phonetic><![CDATA[[kin]]]></phonetic>
     <tags>GRE</tags>
@@ -23435,24 +23455,28 @@ vi. 发亮；着火；激动起来
     <progress>0</progress>
 </item><item>    <word>kinetic</word>
     <trans><![CDATA[adj. [力] 运动的；活跃的 
+        no
 ]]></trans>
     <phonetic><![CDATA[[ki'netik, kai-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>knack</word>
     <trans><![CDATA[n. 诀窍；本领；熟练技术；巧妙手法 
+        no
 ]]></trans>
     <phonetic><![CDATA[[næk]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>knave</word>
     <trans><![CDATA[n. 无赖；流氓；（纸牌中的）杰克 
+        no
 ]]></trans>
     <phonetic><![CDATA[[neiv]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>knead</word>
     <trans><![CDATA[vt. 揉合，揉捏；按摩；捏制 
+        no
 ]]></trans>
     <phonetic><![CDATA[[ni:d]]]></phonetic>
     <tags>GRE</tags>
@@ -23461,31 +23485,30 @@ vi. 发亮；着火；激动起来
     <trans><![CDATA[n. 编织衣物；编织法 
 vt. 编织；结合 
 vi. 编织；结合；皱眉 
+no
 ]]></trans>
     <phonetic><![CDATA[[nit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>knotty</word>
     <trans><![CDATA[adj. 棘手的，难解决的；[木] 多节的；有结的 
+        knot  [nɑt /nɒt]
+n.  结; 蝴蝶结; 缠绕; 钩住; 打结; 海上的度量单位; 膨胀; 组; 复杂的问题; 海上的距离, 海里 (航行用 - 相当于 6076 英尺)
+v.  把...打结; 使密切结合; 捆扎; 打结
 ]]></trans>
     <phonetic><![CDATA[['nɔti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
-</item><item>    <word>know-how</word>
-    <trans><![CDATA[n. 诀窍；实际知识；专门技能 
-]]></trans>
-    <phonetic><![CDATA[['nəuhau]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
 </item><item>    <word>kudos</word>
     <trans><![CDATA[n. 荣誉；名望；称赞 
+        no
 ]]></trans>
     <phonetic><![CDATA[['kju:dəuz]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>labile</word>
-    <trans><![CDATA[n. [心理] 心境不定 
-adj. 易变的，不稳定的；不安定的 
+    <trans><![CDATA[adj. 易变的，不稳定的；不安定的 
+        labor n. 劳动；工作；劳工；分娩
 ]]></trans>
     <phonetic><![CDATA[['leibail, -bil]]]></phonetic>
     <tags>GRE</tags>
@@ -23493,12 +23516,14 @@ adj. 易变的，不稳定的；不安定的
 </item><item>    <word>labored</word>
     <trans><![CDATA[adj. 吃力的；费劲的；不自然的 
 v. 工作；劳动；分娩（labor的过去分词） 
+labor n. 劳动；工作；劳工；分娩
 ]]></trans>
     <phonetic><![CDATA[['leibəd]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>labyrinth</word>
     <trans><![CDATA[n. 迷宫；[解剖] 迷路；难解的事物 
+        no
 ]]></trans>
     <phonetic><![CDATA[['læbərinθ]]]></phonetic>
     <tags>GRE</tags>
@@ -23507,6 +23532,7 @@ v. 工作；劳动；分娩（labor的过去分词）
     <trans><![CDATA[n. 花边；鞋带；饰带；少量烈酒 
 vt. 饰以花边；结带子 
 vi. 系带子 
+no
 ]]></trans>
     <phonetic><![CDATA[[leis]]]></phonetic>
     <tags>GRE</tags>
@@ -23514,18 +23540,21 @@ vi. 系带子
 </item><item>    <word>lacerate</word>
     <trans><![CDATA[adj. 受折磨的；撕碎的 
 vt. 伤害，使…痛心；割裂；撕碎 
+no
 ]]></trans>
     <phonetic><![CDATA[['læsəreit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>lachrymose</word>
     <trans><![CDATA[adj. 爱哭的，易流泪的；悲哀的 
+        no
 ]]></trans>
     <phonetic><![CDATA[['lækriməus]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>lackadaisical</word>
     <trans><![CDATA[adj. 懒洋洋的；无精打采的；伤感的 
+        no
 ]]></trans>
     <phonetic><![CDATA[[,lækə'deizikəl]]]></phonetic>
     <tags>GRE</tags>
@@ -23533,18 +23562,21 @@ vt. 伤害，使…痛心；割裂；撕碎
 </item><item>    <word>lackluster</word>
     <trans><![CDATA[adj. 无光泽的；平凡的 
 n. 无光泽；暗淡 
+luster  [lus·ter || 'lʌstə(r)] n.  光泽; 光彩; 光辉; 荣耀, 荣光
 ]]></trans>
     <phonetic><![CDATA[['læk,lʌstə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>laconic</word>
     <trans><![CDATA[adj. 简洁的，简明的 
+        no
 ]]></trans>
     <phonetic><![CDATA[[lə'kɔnik]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>lactic</word>
     <trans><![CDATA[adj. 乳的；乳汁的 
+        no
 ]]></trans>
     <phonetic><![CDATA[['læktik]]]></phonetic>
     <tags>GRE</tags>
@@ -23554,6 +23586,7 @@ n. 无光泽；暗淡
 adj. 最后的 
 vi. 滞后；缓缓而行；蹒跚 
 vt. 落后于；押往监狱；加上外套 
+leg
 ]]></trans>
     <phonetic><![CDATA[[læɡ]]]></phonetic>
     <tags>GRE</tags>
@@ -23562,18 +23595,24 @@ vt. 落后于；押往监狱；加上外套
     <trans><![CDATA[n. （野兽的）[动] 巢穴；躲藏处 
 vt. 使陷入泥潭；放于穴中 
 vi. 进入兽穴；在穴中休息 
+no
 ]]></trans>
     <phonetic><![CDATA[[lεə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>laity</word>
     <trans><![CDATA[n. 俗人；外行人；门外汉 
+         lay  [leɪ]n.  位置, 地形; 交媾#短叙事诗, 短抒情诗; 歌曲
+        adj.  世俗的; 外行的
+
 ]]></trans>
     <phonetic><![CDATA[['leiəti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>lambaste</word>
     <trans><![CDATA[vt. 痛打；严责；鞭打 
+        lame  [leɪm] v.  使成残废 adj.  跛足的; 不完全的; 僵痛的
+        打残了
 ]]></trans>
     <phonetic><![CDATA[[læm'beist]]]></phonetic>
     <tags>GRE</tags>
@@ -23582,6 +23621,8 @@ vi. 进入兽穴；在穴中休息
     <trans><![CDATA[n. 挽歌；恸哭；悲痛之情 
 vi. 哀悼；悲叹；悔恨 
 vt. 哀悼；痛惜 
+ lame  [leɪm] v.  使成残废 adj.  跛足的; 不完全的; 僵痛的
+        打残了,；恸哭；悲痛之情 
 ]]></trans>
     <phonetic><![CDATA[[lə'ment]]]></phonetic>
     <tags>GRE</tags>
@@ -23589,6 +23630,7 @@ vt. 哀悼；痛惜
 </item><item>    <word>lampoon</word>
     <trans><![CDATA[n. 讽刺文章 
 vt. 讽刺 
+no
 ]]></trans>
     <phonetic><![CDATA[[læm'pu:n]]]></phonetic>
     <tags>GRE</tags>
@@ -23597,12 +23639,14 @@ vt. 讽刺
     <trans><![CDATA[n. 长矛；执矛战士；柳叶刀 
 vt. 以长矛攻击；用柳叶刀割开；冲进 
 vi. 急速前进 
+no
 ]]></trans>
     <phonetic><![CDATA[[lɑ:ns, læns]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>lancet</word>
     <trans><![CDATA[n. [外科] 小刀，柳叶刀；尖顶窗；小枪 
+        lance 长矛；执矛战士；柳叶刀 
 ]]></trans>
     <phonetic><![CDATA[['lɑ:nsit, 'lænsit]]]></phonetic>
     <tags>GRE</tags>
@@ -23634,18 +23678,21 @@ vi. 发生山崩；以压倒优胜获胜
     <progress>0</progress>
 </item><item>    <word>languid</word>
     <trans><![CDATA[adj. 倦怠的；呆滞的；软弱无力的 
+        lax  [læks] adj.  松的; 不严格的; 松懈的
 ]]></trans>
     <phonetic><![CDATA[['læŋɡwid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>languish</word>
     <trans><![CDATA[vi. 憔悴；凋萎；失去活力；苦思 
+        lax  [læks] adj.  松的; 不严格的; 松懈的
 ]]></trans>
     <phonetic><![CDATA[['læŋɡwiʃ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>languor</word>
     <trans><![CDATA[n. 疲倦；无精打采；柔情；呆滞 
+        lax  [læks] adj.  松的; 不严格的; 松懈的
 vi. 变得衰弱无力 
 ]]></trans>
     <phonetic><![CDATA[['læŋɡə]]]></phonetic>
@@ -23653,6 +23700,7 @@ vi. 变得衰弱无力
     <progress>0</progress>
 </item><item>    <word>lank</word>
     <trans><![CDATA[adj. 瘦的；平直的；长而柔软的；细长的 
+        link
 ]]></trans>
     <phonetic><![CDATA[[læŋk]]]></phonetic>
     <tags>GRE</tags>
@@ -23668,18 +23716,21 @@ vi. 重叠；轻拍；围住
 </item><item>    <word>lapse</word>
     <trans><![CDATA[n. 失效；流逝；过失 
 vi. 失效；流逝；背离，失检；陷入 
+elapse  [e·lapse || ɪ'læps] v.  过去; 消逝
 ]]></trans>
     <phonetic><![CDATA[[læps]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>larder</word>
     <trans><![CDATA[n. 食品室；食物橱；肉贮藏处 
+        lard  [lɑrd /lɑː-] n.  猪油 v.  涂加猪油, 润色, 夹杂
 ]]></trans>
     <phonetic><![CDATA[['lɑ:də]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>largess</word>
     <trans><![CDATA[n. 慷慨的赠予；赠品 
+        large
 ]]></trans>
     <phonetic><![CDATA[[lɑ:'dʒes]]]></phonetic>
     <tags>GRE</tags>
@@ -23688,12 +23739,14 @@ vi. 失效；流逝；背离，失检；陷入
     <trans><![CDATA[n. 云雀；百灵鸟；欢乐 
 vt. 愚弄 
 vi. 骑马玩乐；嬉耍 
+work
 ]]></trans>
     <phonetic><![CDATA[[lɑ:k]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>larva</word>
     <trans><![CDATA[n. [水产] 幼体，[昆] 幼虫 
+        (as)被小虫子蛰了一下，很辣 “辣味儿”
 ]]></trans>
     <phonetic><![CDATA[['lɑ:və]]]></phonetic>
     <tags>GRE</tags>
@@ -23702,12 +23755,16 @@ vi. 骑马玩乐；嬉耍
     <trans><![CDATA[n. 鞭打；睫毛；鞭子；责骂；讽刺 
 vi. 鞭打；猛击；急速甩动 
 vt. 鞭打；冲击；摆动；扎捆；煽动；讽刺 
+no
 ]]></trans>
     <phonetic><![CDATA[[læʃ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>lassitude</word>
     <trans><![CDATA[n. 疲乏；懒散；厌倦 
+        late
+        lass  [læs] n.  少女; 情妇; 爱人
+        少妇懒庸庸的
 ]]></trans>
     <phonetic><![CDATA[['læsitju:d]]]></phonetic>
     <tags>GRE</tags>
@@ -23715,6 +23772,7 @@ vt. 鞭打；冲击；摆动；扎捆；煽动；讽刺
 </item><item>    <word>lasso</word>
     <trans><![CDATA[n. 套索 
 vt. 用套索套捕；拉拢 
+lace  [leɪs] n.  饰带; 缎带; 花边
 ]]></trans>
     <phonetic><![CDATA[[læ'su:, 'læsəu]]]></phonetic>
     <tags>GRE</tags>
@@ -23729,12 +23787,14 @@ adj. 持久的；永恒的
     <progress>0</progress>
 </item><item>    <word>latency</word>
     <trans><![CDATA[n. 潜伏；潜在因素 
+        latent  [la·tent || 'leɪtənt] adj.  潜伏性的, 隐藏的
 ]]></trans>
     <phonetic><![CDATA[['leitənsi]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>latent</word>
     <trans><![CDATA[adj. 潜在的；潜伏的；隐藏的 
+        no
 ]]></trans>
     <phonetic><![CDATA[['leitənt]]]></phonetic>
     <tags>GRE</tags>
@@ -23743,6 +23803,7 @@ adj. 持久的；永恒的
     <trans><![CDATA[n. 侧部；[语] 边音 
 adj. 侧面的，横向的 
 vt. 横向传球 
+no
 ]]></trans>
     <phonetic><![CDATA[['lætərəl]]]></phonetic>
     <tags>GRE</tags>
@@ -23756,6 +23817,7 @@ vt. 横向传球
 </item><item>    <word>lattice</word>
     <trans><![CDATA[n. [晶体] 晶格；格子；格架 
 vt. 使成格子状 
+lath  [læθ /lɑːθ] n.  板条, 瘦人 v.  给...钉板条
 ]]></trans>
     <phonetic><![CDATA[['lætis]]]></phonetic>
     <tags>GRE</tags>
@@ -23763,12 +23825,17 @@ vt. 使成格子状
 </item><item>    <word>laud</word>
     <trans><![CDATA[n. 赞美；称赞；颂歌 
 vt. 赞美；称赞 
+'撸的'
 ]]></trans>
     <phonetic><![CDATA[[lɔ:d]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>lava</word>
     <trans><![CDATA[n. 火山岩浆；火山所喷出的熔岩 
+        lava 火山岩浆；火山所喷出的熔岩 
+        lave   剩余物；洗；沐浴；冲刷 
+        火山喷出的演讲，冲刷沐浴打的，然后产生剩余物
+        lava 两个眼睛看着火山喷发
 ]]></trans>
     <phonetic><![CDATA[['lɑ:və, 'lævə]]]></phonetic>
     <tags>GRE</tags>
@@ -23777,6 +23844,9 @@ vt. 赞美；称赞
     <trans><![CDATA[n. 剩余物 
 vt. 洗；沐浴；冲刷 
 vi. 沐浴 
+lava 火山岩浆；火山所喷出的熔岩 
+        lave   剩余物；洗；沐浴；冲刷 
+        火山喷出的演讲，冲刷沐浴打的，然后产生剩余物
 ]]></trans>
     <phonetic><![CDATA[[leiv]]]></phonetic>
     <tags>GRE</tags>
@@ -23784,6 +23854,7 @@ vi. 沐浴
 </item><item>    <word>lavish</word>
     <trans><![CDATA[adj. 浪费的；丰富的；大方的 
 vt. 浪费；慷慨给予；滥用 
+lave   剩余物；洗；沐浴；冲刷
 ]]></trans>
     <phonetic><![CDATA[['læviʃ]]]></phonetic>
     <tags>GRE</tags>
@@ -23791,6 +23862,7 @@ vt. 浪费；慷慨给予；滥用
 </item><item>    <word>laxative</word>
     <trans><![CDATA[n. 泻药；[药] 缓泻药 
 adj. 通便的 
+ "loose, lax" (see lax). 
 ]]></trans>
     <phonetic><![CDATA[['læksətiv]]]></phonetic>
     <tags>GRE</tags>
@@ -23813,6 +23885,7 @@ vi. 漏，渗；泄漏出去
     <trans><![CDATA[n. 租约；租期；租赁物；租赁权 
 vt. 出租；租得 
 vi. 出租 
+no
 ]]></trans>
     <phonetic><![CDATA[[li:s]]]></phonetic>
     <tags>GRE</tags>
@@ -23821,18 +23894,22 @@ vi. 出租
     <trans><![CDATA[n. 酵母；酵素；潜移默化的影响 
 vt. 使发酵；影响 
 vi. 渐变 
+ "to raise" (see lever). 
 ]]></trans>
     <phonetic><![CDATA[['levn]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>lectern</word>
     <trans><![CDATA[n. 讲台；诵经台 
+        lecture
 ]]></trans>
     <phonetic><![CDATA[['lektə:n]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>ledger</word>
     <trans><![CDATA[n. 总帐，分户总帐；[会计] 分类帐；帐簿；底帐；（手脚架上的）横木 
+        "to place, lay" (see lay (v.)). 
+        Originally a book that lies permanently in a place (especially a large copy of a breviary in a church)
 ]]></trans>
     <phonetic><![CDATA[['ledʒə]]]></phonetic>
     <tags>GRE</tags>
@@ -23840,18 +23917,22 @@ vi. 渐变
 </item><item>    <word>leer</word>
     <trans><![CDATA[n. 媚眼，秋波；恶意的瞥视 
 vi. 抛媚眼，送秋波；斜睨 
+"to hear" (see listen). 
 ]]></trans>
     <phonetic><![CDATA[[liə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>leery</word>
     <trans><![CDATA[adj. 机敏的；狡猾的；猜疑的；送秋波的 
+        "to hear" (see listen). 
 ]]></trans>
     <phonetic><![CDATA[['liəri]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>legacy</word>
     <trans><![CDATA[n. 遗赠，遗产 
+        legate  [leg·ate || 'legɪt] n.  罗马教皇的使节, 使节, 特使
+"contract, law" (see legal). 
 ]]></trans>
     <phonetic><![CDATA[['leɡəsi]]]></phonetic>
     <tags>GRE</tags>
@@ -23864,6 +23945,9 @@ vi. 抛媚眼，送秋波；斜睨
     <progress>0</progress>
 </item><item>    <word>legerdemain</word>
     <trans><![CDATA[n. 戏法，骗术；巧妙的花招 
+         from léger "light" in weight (from Latin levis "light;" see lever) + main "hand" (from Latin manus; see manual).
+         lever  [le·ver || 'levə(r) /'lɪːv-] n.  杠杆, 似杠杆之工具 v.  撬起, 移动; 用控制杆操纵
+         lift
 ]]></trans>
     <phonetic><![CDATA[[,ledʒədə'mein]]]></phonetic>
     <tags>GRE</tags>
@@ -23871,6 +23955,7 @@ vi. 抛媚眼，送秋波；斜睨
 </item><item>    <word>legion</word>
     <trans><![CDATA[n. （古罗马）军团；众多；军队 
 adj. 众多的；大量的 
+ from legere "to choose, gather," also "to read" (see lecture (n.)). 
 ]]></trans>
     <phonetic><![CDATA[['li:dʒən]]]></phonetic>
     <tags>GRE</tags>
@@ -23878,6 +23963,7 @@ adj. 众多的；大量的
 </item><item>    <word>legislate</word>
     <trans><![CDATA[vi. 立法；制定法律 
 vt. 用立法规定；通过立法 
+legal  [le·gal || 'lɪːgl] adj.  法律的, 合法的, 法定的
 ]]></trans>
     <phonetic><![CDATA[['ledʒisleit]]]></phonetic>
     <tags>GRE</tags>
@@ -23885,12 +23971,16 @@ vt. 用立法规定；通过立法
 </item><item>    <word>legitimate</word>
     <trans><![CDATA[adj. 合法的；正当的；合理的；正统的 
 vt. 使合法；认为正当（等于legitimize） 
+legal  [le·gal || 'lɪːgl] adj.  法律的, 合法的, 法定的
 ]]></trans>
     <phonetic><![CDATA[[li'dʒitimət, li'dʒitimeit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>leisureliness</word>
     <trans><![CDATA[n. 悠然；从容 
+        leisure  [lei·sure || 'lɪːʒər /'leʒə]
+        opportunity to do something" n.  空闲; 悠闲; 闲暇
+        licere "be permitted" (see licence).
 ]]></trans>
     <phonetic><![CDATA[]]></phonetic>
     <tags>GRE</tags>
