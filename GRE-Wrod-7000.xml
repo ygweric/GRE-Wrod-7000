@@ -23987,12 +23987,14 @@ legal  [le·gal || 'lɪːgl] adj.  法律的, 合法的, 法定的
     <progress>0</progress>
 </item><item>    <word>leniency</word>
     <trans><![CDATA[n. 宽大，仁慈；温和 
+        no
 ]]></trans>
     <phonetic><![CDATA[['li:njəns,-si]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>lenient</word>
     <trans><![CDATA[adj. 宽大的；仁慈的 
+        no
 ]]></trans>
     <phonetic><![CDATA[['li:njənt]]]></phonetic>
     <tags>GRE</tags>
@@ -24000,18 +24002,21 @@ legal  [le·gal || 'lɪːgl] adj.  法律的, 合法的, 法定的
 </item><item>    <word>lethal</word>
     <trans><![CDATA[n. 致死因子 
 adj. 致命的，致死的 
+(as)'乐死'
 ]]></trans>
     <phonetic><![CDATA[['li:θəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>lethargic</word>
     <trans><![CDATA[adj. 昏睡的；无生气的；泠漠的 
+        lethal  致命的，致死的 
 ]]></trans>
     <phonetic><![CDATA[[le'θɑ:dʒik, li'θ-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>lethargy</word>
     <trans><![CDATA[n. 昏睡；死气沉沉；嗜眠（症） 
+        lethal  致命的，致死的 
 ]]></trans>
     <phonetic><![CDATA[['leθədʒi]]]></phonetic>
     <tags>GRE</tags>
@@ -24019,6 +24024,7 @@ adj. 致命的，致死的
 </item><item>    <word>levee</word>
     <trans><![CDATA[n. 堤坝（码头）；（旧时君主或显贵的）早晨接见 
 vt. 为…筑堤 
+no
 ]]></trans>
     <phonetic><![CDATA[['levi]]]></phonetic>
     <tags>GRE</tags>
@@ -24033,12 +24039,14 @@ vt. 为…筑堤
     <trans><![CDATA[n. 杠杆；控制杆 
 vt. 用杠杆撬动；把…作为杠杆 
 vi. 用杠杆撬 
+lift
 ]]></trans>
     <phonetic><![CDATA[['li:və, 'le-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>levity</word>
     <trans><![CDATA[n. 多变；轻浮；轻率；不稳定 
+        no
 ]]></trans>
     <phonetic><![CDATA[['levəti]]]></phonetic>
     <tags>GRE</tags>
@@ -24047,6 +24055,7 @@ vi. 用杠杆撬
     <trans><![CDATA[n. 征收；征兵，征税 
 vt. 征收（税等）；征集（兵等） 
 vi. 征税；征兵 
+no
 ]]></trans>
     <phonetic><![CDATA[['levi]]]></phonetic>
     <tags>GRE</tags>
