@@ -22590,12 +22590,19 @@ wine  n.  葡萄酒, 酒
     <trans><![CDATA[n. 知己；至交 
 adj. 亲密的；私人的；精通的；有性关系的 
 vt. 暗示；通知；宣布 
+ match 比赛；匹配
+ mate  n.配偶，伴侣
 ]]></trans>
     <phonetic><![CDATA[['intimət]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>intimidate</word>
     <trans><![CDATA[vt. 恐吓，威胁；胁迫 
+           take+in=tain-词根：拿
+   contain v.容纳
+   tain------
+　　tame v.掌控，驯服
+　　tame+id= timid a. 胆小的, 羞怯的
 ]]></trans>
     <phonetic><![CDATA[[in'timideit]]]></phonetic>
     <tags>GRE</tags>
@@ -22603,12 +22610,16 @@ vt. 暗示；通知；宣布
 </item><item>    <word>intoxicate</word>
     <trans><![CDATA[vt. 使陶醉；使喝醉；使中毒 
 vi. 醉 
+ toxicum "poison" (see toxic)
+ toxic  [tox·ic || 'tɑksɪk(l) /'tɒk-] adj.  有毒的, 中毒的
 ]]></trans>
     <phonetic><![CDATA[[in'tɔksikeit, -kit, -keit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>intractable</word>
     <trans><![CDATA[adj. 棘手的；难治的；倔强的；不听话的 
+        tractable adj.  易驾驭的, 易管教的, 驯良的
+        treat  n.  宴请, 请客, 款待 v.  视为, 论述, 对待; 交涉, 协商, 谈判
 ]]></trans>
     <phonetic><![CDATA[[in'træktəbl]]]></phonetic>
     <tags>GRE</tags>
@@ -22616,24 +22627,32 @@ vi. 醉
 </item><item>    <word>intransigent</word>
     <trans><![CDATA[n. 不妥协的人 
 adj. 不妥协的；不让步的 
+  trans  ag-词根：行动、做  ent
+  transigent a.
 ]]></trans>
     <phonetic><![CDATA[[in'trænsidʒənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>intrepid</word>
     <trans><![CDATA[adj. 无畏的；勇敢的；勇猛的 
+         tremble 战栗, 颤抖战栗, 颤抖
 ]]></trans>
     <phonetic><![CDATA[[in'trepid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>intricacy</word>
     <trans><![CDATA[n. 错综，复杂；难以理解 
+          cheat 欺骗
+          chicanery欺骗
+          trick n.骗局；花招  v.欺骗
+          intricate复杂的, 错综的, 难以理解的
 ]]></trans>
     <phonetic><![CDATA[['intrikəsi]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>intricate</word>
     <trans><![CDATA[adj. 复杂的；错综的，缠结的 
+        trick n.骗局；花招  v.欺骗
 ]]></trans>
     <phonetic><![CDATA[['intrikət]]]></phonetic>
     <tags>GRE</tags>
@@ -22642,6 +22661,7 @@ adj. 不妥协的；不让步的
     <trans><![CDATA[n. 阴谋；诡计；复杂的事；私通 
 vt. 用诡计取得；激起...的兴趣 
 vi. 私通；密谋 
+trick
 ]]></trans>
     <phonetic><![CDATA[[in'tri:ɡ, 'in-]]]></phonetic>
     <tags>GRE</tags>
@@ -22655,24 +22675,33 @@ vi. 私通；密谋
 </item><item>    <word>intrude</word>
     <trans><![CDATA[vi. 闯入；侵入；侵扰 
 vt. 把…强加；把…硬挤 
+enter+rude= 
 ]]></trans>
     <phonetic><![CDATA[[in'tru:d]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>intuition</word>
     <trans><![CDATA[n. 直觉；直觉力；直觉的知识 
+          teach 教
+          tut-词根：教
+          tuit-词根：学
 ]]></trans>
     <phonetic><![CDATA[[,intju:'iʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>intuitive</word>
     <trans><![CDATA[adj. 直觉的；凭直觉获知的 
+        teach 教
+          tut-词根：教
+          tuit-词根：学
 ]]></trans>
     <phonetic><![CDATA[[in'tju:itiv]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>inundate</word>
     <trans><![CDATA[vt. 淹没；泛滥；浸水；（洪水般的）扑来 
+        in + water
+         undare "to flow," from unda "wave" (see water).
 ]]></trans>
     <phonetic><![CDATA[['inʌndeit, in'ʌn-]]]></phonetic>
     <tags>GRE</tags>
@@ -22680,6 +22709,7 @@ vt. 把…强加；把…硬挤
 </item><item>    <word>inured</word>
     <trans><![CDATA[adj. 习惯的 
 v. 使习惯；有助于；生效（inure的过去分词） 
+used
 ]]></trans>
     <phonetic><![CDATA[[i'njuəd]]]></phonetic>
     <tags>GRE</tags>
@@ -22687,6 +22717,8 @@ v. 使习惯；有助于；生效（inure的过去分词）
 </item><item>    <word>invade</word>
     <trans><![CDATA[vt. 侵略；侵袭；侵扰；涌入 
 vi. 侵略；侵入；侵袭；侵犯 
+  way
+  vade-词根：走
 ]]></trans>
     <phonetic><![CDATA[[in'veid]]]></phonetic>
     <tags>GRE</tags>
@@ -22694,24 +22726,34 @@ vi. 侵略；侵入；侵袭；侵犯
 </item><item>    <word>invective</word>
     <trans><![CDATA[n. 恶言漫骂 
 adj. 谩骂的；恶言的 
+inveigh  [in·veigh || ɪn'veɪ]v.  猛烈抨击; 痛骂; 强烈抗议
+ in- "against" (see in- (1)) + vehere "to carry" (see vehicle
+ vehicle  [ve·hi·cle || 'vɪːɪkl] n.  交通工具, 传达媒介, 车辆
+ wagon
 ]]></trans>
     <phonetic><![CDATA[[in'vektiv]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>inveigh</word>
     <trans><![CDATA[vi. 痛骂；漫骂；猛烈抨击 
+         in- "against" (see in- (1)) + vehere "to carry" (see vehicle
+ vehicle  [ve·hi·cle || 'vɪːɪkl] n.  交通工具, 传达媒介, 车辆
+ wagon
 ]]></trans>
     <phonetic><![CDATA[[in'vei]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>inveigle</word>
     <trans><![CDATA[vt. 诱骗；诱使 
+        no
 ]]></trans>
     <phonetic><![CDATA[[in'veiɡl, -'vi:-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>inventory</word>
     <trans><![CDATA[n. 存货，存货清单；详细目录；财产清册 
+        "list of what is found," 
+        invention  n.  发明, 虚构的故事, 创作能力    
 ]]></trans>
     <phonetic><![CDATA[['invəntəri, -tɔ:ri]]]></phonetic>
     <tags>GRE</tags>
@@ -22735,6 +22777,9 @@ vt. 使…转化；使…颠倒；使…反转；使…前后倒置
 </item><item>    <word>invertebrate</word>
     <trans><![CDATA[n. 无脊椎动物；无骨气的人 
 adj. 无脊椎的；无骨气的 
+vertebra  [ver·te·bra || 'vɜrtɪbrə / 'vɜː-] n.  脊椎骨, 椎骨
+"to turn" (see versus
+versus  [ver·sus || 'vɜrsəs /'vɜː-] prep.  对; 与...相对
 ]]></trans>
     <phonetic><![CDATA[[in'və:tibrət, -breit]]]></phonetic>
     <tags>GRE</tags>
@@ -22747,18 +22792,22 @@ adj. 无脊椎的；无骨气的
     <progress>0</progress>
 </item><item>    <word>inveterate</word>
     <trans><![CDATA[adj. 根深的；积习的；成癖的 
+        veteran  [vet·er·an || 'vetrən /'vetərən]
+n.  老兵, 富有经验的人, 老手
 ]]></trans>
     <phonetic><![CDATA[[in'vetərət]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>invidious</word>
-    <trans><![CDATA[adj. 诽谤的；不公平的；引起反感的；易招嫉妒的 
+    <trans><![CDATA[adj. 诽谤的；不公平的；引起反感的；易招嫉妒的
+    envy 
 ]]></trans>
     <phonetic><![CDATA[[in'vidiəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>invigorate</word>
     <trans><![CDATA[vt. 鼓舞；使精力充沛 
+         vigor 活力        
 ]]></trans>
     <phonetic><![CDATA[[in'viɡəreit]]]></phonetic>
     <tags>GRE</tags>
@@ -22766,54 +22815,73 @@ adj. 无脊椎的；无骨气的
 </item><item>    <word>invigorating</word>
     <trans><![CDATA[adj. 爽快的；精力充沛的 
 vt. 振兴（invigorate的ing形式） 
+ vigor 活力 
 ]]></trans>
     <phonetic><![CDATA[[in'viɡəreitinɡ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>inviolable</word>
     <trans><![CDATA[adj. 不可侵犯的；神圣的；不可亵渎的 
+        violation  [vi·o·la·tion || ‚vaɪə'leɪʃn]
+n.  违反; 违犯; 违背; 违反行为
 ]]></trans>
     <phonetic><![CDATA[[in'vaiələbl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>invoke</word>
     <trans><![CDATA[vt. 调用；祈求；引起；恳求 
+        in + voice
 ]]></trans>
     <phonetic><![CDATA[[in'vəuk]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>involuntary</word>
     <trans><![CDATA[adj. 无意识的；自然而然的；不知不觉的 
+         will 愿意
+ vol-词根：愿意
 ]]></trans>
     <phonetic><![CDATA[[in'vɔləntəri]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>invulnerable</word>
     <trans><![CDATA[adj. 无懈可击的；不会受伤害的 
+         will 愿意
+ vol-词根：愿意
 ]]></trans>
     <phonetic><![CDATA[[in'vʌlnərəbl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>iodine</word>
     <trans><![CDATA[n. 碘；碘酒 
+        no
 ]]></trans>
     <phonetic><![CDATA[['aiəudi:n]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>iota</word>
     <trans><![CDATA[n. 极微小；希腊语的第九个字母 
+        jot  [dʒɑt /dʒɒt] n.  少量; 稍许; 少额
 ]]></trans>
     <phonetic><![CDATA[[ai'əutə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>irascible</word>
     <trans><![CDATA[adj. 易怒的 
+        roar吼叫, 怒号咆哮
+        rave 咆哮
+        rage n.愤怒
+        irritate v.激怒
+        irate  a.生气, 发怒的
 ]]></trans>
     <phonetic><![CDATA[[i'ræsəbl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>irate</word>
     <trans><![CDATA[adj. 生气的；发怒的 
+         roar吼叫, 怒号咆哮
+        rave 咆哮
+        rage n.愤怒
+        irritate v.激怒
 ]]></trans>
     <phonetic><![CDATA[[ai'reit, 'aireit]]]></phonetic>
     <tags>GRE</tags>
@@ -22821,24 +22889,30 @@ vt. 振兴（invigorate的ing形式）
 </item><item>    <word>ire</word>
     <trans><![CDATA[n. 忿怒 
 vt. 使发怒 
+irate  生气的；发怒的 
 ]]></trans>
     <phonetic><![CDATA[['aiə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>iridescent</word>
     <trans><![CDATA[adj. 彩虹色的；闪光的 
+        IRIS是希腊神话中的彩虹女神
 ]]></trans>
     <phonetic><![CDATA[[,iri'desənt, 'aiəri-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>irk</word>
-    <trans><![CDATA[vt. 使烦恼；使厌倦 
+    <trans><![CDATA[vt.  
+        urge  [ɜrdʒ /ɜːdʒ]
+n.  冲动, 迫切的要求, 推动力
+v.  催促, 力劝; 强烈要求
 ]]></trans>
     <phonetic><![CDATA[[ə:k]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>irksome</word>
     <trans><![CDATA[adj. 令人厌烦的，讨厌的；令人厌恶的 
+        irk 使烦恼；使厌倦 
 ]]></trans>
     <phonetic><![CDATA[['ə:ksəm]]]></phonetic>
     <tags>GRE</tags>
@@ -22846,12 +22920,17 @@ vt. 使发怒
 </item><item>    <word>ironclad</word>
     <trans><![CDATA[n. 装甲舰 
 adj. 装甲的；打不破的；坚固的 
+iron (n.) + clad.
+clad  [klæd] v.  电镀
+clothe
 ]]></trans>
     <phonetic><![CDATA[['aiənklæd]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>ironic</word>
     <trans><![CDATA[adj. 讽刺的；反话的 
+       iron  [i·ron || 'aɪə(r)n]n.  铁; 坚强; 熨斗
+v.  用铁铸成; 熨, 烫平; 用铁包; 烫衣服 adj.  铁的; 残酷的; 刚强的
 ]]></trans>
     <phonetic><![CDATA[[ai'rɔnik,-kəl]]]></phonetic>
     <tags>GRE</tags>
@@ -22859,48 +22938,69 @@ adj. 装甲的；打不破的；坚固的
 </item><item>    <word>irony</word>
     <trans><![CDATA[n. 讽刺；反语；具有讽刺意味的事 
 adj. 铁的；似铁的 
+iron  [i·ron || 'aɪə(r)n]n.  铁; 坚强; 熨斗
+v.  用铁铸成; 熨, 烫平; 用铁包; 烫衣服 adj.  铁的; 残酷的; 刚强的
 ]]></trans>
     <phonetic><![CDATA[['aiərəni]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>irradicable</word>
     <trans><![CDATA[adj. 不能根除的 
+          eradicate
+  eradicable 可根除的
+   root
+ rud-词根：根   rudiment基本原理
+ rad-词根：根 
 ]]></trans>
     <phonetic><![CDATA[[i'rædikəbl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>irreconcilable</word>
     <trans><![CDATA[adj. 矛盾的；不能和解的；不能协调的 
+          council  n.会议
+          consult v. 商量, 商议
+         reconcile调停，解决
 ]]></trans>
     <phonetic><![CDATA[[i'rekənsailəbl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>irredeemable</word>
     <trans><![CDATA[adj. 不能赎回的；[金融] 不能兑现的；不可救药的 
+         red=return   em    rede  em-词根：买
+    　　　em-词根：买
+    　　　exempt 免除的，豁免的
 ]]></trans>
     <phonetic><![CDATA[[,iri'di:məbl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>irreducible</word>
     <trans><![CDATA[adj. [数] 不可约的；不能削减的；不能复归的 
+        red=return   em    rede  em-词根：买
+    　　　em-词根：买
+    　　　exempt 免除的，豁免的
 ]]></trans>
     <phonetic><![CDATA[[,iri'dju:səbl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>irremediable</word>
     <trans><![CDATA[adj. 不能挽回的；不能补救的 
+        red=return   em    rede  em-词根：买
+    　　　em-词根：买
+    　　　exempt 免除的，豁免的
 ]]></trans>
     <phonetic><![CDATA[[,iri'mi:djəbl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>irrepressible</word>
     <trans><![CDATA[adj. 抑制不住的；压服不了的 
+        press
 ]]></trans>
     <phonetic><![CDATA[[,iri'presəbl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>irrevocable</word>
     <trans><![CDATA[adj. 不可改变的；不能取消的；不能挽回的 
+        revoke   撤回, 宣告无效, 
 ]]></trans>
     <phonetic><![CDATA[[i'revəkəbl, iri'vəukəbl]]]></phonetic>
     <tags>GRE</tags>
@@ -22908,12 +23008,15 @@ adj. 铁的；似铁的
 </item><item>    <word>irrigate</word>
     <trans><![CDATA[vt. 灌溉；冲洗；使清新 
 vi. 灌溉；冲洗 
+rain.
 ]]></trans>
     <phonetic><![CDATA[['iriɡeit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>irritable</word>
     <trans><![CDATA[adj. 过敏的；急躁的；易怒的 
+        　rage
+        irritate 
 ]]></trans>
     <phonetic><![CDATA[['iritəbl]]]></phonetic>
     <tags>GRE</tags>
@@ -22921,6 +23024,8 @@ vi. 灌溉；冲洗
 </item><item>    <word>irritate</word>
     <trans><![CDATA[vt. 刺激，使兴奋；激怒 
 vi. 引起恼怒，引起不愉快 
+　rage
+ irritate 
 ]]></trans>
     <phonetic><![CDATA[['iriteit]]]></phonetic>
     <tags>GRE</tags>
@@ -22944,6 +23049,7 @@ vi. 发行；流出；造成…结果；传下
     <progress>0</progress>
 </item><item>    <word>isthmus</word>
     <trans><![CDATA[n. 地峡；管峡 
+        no
 ]]></trans>
     <phonetic><![CDATA[['isməs]]]></phonetic>
     <tags>GRE</tags>
@@ -22951,6 +23057,7 @@ vi. 发行；流出；造成…结果；传下
 </item><item>    <word>itinerant</word>
     <trans><![CDATA[n. 巡回者；行商 
 adj. 巡回的；流动的 
+it+line=itinerant 
 ]]></trans>
     <phonetic><![CDATA[[i'tinərənt,ai-]]]></phonetic>
     <tags>GRE</tags>
@@ -22958,6 +23065,7 @@ adj. 巡回的；流动的
 </item><item>    <word>itinerary</word>
     <trans><![CDATA[n. 路线，旅程；旅行指南 
 adj. 旅程的；巡回的 
+it+line=itinerant 
 ]]></trans>
     <phonetic><![CDATA[[ai'tinərəri, i-]]]></phonetic>
     <tags>GRE</tags>
@@ -22965,6 +23073,7 @@ adj. 旅程的；巡回的
 </item><item>    <word>ivory</word>
     <trans><![CDATA[n. 象牙；乳白色；长牙 
 adj. 乳白色的；象牙制的 
+no
 ]]></trans>
     <phonetic><![CDATA[['aivəri]]]></phonetic>
     <tags>GRE</tags>
@@ -22973,6 +23082,7 @@ adj. 乳白色的；象牙制的
     <trans><![CDATA[n. 快而含糊不清的话 
 vt. 快而含糊地说出 
 vi. 快而含糊地说；吱吱喳喳地叫 
+no
 ]]></trans>
     <phonetic><![CDATA[['dʒæbə]]]></phonetic>
     <tags>GRE</tags>
@@ -22982,6 +23092,7 @@ vi. 快而含糊地说；吱吱喳喳地叫
 adj. 玉制的；绿玉色的 
 vt. 使疲倦 
 vi. 疲倦 
+no
 ]]></trans>
     <phonetic><![CDATA[[dʒeid]]]></phonetic>
     <tags>GRE</tags>
@@ -22996,12 +23107,17 @@ v. 厌倦（jade的过去分词）；变得疲倦；精疲力竭
 </item><item>    <word>jagged</word>
     <trans><![CDATA[adj. 锯齿状的；参差不齐的 
 v. 使成缺口；使成锯齿状（jag的过去式） 
+no
 ]]></trans>
     <phonetic><![CDATA[['dʒægid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>jamb</word>
     <trans><![CDATA[n. [矿业] 矿柱，侧柱；门窗侧壁 
+         originally "a leg, shank" (12c.), from Late Latin gamba "leg, (horse's) hock" (see gambol).
+        gambol  [gam·bol || 'gæmbl]n.  跳跃, 嬉戏, 雀跃 v.  跳跃, 耍闹, 雀跃
+        "horse's hock or leg,"
+        campus  [cam·pus || 'kæmpəs] n.  校园, 校区; 大学生活; 大学, 学院; 分校
 ]]></trans>
     <phonetic><![CDATA[[dʒæm]]]></phonetic>
     <tags>GRE</tags>
@@ -23016,6 +23132,7 @@ vt. 震动；刺激；使震动
     <progress>0</progress>
 </item><item>    <word>jargon</word>
     <trans><![CDATA[n. 行话，术语；黄锆石 
+        jar + go 在jar里面说话，当然是行话、术语
 ]]></trans>
     <phonetic><![CDATA[['dʒɑ:ɡən, -ɡɔn]]]></phonetic>
     <tags>GRE</tags>
@@ -23031,6 +23148,7 @@ v. 震惊；冲突；发刺耳声（jar的现在分词）
 </item><item>    <word>jaundice</word>
     <trans><![CDATA[n. 黄疸；偏见；乖僻 
 vt. 使怀偏见；使患黄疸 
+no
 ]]></trans>
     <phonetic><![CDATA[['dʒɔ:ndis]]]></phonetic>
     <tags>GRE</tags>
