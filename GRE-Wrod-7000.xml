@@ -21694,36 +21694,44 @@ fluent  adj.  流利的; 流畅的
     <progress>0</progress>
 </item><item>    <word>ingenious</word>
     <trans><![CDATA[adj. 有独创性的；机灵的，精制的；心灵手巧的 
+        genius  n.天才
 ]]></trans>
     <phonetic><![CDATA[[in'dʒi:njəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>ingenue</word>
     <trans><![CDATA[n. 天真无邪的少女；扮演天真姑娘的女演员 
+        genius  n.天才
 ]]></trans>
     <phonetic><![CDATA[[,ænʒei'nju:]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>ingenuity</word>
     <trans><![CDATA[n. 心灵手巧，独创性；精巧；精巧的装置 
+        genius  n.天才
 ]]></trans>
     <phonetic><![CDATA[[,indʒi'nju:əti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>ingenuous</word>
     <trans><![CDATA[adj. 天真的；坦白的；正直的；朴实的 
+        genius  n.天才
 ]]></trans>
     <phonetic><![CDATA[[in'dʒenjuəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>ingest</word>
     <trans><![CDATA[vt. 摄取；咽下；吸收；接待 
+        gest-词根：运输
+         digest  v.消化
 ]]></trans>
     <phonetic><![CDATA[[in'dʒest]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>ingestion</word>
     <trans><![CDATA[n. 摄取；吸收；咽下 
+         gest-词根：运输
+         digest  v.消化
 ]]></trans>
     <phonetic><![CDATA[[in'dʒestʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -21731,6 +21739,10 @@ fluent  adj.  流利的; 流畅的
 </item><item>    <word>ingrained</word>
     <trans><![CDATA[adj. 根深蒂固的；彻头彻尾的；生染的 
 v. 使根深蒂固（ingrain的过去分词形式）；生染；就原料染色 
+  green  grow  rain
+  grain 谷物 谷粒 谷类
+  grow
+  crop 
 ]]></trans>
     <phonetic><![CDATA[[,in'ɡreind]]]></phonetic>
     <tags>GRE</tags>
@@ -21738,18 +21750,24 @@ v. 使根深蒂固（ingrain的过去分词形式）；生染；就原料染色
 </item><item>    <word>ingrate</word>
     <trans><![CDATA[n. 忘恩负义的人 
 adj. 忘恩的；不知恩的 
+　great 伟大的
+　grateful 感激的
 ]]></trans>
     <phonetic><![CDATA[['inɡreit, in'ɡreit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>ingratiate</word>
     <trans><![CDATA[vt. 使迎合；使讨好；使逢迎 
+        　great 伟大的
+　grateful 感激的
 ]]></trans>
     <phonetic><![CDATA[[in'ɡreiʃieit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>ingratiating</word>
     <trans><![CDATA[adj. 逢迎的，讨好的；迷人的，吸引人的 
+        　great 伟大的
+　grateful 感激的
 ]]></trans>
     <phonetic><![CDATA[[in'ɡreiʃieitiŋ]]]></phonetic>
     <tags>GRE</tags>
@@ -21757,6 +21775,7 @@ adj. 忘恩的；不知恩的
 </item><item>    <word>ingredient</word>
     <trans><![CDATA[n. 原料；要素；组成部分 
 adj. 构成组成部分的 
+ gradi "to step, go" (see grade).
 ]]></trans>
     <phonetic><![CDATA[[in'ɡri:diənt]]]></phonetic>
     <tags>GRE</tags>
@@ -21764,12 +21783,16 @@ adj. 构成组成部分的
 </item><item>    <word>inhabit</word>
     <trans><![CDATA[vt. 栖息；居住于；占据 
 vi. （古）居住；栖息 
+inhabitant居民, 居住者
+  habitat 居住地
+  habit  n.  习惯, 习性, 嗜好
 ]]></trans>
     <phonetic><![CDATA[[in'hæbit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>inhabitant</word>
     <trans><![CDATA[n. 居民；居住者 
+        habit  n.  习惯, 习性, 嗜好
 ]]></trans>
     <phonetic><![CDATA[[in'hæbitənt]]]></phonetic>
     <tags>GRE</tags>
@@ -21777,36 +21800,46 @@ vi. （古）居住；栖息
 </item><item>    <word>inherit</word>
     <trans><![CDATA[vt. 继承；遗传而得 
 vi. 成为继承人 
+heres
+hereditary 
+her-词根：继承
 ]]></trans>
     <phonetic><![CDATA[[in'herit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>inhumane</word>
     <trans><![CDATA[adj. 残忍的；无人情味的 
+         human
 ]]></trans>
     <phonetic><![CDATA[[,imhju:'mein]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>inimical</word>
     <trans><![CDATA[adj. 敌意的；有害的 
+        enemy 敌人
 ]]></trans>
     <phonetic><![CDATA[[i'nimikəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>inimitable</word>
     <trans><![CDATA[adj. 独特的；无比的；无法仿效的 
+          image 形象，像
+          imitate  v.模仿
+          imitable
 ]]></trans>
     <phonetic><![CDATA[[i'nimitəbl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>iniquitous</word>
     <trans><![CDATA[adj. 邪恶的；不公正的 
+          equal 相等的
 ]]></trans>
     <phonetic><![CDATA[[i'nikwitəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>iniquity</word>
     <trans><![CDATA[n. 邪恶；不公正 
+          equal 相等的
 ]]></trans>
     <phonetic><![CDATA[[i'nikwəti]]]></phonetic>
     <tags>GRE</tags>
@@ -21830,6 +21863,7 @@ adj. 新加入的；接受初步知识的
 </item><item>    <word>initiative</word>
     <trans><![CDATA[n. 主动权；首创精神 
 adj. 主动的；自发的；起始的 
+initial
 ]]></trans>
     <phonetic><![CDATA[[i'niʃiətiv, -ʃətiv]]]></phonetic>
     <tags>GRE</tags>
@@ -21842,12 +21876,15 @@ adj. 主动的；自发的；起始的
     <progress>0</progress>
 </item><item>    <word>injunction</word>
     <trans><![CDATA[n. [管理] 禁令；命令；劝告 
+        "impose," literally "attach to" (see enjoin).
 ]]></trans>
     <phonetic><![CDATA[[in'dʒʌŋkʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>injurious</word>
     <trans><![CDATA[adj. 有害的；诽谤的 
+          jure-词根：法律       jury 陪审团
+        injure损害, 伤害
 ]]></trans>
     <phonetic><![CDATA[[in'dʒuəriəs]]]></phonetic>
     <tags>GRE</tags>
@@ -21855,30 +21892,45 @@ adj. 主动的；自发的；起始的
 </item><item>    <word>inkling</word>
     <trans><![CDATA[n. 暗示；略知；模糊概念 
 v. 暗示 （inkle的ing形式）；略知；低声说出 
+no
 ]]></trans>
     <phonetic><![CDATA[['iŋkliŋ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>innate</word>
     <trans><![CDATA[adj. 先天的；固有的；与生俱来的 
+        in nat-词根：生   nation 国家，民族
+                nature 自然状态, 本性, 天性, 种类
 ]]></trans>
     <phonetic><![CDATA[[,i'neit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>innocence</word>
     <trans><![CDATA[n. 清白，无罪；天真无邪 
+          nox-词根：毒、害     lux
+  noc  nos             luc  lus
+  nocent  有害的, 伤害的
+innocent (～ of) 清白的, 无罪的, 天真的, 无知的
 ]]></trans>
     <phonetic><![CDATA[['inəsəns]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>innocuous</word>
     <trans><![CDATA[adj. 无害的；无伤大雅的 
+          nox-词根：毒、害     lux
+  noc  nos             luc  lus
+  nocent  有害的, 伤害的
+innocent (～ of) 清白的, 无罪的, 天真的, 无知的
 ]]></trans>
     <phonetic><![CDATA[[i'nɔkjuəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>innovative</word>
     <trans><![CDATA[adj. 革新的，创新的 
+          new 新
+          nov-词根：新
+          neo-前缀：新
+        innovate v.创新
 ]]></trans>
     <phonetic><![CDATA[['inəuveitiv]]]></phonetic>
     <tags>GRE</tags>
@@ -21887,24 +21939,29 @@ v. 暗示 （inkle的ing形式）；略知；低声说出
     <trans><![CDATA[n. 暗讽，讽刺；影射 
 vt. 暗示，旁敲侧击地表达 
 vi. 影射；说讽刺话 
+from in- "at" + nuere "to nod" (see numinous). 
+numinous adj. 精神上的；超自然的；神圣的；庄严的
 ]]></trans>
     <phonetic><![CDATA[[,inju:'endəu]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>inoculate</word>
     <trans><![CDATA[vt. [医] 接种；嫁接；灌输 
+        no
 ]]></trans>
     <phonetic><![CDATA[[i'nɔkjuleit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>inordinate</word>
     <trans><![CDATA[adj. 过度的；无节制的；紊乱的 
+        order
 ]]></trans>
     <phonetic><![CDATA[[i'nɔ:dinət]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>inquiry</word>
     <trans><![CDATA[n. 探究；调查；质询 
+        query n.  疑问, 质问;
 ]]></trans>
     <phonetic><![CDATA[[in'kwaiəri]]]></phonetic>
     <tags>GRE</tags>
@@ -21917,36 +21974,43 @@ vi. 影射；说讽刺话
     <progress>0</progress>
 </item><item>    <word>inroad</word>
     <trans><![CDATA[n. 侵袭，袭击；减少 
+         raid
 ]]></trans>
     <phonetic><![CDATA[['inrəud]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>insatiable</word>
     <trans><![CDATA[adj. 贪得无厌的；不知足的 
+        satiable  
 ]]></trans>
     <phonetic><![CDATA[[in'seiʃjəbl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>inscribe</word>
     <trans><![CDATA[vt. 题写；题献；铭记；雕 
+        scribes n.  书记, 作者, 抄写员 v.  用划线器划, 刻出; 担任抄写员; 缮写
 ]]></trans>
     <phonetic><![CDATA[[in'skraib]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>inscrutable</word>
     <trans><![CDATA[adj. 神秘的；不可理解的；不能预测的；不可思议的 
+        scrutiny  [scru·ti·ny || 'skruːtnɪ /-tɪnɪ] n.  细看, 监视, 仔细检查
+        shred  [ʃred] n.  碎布条, 少量, 细片
 ]]></trans>
     <phonetic><![CDATA[[in'skru:təbl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>insecticide</word>
     <trans><![CDATA[n. 杀虫剂 
+         from insect + -cide.
 ]]></trans>
     <phonetic><![CDATA[[in'sektisaid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>insensate</word>
     <trans><![CDATA[adj. 无感觉的；无情的；无生命的 
+        sense
 ]]></trans>
     <phonetic><![CDATA[[in'senseit, -sit]]]></phonetic>
     <tags>GRE</tags>
@@ -21977,6 +22041,9 @@ vi. 影射；说讽刺话
     <progress>0</progress>
 </item><item>    <word>insincerity</word>
     <trans><![CDATA[n. 伪善；无诚意；不诚实 
+        insincere  [in·sin·cere || ‚ɪnsɪn'sɪr /-'sɪə] adj.  不诚实的, 伪善的, 无诚意的
+        sincere  [sin·cere || sɪn'sɪr /-'sɪə] adj.  诚挚的, 真诚的, 真实的
+        same
 ]]></trans>
     <phonetic><![CDATA[[,insin'serəti]]]></phonetic>
     <tags>GRE</tags>
@@ -21984,42 +22051,54 @@ vi. 影射；说讽刺话
 </item><item>    <word>insinuate</word>
     <trans><![CDATA[vt. 暗示；使逐渐而巧妙地取得；使迂回地潜入 
 vi. 暗讽；说含沙射影的话 
+implicate  v.暗示
+in s-ssssssssss wwww mmmmmsssssss
 ]]></trans>
     <phonetic><![CDATA[[in'sinjueit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>insipid</word>
     <trans><![CDATA[adj. 清淡的；无趣的 
+         move  mobile
+        flavor 滋味, 气味
+         savor滋味, 气味
 ]]></trans>
     <phonetic><![CDATA[[in'sipid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>insolent</word>
     <trans><![CDATA[adj. 无礼的；傲慢的；粗野的；无耻的 
+        sole
 ]]></trans>
     <phonetic><![CDATA[['insələnt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>insoluble</word>
     <trans><![CDATA[adj. 不能解决的；[化学] 不能溶解的；难以解释的 
+        soluble  [sol·u·ble || 'sɑljəbl /'sɒljʊbl]
+adj.  溶解的, 可以解决的, 可溶解的
 ]]></trans>
     <phonetic><![CDATA[[in'sɔljubl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>insolvency</word>
-    <trans><![CDATA[n. 破产，无力偿还；倒闭 
+    <trans><![CDATA[n. 破产，无力偿还；倒闭
+    solvent n.  溶剂; 解决方法 adj.  有偿付能力的, 有溶解力的 
+    solve
 ]]></trans>
     <phonetic><![CDATA[[in'sɔlvensi]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>insomnia</word>
     <trans><![CDATA[n. 失眠症，失眠 
+        Somnus ['sɔmnəs] n. 索莫纳斯（睡眠之神）
 ]]></trans>
     <phonetic><![CDATA[[in'sɔmniə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>insouciant</word>
     <trans><![CDATA[adj. 漫不经心的，漠不关心的；无忧无虑的 
+        solicit  v.  请求; 乞求; 恳求; 征求    
 ]]></trans>
     <phonetic><![CDATA[[in'su:sjənt]]]></phonetic>
     <tags>GRE</tags>
@@ -22051,30 +22130,35 @@ adj. 有灵感的；官方授意的
     <progress>0</progress>
 </item><item>    <word>instantaneous</word>
     <trans><![CDATA[adj. 瞬间的；即时的；猝发的 
+         in+stand= instant a.瞬间的
 ]]></trans>
     <phonetic><![CDATA[[,instən'teinjəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>instate</word>
     <trans><![CDATA[vt. 任命 
+        state
 ]]></trans>
     <phonetic><![CDATA[[in'steit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>instigate</word>
     <trans><![CDATA[vt. 唆使；煽动；教唆；怂恿 
+        sting
 ]]></trans>
     <phonetic><![CDATA[['instiɡeit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>instill</word>
     <trans><![CDATA[vt. 徐徐滴入；逐渐灌输 
+        distill vt. 提取；蒸馏；使滴下
 ]]></trans>
     <phonetic><![CDATA[[in'stil]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>instinctive</word>
     <trans><![CDATA[adj. 本能的；直觉的；天生的 
+        instinct n.本能
 ]]></trans>
     <phonetic><![CDATA[[in'stiŋktiv]]]></phonetic>
     <tags>GRE</tags>
@@ -22082,25 +22166,37 @@ adj. 有灵感的；官方授意的
 </item><item>    <word>institute</word>
     <trans><![CDATA[n. 学会，协会；学院 
 vt. 开始（调查）；制定；创立；提起（诉讼） 
+ stand 
+ stat-词根：站
+ stit-词根：站（瘦）
 ]]></trans>
     <phonetic><![CDATA[['institjut, -tu:t]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>institution</word>
     <trans><![CDATA[n. 制度；建立；（社会或宗教等）公共机构；习俗 
+         stand 
+ stat-词根：站
+ stit-词根：站（瘦）
 ]]></trans>
     <phonetic><![CDATA[[,insti'tju:ʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>institutionalized</word>
     <trans><![CDATA[adj. 使成惯例的；有组织的；遭受收容机构所产生的不良影响的 
-v. 使成为惯例（institutionalize的过去式和过去分词） 
+v. 使成为惯例（institutionalize的过去式和过去分词）
+ stand 
+ stat-词根：站
+ stit-词根：站（瘦） 
 ]]></trans>
     <phonetic><![CDATA[[,insti'tju:ʃənəlaizd]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>instructive</word>
     <trans><![CDATA[adj. 有益的；教育性的 
+          construct 建造
+  destruct 毁坏
+  destroy      struct-词根：建造
 ]]></trans>
     <phonetic><![CDATA[[in'strʌktiv]]]></phonetic>
     <tags>GRE</tags>
@@ -22121,24 +22217,32 @@ adj. 工具主义的
     <progress>0</progress>
 </item><item>    <word>insular</word>
     <trans><![CDATA[adj. 孤立的；与世隔绝的；海岛的；岛民的 
+        　 self 自己的  solo 独唱，独奏
+　　sole 唯一的
+  isolate使隔离, 使孤立, 使绝缘
+ insulate 隔离; 使孤立；使成岛
+ insula [拉]岛
 ]]></trans>
     <phonetic><![CDATA[['insjulə, 'insə-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>insularity</word>
     <trans><![CDATA[n. （思想、观点等）偏狭，性僵化；岛国性质（或状态）；岛屿生活状况，与外界隔绝的生活状况 
+        insular adj. 孤立的；与世隔绝的；海岛的；岛民的 
 ]]></trans>
     <phonetic><![CDATA[[,insju'lærəti, 'insə-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>insulate</word>
     <trans><![CDATA[vt. 隔离，使孤立；使绝缘，使隔热 
+         insular adj. 孤立的；与世隔绝的；海岛的；岛民的 
 ]]></trans>
     <phonetic><![CDATA[['insjuleit, 'insə-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>insulin</word>
     <trans><![CDATA[n. [生化][药] 胰岛素 
+        拟声词
 ]]></trans>
     <phonetic><![CDATA[['insjulin, 'insə-]]]></phonetic>
     <tags>GRE</tags>
@@ -22146,24 +22250,29 @@ adj. 工具主义的
 </item><item>    <word>insurgent</word>
     <trans><![CDATA[n. 叛乱者；起义者 
 adj. 叛乱的；起义的 
+insurge 汹涌, 澎湃
 ]]></trans>
     <phonetic><![CDATA[[in'sə:dʒənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>insurrection</word>
     <trans><![CDATA[n. 暴动；叛乱 
+        insurge 汹涌, 澎湃
 ]]></trans>
     <phonetic><![CDATA[[,insə'rekʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>intact</word>
     <trans><![CDATA[adj. 完整的；原封不动的；未受损伤的 
+          touch 
+  tact-词根：碰
 ]]></trans>
     <phonetic><![CDATA[[in'tækt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>intangible</word>
     <trans><![CDATA[adj. 无形的，触摸不到的；难以理解的 
+        tangent 接触的, 切线的
 ]]></trans>
     <phonetic><![CDATA[[in'tændʒəbl]]]></phonetic>
     <tags>GRE</tags>
@@ -22171,6 +22280,7 @@ adj. 叛乱的；起义的
 </item><item>    <word>integral</word>
     <trans><![CDATA[n. 积分；部分；完整 
 adj. 积分的；完整的，整体的 
+integer
 ]]></trans>
     <phonetic><![CDATA[['intiɡrəl]]]></phonetic>
     <tags>GRE</tags>
@@ -22180,12 +22290,15 @@ adj. 积分的；完整的，整体的
 adj. 整合的；完全的 
 vi. 求积分；取消隔离；成为一体 
 vt. 使…完整；使…成整体；求…的积分；表示…的总和 
+integer
 ]]></trans>
     <phonetic><![CDATA[['intiɡreit, 'intiɡrit, -ɡreit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>integrity</word>
     <trans><![CDATA[n. 完整；正直；诚实；廉正 
+        intact
+integer完整物;整数
 ]]></trans>
     <phonetic><![CDATA[[in'teɡrəti]]]></phonetic>
     <tags>GRE</tags>
@@ -22212,6 +22325,9 @@ adj. 智力的；聪明的；理智的
 </item><item>    <word>intensify</word>
     <trans><![CDATA[vt. 使加强，使强化；使变激烈 
 vi. 增强，强化；变激烈 
+  to+end=tend-词根：伸
+  tense a.紧绷的；紧张的（具体的）
+intense a.剧烈的，紧张的（抽象的）
 ]]></trans>
     <phonetic><![CDATA[[in'tensifai]]]></phonetic>
     <tags>GRE</tags>
@@ -22231,6 +22347,7 @@ adj. 专心的；急切的；坚决的
     <progress>0</progress>
 </item><item>    <word>inter</word>
     <trans><![CDATA[vt. 埋；葬 
+        inner 埋葬，是在inner
 ]]></trans>
     <phonetic><![CDATA[[in'tə:]]]></phonetic>
     <tags>GRE</tags>
@@ -22243,6 +22360,7 @@ adj. 专心的；急切的；坚决的
     <progress>0</progress>
 </item><item>    <word>intercede</word>
     <trans><![CDATA[vi. 调解，调停；求情，说项 
+         cede  [siːd] v.  放弃
 ]]></trans>
     <phonetic><![CDATA[[,intə'si:d]]]></phonetic>
     <tags>GRE</tags>
@@ -22250,12 +22368,15 @@ adj. 专心的；急切的；坚决的
 </item><item>    <word>intercept</word>
     <trans><![CDATA[n. 拦截；[数] 截距；截获的情报 
 vt. 拦截；截断；窃听 
+e "to take, catch" (see capable).
+capable adj.  有能力的, 能干的, 能的
 ]]></trans>
     <phonetic><![CDATA[[,intə'sept]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>intercessor</word>
     <trans><![CDATA[n. 调解人；仲裁者 
+        intercede
 ]]></trans>
     <phonetic><![CDATA[[,intə'sesə]]]></phonetic>
     <tags>GRE</tags>
@@ -22269,6 +22390,7 @@ vt. 拦截；截断；窃听
 </item><item>    <word>interdict</word>
     <trans><![CDATA[n. 禁令；禁止 
 vt. 阻断，封锁；禁止 
+"between" (see inter-) + dicere "to speak, to say" (see diction)
 ]]></trans>
     <phonetic><![CDATA[[,intə'dikt, 'intədikt]]]></phonetic>
     <tags>GRE</tags>
@@ -22276,12 +22398,14 @@ vt. 阻断，封锁；禁止
 </item><item>    <word>interim</word>
     <trans><![CDATA[n. 过渡时期，中间时期；暂定 
 adj. 临时的，暂时的；中间的；间歇的 
+inter- "between" (see inter-) + im
 ]]></trans>
     <phonetic><![CDATA[['intərim]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>interjection</word>
     <trans><![CDATA[n. [语] 感叹词；插入语；突然的发声 
+        form of iacere "to throw" (see jet (v.)).
 ]]></trans>
     <phonetic><![CDATA[[,intə'dʒekʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -22301,8 +22425,8 @@ adj. 连锁的
     <progress>0</progress>
 </item><item>    <word>interlude</word>
     <trans><![CDATA[n. 插曲；穿插；幕间节目；[数] 插算 
-vt. 使中断 
-vi. 插入 
+vt. 使中断 vi. 插入 
+ludicrous  [lu·di·crous || 'luːdɪkrəs] adj.  可笑的, 荒唐的, 滑稽的
 ]]></trans>
     <phonetic><![CDATA[['intəlu:d]]]></phonetic>
     <tags>GRE</tags>
@@ -22316,12 +22440,16 @@ adj. 中间的；媒介的；中途的
     <progress>0</progress>
 </item><item>    <word>interminable</word>
     <trans><![CDATA[adj. 冗长的；无止尽的 
+         term-词根：终点
+ terminal  a.终点的  n. 终点
+ terminable  可终止的, 有期限的
 ]]></trans>
     <phonetic><![CDATA[[in'tə:minəbl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>interference</word>
     <trans><![CDATA[n. 干扰，冲突；干涉 
+        interfere  v.  妨碍; 抵触; 冲突; 介入
 ]]></trans>
     <phonetic><![CDATA[[,intə'fiərəns]]]></phonetic>
     <tags>GRE</tags>
@@ -22329,18 +22457,22 @@ adj. 中间的；媒介的；中途的
 </item><item>    <word>intermingle</word>
     <trans><![CDATA[vt. 使混合；使搀和 
 vi. 混合；掺杂 
+mingle v.  使混合, 使相混; 混合起来, 相混合; 交往, 往来
+ among
 ]]></trans>
     <phonetic><![CDATA[[,intə'miŋɡl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>intermission</word>
     <trans><![CDATA[n. 幕间休息；暂停；中断 
+        "let go, send" (see mission).
 ]]></trans>
     <phonetic><![CDATA[[,intə'miʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>intermittent</word>
     <trans><![CDATA[adj. 间歇的，断断续续的 
+         "let go, send" (see mission).
 ]]></trans>
     <phonetic><![CDATA[[,intə'mitənt]]]></phonetic>
     <tags>GRE</tags>
@@ -22349,12 +22481,16 @@ vi. 混合；掺杂
     <trans><![CDATA[n. 实习生，实习医师 
 vt. 拘留，软禁 
 vi. 作实习医师 
+inner 软禁实习生，很苦B
 ]]></trans>
     <phonetic><![CDATA[[in'tə:n, 'intə:n]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>internecine</word>
     <trans><![CDATA[adj. 两败俱伤的；互相残杀的；致命的 
+        necare "kill" (see noxious)
+        noxious  [nox·ious || 'nɑkʃəs /'nɒ-] adj.  有害的, 精神不健全的, 有毒的
+    necro- 或 necr- 死者：死尸；尸体：死：
 ]]></trans>
     <phonetic><![CDATA[[,intə'ni:sain]]]></phonetic>
     <tags>GRE</tags>
@@ -22369,6 +22505,12 @@ vi. 相互影响，相互作用
 </item><item>    <word>interpolate</word>
     <trans><![CDATA[vt. 篡改；插入新语句 
 vi. 插入；篡改 
+extrapolate 延伸；预测，推测
+interpolate  窜改, 添写进去, 插入新语句
+    pole  杆子
+    bole  树干
+    bone 骨头
+　　　way
 ]]></trans>
     <phonetic><![CDATA[[in'tə:pəuleit]]]></phonetic>
     <tags>GRE</tags>
@@ -22382,6 +22524,7 @@ vi. 干预；插入；调停
     <progress>0</progress>
 </item><item>    <word>interregnum</word>
     <trans><![CDATA[n. 中断；空位期；过渡期；间歇 
+         "between-reign,"
 ]]></trans>
     <phonetic><![CDATA[[,intə'reɡnəm]]]></phonetic>
     <tags>GRE</tags>
@@ -22389,6 +22532,9 @@ vi. 干预；插入；调停
 </item><item>    <word>interrogate</word>
     <trans><![CDATA[vt. 审问；质问；[计] 询问 
 vi. 审问；质问 
+rogation n. 祈祷；法律草案
+rog-, 0-grade form of root *reg- "move in a straight line" (see regal)
+regal  [re·gal || 'rɪːgl]adj.  帝王的, 王室的; 豪华的, 堂皇的; 庄严的
 ]]></trans>
     <phonetic><![CDATA[[in'terəuɡeit]]]></phonetic>
     <tags>GRE</tags>
@@ -22396,6 +22542,7 @@ vi. 审问；质问
 </item><item>    <word>interrogative</word>
     <trans><![CDATA[n. 疑问词 
 adj. 疑问的；质问的 
+interrogate 审问；质问；[计] 询问 
 ]]></trans>
     <phonetic><![CDATA[[,intə'rɔɡətiv]]]></phonetic>
     <tags>GRE</tags>
@@ -22418,6 +22565,7 @@ vi. 相交，交叉
 </item><item>    <word>intersperse</word>
     <trans><![CDATA[vt. 点缀；散布 
 vi. 点缀；散布 
+ sparse  [spɑrs /spɑːs] adj.  稀疏的, 薄的, 稀稀落落的
 ]]></trans>
     <phonetic><![CDATA[[,intə'spə:s]]]></phonetic>
     <tags>GRE</tags>
@@ -22425,12 +22573,15 @@ vi. 点缀；散布
 </item><item>    <word>intertwine</word>
     <trans><![CDATA[vt. 缠绕；纠缠 
 vi. 纠缠；编结 
+wine  n.  葡萄酒, 酒
 ]]></trans>
     <phonetic><![CDATA[[,intə'twain]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>intervene</word>
     <trans><![CDATA[vi. 干涉；调停；插入 
+        "to come" (see venue)
+        venue  [ven·ue || 'venjuː] n.  犯罪地点, 集合地点, 审判地
 ]]></trans>
     <phonetic><![CDATA[[,intə'vi:n]]]></phonetic>
     <tags>GRE</tags>
