@@ -24840,18 +24840,21 @@ no
     <progress>0</progress>
 </item><item>    <word>magisterial</word>
     <trans><![CDATA[adj. 有权威的；专横的；官吏的 
+         master
 ]]></trans>
     <phonetic><![CDATA[[,mædʒis'tiəriəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>magnanimity</word>
     <trans><![CDATA[n. 宽宏大量；慷慨 
+        from magnus "great" (see magnate) + animus "mind, soul, spirit" (see animus). 
 ]]></trans>
     <phonetic><![CDATA[[,mæɡnə'niməti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>magnanimous</word>
     <trans><![CDATA[adj. 宽宏大量的；有雅量的；宽大的 
+        magnate  [mag·nate || 'mægneɪt, -nət] n.  巨头, 大王; 要人, 权贵
 ]]></trans>
     <phonetic><![CDATA[[mæɡ'næniməs]]]></phonetic>
     <tags>GRE</tags>
@@ -24864,6 +24867,7 @@ no
     <progress>0</progress>
 </item><item>    <word>magnificent</word>
     <trans><![CDATA[adj. 高尚的；壮丽的；华丽的；宏伟的 
+         magnate  [mag·nate || 'mægneɪt, -nət] n.  巨头, 大王; 要人, 权贵
 ]]></trans>
     <phonetic><![CDATA[[mæɡ'nifisənt]]]></phonetic>
     <tags>GRE</tags>
@@ -24871,12 +24875,14 @@ no
 </item><item>    <word>magnify</word>
     <trans><![CDATA[vt. 放大；赞美；夸大 
 vi. 放大；有放大能力 
+ magnate  [mag·nate || 'mægneɪt, -nət] n.  巨头, 大王; 要人, 权贵
 ]]></trans>
     <phonetic><![CDATA[['mæɡnifai]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>magnitude</word>
     <trans><![CDATA[n. 大小；量级；[地震] 震级；重要；光度 
+         magnate  [mag·nate || 'mægneɪt, -nət] n.  巨头, 大王; 要人, 权贵
 ]]></trans>
     <phonetic><![CDATA[['mæɡnitju:d]]]></phonetic>
     <tags>GRE</tags>
@@ -24884,12 +24890,15 @@ vi. 放大；有放大能力
 </item><item>    <word>magpie</word>
     <trans><![CDATA[adj. 鹊的；有收集癖的；斑驳的，混杂的 
 n. 鹊，喜鹊；饶舌的人；有收集零碎东西癖好的人 
+no
 ]]></trans>
     <phonetic><![CDATA[['mæɡpai]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>maintenance</word>
     <trans><![CDATA[n. 维护，维修；保持；生活费用 
+        maintain  [main·tain || meɪn'teɪn] v.  维持; 使继续; 保持; 维修, 保养
+        manual  [man·u·al || 'mænjʊəl] n.  手册; 指南 adj.  手的; 手工的; 手动的
 ]]></trans>
     <phonetic><![CDATA[['meintənəns]]]></phonetic>
     <tags>GRE</tags>
@@ -24897,30 +24906,38 @@ n. 鹊，喜鹊；饶舌的人；有收集零碎东西癖好的人
 </item><item>    <word>maize</word>
     <trans><![CDATA[n. 玉米；黄色，玉米色 
 adj. 黄色的，玉米色的 
+(as)'掰玉米的妹子'
 ]]></trans>
     <phonetic><![CDATA[[meiz]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>majestic</word>
     <trans><![CDATA[adj. 庄严的；宏伟的 
+         magnate
 ]]></trans>
     <phonetic><![CDATA[[mə'dʒestik]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>maladroit</word>
     <trans><![CDATA[adj. 笨拙的；不灵巧的；愚钝的 
+        mal- + adroit.
+        mal-词根：坏   malfunction  失灵
+        adroit  [a·droit || ə'drɔɪt] adj.  灵巧的; 熟练的; 敏捷的
+         (see ad-) "straight" (see direct (v.)).
 ]]></trans>
     <phonetic><![CDATA[[,mælə'drɔit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>malaise</word>
     <trans><![CDATA[n. 不舒服；心神不安 
+         from mal "bad" (see mal-) + aise "ease" (see ease (n.)). 
 ]]></trans>
     <phonetic><![CDATA[[mæ'leiz]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>malapropism</word>
     <trans><![CDATA[n. 文字误用；词语荒唐误用 
+         from mal (see mal-) + proposer "propose" (see propose).
 ]]></trans>
     <phonetic><![CDATA[['mæləprɔpizəm]]]></phonetic>
     <tags>GRE</tags>
@@ -24934,12 +24951,14 @@ adj. 不满的；不服的
     <progress>0</progress>
 </item><item>    <word>malevolent</word>
     <trans><![CDATA[adj. 恶毒的；有恶意的；坏心肠的 
+         velle "to wish" (see will (v.)). 
 ]]></trans>
     <phonetic><![CDATA[[mə'levələnt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>malfeasance</word>
     <trans><![CDATA[n. 渎职，违法行为；不正当，坏事 
+         facere "to do" (see factitious). 
 ]]></trans>
     <phonetic><![CDATA[[mæl'fi:zəns]]]></phonetic>
     <tags>GRE</tags>
@@ -24953,6 +24972,7 @@ vi. 发生故障；不起作用
     <progress>0</progress>
 </item><item>    <word>malicious</word>
     <trans><![CDATA[adj. 恶意的；恶毒的；蓄意的；怀恨的 
+        from malus "bad" (see mal-).
 ]]></trans>
     <phonetic><![CDATA[[mə'liʃəs]]]></phonetic>
     <tags>GRE</tags>
@@ -24960,18 +24980,21 @@ vi. 发生故障；不起作用
 </item><item>    <word>malign</word>
     <trans><![CDATA[vt. 诽谤，污蔑；中伤，说坏话 
 adj. 恶意的，恶性的；有害的 
+(see mal-) gn- "to bear" (see genus).
 ]]></trans>
     <phonetic><![CDATA[[mə'lain]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>malinger</word>
     <trans><![CDATA[vi. 装病以逃避职责 
+        mal- + thin
 ]]></trans>
     <phonetic><![CDATA[[mə'liŋɡə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>malleable</word>
     <trans><![CDATA[adj. 可锻的；可塑的；有延展性的；易适应的 
+        mallet  [mal·let || 'mælɪt] n.  木槌, 棒, 球棍
 ]]></trans>
     <phonetic><![CDATA[['mæliəbl]]]></phonetic>
     <tags>GRE</tags>
@@ -24985,6 +25008,7 @@ adj. 恶意的，恶性的；有害的
 </item><item>    <word>mammoth</word>
     <trans><![CDATA[n. 长毛象；猛犸象；庞然大物 
 adj. 巨大的，庞大的；猛犸似的 
+拟声词
 ]]></trans>
     <phonetic><![CDATA[['mæməθ]]]></phonetic>
     <tags>GRE</tags>
@@ -24992,6 +25016,7 @@ adj. 巨大的，庞大的；猛犸似的
 </item><item>    <word>mandate</word>
     <trans><![CDATA[n. 授权；命令，指令；委托管理；受命进行的工作 
 vt. 授权；托管 
+ manual
 ]]></trans>
     <phonetic><![CDATA[['mændeit]]]></phonetic>
     <tags>GRE</tags>
@@ -24999,6 +25024,7 @@ vt. 授权；托管
 </item><item>    <word>mandatory</word>
     <trans><![CDATA[n. 受托者（等于mandatary） 
 adj. 强制的；托管的；命令的 
+mandate 授权；命令
 ]]></trans>
     <phonetic><![CDATA[['mændətəri:, -,tɔ:ri]]]></phonetic>
     <tags>GRE</tags>
@@ -25006,12 +25032,14 @@ adj. 强制的；托管的；命令的
 </item><item>    <word>mangle</word>
     <trans><![CDATA[n. 轧布机 
 vt. 乱砍；轧布；损坏 
+no
 ]]></trans>
     <phonetic><![CDATA[['mæŋɡl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>mania</word>
     <trans><![CDATA[n. 狂热；狂躁；热衷 
+         mind
 ]]></trans>
     <phonetic><![CDATA[['meiniə]]]></phonetic>
     <tags>GRE</tags>
@@ -25021,6 +25049,8 @@ vt. 乱砍；轧布；损坏
 vt. 证明，表明；显示 
 adj. 显然的，明显的；明白的 
 vi. 显示，出现 
+ from manus "hand" (see manual) + -festus "struck" (cf. second element of infest).
+ infest  [in·fest || ɪn'fest] v.  骚扰, 大批出没, 群居于
 ]]></trans>
     <phonetic><![CDATA[['mænifest]]]></phonetic>
     <tags>GRE</tags>
@@ -25028,6 +25058,7 @@ vi. 显示，出现
 </item><item>    <word>manifesto</word>
     <trans><![CDATA[n. 宣言；声明；告示 
 vi. 发表宣言 
+manifest 载货单，货单；旅客名单 
 ]]></trans>
     <phonetic><![CDATA[[,mæni'festəu]]]></phonetic>
     <tags>GRE</tags>
@@ -25036,30 +25067,35 @@ vi. 发表宣言
     <trans><![CDATA[n. 多种；复印本 
 adj. 多方面的，有许多部分的；各式各样的 
 vt. 复写，复印；增多；使……多样化 
+ from manig (see many) + -feald (see -fold). 
 ]]></trans>
     <phonetic><![CDATA[['mænifəuld]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>manipulate</word>
     <trans><![CDATA[vt. 操纵；操作；巧妙地处理；篡改 
+         from manus "hand" (see manual) + root of plere "to fill" (see pleio-). 
 ]]></trans>
     <phonetic><![CDATA[[mə'nipjuleit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>manipulative</word>
     <trans><![CDATA[adj. 巧妙处理的；操纵的，用手控制的 
+        manipulate
 ]]></trans>
     <phonetic><![CDATA[[mə'nipjulətiv]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>mannered</word>
     <trans><![CDATA[adj. 矫饰的；守规矩的；矫揉造作的 
+        manner n.  样子, 风格, 礼貌
 ]]></trans>
     <phonetic><![CDATA[['mænəd]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>mansion</word>
     <trans><![CDATA[n. 大厦；宅邸 
+        (as)man+ sion
 ]]></trans>
     <phonetic><![CDATA[['mænʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -25068,12 +25104,14 @@ vt. 复写，复印；增多；使……多样化
     <trans><![CDATA[n. 地幔；斗篷；覆盖物 
 vi. 覆盖；脸红 
 vt. 覆盖 
+'埋头'覆盖
 ]]></trans>
     <phonetic><![CDATA[['mæntl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>manumit</word>
     <trans><![CDATA[vt. 解放；释放 
+        manual 
 ]]></trans>
     <phonetic><![CDATA[[,mænju'mit]]]></phonetic>
     <tags>GRE</tags>
@@ -25081,6 +25119,8 @@ vt. 覆盖
 </item><item>    <word>manure</word>
     <trans><![CDATA[n. 肥料；粪肥 
 vt. 施肥于；耕种 
+"to work with the hands, cultivate; carry out; make, produce," 
+manual  [man·u·al || 'mænjʊəl] n.  手册; 指南
 ]]></trans>
     <phonetic><![CDATA[[mə'njuə]]]></phonetic>
     <tags>GRE</tags>
@@ -25088,12 +25128,14 @@ vt. 施肥于；耕种
 </item><item>    <word>manuscript</word>
     <trans><![CDATA[n. [图情] 手稿；原稿 
 adj. 手写的 
+manual  [man·u·al || 'mænjʊəl] n.  手册; 指南
 ]]></trans>
     <phonetic><![CDATA[['mænjuskript]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>maple</word>
     <trans><![CDATA[n. 枫树；淡棕色 
+        no
 ]]></trans>
     <phonetic><![CDATA[['meipl]]]></phonetic>
     <tags>GRE</tags>
@@ -25101,6 +25143,7 @@ adj. 手写的
 </item><item>    <word>mar</word>
     <trans><![CDATA[n. 污点；瑕疵 
 vt. 损毁；损伤；糟蹋；玷污 
+no
 ]]></trans>
     <phonetic><![CDATA[[mɑ:]]]></phonetic>
     <tags>GRE</tags>
@@ -25108,18 +25151,24 @@ vt. 损毁；损伤；糟蹋；玷污
 </item><item>    <word>marble</word>
     <trans><![CDATA[n. 大理石；大理石制品；弹珠 
 adj. 大理石的；冷酷无情的 
+pebble 鹅卵石
+rubble 碎石
+marble 大理石
 ]]></trans>
     <phonetic><![CDATA[['mɑ:bl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>mare</word>
     <trans><![CDATA[n. 母马；母驴；月球表面阴暗部 
+        "broad, dark areas of the moon,"
+        marine  [ma·rine || mə'rɪːn] n.  舰队; 海运业; 水兵
 ]]></trans>
     <phonetic><![CDATA[[mεə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>margarine</word>
     <trans><![CDATA[n. 人造黄油；人造奶油 
+        no
 ]]></trans>
     <phonetic><![CDATA[[,mɑ:dʒə'ri:n]]]></phonetic>
     <tags>GRE</tags>
@@ -25127,6 +25176,7 @@ adj. 大理石的；冷酷无情的
 </item><item>    <word>margin</word>
     <trans><![CDATA[n. 边缘；利润，余裕；页边的空白 
 vt. 加边于；加旁注于 
+mark
 ]]></trans>
     <phonetic><![CDATA[['mɑ:dʒin]]]></phonetic>
     <tags>GRE</tags>
@@ -25134,39 +25184,37 @@ vt. 加边于；加旁注于
 </item><item>    <word>marine</word>
     <trans><![CDATA[n. 海运业；舰队；水兵；（海军）士兵或军官 
 adj. 船舶的；海生的；海产的；航海的，海运的 
+no
 ]]></trans>
     <phonetic><![CDATA[[mə'ri:n]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>marionette</word>
     <trans><![CDATA[n. 牵线木偶 
+         literally "little little Mary,"
 ]]></trans>
     <phonetic><![CDATA[[,mæriə'net]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>marital</word>
     <trans><![CDATA[adj. 婚姻的；夫妇间的 
+        marry
 ]]></trans>
     <phonetic><![CDATA[['mæritəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>maritime</word>
     <trans><![CDATA[adj. 海的；海事的；沿海的；海员的 
+        marine
 ]]></trans>
     <phonetic><![CDATA[['mæritaim]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
-</item><item>    <word>marked</word>
-    <trans><![CDATA[v. 表示（mark的过去分词）；作记号；打分数 
-adj. 显著的；有记号的 
-]]></trans>
-    <phonetic><![CDATA[[mɑ:kt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>maroon</word>
     <trans><![CDATA[n. 栗色；逃亡黑人奴隶；孤立的人 
 adj. 栗色的 
 v. 使孤立；放逐到无人岛上 
+no
 ]]></trans>
     <phonetic><![CDATA[[mə'ru:n]]]></phonetic>
     <tags>GRE</tags>
@@ -25174,6 +25222,9 @@ v. 使孤立；放逐到无人岛上
 </item><item>    <word>marsh</word>
     <trans><![CDATA[n. 沼泽；湿地 
 adj. 沼泽的；生长在沼泽地的 
+marine 海运业；舰队；水兵；（海军）士兵或军官 
+mari- "sea" (see mere (n.)).
+mere  [mɪr /mɪə] n.  浅湖; 池 adj.  仅仅的, 只不过的
 ]]></trans>
     <phonetic><![CDATA[[mɑ:ʃ]]]></phonetic>
     <tags>GRE</tags>
@@ -25182,6 +25233,7 @@ adj. 沼泽的；生长在沼泽地的
     <trans><![CDATA[n. 元帅；司仪 
 vt. 整理；引领；编列 
 vi. 排列 
+marine 海运业；舰队；水兵；（海军）士兵或军官 
 ]]></trans>
     <phonetic><![CDATA[['mɑ:ʃəl]]]></phonetic>
     <tags>GRE</tags>
@@ -25189,12 +25241,14 @@ vi. 排列
 </item><item>    <word>marsupial</word>
     <trans><![CDATA[n. 有袋类动物 
 adj. [脊椎] 有袋的；袋状的 
+no
 ]]></trans>
     <phonetic><![CDATA[[mɑ:'sju:piəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>martial</word>
     <trans><![CDATA[adj. 军事的；战争的；尚武的 
+        Roman god of war; see Mars.
 ]]></trans>
     <phonetic><![CDATA[['mɑ:ʃəl]]]></phonetic>
     <tags>GRE</tags>
@@ -25202,6 +25256,7 @@ adj. [脊椎] 有袋的；袋状的
 </item><item>    <word>martyr</word>
     <trans><![CDATA[n. 烈士；殉道者 
 vt. 牺牲；折磨；杀害 
+Mars
 ]]></trans>
     <phonetic><![CDATA[['mɑ:tə]]]></phonetic>
     <tags>GRE</tags>
@@ -25210,6 +25265,7 @@ vt. 牺牲；折磨；杀害
     <trans><![CDATA[n. 奇迹 
 vi. 感到惊讶 
 vt. 对…感到惊异 
+Mars 战争总是有奇迹，出其不意，惊讶
 ]]></trans>
     <phonetic><![CDATA[['mɑ:vəl]]]></phonetic>
     <tags>GRE</tags>
@@ -25217,6 +25273,7 @@ vt. 对…感到惊异
 </item><item>    <word>mash</word>
     <trans><![CDATA[n. 饲料；糊状物；麦芽浆 
 vt. 捣碎；调情 
+crash
 ]]></trans>
     <phonetic><![CDATA[[mæʃ]]]></phonetic>
     <tags>GRE</tags>
@@ -25232,6 +25289,7 @@ vi. 掩饰；戴面具；化装
 </item><item>    <word>mason</word>
     <trans><![CDATA[n. 泥瓦匠；共济会会员（等于freemason） 
 vt. 用砖瓦砌成 
+make
 ]]></trans>
     <phonetic><![CDATA[['meisən]]]></phonetic>
     <tags>GRE</tags>
@@ -25240,6 +25298,7 @@ vt. 用砖瓦砌成
     <trans><![CDATA[vt. 化装；乔装 
 n. 伪装；化妆舞会 
 vi. 化装；伪装 
+mask
 ]]></trans>
     <phonetic><![CDATA[[,mæskə'reid]]]></phonetic>
     <tags>GRE</tags>
@@ -25247,6 +25306,7 @@ vi. 化装；伪装
 </item><item>    <word>massacre</word>
     <trans><![CDATA[n. 大屠杀；惨败 
 vt. 残杀；彻底击败 
+mass + acre
 ]]></trans>
     <phonetic><![CDATA[['mæsəkə]]]></phonetic>
     <tags>GRE</tags>
@@ -25260,6 +25320,7 @@ vt. 残杀；彻底击败
 </item><item>    <word>mast</word>
     <trans><![CDATA[n. 桅杆；柱；橡树果实 
 vt. 在…上装桅杆 
+no
 ]]></trans>
     <phonetic><![CDATA[[mɑ:st, mæst]]]></phonetic>
     <tags>GRE</tags>
@@ -25267,6 +25328,8 @@ vt. 在…上装桅杆
 </item><item>    <word>masticate</word>
     <trans><![CDATA[vt. 咀嚼；粉碎；撕捏 
 vi. 咀嚼；粉碎；撕捏 
+mastication  [mas·ti·ca·tion || ‚mæstɪ'keɪʃn] n.  咀嚼; 磨烂; 粉碎
+mandible  [man·di·ble || 'mændəbl] n.  颚, 嘴的上部, 下颚
 ]]></trans>
     <phonetic><![CDATA[['mæstikeit]]]></phonetic>
     <tags>GRE</tags>
@@ -25282,12 +25345,15 @@ vi. 交配；成配偶；紧密配合
 </item><item>    <word>materialize</word>
     <trans><![CDATA[vi. 实现，成形；突然出现 
 vt. 使具体化，使有形；使突然出现；使重物质而轻精神 
+material   n.  材料; 物资; 原料 adj.  物质的; 具体的; 肉体的
+matter n.  事件, 原因, 物质 v.  有关系, 要紧; 化脓
 ]]></trans>
     <phonetic><![CDATA[[mə'tiəriəlaiz]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>maternal</word>
     <trans><![CDATA[adj. 母亲的；母性的；母系的；母体遗传的 
+        mother
 ]]></trans>
     <phonetic><![CDATA[[mə'tə:nl]]]></phonetic>
     <tags>GRE</tags>
@@ -25299,7 +25365,8 @@ vt. 使具体化，使有形；使突然出现；使重物质而轻精神
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>mattress</word>
-    <trans><![CDATA[n. 床垫；褥子；空气垫 
+    <trans><![CDATA[n. 床垫；褥子；空气垫
+    no 
 ]]></trans>
     <phonetic><![CDATA[['mætris]]]></phonetic>
     <tags>GRE</tags>
@@ -25322,6 +25389,8 @@ adj. 感情脆弱的；容易流泪的；酒后伤感的
 </item><item>    <word>maul</word>
     <trans><![CDATA[n. 大槌 
 vt. 打伤；殴打；抨击；粗暴对待 
+mallet  [mal·let || 'mælɪt] n.  木槌, 棒, 球棍
+no
 ]]></trans>
     <phonetic><![CDATA[[mɔ:l]]]></phonetic>
     <tags>GRE</tags>
@@ -25329,12 +25398,14 @@ vt. 打伤；殴打；抨击；粗暴对待
 </item><item>    <word>mauve</word>
     <trans><![CDATA[n. 淡紫色；苯胺紫；淡紫色染料 
 adj. 淡紫色的 
+no
 ]]></trans>
     <phonetic><![CDATA[[məuv]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>maven</word>
     <trans><![CDATA[n. 内行，专家 
+        no
 ]]></trans>
     <phonetic><![CDATA[['meivin]]]></phonetic>
     <tags>GRE</tags>
@@ -25350,6 +25421,7 @@ vi. 迷途；背离
     <progress>0</progress>
 </item><item>    <word>mawkish</word>
     <trans><![CDATA[adj. 令人作呕的，令人厌恶的；自作多情的；淡而无味的 
+        no
 ]]></trans>
     <phonetic><![CDATA[['mɔ:kiʃ]]]></phonetic>
     <tags>GRE</tags>
@@ -25371,6 +25443,7 @@ vt. 迷失；使混乱；使困惑
 </item><item>    <word>meager</word>
     <trans><![CDATA[n. 兆 
 adj. 贫乏的；瘦的 
+makro- (see macro-)
 ]]></trans>
     <phonetic><![CDATA[['mi:ɡə]]]></phonetic>
     <tags>GRE</tags>
@@ -25388,12 +25461,17 @@ vt. 意味；想要；意欲
     <trans><![CDATA[n. 漫步；曲流（常用复数） 
 vt. 漫步；蜿蜒缓慢流动 
 vi. 漫步；漫谈 
+meander  [me·an·der || mɪ'ændə(r)] v.  缓慢而曲折地流动; 漫步; 漫谈
+mendicant  ['men·di·cant || 'mendɪkənt]
+n.  乞丐, 托钵僧, 乞讨
+adj.  行乞的, 化缘的, 托钵的
 ]]></trans>
     <phonetic><![CDATA[[mi'ændə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>measly</word>
     <trans><![CDATA[adj. 患麻疹的；极少的；低贱的 
+        no
 ]]></trans>
     <phonetic><![CDATA[['mi:zli]]]></phonetic>
     <tags>GRE</tags>
@@ -25425,12 +25503,14 @@ adj. 量过的；慎重的；基于标准的；有规则的
     <progress>0</progress>
 </item><item>    <word>medal</word>
     <trans><![CDATA[n. 勋章，奖章；纪念章 
+        metal  [met·al || 'metl] n.  金属, 合金, 金属制品
 ]]></trans>
     <phonetic><![CDATA[['medəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>meddle</word>
     <trans><![CDATA[vi. 管闲事，干预他人之事 
+        mix
 ]]></trans>
     <phonetic><![CDATA[['medl]]]></phonetic>
     <tags>GRE</tags>
@@ -25445,6 +25525,7 @@ adj. 量过的；慎重的；基于标准的；有规则的
     <trans><![CDATA[adj. 间接的；居间的 
 vi. 调解；斡旋；居中 
 vt. 调停；传达 
+media
 ]]></trans>
     <phonetic><![CDATA[['mi:dieit]]]></phonetic>
     <tags>GRE</tags>
@@ -25457,6 +25538,8 @@ vt. 调停；传达
     <progress>0</progress>
 </item><item>    <word>mediocrity</word>
     <trans><![CDATA[n. 平庸之才；平常 
+        mediocre  [me·di·o·cre || ‚mɪːdɪ'əʊkə(r)] adj.  不好不坏的, 平凡的, 中等的
+medial  [me·di·al || 'miːdɪəl] n.  中间字母 adj.  中间的, 普通的, 平均的
 ]]></trans>
     <phonetic><![CDATA[[,mi:di'ɔkrəti, ,med-]]]></phonetic>
     <tags>GRE</tags>
@@ -25464,6 +25547,9 @@ vt. 调停；传达
 </item><item>    <word>meditate</word>
     <trans><![CDATA[vt. 考虑；计划；企图 
 vi. 冥想；沉思 
+, Old English metan "to measure;" also see medical
+medical  [med·i·cal || 'medɪkl] n.  医生; 体格检查
+adj.  医学的; 药的; 内科的
 ]]></trans>
     <phonetic><![CDATA[['mediteit]]]></phonetic>
     <tags>GRE</tags>
@@ -25478,12 +25564,14 @@ adj. 中间的，中等的；半生熟的
 </item><item>    <word>medley</word>
     <trans><![CDATA[n. 混合；混杂；混合物 
 adj. 混合的；拼凑的 
+meddle  [med·dle || 'medl] v.  干涉; 擅自摸弄; 管闲事
 ]]></trans>
     <phonetic><![CDATA[['medli]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>meek</word>
     <trans><![CDATA[adj. 温顺的；谦恭的；驯服的 
+        mild
 ]]></trans>
     <phonetic><![CDATA[[mi:k]]]></phonetic>
     <tags>GRE</tags>
@@ -25500,6 +25588,9 @@ vi. 相遇；接触
 </item><item>    <word>melancholy</word>
     <trans><![CDATA[n. 忧郁；悲哀；愁思 
 adj. 忧郁的；使人悲伤的 
+from melas (genitive melanos) "black" (see melanin) + khole "bile" (see Chloe). 
+melanin  ['melənɪn]
+n.  黑色素
 ]]></trans>
     <phonetic><![CDATA[['melənkəli]]]></phonetic>
     <tags>GRE</tags>
@@ -25514,24 +25605,30 @@ vi. 合并；混合
     <progress>0</progress>
 </item><item>    <word>mellifluous</word>
     <trans><![CDATA[adj. 流畅的；如蜜般的 
+        fluent
 ]]></trans>
     <phonetic><![CDATA[[mə'lifluəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>melodrama</word>
     <trans><![CDATA[n. 情节剧；音乐剧；耸人听闻的事件，闹剧 
+        from Greek melos "song" (see melody) + French drame "drama" (see drama). 
+        melody  [mel·o·dy || 'melədɪ] n.  曲子, 曲调, 美的音乐
 ]]></trans>
     <phonetic><![CDATA[['melə,drɑ:mə, -dræmə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>melon</word>
     <trans><![CDATA[n. 瓜；甜瓜；大肚子；圆鼓鼓像瓜似的东西 
+        from melon "apple" (see malic) 
+        malic  ['mælɪk,'meɪlɪk] adj.  苹果的; 苹果酸的
 ]]></trans>
     <phonetic><![CDATA[['melən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>membrane</word>
     <trans><![CDATA[n. 膜；薄膜；羊皮纸 
+        "limb, member of the body" (see member).
 ]]></trans>
     <phonetic><![CDATA[['membrein]]]></phonetic>
     <tags>GRE</tags>
