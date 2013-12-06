@@ -24062,18 +24062,23 @@ no
     <progress>0</progress>
 </item><item>    <word>lexicographer</word>
     <trans><![CDATA[n. 词典编纂者 
+        lexicon  n.  辞典, 词典
+        lecture
 ]]></trans>
     <phonetic><![CDATA[[,leksi'kɔɡrəfə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>liability</word>
     <trans><![CDATA[n. 责任；债务；倾向 
+        liable  [li·a·ble || 'laɪəbl] adj.  有义务的, 有...倾向的, 应负责的
+ligament  [lig·a·ment || 'lɪgəmənt] n.  系带, 纽带; 韧带
 ]]></trans>
     <phonetic><![CDATA[[,laiə'biləti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>liaison</word>
     <trans><![CDATA[n. 联络；（语言）连音 
+        ligament  [lig·a·ment || 'lɪgəmənt] n.  系带, 纽带; 韧带
 ]]></trans>
     <phonetic><![CDATA[[li'eizɔŋ, lje'zuŋ]]]></phonetic>
     <tags>GRE</tags>
@@ -24082,18 +24087,23 @@ no
     <trans><![CDATA[n. 诽谤罪；诋毁；毁坏名誉的东西；控诉书 
 vt. 中伤；控告；对…进行诽谤 
 vi. 进行文字诽谤 
+diminutive of liber "book" (see library)
 ]]></trans>
     <phonetic><![CDATA[['laibəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>liberality</word>
     <trans><![CDATA[n. 慷慨，大方；心胸宽阔，胸怀广阔 
+        liberal  [lib·er·al || 'lɪbərəl]
+n.  自由主义者 adj.  慷慨的; 宽大的; 不拘泥的
 ]]></trans>
     <phonetic><![CDATA[[,libə'ræləti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>liberate</word>
     <trans><![CDATA[vt. 解放；放出；释放 
+                liberal  [lib·er·al || 'lɪbərəl]
+n.  自由主义者 adj.  慷慨的; 宽大的; 不拘泥的
 ]]></trans>
     <phonetic><![CDATA[['libəreit]]]></phonetic>
     <tags>GRE</tags>
@@ -24101,18 +24111,23 @@ vi. 进行文字诽谤
 </item><item>    <word>libertine</word>
     <trans><![CDATA[n. 浪荡子；性行为放纵者；放荡不羁者；玩乐者；自由思想家 
 adj. 放荡的 
+        liberal  [lib·er·al || 'lɪbərəl]
+n.  自由主义者 adj.  慷慨的; 宽大的; 不拘泥的
 ]]></trans>
     <phonetic><![CDATA[['libəti:n]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>liberty</word>
     <trans><![CDATA[n. 自由；许可；冒失 
+                liberal  [lib·er·al || 'lɪbərəl]
+n.  自由主义者 adj.  慷慨的; 宽大的; 不拘泥的
 ]]></trans>
     <phonetic><![CDATA[['libəti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>libretto</word>
     <trans><![CDATA[n. 剧本；歌词集 
+         see library. 
 ]]></trans>
     <phonetic><![CDATA[[li'bretəu]]]></phonetic>
     <tags>GRE</tags>
@@ -24126,24 +24141,30 @@ vt. 许可；特许；发许可证给
     <progress>0</progress>
 </item><item>    <word>licentious</word>
     <trans><![CDATA[adj. 放肆的；放纵的 
+        license 执照，许可证；特许
 ]]></trans>
     <phonetic><![CDATA[[lai'senʃəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>lien</word>
     <trans><![CDATA[n. [经] 留置权；抵押品所产生的利息 
+         from ligare "to bind, tie" (see ligament).
 ]]></trans>
     <phonetic><![CDATA[[liən, 'li:ən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>ligneous</word>
     <trans><![CDATA[adj. 木质的；似木的 
+        "wood, firewood" (see ligni-).
+ligni- 或 ligno-  或 lign-  木头
+iterally "that which is collected," from root *leg- "to collect" (see lecture (n.)).
 ]]></trans>
     <phonetic><![CDATA[['liɡniəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>liken</word>
     <trans><![CDATA[vt. 比拟；把…比作 
+        like
 ]]></trans>
     <phonetic><![CDATA[['laikən]]]></phonetic>
     <tags>GRE</tags>
@@ -24159,30 +24180,37 @@ vt. 切断…的手足；从…上截下树枝
     <trans><![CDATA[adj. 柔软的；敏捷的 
 vt. 使柔软；将接在前车上 
 vi. 做准备活动 
+limb n. 肢，臂；分支；枝干 
 ]]></trans>
     <phonetic><![CDATA[['limbə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>limerick</word>
     <trans><![CDATA[n. 五行打油诗（一种通俗幽默短诗，有五行组成，韵式为aabba） 
+        no
 ]]></trans>
     <phonetic><![CDATA[['limərik]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>limestone</word>
     <trans><![CDATA[n. [岩] 石灰岩 
+        lime  [laɪm]
+n.  酸橙树; 酸橙#菩提树#石灰; 粘鸟胶
+v.  撒石灰于; 涂粘鸟胶于; 用石灰水涂刷; 用粘鸟胶捕
 ]]></trans>
     <phonetic><![CDATA[['laimstəun]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>limn</word>
     <trans><![CDATA[vt. 描写；描绘 
+        "to illuminate"  related to lucere "to shine" (see light (n.)).
 ]]></trans>
     <phonetic><![CDATA[[lim]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>limousine</word>
     <trans><![CDATA[n. 豪华轿车；大型豪华轿车 
+        no
 ]]></trans>
     <phonetic><![CDATA[['liməzi:n, ,limə'z-]]]></phonetic>
     <tags>GRE</tags>
@@ -24191,18 +24219,22 @@ vi. 做准备活动
     <trans><![CDATA[n. 跛行 
 vi. 跛行，一拐一拐地走；缓慢费力地前进 
 adj. 柔软的，无力的；软弱的 
+no
 ]]></trans>
     <phonetic><![CDATA[[limp]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>limpid</word>
     <trans><![CDATA[adj. 透明的；平静的，无忧虑的 
+        "clear liquid" (see lymph). 
+        lymph  [lɪmf] n.  淋巴腺; 淋巴
 ]]></trans>
     <phonetic><![CDATA[['limpid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>lineage</word>
     <trans><![CDATA[n. 血统；家系，[遗] 世系 
+        line
 ]]></trans>
     <phonetic><![CDATA[['liniidʒ]]]></phonetic>
     <tags>GRE</tags>
@@ -24210,6 +24242,7 @@ adj. 柔软的，无力的；软弱的
 </item><item>    <word>linen</word>
     <trans><![CDATA[n. 亚麻布，亚麻线；亚麻制品 
 adj. 亚麻的；亚麻布制的 
+line
 ]]></trans>
     <phonetic><![CDATA[['linin]]]></phonetic>
     <tags>GRE</tags>
@@ -24217,12 +24250,15 @@ adj. 亚麻的；亚麻布制的
 </item><item>    <word>linger</word>
     <trans><![CDATA[vi. 徘徊；苟延残喘；磨蹭 
 vt. 消磨；缓慢度过 
+line
 ]]></trans>
     <phonetic><![CDATA[['liŋɡə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>linguistics</word>
     <trans><![CDATA[n. 语言学 
+        lingual  [lin·gual || 'lɪŋgwəl] n.  舌音 adj.  舌的; 语言的; 舌音的
+        tongue  [tʌŋ] n.  舌, 讲话的方式, 语言能力
 ]]></trans>
     <phonetic><![CDATA[[liŋ'ɡwistiks]]]></phonetic>
     <tags>GRE</tags>
@@ -24230,12 +24266,14 @@ vt. 消磨；缓慢度过
 </item><item>    <word>lionize</word>
     <trans><![CDATA[vt. 把……奉为名人；游览名胜 
 vi. 游览名胜 
+lion
 ]]></trans>
     <phonetic><![CDATA[['laiənaiz]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>liquefy</word>
     <trans><![CDATA[vt. 液化；溶解 
+         liquid
 ]]></trans>
     <phonetic><![CDATA[['likwifai]]]></phonetic>
     <tags>GRE</tags>
@@ -24250,22 +24288,18 @@ adj. 液体的；清澈的；明亮的；易变的
 </item><item>    <word>liquidate</word>
     <trans><![CDATA[vt. 清算；偿付；消除 
 vi. 清算；清理债务 
+"to melt, make liquid or clear, clarify," from Latin liquidus (see liquid). 
 ]]></trans>
     <phonetic><![CDATA[['likwideit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>lissome</word>
     <trans><![CDATA[adj. 柔软的；敏捷的 
+        lithesome  adj.  柔软的; 轻快的
+lithe  [laɪð] adj.  柔软的
+light
 ]]></trans>
     <phonetic><![CDATA[['lisəm]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
-</item><item>    <word>list</word>
-    <trans><![CDATA[n. [计] 列表；清单；目录 
-vt. 列出；记入名单内 
-vi. 列于表上 
-]]></trans>
-    <phonetic><![CDATA[[list]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>listless</word>
@@ -24276,6 +24310,7 @@ vi. 列于表上
     <progress>0</progress>
 </item><item>    <word>literal</word>
     <trans><![CDATA[adj. 文字的；逐字的；无夸张的 
+        letter
 ]]></trans>
     <phonetic><![CDATA[['litərəl]]]></phonetic>
     <tags>GRE</tags>
@@ -24283,18 +24318,21 @@ vi. 列于表上
 </item><item>    <word>literate</word>
     <trans><![CDATA[n. 学者 
 adj. 受过教育的；精通文学的 
+letter
 ]]></trans>
     <phonetic><![CDATA[['litərit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>literati</word>
     <trans><![CDATA[n. 文人（literatus的复数）；文学界 
+        letter
 ]]></trans>
     <phonetic><![CDATA[[,litə'rɑ:ti:, 'rɑ:ti:, -'reitai]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>lithe</word>
     <trans><![CDATA[adj. 轻盈的（等于lithesome）；柔软的；易弯曲的 
+        light
 ]]></trans>
     <phonetic><![CDATA[[laið]]]></phonetic>
     <tags>GRE</tags>
@@ -24302,6 +24340,8 @@ adj. 受过教育的；精通文学的
 </item><item>    <word>litigant</word>
     <trans><![CDATA[n. 诉讼当事人 
 adj. 诉讼的 
+litigation  [lit·i·ga·tion || ‚lɪtɪ'geɪʃn] n.  诉讼, 争讼
+literal adj. 文字的；逐字的；无夸张的 
 ]]></trans>
     <phonetic><![CDATA[['litiɡənt]]]></phonetic>
     <tags>GRE</tags>
@@ -24316,6 +24356,7 @@ adj. 诉讼的
     <trans><![CDATA[n. 垃圾；轿，担架；一窝（动物的幼崽）；凌乱 
 vt. 乱丢；给…垫褥草；把…弄得乱七八糟 
 vi. 产仔；乱扔废弃物 
+lie
 ]]></trans>
     <phonetic><![CDATA[['litə]]]></phonetic>
     <tags>GRE</tags>
@@ -24323,13 +24364,15 @@ vi. 产仔；乱扔废弃物
 </item><item>    <word>loaf</word>
     <trans><![CDATA[n. 条，一条面包；块；游荡 
 vt. 游荡；游手好闲；虚度光阴 
-vi. 游荡；游手好闲；虚度光阴 
+no
 ]]></trans>
     <phonetic><![CDATA[[ləuf]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>loathe</word>
     <trans><![CDATA[vt. 讨厌，厌恶 
+        loath  [ləʊθ] adj.  不情愿的; 勉强的
+lack + passion  
 ]]></trans>
     <phonetic><![CDATA[[ləuð]]]></phonetic>
     <tags>GRE</tags>
@@ -24338,12 +24381,15 @@ vi. 游荡；游手好闲；虚度光阴
     <trans><![CDATA[n. 大厅；休息室；会客室；游说议员的团体 
 vt. 对……进行游说 
 vi. 游说议员 
+lodge  [lɑdʒ /lɒd-] n.  小屋, 支部, 门房
+"shelter," likely originally "shelter of foliage,"  from root of leaf (n.).
 ]]></trans>
     <phonetic><![CDATA[['lɔbi]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>lobe</word>
     <trans><![CDATA[n. （脑、肺等的）叶；裂片；耳垂；波瓣 
+        no
 ]]></trans>
     <phonetic><![CDATA[[ləub]]]></phonetic>
     <tags>GRE</tags>
@@ -24356,6 +24402,7 @@ vi. 游说议员
     <progress>0</progress>
 </item><item>    <word>locomotion</word>
     <trans><![CDATA[n. 运动；移动；旅行 
+        local motion
 ]]></trans>
     <phonetic><![CDATA[['ləukə'məuʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -24369,18 +24416,21 @@ adj. 火车头的；运动的；移动的
     <progress>0</progress>
 </item><item>    <word>locus</word>
     <trans><![CDATA[n. [数] 轨迹；地点，所在地 
+        local focus
 ]]></trans>
     <phonetic><![CDATA[['ləukəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>lode</word>
     <trans><![CDATA[n. 矿脉；丰富的蕴藏 
+        load
 ]]></trans>
     <phonetic><![CDATA[[ləud]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>lofty</word>
     <trans><![CDATA[adj. 高的；崇高的；高级的；高傲的 
+        loft  [lɔft /lɒft] n.  阁楼, 顶楼; 楼厢; 厩楼; 不分隔的楼面
 ]]></trans>
     <phonetic><![CDATA[['lɔfti, 'lɔ:f-]]]></phonetic>
     <tags>GRE</tags>
@@ -24395,6 +24445,8 @@ vi. 伐木
     <progress>0</progress>
 </item><item>    <word>logistics</word>
     <trans><![CDATA[n. [军] 后勤；后勤学 
+        lodge  [lɑdʒ /lɒd-] n.  小屋, 支部, 门房
+"shelter," likely originally "shelter of foliage,"  from root of leaf (n.).
 ]]></trans>
     <phonetic><![CDATA[[ləu'dʒistiks]]]></phonetic>
     <tags>GRE</tags>
@@ -24402,6 +24454,7 @@ vi. 伐木
 </item><item>    <word>loll</word>
     <trans><![CDATA[vt. 懒洋洋地倚靠 
 vi. 懒洋洋地倚靠 
+(as)lllll都挂在树上，树懒嘛
 ]]></trans>
     <phonetic><![CDATA[[lɔl]]]></phonetic>
     <tags>GRE</tags>
@@ -24420,22 +24473,19 @@ adj. 渴望的，极想得到的
     <phonetic><![CDATA[['lɔŋiŋ, 'lɔ:ŋ-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
-</item><item>    <word>long-winded</word>
-    <trans><![CDATA[adj. 冗长的；罗嗦的；气长的 
-]]></trans>
-    <phonetic><![CDATA[['lɔŋ'windid, 'lɔ:ŋ-]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
 </item><item>    <word>loom</word>
     <trans><![CDATA[n. 织布机；若隐若现的景象 
 vt. 在织布机上织 
 vi. 可怕地出现；朦胧地出现；隐约可见 
+. Early used also of ships moving up and down. Figurative use from 1590s. Related: Loomed; looming.
+lame  [leɪm] v.  使成残废 adj.  跛足的; 不完全的; 僵痛的
 ]]></trans>
     <phonetic><![CDATA[[lu:m]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>loon</word>
     <trans><![CDATA[n. [鸟] 潜鸟；懒人；笨蛋 
+        no
 ]]></trans>
     <phonetic><![CDATA[[lu:n]]]></phonetic>
     <tags>GRE</tags>
@@ -24450,6 +24500,7 @@ vi. 打环；翻筋斗
     <progress>0</progress>
 </item><item>    <word>loophole</word>
     <trans><![CDATA[n. 漏洞；枪眼；换气孔；射弹孔 
+        no
 ]]></trans>
     <phonetic><![CDATA[['lu:phəul]]]></phonetic>
     <tags>GRE</tags>
@@ -24465,33 +24516,35 @@ vi. 放松；松开
     <trans><![CDATA[n. 大步慢跑 
 vt. 使…大步慢跑 
 vi. 大步慢跑 
+leap  [lɪːp] n.  跳跃, 急变, 剧增
 ]]></trans>
     <phonetic><![CDATA[[ləup]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>lopsided</word>
     <trans><![CDATA[adj. 不平衡的，倾向一方的 
+        lop  [lɑp /lɒp] v.  砍; 修剪; 无力地垂下; 懒洋洋地拖着脚步走; 删削
 ]]></trans>
     <phonetic><![CDATA[['lɔp'saidid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>loquacious</word>
     <trans><![CDATA[adj. 饶舌的，多话的 
+        locution  [lo·cu·tion || ləʊ'kjuːʃn] n.  独特的措辞; 说话风格; 惯用语
+        lecture
 ]]></trans>
     <phonetic><![CDATA[[ləu'kweiʃəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>lot</word>
-    <trans><![CDATA[n. 命运；一块地；一堆；抽签；份额 
-vt. 划分 
-adv. 非常；相当 
-vi. 抽签；抓阄 
+    <trans><![CDATA[n.  运气, 一堆, 签 v.  划分 
 ]]></trans>
     <phonetic><![CDATA[[lɔt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>lottery</word>
     <trans><![CDATA[n. 彩票；碰运气的事，难算计的事；抽彩给奖法 
+        lot  n.  运气, 一堆, 签 v.  划分
 ]]></trans>
     <phonetic><![CDATA[['lɔtəri]]]></phonetic>
     <tags>GRE</tags>
@@ -24500,28 +24553,23 @@ vi. 抽签；抓阄
     <trans><![CDATA[n. 休息室；闲逛；躺椅；（英）酒吧间 
 vt. 虚度光阴 
 vi. 闲逛；懒洋洋地躺卧；闲混 
+long
 ]]></trans>
     <phonetic><![CDATA[[laundʒ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>loutish</word>
     <trans><![CDATA[adj. 粗野的；笨拙的；无礼的 
+        lout  [laʊt] n.  笨拙的人
+        also "to be small" (see little)
 ]]></trans>
     <phonetic><![CDATA[['lautiʃ]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
-</item><item>    <word>low</word>
-    <trans><![CDATA[n. 低；低价；低点；牛叫声 
-adj. 低的，浅的；卑贱的；粗俗的；消沉的 
-adv. 低声地；谦卑地，低下地 
-vi. 牛叫 
-]]></trans>
-    <phonetic><![CDATA[[ləu]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>loyal</word>
     <trans><![CDATA[n. 效忠的臣民；忠实信徒 
 adj. 忠诚的，忠心的；忠贞的 
+low
 ]]></trans>
     <phonetic><![CDATA[['lɔiəl]]]></phonetic>
     <tags>GRE</tags>
@@ -24529,6 +24577,8 @@ adj. 忠诚的，忠心的；忠贞的
 </item><item>    <word>lubricant</word>
     <trans><![CDATA[n. 润滑剂；润滑油 
 adj. 润滑的 
+sleeve  [slɪːv] n.  袖子; 唱片套子; 袖套; 套筒, 套管
+slip  [slɪp] n.  滑动; 失足; 滑跤; 下降#片条, 板条; 接枝, 插枝; 纸条#后裔
 ]]></trans>
     <phonetic><![CDATA[['lu:brikənt]]]></phonetic>
     <tags>GRE</tags>
@@ -24536,24 +24586,28 @@ adj. 润滑的
 </item><item>    <word>lubricate</word>
     <trans><![CDATA[vt. 使…润滑；给…加润滑油 
 vi. 润滑；涂油；起润滑剂作用 
+lubricant n. 润滑剂；润滑油 
 ]]></trans>
     <phonetic><![CDATA[['lubrikeit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>lucid</word>
     <trans><![CDATA[adj. 明晰的；透明的；易懂的；头脑清楚的 
+        light
 ]]></trans>
     <phonetic><![CDATA[['lju:sid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>lucrative</word>
     <trans><![CDATA[adj. 有利可图的，赚钱的；合算的 
+        lucre  [lu·cre || 'luːkə(r)] n.  收益, 钱财
 ]]></trans>
     <phonetic><![CDATA[['lju:krətiv]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>ludicrous</word>
     <trans><![CDATA[adj. 滑稽的；荒唐的 
+        no
 ]]></trans>
     <phonetic><![CDATA[['lju:dikrəs]]]></phonetic>
     <tags>GRE</tags>
@@ -24562,12 +24616,15 @@ vi. 润滑；涂油；起润滑剂作用
     <trans><![CDATA[n. 支托；接线片；耳状物 
 vt. 用力拉或拖 
 vi. 用力拉或拖 
+no
 ]]></trans>
     <phonetic><![CDATA[[lʌɡ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>lukewarm</word>
     <trans><![CDATA[adj. 冷淡的；微温的；不够热心的 
+         luke + warm
+       luke:  unknow
 ]]></trans>
     <phonetic><![CDATA[['lu:kwɔ:m, ,lu:k'wɔ:m]]]></phonetic>
     <tags>GRE</tags>
@@ -24576,6 +24633,7 @@ vi. 用力拉或拖
     <trans><![CDATA[n. 间歇；暂停；暂时平静 
 vt. 使平静；使安静；哄骗 
 vi. 平息；减弱；停止 
+no
 ]]></trans>
     <phonetic><![CDATA[[lʌl]]]></phonetic>
     <tags>GRE</tags>
@@ -24583,6 +24641,7 @@ vi. 平息；减弱；停止
 </item><item>    <word>lullaby</word>
     <trans><![CDATA[n. 摇篮曲；催眠曲 
 vt. 唱摇篮曲使入睡 
+lull 间歇；暂停；暂时平静 
 ]]></trans>
     <phonetic><![CDATA[['lʌləbai]]]></phonetic>
     <tags>GRE</tags>
@@ -24591,40 +24650,47 @@ vt. 唱摇篮曲使入睡
     <trans><![CDATA[n. 木材；废物，无用的杂物；隆隆声 
 vt. 砍伐木材；乱堆 
 vi. 伐木；喧闹地向前走；笨重地行动，缓慢地移动 
+lame  [leɪm] v.  使成残废
 ]]></trans>
     <phonetic><![CDATA[['lʌmbə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>lumberjack</word>
     <trans><![CDATA[n. 伐木工人；木材商的佣工；短茄克衫 
+        lumber 木材；废物，无用的杂物；隆隆声 
 ]]></trans>
     <phonetic><![CDATA[['lʌmbədʒæk]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>lumen</word>
     <trans><![CDATA[n. 流明（光束的能量单位）；（管状器官内的）内腔 
+        light
 ]]></trans>
     <phonetic><![CDATA[['lju:min]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>luminary</word>
     <trans><![CDATA[n. 发光体；杰出人物；知识渊博的人 
+        light
 ]]></trans>
     <phonetic><![CDATA[['lju:minəri]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>lump</word>
     <trans><![CDATA[n. 块，块状；肿块；瘤；很多；笨人 
-adj. 成团的；总共的 
-vt. 混在一起；使成块状；忍耐；笨重地移动 
-vi. 结块 
-adv. 很；非常 
+adj. 成团的；总共的 vt. 混在一起；使成块状；忍耐；笨重地移动 
+vi. 结块 adv. 很；非常 
+dump  [dʌmp]
+n.  垃圾场, 垃圾堆; 仓库; 集成; 拷贝记忆部分到输出或存储装置 (计算机用语)
+v.  倾倒; 倾卸; 倒垃圾, 倾销商品
 ]]></trans>
     <phonetic><![CDATA[[lʌmp]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>lunar</word>
     <trans><![CDATA[adj. 月亮的，月球的；阴历的；银的；微亮的 
+       Luna   6lun*] 卢纳：月亮女神
+        拟声词 '撸呢'
 ]]></trans>
     <phonetic><![CDATA[['lju:nə]]]></phonetic>
     <tags>GRE</tags>
@@ -24632,20 +24698,23 @@ adv. 很；非常
 </item><item>    <word>lunatic</word>
     <trans><![CDATA[n. 疯子；疯人 
 adj. 疯狂的；精神错乱的；愚蠢的 
+ "moon-struck," from Latin luna "moon" (see Luna)
 ]]></trans>
     <phonetic><![CDATA[['lju:nətik]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>lurch</word>
     <trans><![CDATA[n. 突然倾斜；蹒跚；挫折 
-vt. 击败 
-vi. 倾斜；蹒跚 
+vt. 击败 vi. 倾斜；蹒跚 
+lax  [læks] adj.  松的; 不严格的; 松懈的
 ]]></trans>
     <phonetic><![CDATA[[lə:tʃ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>lurid</word>
     <trans><![CDATA[adj. 可怕的，耸人听闻的；火烧似的；苍白的；血红的；华丽而庸俗的 
+        perhaps cognate with Greek khloros (see Chloe)
+       Chloe  克洛伊（女子名） 克洛伊木马
 ]]></trans>
     <phonetic><![CDATA[['ljuərid]]]></phonetic>
     <tags>GRE</tags>
@@ -24653,15 +24722,17 @@ vi. 倾斜；蹒跚
 </item><item>    <word>lurk</word>
     <trans><![CDATA[n. 潜伏；埋伏 
 vi. 潜伏；潜藏；埋伏 
+lower
 ]]></trans>
     <phonetic><![CDATA[[lə:k]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>lush</word>
-    <trans><![CDATA[n. 酒；酒鬼 
+    <trans><![CDATA[n. 酒；酒鬼         
 vi. 喝酒 
 adj. 丰富的，豪华的；苍翠繁茂的 
 vt. 饮 
+lax  松的; 不严格的; 松懈的
 ]]></trans>
     <phonetic><![CDATA[[lʌʃ]]]></phonetic>
     <tags>GRE</tags>
@@ -24669,24 +24740,30 @@ vt. 饮
 </item><item>    <word>lust</word>
     <trans><![CDATA[n. 性欲；强烈的欲望 
 vi. 贪求，渴望 
+list
+(as)把愿望list
 ]]></trans>
     <phonetic><![CDATA[[lʌst]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>lustrous</word>
     <trans><![CDATA[adj. 有光泽的；光辉的 
+        luster  [lus·ter || 'lʌstə(r)] n.  光泽; 光彩; 光辉; 荣耀, 荣光
+        light
 ]]></trans>
     <phonetic><![CDATA[['lʌstrəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>luxuriant</word>
     <trans><![CDATA[adj. 繁茂的；丰富的；奢华的；肥沃的 
+        luster  [lus·ter || 'lʌstə(r)] n.  光泽; 光彩; 光辉; 荣耀, 荣光
 ]]></trans>
     <phonetic><![CDATA[[lʌɡ'zjuəriənt, -'ʒuə-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>luxurious</word>
     <trans><![CDATA[adj. 奢侈的；丰富的；放纵的；特级的 
+        luster  [lus·ter || 'lʌstə(r)] n.  光泽; 光彩; 光辉; 荣耀, 荣光
 ]]></trans>
     <phonetic><![CDATA[[lʌk'zjuəriəs, -'ʒuə-]]]></phonetic>
     <tags>GRE</tags>
@@ -24701,12 +24778,14 @@ adj. 奢侈的
 </item><item>    <word>lyric</word>
     <trans><![CDATA[n. 抒情诗；歌词 
 adj. 抒情的；吟唱的 
+lyre  ['laɪə(r)] n.  七弦琴, 小竖琴, 里拉琴
 ]]></trans>
     <phonetic><![CDATA[['lirik]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>macabre</word>
     <trans><![CDATA[adj. 可怕的；以死亡为主题的；令人毛骨悚然的（等于macaber） 
+      Maccabees  马加比家族：一个犹太爱国家族，公元前 2和1世纪时积极进行把朱迪亚从叙利亚解放出来的活动 
 ]]></trans>
     <phonetic><![CDATA[[mə'kɑ:brə]]]></phonetic>
     <tags>GRE</tags>
@@ -24714,12 +24793,14 @@ adj. 抒情的；吟唱的
 </item><item>    <word>macerate</word>
     <trans><![CDATA[vt. 把…浸软；使…消瘦 
 vi. 浸软；消瘦 
+"to fashion, fit" (cf. make (v.)).
 ]]></trans>
     <phonetic><![CDATA[['mæsəreit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>machination</word>
     <trans><![CDATA[n. 阴谋；诡计 
+        machine  [ma·chine || mə'ʃɪːn] n.  机器; 计算机; 机械; 汽车
 ]]></trans>
     <phonetic><![CDATA[[,mæki'neiʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -24727,18 +24808,24 @@ vi. 浸软；消瘦
 </item><item>    <word>maculated</word>
     <trans><![CDATA[vt. 使有污点；弄污 
 adj. 有污点的 
+macula  ['mækjələ /-jʊl-] n.  斑点; 黑点; 污点
 ]]></trans>
     <phonetic><![CDATA[['mækjuleit, 'mækjulit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>madrigal</word>
     <trans><![CDATA[n. 情歌；小曲 
+        " literally "of or from the womb," from matrix (genitive matricis) "womb" (see matrix).
+        matrix  [ma·trix || 'meɪtrɪks] n.  母体; 子宫, ; 基体; 基质; 数学元素表; 软骨; (因特网用语) 传送电子邮件包括所有网络和计算机的超级系统
 ]]></trans>
     <phonetic><![CDATA[['mædriɡəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>maelstrom</word>
     <trans><![CDATA[n. 大漩涡；极度混乱；不可抗的破坏力 
+         malen "to grind" (see meal) + stroom "stream" (see stream (n.)).
+          meal  [miːl] n.  膳食; 进餐; 一餐; 进餐时间#未经筛过的粗粉; 玉米粉
+          grind  [graɪnd] n.  磨, 研磨; 苦差使; 磨擦声; 单调的事
 ]]></trans>
     <phonetic><![CDATA[['meilstrɔm, -strəum]]]></phonetic>
     <tags>GRE</tags>
@@ -24746,6 +24833,7 @@ adj. 有污点的
 </item><item>    <word>magenta</word>
     <trans><![CDATA[n. 品红；洋红；红色苯胺染料 
 adj. 洋红色的；品红色的 
+no
 ]]></trans>
     <phonetic><![CDATA[[mə'dʒentə]]]></phonetic>
     <tags>GRE</tags>
