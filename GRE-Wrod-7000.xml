@@ -25650,6 +25650,7 @@ adj. 记忆的；纪念的，追悼的
     <trans><![CDATA[n. 威胁；恐吓 
 vt. 威胁；恐吓 
 vi. 恐吓；进行威胁 
+no
 ]]></trans>
     <phonetic><![CDATA[['menəs]]]></phonetic>
     <tags>GRE</tags>
@@ -25664,6 +25665,8 @@ vi. 改善，好转
     <progress>0</progress>
 </item><item>    <word>mendacious</word>
     <trans><![CDATA[adj. 虚假的；说谎的 
+        from PIE root *mend- "physical defect, fault" (see amend (v.)). 
+        amend v.  改善, 改良, 修正; 改进, 改善; 改过自新 
 ]]></trans>
     <phonetic><![CDATA[[men'deiʃəs]]]></phonetic>
     <tags>GRE</tags>
@@ -25671,18 +25674,24 @@ vi. 改善，好转
 </item><item>    <word>mendicant</word>
     <trans><![CDATA[n. 乞丐；托钵僧 
 adj. 行乞的；托钵修道会的 
+ originally "cripple" (connection via cripples who must beg), from menda "fault, physical defect" 
+mendacious  虚假的；说谎的 
 ]]></trans>
     <phonetic><![CDATA[['mendikənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>menthol</word>
     <trans><![CDATA[n. 薄荷醇；薄荷脑 
+        from Latin mentha "mint" (see mint (n.1)) + oleum "oil" (see oil (n.)).
+        mint  [mɪnt] n.  造币厂; 巨额; 制造所, 来源; 大量
+v.  铸造, 伪造, 铸币 adj.  造币厂的; 无污损的; 崭新的; 完美的
 ]]></trans>
     <phonetic><![CDATA[['menθɔl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>mentor</word>
     <trans><![CDATA[n. 指导者，良师益友 
+        mind
 ]]></trans>
     <phonetic><![CDATA[['mentɔ:]]]></phonetic>
     <tags>GRE</tags>
@@ -25690,6 +25699,7 @@ adj. 行乞的；托钵修道会的
 </item><item>    <word>mercantile</word>
     <trans><![CDATA[n. 商品 
 adj. 商业的；商人的；重商主义的 
+market 
 ]]></trans>
     <phonetic><![CDATA[['mə:kəntail, -til]]]></phonetic>
     <tags>GRE</tags>
@@ -25697,6 +25707,7 @@ adj. 商业的；商人的；重商主义的
 </item><item>    <word>mercenary</word>
     <trans><![CDATA[n. 雇佣兵；唯利是图者 
 adj. 雇佣的；唯利是图的 
+market
 ]]></trans>
     <phonetic><![CDATA[['mə:sinəri]]]></phonetic>
     <tags>GRE</tags>
@@ -25704,12 +25715,14 @@ adj. 雇佣的；唯利是图的
 </item><item>    <word>mercurial</word>
     <trans><![CDATA[adj. 水银的；水星的；墨丘利神的；雄辩机智的；活泼善变的 
 n. 汞剂；水银剂 
+Mercury [mer·cu·ry ] 【罗马神话】 墨丘利 ：各路神灵的使者，其本身是商业、旅行及盗窃的守护神
 ]]></trans>
     <phonetic><![CDATA[[mə:'kjuəriəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>meretricious</word>
     <trans><![CDATA[adj. 俗气的；娼妓的；华丽而庸俗的 
+        merit  [mer·it || 'merɪt] n.  优点, 价值, 功绩
 ]]></trans>
     <phonetic><![CDATA[[,meri'triʃəs]]]></phonetic>
     <tags>GRE</tags>
@@ -25718,6 +25731,7 @@ n. 汞剂；水银剂
     <trans><![CDATA[n. 优点，价值；功绩；功过 
 vt. 值得 
 vi. 应受报答 
+no
 ]]></trans>
     <phonetic><![CDATA[['merit]]]></phonetic>
     <tags>GRE</tags>
@@ -25731,12 +25745,14 @@ adj. 应得的；理所当然的
     <progress>0</progress>
 </item><item>    <word>meritorious</word>
     <trans><![CDATA[adj. 有功绩的；有价值的；值得称赞的 
+        merit
 ]]></trans>
     <phonetic><![CDATA[[,meri'tɔ:riəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>mesa</word>
     <trans><![CDATA[n. 台地；[地理] 平顶山 
+        no
 ]]></trans>
     <phonetic><![CDATA[['meisə]]]></phonetic>
     <tags>GRE</tags>
@@ -25745,24 +25761,29 @@ adj. 应得的；理所当然的
     <trans><![CDATA[n. 网眼；网丝；圈套 
 vt. [机] 啮合；以网捕捉 
 vi. 相啮合 
+no
 ]]></trans>
     <phonetic><![CDATA[[meʃ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>metamorphose</word>
     <trans><![CDATA[vt. 变质；变形；使变成 
+         from meta- "change" (see meta-) + morphe "form" (see Morpheus)
+         Morpheus  摩尔甫斯：奥维德的作品赞美诗 中的睡梦之神 
 ]]></trans>
     <phonetic><![CDATA[[,metə'mɔ:fəuz, -fəus]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>metaphor</word>
     <trans><![CDATA[n. 暗喻，隐喻；比喻说法 
+        from meta- "over, across" (see meta-) + pherein "to carry, bear" (see infer).
 ]]></trans>
     <phonetic><![CDATA[['metəfə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>metaphysics</word>
     <trans><![CDATA[n. 玄学，形而上学 
+         meta- + physics
 ]]></trans>
     <phonetic><![CDATA[[,metə'fiziks]]]></phonetic>
     <tags>GRE</tags>
@@ -25770,12 +25791,16 @@ vi. 相啮合
 </item><item>    <word>mete</word>
     <trans><![CDATA[n. 边界；测量 
 vt. 给予；分配；测量 
+medical  [med·i·cal || 'medɪkl] n.  医生; 体格检查
 ]]></trans>
     <phonetic><![CDATA[[mi:t]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>meteoric</word>
     <trans><![CDATA[adj. 大气的；流星的；疾速的 
+        meteor  [me·te·or || 'mɪːtɪə(r)] n.  流星; 大气现象
+         from meta- "over, beyond" (see meta-) + -aoros "lifted, hovering in air," related to aeirein "to raise" (see aorta). 
+         aorta  [a·or·ta || eɪ'ɔːtə] n.  大动脉
 ]]></trans>
     <phonetic><![CDATA[[,mi:ti'ɔrik]]]></phonetic>
     <tags>GRE</tags>
@@ -25788,18 +25813,22 @@ vt. 给予；分配；测量
     <progress>0</progress>
 </item><item>    <word>meticulous</word>
     <trans><![CDATA[adj. 一丝不苟的；小心翼翼的；拘泥小节的 
+        no
 ]]></trans>
     <phonetic><![CDATA[[mi'tikjuləs, mə-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>metrical</word>
     <trans><![CDATA[adj. 测量的；韵律的；有韵律的 
+        meter 
 ]]></trans>
     <phonetic><![CDATA[['metrikə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>metropolis</word>
     <trans><![CDATA[n. 大都市；首府；重要中心 
+        from meter "mother" (see mother (n.1)) + polis "city" (see polis). 
+        polis 城邦：古代希腊的一个城邦
 ]]></trans>
     <phonetic><![CDATA[[mi'trɔpəlis, me-]]]></phonetic>
     <tags>GRE</tags>
@@ -25813,12 +25842,14 @@ adj. 大都市的；大主教辖区的；宗主国的
     <progress>0</progress>
 </item><item>    <word>mettle</word>
     <trans><![CDATA[n. 勇气；气质；耐力 
+        metal  [met·al || 'metl] n.  金属, 合金, 金属制品
 ]]></trans>
     <phonetic><![CDATA[['metl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>mettlesome</word>
     <trans><![CDATA[adj. 勇敢的；精神饱满的 
+        mettle
 ]]></trans>
     <phonetic><![CDATA[['metlsəm]]]></phonetic>
     <tags>GRE</tags>
@@ -25845,6 +25876,7 @@ adj. 大都市的；大主教辖区的；宗主国的
     <trans><![CDATA[n. 微怒；小争执 
 vt. 使……恼怒 
 vi. 恼羞成怒 
+'蜜蜂'
 ]]></trans>
     <phonetic><![CDATA[[mif]]]></phonetic>
     <tags>GRE</tags>
@@ -25853,12 +25885,16 @@ vi. 恼羞成怒
     <trans><![CDATA[n. 有势力的人 
 adj. 有力的；强有力的；有势力的 
 adv. 很；极；非常 
+might  [maɪt] n.  力量, 威力; 强权; 能力; 势力
+may
 ]]></trans>
     <phonetic><![CDATA[['maiti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>migratory</word>
     <trans><![CDATA[adj. 迁移的；流浪的 
+        from root *mei- "to change, go, move" (see mutable).
+        mutable  [mu·ta·ble || 'mjuːtəbl] adj.  易变的, 性情不定的
 ]]></trans>
     <phonetic><![CDATA[['maiɡrətəri]]]></phonetic>
     <tags>GRE</tags>
@@ -25871,22 +25907,16 @@ adv. 很；极；非常
     <progress>0</progress>
 </item><item>    <word>militia</word>
     <trans><![CDATA[n. 民兵组织；自卫队；义勇军；国民军 
+        military  [mil·i·tar·y || 'mɪlɪtərɪ /'mɪlɪtrɪ] n.  军队
 ]]></trans>
     <phonetic><![CDATA[[mi'liʃə]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
-</item><item>    <word>milk</word>
-    <trans><![CDATA[n. 牛奶；乳状物 
-vt. 榨取；挤…的奶 
-vi. 挤奶 
-]]></trans>
-    <phonetic><![CDATA[[milk]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>mill</word>
     <trans><![CDATA[n. 工厂；磨坊；磨粉机；制造厂；压榨机 
 vt. 搅拌；碾磨；磨细；使乱转 
 vi. 乱转；被碾磨 
+mallet  [mal·let || 'mælɪt] n.  木槌, 棒, 球棍
 ]]></trans>
     <phonetic><![CDATA[[mil]]]></phonetic>
     <tags>GRE</tags>
@@ -25895,6 +25925,7 @@ vi. 乱转；被碾磨
     <trans><![CDATA[n. 哑剧；小丑；滑稽戏 
 vt. 摸拟表演 
 vi. 摸拟表演 
+(as)mine 是 mime 我是小丑
 ]]></trans>
     <phonetic><![CDATA[[maim]]]></phonetic>
     <tags>GRE</tags>
@@ -25903,18 +25934,22 @@ vi. 摸拟表演
     <trans><![CDATA[vt. 模仿，摹拟 
 n. 效颦者，模仿者；仿制品；小丑 
 adj. 模仿的，模拟的；假装的 
+mime n. 哑剧；小丑；滑稽戏 
 ]]></trans>
     <phonetic><![CDATA[['mimik]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>minaret</word>
     <trans><![CDATA[n. 尖塔 
+        min
 ]]></trans>
     <phonetic><![CDATA[['minəret, ,minə'ret]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>minatory</word>
     <trans><![CDATA[adj. 恐吓的，威胁的 
+        menace  [men·ace || 'menɪs] n.  威胁, 胁迫
+        mam + act
 ]]></trans>
     <phonetic><![CDATA[['minətəri]]]></phonetic>
     <tags>GRE</tags>
@@ -25923,6 +25958,7 @@ adj. 模仿的，模拟的；假装的
     <trans><![CDATA[n. 切碎物 
 vi. 装腔作势；碎步走 
 vt. 切碎；矫揉做作地说 
+ from Latin minutus "small" (see minute)
 ]]></trans>
     <phonetic><![CDATA[[mins]]]></phonetic>
     <tags>GRE</tags>
@@ -25930,6 +25966,7 @@ vt. 切碎；矫揉做作地说
 </item><item>    <word>mingle</word>
     <trans><![CDATA[vi. 混合；交往 
 vt. 使混合；使相混 
+among
 ]]></trans>
     <phonetic><![CDATA[['miŋɡl]]]></phonetic>
     <tags>GRE</tags>
@@ -25938,6 +25975,7 @@ vt. 使混合；使相混
     <trans><![CDATA[n. 缩图；微型画；微型图画绘画术 
 adj. 微型的，小规模的 
 vt. 是…的缩影 
+min
 ]]></trans>
     <phonetic><![CDATA[['miniətʃə]]]></phonetic>
     <tags>GRE</tags>
@@ -25952,12 +25990,14 @@ vt. 使减到最少；小看，极度轻视
 </item><item>    <word>minion</word>
     <trans><![CDATA[n. 奴才；宠臣 
 adj. 娇美的，美雅的 
+minna "love, memory" (see mind (n.))
 ]]></trans>
     <phonetic><![CDATA[['minjən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>minnow</word>
     <trans><![CDATA[n. [鱼] 鲦鱼（一种小淡水鱼） 
+        min + now
 ]]></trans>
     <phonetic><![CDATA[['minəu]]]></phonetic>
     <tags>GRE</tags>
@@ -25965,6 +26005,7 @@ adj. 娇美的，美雅的
 </item><item>    <word>mint</word>
     <trans><![CDATA[n. 薄荷；[金融] 造币厂，巨款 
 vt. 铸造，铸币 
+money
 ]]></trans>
     <phonetic><![CDATA[[mint]]]></phonetic>
     <tags>GRE</tags>
@@ -25972,6 +26013,7 @@ vt. 铸造，铸币
 </item><item>    <word>minuet</word>
     <trans><![CDATA[n. 小步舞；米奴哀舞 
 vi. 跳米奴哀舞；跳小步舞 
+minute
 ]]></trans>
     <phonetic><![CDATA[[,minju'et]]]></phonetic>
     <tags>GRE</tags>
@@ -25992,6 +26034,7 @@ v. 把…记录在案；为…测定时间（minute的单三形式）
     <progress>0</progress>
 </item><item>    <word>minutia</word>
     <trans><![CDATA[n. 琐事，细节 
+        minute
 ]]></trans>
     <phonetic><![CDATA[[mi'nju:ʃiə, mai-]]]></phonetic>
     <tags>GRE</tags>
@@ -26004,6 +26047,8 @@ v. 把…记录在案；为…测定时间（minute的单三形式）
     <progress>0</progress>
 </item><item>    <word>mirage</word>
     <trans><![CDATA[n. 海市蜃楼；幻想，妄想 
+        mirror
+        miracle  [mir·a·cle || 'mɪrəkl] n.  奇迹; 奇事
 ]]></trans>
     <phonetic><![CDATA[['mirɑ:ʒ, mi'rɑ:ʒ]]]></phonetic>
     <tags>GRE</tags>
@@ -26012,24 +26057,32 @@ v. 把…记录在案；为…测定时间（minute的单三形式）
     <trans><![CDATA[n. 泥潭；[地理] 泥沼 
 vi. 陷于泥坑；陷入困境 
 vt. 使陷于泥坑；使陷入困境 
+ from PIE *meus- "damp" (see moss).
+ moss  [mɔs /mɒs] n.  苔藓, 泥沼
 ]]></trans>
     <phonetic><![CDATA[['maiə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>mirth</word>
     <trans><![CDATA[n. 欢笑；欢乐；高兴 
+        from *murgjo- (see merry; also see -th (2))
 ]]></trans>
     <phonetic><![CDATA[[mə:θ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>misanthrope</word>
     <trans><![CDATA[n. 不愿与人来往者；厌恶人类的人 
+         from misein "to hate" (see miso-) + anthropos "man" (see anthropo-).
+         anthropo-  人，人类：
 ]]></trans>
     <phonetic><![CDATA[['mizənθrəup, 'mis-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>mischievous</word>
     <trans><![CDATA[adj. 淘气的；（人、行为等）恶作剧的；有害的 
+        mischief  [mis·chief || 'mɪstʃɪf] n.  伤害; 故障; 危害
+        chever "happen, come to a head," from Vulgar Latin *capare "head," from Latin caput "head" (see capitulum).
+        capitulum   n.  头状花序; 踝状突; 聚生花; 小头
 ]]></trans>
     <phonetic><![CDATA[['mistʃivəs]]]></phonetic>
     <tags>GRE</tags>
@@ -26037,18 +26090,21 @@ vt. 使陷于泥坑；使陷入困境
 </item><item>    <word>miscreant</word>
     <trans><![CDATA[n. 异端；恶棍；罪大恶极之人 
 adj. 异端的；邪道的；极恶的 
+from mes- "wrongly" (see mis- (2)) + creant, present participle of creire "believe," from Latin credere (see credit). 
 ]]></trans>
     <phonetic><![CDATA[['miskriənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>miser</word>
     <trans><![CDATA[n. 守财奴；吝啬鬼；（石油工程上用的）凿井机 
+        no
 ]]></trans>
     <phonetic><![CDATA[['maizə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>miserly</word>
     <trans><![CDATA[adj. 吝啬的；贪婪的 
+        miser + -ly (1).
 ]]></trans>
     <phonetic><![CDATA[['maizəli]]]></phonetic>
     <tags>GRE</tags>
@@ -26068,6 +26124,7 @@ v. 担忧；使…疑虑；害怕（misgive的ing形式）
     <progress>0</progress>
 </item><item>    <word>misnomer</word>
     <trans><![CDATA[n. 用词不当；误称；写错姓名 
+        name
 ]]></trans>
     <phonetic><![CDATA[[,mis'nəumə]]]></phonetic>
     <tags>GRE</tags>
@@ -26081,6 +26138,7 @@ v. 担忧；使…疑虑；害怕（misgive的ing形式）
 </item><item>    <word>misrepresent</word>
     <trans><![CDATA[vt. 歪曲，误传；不合适地代表 
 vi. 虚伪陈述；歪曲报道 
+perceive  [per·ceive || pər'sɪːv /pə'-] v.  察觉; 意识到; 感知; 理解
 ]]></trans>
     <phonetic><![CDATA[['mis,repri'zent]]]></phonetic>
     <tags>GRE</tags>
@@ -26094,12 +26152,15 @@ vi. 虚伪陈述；歪曲报道
 </item><item>    <word>missile</word>
     <trans><![CDATA[n. 导弹；投射物 
 adj. 导弹的；可投掷的；用以发射导弹的 
+mission
+miss + mile 导弹一不小心会'差距英里'
 ]]></trans>
     <phonetic><![CDATA[['misail, -səl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>mite</word>
     <trans><![CDATA[n. 极小量；小虫；小孩儿；微小的东西 
+        rom PIE *mei- "small" (see minus)
 ]]></trans>
     <phonetic><![CDATA[[mait]]]></phonetic>
     <tags>GRE</tags>
@@ -26107,12 +26168,14 @@ adj. 导弹的；可投掷的；用以发射导弹的
 </item><item>    <word>mitigate</word>
     <trans><![CDATA[vt. 使缓和，使减轻 
 vi. 减轻，缓和下来 
+ultimately from mitis "gentle, soft" (from PIE *mei- "mild") + root of agere "do, make, act" (see act)
 ]]></trans>
     <phonetic><![CDATA[['mitiɡeit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>mitten</word>
     <trans><![CDATA[n. 露指手套；连指手套 
+        no
 ]]></trans>
     <phonetic><![CDATA[['mitən]]]></phonetic>
     <tags>GRE</tags>
@@ -26127,6 +26190,8 @@ vi. 减轻，缓和下来
     <trans><![CDATA[n. 呻吟声；悲叹 
 vt. 抱怨；呻吟着说 
 vi. 抱怨，悲叹；呻吟 
+mean
+拟声词
 ]]></trans>
     <phonetic><![CDATA[[məun]]]></phonetic>
     <tags>GRE</tags>
@@ -26134,6 +26199,7 @@ vi. 抱怨，悲叹；呻吟
 </item><item>    <word>moat</word>
     <trans><![CDATA[n. 护城河；壕沟 
 vt. 将...围以壕沟 
+(as)猫at护城河
 ]]></trans>
     <phonetic><![CDATA[[məut]]]></phonetic>
     <tags>GRE</tags>
@@ -26157,6 +26223,7 @@ adj. 模拟的；假装的；伪造的
 vt. 嘲弄；模仿；使…失望；使…无效 
 vi. 嘲弄，嘲笑 
 adv. 虚伪地 
+mockingbird  n.  仿声鸟
 ]]></trans>
     <phonetic><![CDATA[[mɔk]]]></phonetic>
     <tags>GRE</tags>
@@ -26175,6 +26242,7 @@ adv. 虚伪地
     <progress>0</progress>
 </item><item>    <word>modicum</word>
     <trans><![CDATA[n. 少量，一点点 
+         from modus "measure, manner" (see mode (n.1)).
 ]]></trans>
     <phonetic><![CDATA[['mɔdikəm]]]></phonetic>
     <tags>GRE</tags>
@@ -26195,12 +26263,14 @@ vi. 修改
 </item><item>    <word>modulate</word>
     <trans><![CDATA[vt. 调节；（信号）调制；调整 
 vi. 调制；转调 
+modify
 ]]></trans>
     <phonetic><![CDATA[['mɔdjuleit, -dʒu-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>mogul</word>
     <trans><![CDATA[n. 有权势的人；显要人物 
+        Mongol  [Mon·gol || 'mɒŋgɒl] n.  蒙古人; 蒙古语
 ]]></trans>
     <phonetic><![CDATA[['məuɡəl, ,məu'ɡʌl]]]></phonetic>
     <tags>GRE</tags>
@@ -26208,6 +26278,8 @@ vi. 调制；转调
 </item><item>    <word>molar</word>
     <trans><![CDATA[n. 臼齿，[解剖] 磨牙 
 adj. 臼齿的；质量的；磨碎的 
+from PIE root *mel- "to rub, grind" (see mill )
+mill  [mɪl] n.  磨坊; 磨臼; 面粉厂; 磨机#密尔, 厘
 ]]></trans>
     <phonetic><![CDATA[['məulə]]]></phonetic>
     <tags>GRE</tags>
@@ -26228,18 +26300,21 @@ vt. 塑造；使发霉；用模子制作
     <progress>0</progress>
 </item><item>    <word>moldy</word>
     <trans><![CDATA[adj. 发霉的；乏味的；陈腐的 
+        mold
 ]]></trans>
     <phonetic><![CDATA[['məuldi]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>molecule</word>
     <trans><![CDATA[n. [化学] 分子；微小颗粒，微粒 
+        mold
 ]]></trans>
     <phonetic><![CDATA[['mɔlikjul]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>mollify</word>
     <trans><![CDATA[vt. 平息，缓和；使…平静；使…变软 
+        from Latin mollis "soft" (see melt (v.)) + root of facere "to make" (see factitious).
 ]]></trans>
     <phonetic><![CDATA[['mɔlifai]]]></phonetic>
     <tags>GRE</tags>
@@ -26247,6 +26322,7 @@ vt. 塑造；使发霉；用模子制作
 </item><item>    <word>mollycoddle</word>
     <trans><![CDATA[vt. 溺爱；纵容 
 n. 女性化的男人；懦夫 
+no
 ]]></trans>
     <phonetic><![CDATA[['mɔli,kɔdl]]]></phonetic>
     <tags>GRE</tags>
@@ -26255,6 +26331,7 @@ n. 女性化的男人；懦夫
     <trans><![CDATA[n. 换毛；脱皮；换毛期 
 vt. 脱毛；换毛 
 vi. 脱毛；换毛 
+from Latin mutare "to change" (see mutable).
 ]]></trans>
     <phonetic><![CDATA[[məult]]]></phonetic>
     <tags>GRE</tags>
@@ -26262,6 +26339,7 @@ vi. 脱毛；换毛
 </item><item>    <word>molten</word>
     <trans><![CDATA[adj. 熔化的；铸造的；炽热的 
 v. 换毛；脱毛（molt的过去分词） 
+melt
 ]]></trans>
     <phonetic><![CDATA[['məultən]]]></phonetic>
     <tags>GRE</tags>
@@ -26280,24 +26358,31 @@ v. 换毛；脱毛（molt的过去分词）
     <progress>0</progress>
 </item><item>    <word>momentum</word>
     <trans><![CDATA[n. 势头；[物] 动量；动力；冲力 
+        momentous  重要的；重大的
 ]]></trans>
     <phonetic><![CDATA[[məu'mentəm]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>monarch</word>
     <trans><![CDATA[n. 君主，帝王；最高统治者 
+         from monos "alone" (see mono-) + arkhein "to rule" (see archon).
+mono- 或 mon- 前缀，一；单一；独立的：
+archon  n.  执政官; 统治者
+arch
 ]]></trans>
     <phonetic><![CDATA[['mɔnək, -ɑ:k]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>monarchy</word>
     <trans><![CDATA[n. 君主政体；君主国；君主政治 
+        monarch
 ]]></trans>
     <phonetic><![CDATA[['mɔnəki]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>monetary</word>
     <trans><![CDATA[adj. 货币的；财政的 
+        money
 ]]></trans>
     <phonetic><![CDATA[['mʌnitəri]]]></phonetic>
     <tags>GRE</tags>
@@ -26305,12 +26390,17 @@ v. 换毛；脱毛（molt的过去分词）
 </item><item>    <word>mongrel</word>
     <trans><![CDATA[n. 杂种；混血儿；杂种动物 
 adj. 杂种的；混血儿的 
+mingle
 ]]></trans>
     <phonetic><![CDATA[['mʌŋɡrəl, 'mɔŋ-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>monochromatic</word>
     <trans><![CDATA[adj. 单色的 
+        from mono- + chromatic, 
+        mono- 或 mon- 前缀，一；单一；独立的：
+        chromatic adj.  彩色的, 染色性的, 着色的
+        chrome
 ]]></trans>
     <phonetic><![CDATA[[,mɔnəukrəu'mætik]]]></phonetic>
     <tags>GRE</tags>
@@ -26324,12 +26414,15 @@ adj. 单色的；黑白的
     <progress>0</progress>
 </item><item>    <word>monocle</word>
     <trans><![CDATA[n. 单片眼镜；单眼绷带 
+         (see mono-) + Latin oculus "eye" (see eye (n.)).
 ]]></trans>
     <phonetic><![CDATA[['mɔnəkl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>monogamy</word>
     <trans><![CDATA[n. 一夫一妻制；[动] 单配偶，[动] 单配性 
+         (see mono-) + gamos "marriage" (see gamete).
+         gamete  [gam·ete || gæ'mɪːt] n.  接合体; 配偶子
 ]]></trans>
     <phonetic><![CDATA[[mɔ'nɔɡəmi, mə-]]]></phonetic>
     <tags>GRE</tags>
@@ -26337,48 +26430,62 @@ adj. 单色的；黑白的
 </item><item>    <word>monolithic</word>
     <trans><![CDATA[n. 单块集成电路，单片电路 
 adj. 整体的；巨石的，庞大的；完全统一的 
+monolith  [mon·o·lith || 'mɑnəʊlɪθ /'mɒ-] n.  巨型独石; 庞然大物; 整块石料
+" (see mono-) + lithos "stone."
 ]]></trans>
     <phonetic><![CDATA[[,mɔnəu'liθik]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>monologue</word>
     <trans><![CDATA[n. 独白 
+         (see mono-) + logos "speech, word," from legein "to speak" (see lecture (n.)).
 ]]></trans>
     <phonetic><![CDATA[['mɔnəlɔɡ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>monomania</word>
     <trans><![CDATA[n. 偏执狂；对一事的狂热 
+         (see mono-) + mania (see mania).
+         mania    [ma·ni·a || 'meɪnjə]n.  狂躁, 狂热, 热衷
+         mind
 ]]></trans>
     <phonetic><![CDATA[[,mɔnəu'meiniə, -njə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>monopoly</word>
     <trans><![CDATA[n. 垄断；垄断者；专卖权 
+        mono- + polein "to sell," 
 ]]></trans>
     <phonetic><![CDATA[[mə'nɔpəli]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>monotonous</word>
     <trans><![CDATA[adj. 单调的，无抑扬顿挫的；无变化的 
+        monotony  [mo·noto·ny || mə'nɑtnɪ /-'nɒ-] n.  单调, 无味, 干燥
+         tonos "tone" (see tenet)
+         tongue  [tʌŋ]n.  舌, 讲话的方式, 语言能力
+         tenet  [ten·et || 'tenɪt] n.  教义, 原则, 宗旨
 ]]></trans>
     <phonetic><![CDATA[[mə'nɔtənəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>monotony</word>
     <trans><![CDATA[n. 单调；千篇一律 
+        tongue  [tʌŋ]n.  舌, 讲话的方式, 语言能力
 ]]></trans>
     <phonetic><![CDATA[[mə'nɔtəni]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>monsoon</word>
     <trans><![CDATA[n. 季风；（印度等地的）雨季；季候风 
+        moon + soon 月亮快来了，季风也快了
 ]]></trans>
     <phonetic><![CDATA[[mɔn'su:n]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>montage</word>
     <trans><![CDATA[n. 蒙太奇（电影的基本结构手段和叙事方式）；混合画，拼集的照片 
+        拟声词
 ]]></trans>
     <phonetic><![CDATA[[mɔn'tɑ:ʒ]]]></phonetic>
     <tags>GRE</tags>
