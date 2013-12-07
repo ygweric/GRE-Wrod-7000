@@ -27927,6 +27927,7 @@ from ob "against" (see ob-) + -fendere "to strike" (found only in compounds; see
 </item><item>    <word>offensive</word>
     <trans><![CDATA[n. 攻势；攻击 
 adj. 攻击的；冒犯的；无礼的；讨厌的 
+offend
 ]]></trans>
     <phonetic><![CDATA[[ə'fensiv]]]></phonetic>
     <tags>GRE</tags>
@@ -27934,18 +27935,21 @@ adj. 攻击的；冒犯的；无礼的；讨厌的
 </item><item>    <word>offhand</word>
     <trans><![CDATA[adj. 随便的；即时的；无准备的；即席的 
 adv. 随便地；即席地；即时地 
+off + hand 
 ]]></trans>
     <phonetic><![CDATA[['ɔfhænd, 'ɔ:-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>officious</word>
     <trans><![CDATA[adj. 多管闲事的；非官方的 
+         office
 ]]></trans>
     <phonetic><![CDATA[[ə'fiʃəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>offish</word>
     <trans><![CDATA[adj. 冷漠的；不亲热的；疏远的 
+        off
 ]]></trans>
     <phonetic><![CDATA[['ɔfiʃ, 'ɔ:-]]]></phonetic>
     <tags>GRE</tags>
@@ -27974,6 +27978,7 @@ vi. 装支管
     <trans><![CDATA[n. 舞台后面；舞台内部 
 adj. 舞台内部的 
 adv. 在舞台内部；私生活里 
+stage
 ]]></trans>
     <phonetic><![CDATA[['ɔf'steidʒ, 'ɔ:-]]]></phonetic>
     <tags>GRE</tags>
@@ -27982,54 +27987,68 @@ adv. 在舞台内部；私生活里
     <trans><![CDATA[n. 眉目传情；媚眼 
 vt. 向…抛媚眼；注视 
 vi. 做媚眼 
+no
 ]]></trans>
     <phonetic><![CDATA[['əuɡl, 'ɔɡl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>ointment</word>
     <trans><![CDATA[n. 药膏；[药] 油膏 
+        no
 ]]></trans>
     <phonetic><![CDATA[['ɔintmənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>olfaction</word>
     <trans><![CDATA[n. 嗅觉 
+        , from olere "to emit a smell" (see odor) + facere "to make" (see factitious).
+       odor n.  气味; 臭气; 香气; 意味
 ]]></trans>
     <phonetic><![CDATA[[ɔl'fækʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>oligarchy</word>
     <trans><![CDATA[n. 寡头政治 
+        from stem of oligos "few, small, little" (see oligo-) + arkhein "to rule" (see archon).    
+oligo- 或 olig-  少的：
 ]]></trans>
     <phonetic><![CDATA[['ɔliɡɑ:ki]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>omelet</word>
     <trans><![CDATA[n. 煎蛋卷；炒鸡蛋 
+        no
 ]]></trans>
     <phonetic><![CDATA[['ɔmlit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>ominous</word>
     <trans><![CDATA[adj. 预兆的；不吉利的 
+        omen  [o·men || 'əʊmen]
+n.  预兆, 征兆, 前兆
+v.  预示, 预告
 ]]></trans>
     <phonetic><![CDATA[['ɔminəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>omit</word>
     <trans><![CDATA[vt. 省略；遗漏；删除；疏忽 
+        form of ob (here perhaps intensive) + mittere "let go, send" (see mission). 
 ]]></trans>
     <phonetic><![CDATA[[əu'mit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>omnipotent</word>
     <trans><![CDATA[adj. 无所不能的；全能的；有无限权力的 
+        from omnis "all" (see omni-) + potens (genitive potentis) "powerful" (see potent).
+        potent  ['po·tent || 'pəʊtənt] adj.  有力的, 有效的
 ]]></trans>
     <phonetic><![CDATA[[ɔm'nipətənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>omnipresent</word>
     <trans><![CDATA[adj. 无所不在的 
+        "all" (see omni-)
 ]]></trans>
     <phonetic><![CDATA[[,ɔmni'prezənt]]]></phonetic>
     <tags>GRE</tags>
@@ -28037,12 +28056,14 @@ vi. 做媚眼
 </item><item>    <word>omniscient</word>
     <trans><![CDATA[adj. 全知的；无所不知的 
 n. 上帝；无所不知者 
+"all" (see omni-) science
 ]]></trans>
     <phonetic><![CDATA[[ɔm'nisiənt, -'niʃənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>onerous</word>
     <trans><![CDATA[adj. 繁重的；麻烦的；负有义务的；负有法律责任的 
+        from onus (genitive oneris) "burden" (see onus).
 ]]></trans>
     <phonetic><![CDATA[['ɔnərəs, 'əu-]]]></phonetic>
     <tags>GRE</tags>
@@ -28055,12 +28076,20 @@ n. 上帝；无所不知者
     <progress>0</progress>
 </item><item>    <word>opacity</word>
     <trans><![CDATA[n. 不透明；不传导；暧昧 
+         opaque
+           liquid        
+           aque-词根：水  
+        opaque adj.不透明的
 ]]></trans>
     <phonetic><![CDATA[[əu'pæsiti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>opalescence</word>
     <trans><![CDATA[n. 蛋白色光；[光] 乳白光 
+        opalescent  [o·pal·es·cent || ‚əʊpə'lesnt] adj.  乳白色的
+        from opal + -escent.
+        opal  [o·pal || 'əʊpl] n.  蛋白石, 猫眼石
+        escent  变成：开始成为；变成：特点是：具有…特征的；相象的：
 ]]></trans>
     <phonetic><![CDATA[[,əupə'lesəns]]]></phonetic>
     <tags>GRE</tags>
@@ -28069,6 +28098,9 @@ n. 上帝；无所不知者
     <trans><![CDATA[n. 不透明物 
 adj. 不透明的；不传热的；迟钝的 
 vt. 使不透明；使不反光 
+liquid           
+   aque-词根：水   
+opaque adj.不透明的
 ]]></trans>
     <phonetic><![CDATA[[əu'peik]]]></phonetic>
     <tags>GRE</tags>
@@ -28076,12 +28108,14 @@ vt. 使不透明；使不反光
 </item><item>    <word>operative</word>
     <trans><![CDATA[n. 侦探；技工 
 adj. 有效的；运转着的；从事生产劳动的 
+operate  
 ]]></trans>
     <phonetic><![CDATA[['ɔpərətiv, -rei-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>operetta</word>
     <trans><![CDATA[n. 轻歌剧；小歌剧 
+        opera  
 ]]></trans>
     <phonetic><![CDATA[[,ɔpə'retə]]]></phonetic>
     <tags>GRE</tags>
@@ -28089,12 +28123,14 @@ adj. 有效的；运转着的；从事生产劳动的
 </item><item>    <word>opine</word>
     <trans><![CDATA[vt. 以为；想 
 vi. 以为；想；表示意见 
+option
 ]]></trans>
     <phonetic><![CDATA[[əu'pain]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>opinionated</word>
     <trans><![CDATA[adj. 固执己见的；武断的 
+        option
 ]]></trans>
     <phonetic><![CDATA[[ə'pinjəneitid]]]></phonetic>
     <tags>GRE</tags>
@@ -28102,12 +28138,14 @@ vi. 以为；想；表示意见
 </item><item>    <word>opponent</word>
     <trans><![CDATA[n. 对手；反对者；敌手 
 adj. 对立的；敌对的 
+from ob "against" (see ob-) + ponere "to put, set, place" (see position).
 ]]></trans>
     <phonetic><![CDATA[[ə'pəunənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>opportune</word>
     <trans><![CDATA[adj. 适当的；恰好的；合时宜的 
+         from ob "to, toward" (see ob-) + portus "harbor" (see port (n.1)).
 ]]></trans>
     <phonetic><![CDATA[['ɔpətju:n, ,ɔpə'tju:n]]]></phonetic>
     <tags>GRE</tags>
@@ -28115,6 +28153,7 @@ adj. 对立的；敌对的
 </item><item>    <word>oppose</word>
     <trans><![CDATA[vt. 反对；对抗，抗争 
 vi. 反对 
+ob + pose
 ]]></trans>
     <phonetic><![CDATA[[ə'pəuz]]]></phonetic>
     <tags>GRE</tags>
@@ -28127,6 +28166,7 @@ vi. 反对
     <progress>0</progress>
 </item><item>    <word>opprobrious</word>
     <trans><![CDATA[adj. 无礼的；嘴不干净的；该骂的；可耻的 
+        ob- + porper
 ]]></trans>
     <phonetic><![CDATA[[ə'prəubriəs]]]></phonetic>
     <tags>GRE</tags>
@@ -28146,6 +28186,7 @@ vi. 反对
 </item><item>    <word>optimum</word>
     <trans><![CDATA[n. 最佳效果；最适宜条件 
 adj. 最适宜的 
+no
 ]]></trans>
     <phonetic><![CDATA[['ɔptiməm]]]></phonetic>
     <tags>GRE</tags>
@@ -28159,6 +28200,8 @@ adj. 可选择的，随意的
     <progress>0</progress>
 </item><item>    <word>opulent</word>
     <trans><![CDATA[adj. 丰富的；富裕的；大量的 
+        opus  [o·pus || 'əʊpəs] n.  作品
+        opera
 ]]></trans>
     <phonetic><![CDATA[['ɔpjulənt]]]></phonetic>
     <tags>GRE</tags>
@@ -28171,30 +28214,35 @@ adj. 可选择的，随意的
     <progress>0</progress>
 </item><item>    <word>oration</word>
     <trans><![CDATA[n. 演说；致辞；叙述法 
+        orator  [or·a·tor || 'ɑrətə(r) ,'ɔ- /'ɒr-] n.  演说者, 雄辩家, 演讲者
 ]]></trans>
     <phonetic><![CDATA[[ɔ:'reiʃən, əu-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>oratorio</word>
     <trans><![CDATA[n. 清唱剧；宗教剧 
+        rator  [or·a·tor || 'ɑrətə(r) ,'ɔ- /'ɒr-] n.  演说者, 雄辩家, 演讲者
 ]]></trans>
     <phonetic><![CDATA[[,ɔrə'tɔ:riəu, ,ɔ:-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>oratory</word>
     <trans><![CDATA[n. 雄辩；演讲术 
+        rator  [or·a·tor || 'ɑrətə(r) ,'ɔ- /'ɒr-] n.  演说者, 雄辩家, 演讲者
 ]]></trans>
     <phonetic><![CDATA[['ɔrətəri, 'ɔ:rətɔ:ri]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>orchard</word>
     <trans><![CDATA[n. 果园；果树林 
+        no
 ]]></trans>
     <phonetic><![CDATA[['ɔ:tʃəd]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>orchestra</word>
     <trans><![CDATA[n. 管弦乐队；乐队演奏处 
+        no
 ]]></trans>
     <phonetic><![CDATA[['ɔ:kistrə, -kes-]]]></phonetic>
     <tags>GRE</tags>
@@ -28202,36 +28250,43 @@ adj. 可选择的，随意的
 </item><item>    <word>ordain</word>
     <trans><![CDATA[vt. 任命某人为牧师；授某人以圣职；（上帝、法律等）命令；注定 
 vi. 颁布命令 
+order
 ]]></trans>
     <phonetic><![CDATA[[ɔ:'dein]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>ordeal</word>
-    <trans><![CDATA[n. 折磨；严酷的考验；痛苦的经验 
+    <trans><![CDATA[n. 折磨；严酷的考验；痛苦的经验
+    or + deal 
 ]]></trans>
     <phonetic><![CDATA[[ɔ:'di:l, 'ɔ:di:l]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>ordinance</word>
     <trans><![CDATA[n. 条例；法令；圣餐礼 
+        ordain  任命某人为牧师；授某人以圣职；（上帝、法律等）命令；注定 
+        order
 ]]></trans>
     <phonetic><![CDATA[['ɔ:dinəns]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>ordnance</word>
     <trans><![CDATA[n. 军火；大炮；军械署 
+        ordain  任命某人为牧师；授某人以圣职；（上帝、法律等）命令；注定 
 ]]></trans>
     <phonetic><![CDATA[['ɔ:dnəns]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>ore</word>
     <trans><![CDATA[n. 矿；矿石 
+        '奥？'高兴的发呆了，看着矿石
 ]]></trans>
     <phonetic><![CDATA[[ɔ:]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>organism</word>
     <trans><![CDATA[n. 有机体；生物体；微生物 
+         from organize + -ism.
 ]]></trans>
     <phonetic><![CDATA[['ɔ:ɡənizəm]]]></phonetic>
     <tags>GRE</tags>
@@ -28254,30 +28309,38 @@ adj. 原始的；最初的；独创的；新颖的
     <progress>0</progress>
 </item><item>    <word>originality</word>
     <trans><![CDATA[n. 创意；独创性，创造力；原始；新奇 
+        original
 ]]></trans>
     <phonetic><![CDATA[[ə,ridʒə'næləti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>ornate</word>
     <trans><![CDATA[adj. 华丽的；装饰的；（文体）绚丽的 
+        order 有秩序，很华丽
 ]]></trans>
     <phonetic><![CDATA[[ɔ:'neit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>ornithologist</word>
     <trans><![CDATA[n. 鸟类学者 
+        see ornitho- + -logy.
+        ornitho- 或 ornith- 鸟：
 ]]></trans>
     <phonetic><![CDATA[[,ɔ:ni'θɔlədʒist]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>ornithology</word>
     <trans><![CDATA[n. 鸟类学；鸟学论文 
+        see ornitho- + -logy.
+        ornitho- 或 ornith- 鸟：
 ]]></trans>
     <phonetic><![CDATA[[,ɔ:ni'θɔlədʒi]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>orthodontics</word>
-    <trans><![CDATA[n. 畸齿矫正学（orthodontic的复数） 
+    <trans><![CDATA[n. 畸齿矫正学（ orthodontic 的复数） 
+         from ortho- + Greek odon (genitive odontos) "tooth" (see tooth). 
+ortho- 或 orth-  直的；直立的；竖直的：垂直的：正确的；正确：
 ]]></trans>
     <phonetic><![CDATA[[,ɔ:θəu'dɔntiks]]]></phonetic>
     <tags>GRE</tags>
@@ -28285,6 +28348,8 @@ adj. 原始的；最初的；独创的；新颖的
 </item><item>    <word>orthodox</word>
     <trans><![CDATA[n. 正统的人；正统的事物 
 adj. 正统的；传统的；惯常的 
+ortho- 或 orth-  直的；直立的；竖直的：垂直的：正确的；正确：
+dox --> decent
 ]]></trans>
     <phonetic><![CDATA[['ɔ:θədɔks]]]></phonetic>
     <tags>GRE</tags>
@@ -28292,18 +28357,21 @@ adj. 正统的；传统的；惯常的
 </item><item>    <word>oscillate</word>
     <trans><![CDATA[vt. 使振荡；使振动；使动摇 
 vi. 振荡；摆动；犹豫 
+no
 ]]></trans>
     <phonetic><![CDATA[['ɔsileit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>osmosis</word>
     <trans><![CDATA[n. [物] 渗透；[物] 渗透性；渗透作用 
+        no
 ]]></trans>
     <phonetic><![CDATA[[ɔz'məusis, ɔs-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>osseous</word>
     <trans><![CDATA[adj. 骨的；骨质的 
+        no
 ]]></trans>
     <phonetic><![CDATA[['ɔsiəs]]]></phonetic>
     <tags>GRE</tags>
@@ -28311,54 +28379,60 @@ vi. 振荡；摆动；犹豫
 </item><item>    <word>ossify</word>
     <trans><![CDATA[vt. 使硬化；使骨化；使僵化 
 vi. 骨化；硬化；僵化 
+osseous adj. 骨的；骨质的 
 ]]></trans>
     <phonetic><![CDATA[['ɔsifai]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>ostensible</word>
     <trans><![CDATA[adj. 表面的；假装的 
+         from ob "in front of" (see ob-) + tendere "to stretch" (see tenet). 
+         tenet  [ten·et || 'tenɪt] n.  教义, 原则, 宗旨
+         tongue  
 ]]></trans>
     <phonetic><![CDATA[[ɔs'tensəbl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>ostentation</word>
     <trans><![CDATA[n. 卖弄；虚饰；虚有其表 
+         from ob "in front of" (see ob-) + tendere "to stretch" (see tenet). 
+         tenet  [ten·et || 'tenɪt] n.  教义, 原则, 宗旨
+         tongue 
 ]]></trans>
     <phonetic><![CDATA[[,ɔsten'teiʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>ostracism</word>
     <trans><![CDATA[n. 排斥；放逐；贝壳流放法 
+        os + trace
 ]]></trans>
     <phonetic><![CDATA[['ɔstrəsizəm]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>ostracize</word>
     <trans><![CDATA[vt. 放逐；排斥；按贝壳流放法放逐 
+        os + trace
 ]]></trans>
     <phonetic><![CDATA[['ɔstrəsaiz]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>ostrich</word>
     <trans><![CDATA[n. 鸵鸟；鸵鸟般的人 
+        no
 ]]></trans>
     <phonetic><![CDATA[['ɔ:stritʃ, 'ɔ-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
-</item><item>    <word>other-directed</word>
-    <trans><![CDATA[adj. 受人支配的；缺少自主性的 
-]]></trans>
-    <phonetic><![CDATA[['ʌðədi'rektid]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
 </item><item>    <word>otter</word>
     <trans><![CDATA[n. 水獭；水獭皮 
+        water
 ]]></trans>
     <phonetic><![CDATA[['ɔtə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>oust</word>
     <trans><![CDATA[vt. 驱逐；剥夺；取代 
+        from ob "against" (see ob-) + stare "to stand," from PIE root *sta- "to stand" (see stet). 
 ]]></trans>
     <phonetic><![CDATA[[aust]]]></phonetic>
     <tags>GRE</tags>
@@ -28379,6 +28453,7 @@ v. 超过；优于（outgo的ing形式）
     <progress>0</progress>
 </item><item>    <word>outlandish</word>
     <trans><![CDATA[adj. 古怪的；奇异的；异国风格的；偏僻的 
+        outland
 ]]></trans>
     <phonetic><![CDATA[[aut'lændiʃ]]]></phonetic>
     <tags>GRE</tags>
@@ -28398,6 +28473,10 @@ vt. 概述；略述；描画…轮廓
     <progress>0</progress>
 </item><item>    <word>outmaneuver</word>
     <trans><![CDATA[vt. 以计谋胜过；运用策略击败 
+        maneuver  [ma·neu·ver || mə'nuːvə]
+n.  调动; 军事演习, 机动演习; 机动; 策略, 花招, 谋略
+v.  机动; 用计谋
+manual  [man·u·al || 'mænjʊəl] n.  手册; 指南
 ]]></trans>
     <phonetic><![CDATA[[,autmə'nu:və]]]></phonetic>
     <tags>GRE</tags>
@@ -28412,6 +28491,7 @@ v. 使不流行（outmode的过去分词）
 </item><item>    <word>outrage</word>
     <trans><![CDATA[n. 愤怒，愤慨；暴行；侮辱 
 vt. 凌辱，强奸；对…施暴行；激起愤怒 
+rage
 ]]></trans>
     <phonetic><![CDATA[['autreidʒ]]]></phonetic>
     <tags>GRE</tags>
@@ -28431,6 +28511,7 @@ vi. 放光
     <progress>0</progress>
 </item><item>    <word>outskirts</word>
     <trans><![CDATA[n. 市郊，郊区 
+        skirt  [skɜrt /skɜːt] n.  裙子, 边缘, 下摆
 ]]></trans>
     <phonetic><![CDATA[['autskə:ts]]]></phonetic>
     <tags>GRE</tags>
@@ -28442,19 +28523,24 @@ vi. 放光
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>outstrip</word>
-    <trans><![CDATA[vt. 超过；胜过；比…跑得快 
+    <trans><![CDATA[vt. 超过；胜过；比…跑得快
+    strip  [strɪp]
+n.  脱衣舞#条, 带; 连环漫画; 细长片; 简易机场 
 ]]></trans>
     <phonetic><![CDATA[[,aut'strip]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>outwit</word>
     <trans><![CDATA[vt. 瞒骗；以智取胜 
+        wit  [wɪt]
+n.  机智, 机智的人, 机警#风趣
 ]]></trans>
     <phonetic><![CDATA[[,aut'wit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>ovation</word>
     <trans><![CDATA[n. 热烈欢迎；大喝采 
+        o
 ]]></trans>
     <phonetic><![CDATA[[əu'veiʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -28482,6 +28568,7 @@ vi. 服药过量；过分沉溺
     <progress>0</progress>
 </item><item>    <word>overexposure</word>
     <trans><![CDATA[n. 感光过度；[摄] 曝光过度 
+        expose
 ]]></trans>
     <phonetic><![CDATA[[,əuvəiks'pəuʒə]]]></phonetic>
     <tags>GRE</tags>
@@ -28497,6 +28584,9 @@ vi. 溢出；泛滥；充溢
 </item><item>    <word>overhaul</word>
     <trans><![CDATA[n. 彻底检修，详细检查 
 vt. 分解检查，大修；追上并超过 
+haul  [hɔːl]
+n.  用力拖拉; 拉; 拖
+v.  拖拉; 拖运; 拖; 改变方向; 拉
 ]]></trans>
     <phonetic><![CDATA[[,əuvə'hɔ:l, 'əuvəhɔ:l]]]></phonetic>
     <tags>GRE</tags>
@@ -28569,6 +28659,7 @@ v. 践踏；压垮；不顾（override的ing形式）
     <progress>0</progress>
 </item><item>    <word>overt</word>
     <trans><![CDATA[adj. 明显的；公然的；蓄意的 
+        over + t
 ]]></trans>
     <phonetic><![CDATA[['əuvə:t, əu'və:t]]]></phonetic>
     <tags>GRE</tags>
@@ -28583,6 +28674,7 @@ vt. 推翻；打倒；倾覆
 </item><item>    <word>overture</word>
     <trans><![CDATA[n. 前奏曲；提案；序幕 
 vt. 提议；为……奏前奏曲 
+overt adj. 明显的；公然的；蓄意的
 ]]></trans>
     <phonetic><![CDATA[['əuvə,tjuə, -tʃuə]]]></phonetic>
     <tags>GRE</tags>
@@ -28597,6 +28689,7 @@ vi. 推翻；倾覆
     <progress>0</progress>
 </item><item>    <word>overwhelm</word>
     <trans><![CDATA[vt. 压倒；淹没；受打击 
+        whelm  [hwelm /w-] v.  淹没
 ]]></trans>
     <phonetic><![CDATA[[,əuvə'hwelm]]]></phonetic>
     <tags>GRE</tags>
@@ -28604,12 +28697,15 @@ vi. 推翻；倾覆
 </item><item>    <word>overwrought</word>
     <trans><![CDATA[adj. 过度紧张的；过度兴奋的；过分劳累的；（文体等）过于考究的 
 v. 工作过度；把…做过头；使过于激动（overwork的过去式和过去分词） 
+wrought  [rɔːt] adj.  精巧的; 作成的
+work
 ]]></trans>
     <phonetic><![CDATA[[,əuvə'rɔ:t, 'əuvə'rɔ:t]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>owl</word>
     <trans><![CDATA[n. 猫头鹰；枭；惯于晚上活动的人 
+        no
 ]]></trans>
     <phonetic><![CDATA[[aul]]]></phonetic>
     <tags>GRE</tags>
@@ -28617,6 +28713,7 @@ v. 工作过度；把…做过头；使过于激动（overwork的过去式和过
 </item><item>    <word>oxidize</word>
     <trans><![CDATA[vt. 使氧化；使生锈 
 vi. 氧化 
+oxide  [ox·ide || 'ɑksaɪd /'ɒk-] n.  氧化物
 ]]></trans>
     <phonetic><![CDATA[['ɔksidaiz]]]></phonetic>
     <tags>GRE</tags>
