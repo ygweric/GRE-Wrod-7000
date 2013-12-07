@@ -26492,30 +26492,40 @@ monolith  [mon·o·lith || 'mɑnəʊlɪθ /'mɒ-] n.  巨型独石; 庞然大物
     <progress>0</progress>
 </item><item>    <word>monumental</word>
     <trans><![CDATA[adj. 不朽的；纪念碑的；非常的 
+        to remind, warn" (see monitor (n.)).
+        men- "to think" (see mind (n.)). 
 ]]></trans>
     <phonetic><![CDATA[[,mɔnju'mentəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>morale</word>
     <trans><![CDATA[n. 士气，斗志 
+        moral  [mor·al || 'mɔrəl /'mɒ-]n.  道德, 寓意, 品行
+        morale  [mo·rale || mə'ræl /-'rɑːl] n.  士气, 民心
+        mood
 ]]></trans>
     <phonetic><![CDATA[[mɔ'rɑ:l, -'ræl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>moralistic</word>
     <trans><![CDATA[adj. 说教的；道学的；道德家的；注意道德的 
+        moral  [mor·al || 'mɔrəl /'mɒ-]n.  道德, 寓意, 品行
+        morale  [mo·rale || mə'ræl /-'rɑːl] n.  士气, 民心
+        mood
 ]]></trans>
     <phonetic><![CDATA[[,mɔrə'listik, ,mɔ:-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>moratorium</word>
     <trans><![CDATA[n. 暂停，中止；[金融] 延期偿付 
+        mora  n.  调形; 短音节; 音节延长度
 ]]></trans>
     <phonetic><![CDATA[[,mɔrə'tɔ:riəm, ,mɔ:-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>morbid</word>
     <trans><![CDATA[adj. 病态的；由病引起的；恐怖的；病变部位的 
+        no
 ]]></trans>
     <phonetic><![CDATA[['mɔ:bid]]]></phonetic>
     <tags>GRE</tags>
@@ -26524,12 +26534,15 @@ monolith  [mon·o·lith || 'mɑnəʊlɪθ /'mɒ-] n.  巨型独石; 庞然大物
     <trans><![CDATA[n. [助剂] 媒染剂；金属腐蚀剂；金属箔粘着剂 
 adj. 有腐蚀性的；尖酸的；辛辣的 
 vt. 媒染；用媒染剂处理 
+no
 ]]></trans>
     <phonetic><![CDATA[['mɔ:dənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>mores</word>
     <trans><![CDATA[n. 习惯，习俗；风俗；道德观念 
+        moral
+        mood
 ]]></trans>
     <phonetic><![CDATA[['mɔ:ri:z]]]></phonetic>
     <tags>GRE</tags>
@@ -26537,24 +26550,35 @@ vt. 媒染；用媒染剂处理
 </item><item>    <word>moribund</word>
     <trans><![CDATA[n. 垂死的人 
 adj. 垂死的；停滞不前的 
+mortal  [mor·tal || 'mɔrtl /'mɔːtl]
+n.  凡人; 人类 adj.  不免一死的, 临终的, 人类的
+morbid  [mor·bid || 'mɔrbɪd /'mɔːbɪd] adj.  不健全的, 疾病的, 病态的
 ]]></trans>
     <phonetic><![CDATA[['mɔribʌnd]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>morose</word>
     <trans><![CDATA[adj. 郁闷的；孤僻的 
+        moral
+        '某rose'
 ]]></trans>
     <phonetic><![CDATA[[mə'rəus]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>morsel</word>
     <trans><![CDATA[n. 一口；（食物）少量 
+        "to bite" (see mordant).
+        mordant  ['mor·dant || 'mɔrdənt /'mɔːd-]
+n.  金属腐蚀剂, 金箔粘着剂
+adj.  尖酸的, 有腐蚀性的, 辛辣的
 ]]></trans>
     <phonetic><![CDATA[['mɔ:sel]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>mortality</word>
     <trans><![CDATA[n. 死亡数，死亡率；必死性，必死的命运 
+        mortal  [mor·tal || 'mɔrtl /'mɔːtl]
+n.  凡人; 人类 adj.  不免一死的, 临终的, 人类的
 ]]></trans>
     <phonetic><![CDATA[[mɔ:'tæləti]]]></phonetic>
     <tags>GRE</tags>
@@ -26562,6 +26586,9 @@ adj. 垂死的；停滞不前的
 </item><item>    <word>mortar</word>
     <trans><![CDATA[n. 迫击炮；臼，研钵；灰泥 
 vt. 用灰泥涂抹，用灰泥结合 
+"bowl for pounding," "to rub away, harm;" see morbid).
+morbid  [mor·bid || 'mɔrbɪd /'mɔːbɪd]
+adj.  不健全的, 疾病的, 病态的
 ]]></trans>
     <phonetic><![CDATA[['mɔ:tə]]]></phonetic>
     <tags>GRE</tags>
@@ -26569,12 +26596,18 @@ vt. 用灰泥涂抹，用灰泥结合
 </item><item>    <word>mortgage</word>
     <trans><![CDATA[n. 抵押 
 vt. 抵押 
+ from mort "dead" (see mortal (adj.)) + gage "pledge" (see wage (n.)). 
+ wage  [weɪdʒ] n.  薪水, 代价, 报偿; 工资 v.  开展, 进行
+ wed
 ]]></trans>
     <phonetic><![CDATA[['mɔ:ɡidʒ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>mortification</word>
     <trans><![CDATA[n. 屈辱；禁欲；坏疽 
+        mortify  [mor·ti·fy || 'mɔrtɪfaɪ /'mɔː-]
+v.  克服; 使苦恼; 苦修; 禁欲, 苦修, 腐坏
+from Latin mors (genitive mortis) "death" (see mortal (adj.)) + root of facere "to make" (see factitious)
 ]]></trans>
     <phonetic><![CDATA[[,mɔ:tifi'keiʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -26582,6 +26615,7 @@ vt. 抵押
 </item><item>    <word>mortify</word>
     <trans><![CDATA[vt. 抑制；苦修；使…感屈辱 
 vi. 禁欲；苦行；约束 
+from Latin mors (genitive mortis) "death" (see mortal (adj.)) + root of facere "to make" (see factitious)
 ]]></trans>
     <phonetic><![CDATA[['mɔ:tifai]]]></phonetic>
     <tags>GRE</tags>
@@ -26589,6 +26623,7 @@ vi. 禁欲；苦行；约束
 </item><item>    <word>mortuary</word>
     <trans><![CDATA[n. 太平间；停尸间 
 adj. 死的；悲哀的 
+ mori "to die" (see mortal (adj.)). 
 ]]></trans>
     <phonetic><![CDATA[['mɔ:tjuəri, -tʃuə-]]]></phonetic>
     <tags>GRE</tags>
@@ -26596,36 +26631,42 @@ adj. 死的；悲哀的
 </item><item>    <word>mosaic</word>
     <trans><![CDATA[n. 马赛克；镶嵌；镶嵌细工 
 adj. 摩西的；拼成的；嵌花式的 
+拟声词
 ]]></trans>
     <phonetic><![CDATA[[məu'zeiik]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>mosque</word>
     <trans><![CDATA[n. 清真寺 
+        no
 ]]></trans>
     <phonetic><![CDATA[[mɔsk]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>mosquito</word>
     <trans><![CDATA[n. 蚊子 
+        no
 ]]></trans>
     <phonetic><![CDATA[[mə'ski:təu]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>mote</word>
     <trans><![CDATA[n. 尘埃；微粒；小错 
+        no
 ]]></trans>
     <phonetic><![CDATA[[məut]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>motif</word>
     <trans><![CDATA[n. 主题；动机；主旨；图形；意念 
+        motive
 ]]></trans>
     <phonetic><![CDATA[[məu'ti:f, mɔ-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>motility</word>
     <trans><![CDATA[n. 运动性；能动性；自动力 
+        move
 ]]></trans>
     <phonetic><![CDATA[[məu'tiləti, 'məutailiti]]]></phonetic>
     <tags>GRE</tags>
@@ -26633,6 +26674,7 @@ adj. 摩西的；拼成的；嵌花式的
 </item><item>    <word>motley</word>
     <trans><![CDATA[n. 混杂；杂色衣服；小丑 
 adj. 杂色的；混杂的；五颜六色的 
+mote  [məʊt] n.  尘埃; 微粒
 ]]></trans>
     <phonetic><![CDATA[['mɔtli]]]></phonetic>
     <tags>GRE</tags>
@@ -26640,12 +26682,15 @@ adj. 杂色的；混杂的；五颜六色的
 </item><item>    <word>mottled</word>
     <trans><![CDATA[adj. 斑驳的，杂色的 
 v. 使成杂色（mottle的过去分词） 
+mote  [məʊt] n.  尘埃; 微粒
 ]]></trans>
     <phonetic><![CDATA[['mɔtld]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>motto</word>
     <trans><![CDATA[n. 座右铭，格言；箴言 
+        from Latin muttire "to mutter, mumble, murmur" 
+        mutter  [mut·ter || 'mʌtə(r)] n.  喃喃低语
 ]]></trans>
     <phonetic><![CDATA[['mɔtəu]]]></phonetic>
     <tags>GRE</tags>
@@ -26658,31 +26703,33 @@ v. 使成杂色（mottle的过去分词）
     <progress>0</progress>
 </item><item>    <word>mourn</word>
     <trans><![CDATA[v. 哀悼；忧伤；服丧 
+        mer- "to remember" (see memory);
+        mourning  [mourn·ing || mɔrnɪŋ /mɔːnɪŋ] n.  悲伤; 下半旗; 服丧; 丧服
 ]]></trans>
     <phonetic><![CDATA[[mɔ:n, məun]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>mournful</word>
     <trans><![CDATA[adj. 悲哀的；令人惋惜的 
+        memory  mourning
 ]]></trans>
     <phonetic><![CDATA[['mɔ:nful, 'məun-]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
-</item><item>    <word>movement</word>
-    <trans><![CDATA[n. 运动；活动；运转；乐章 
-]]></trans>
-    <phonetic><![CDATA[['mu:vmənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>muffle</word>
     <trans><![CDATA[n. 低沉的声音；消声器；包裹物（如头巾，围巾等）；唇鼻部 
 vt. 蒙住；裹住；抑制；发低沉的声音 
+muff  [mʌf] (as)披着羽毛很笨拙
+n.  笨拙的行动; 漏接, 漏球#皮手筒; 两颊的羽毛
+v.  笨拙地处理; 漏接, 接失误; 弄糟; 笨拙地处理; 漏接球, 接球失误; 将事弄糟
 ]]></trans>
     <phonetic><![CDATA[['mʌfl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>mulish</word>
     <trans><![CDATA[adj. 顽固的，执拗的；骡子似的 
+        mule  [mjuːl]
+n.  骡; 杂交动物; 固执的人; 电力牵引机#无后跟的拖鞋
 ]]></trans>
     <phonetic><![CDATA[['mju:liʃ]]]></phonetic>
     <tags>GRE</tags>
@@ -26690,12 +26737,14 @@ vt. 蒙住；裹住；抑制；发低沉的声音
 </item><item>    <word>multiple</word>
     <trans><![CDATA[n. 倍数；[电] 并联 
 adj. 多重的；多样的；许多的 
+from Latin multi- "many, much" (see multi-) + -plus "-fold," (see -fold)
 ]]></trans>
     <phonetic><![CDATA[['mʌltipl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>multiplicity</word>
     <trans><![CDATA[n. 多样性；[物] 多重性 
+        "many, much" (see multi-) 
 ]]></trans>
     <phonetic><![CDATA[[,mʌlti'plisəti]]]></phonetic>
     <tags>GRE</tags>
@@ -26713,33 +26762,39 @@ adv. 多样地；复合地
     <trans><![CDATA[n. 含糊的话；咕噜 
 vi. 含糊地说话 
 vt. 含糊地说；抿着嘴嚼 
+拟声词
 ]]></trans>
     <phonetic><![CDATA[['mʌmbl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>mundane</word>
     <trans><![CDATA[adj. 世俗的，平凡的；世界的，宇宙的 
+        no
+        mortal n.  凡人; 人类
 ]]></trans>
     <phonetic><![CDATA[[,mʌn'dein, 'mʌnd-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>municipality</word>
     <trans><![CDATA[n. 市民；市政当局；自治市或区 
+        no
 ]]></trans>
     <phonetic><![CDATA[[mju:,nisi'pæləti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>munificence</word>
     <trans><![CDATA[n. 慷慨给与；宽宏大量 
+         from munus "gift or service, duty, office" (see municipal) + unstressed stem of facere "to do" (see factitious).
+        municipality n. 市民；市政当局；自治市或区 
 ]]></trans>
     <phonetic><![CDATA[[mju:'nifisəns]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>munition</word>
     <trans><![CDATA[n. 军需品；军火 
-adj. 军需品的；生产军需品的 
-vt. 供给军需品 
-vi. 从事军需品生产 
+adj. 军需品的；生产军需品的 vt. 供给军需品  vi. 从事军需品生产 
+ from past participle stem of munire "to fortify(设要塞于, 使坚强, 加强; 筑防御工事)," from moenia "defensive walls," related to murus "wall" (see mural).
+mural  [mu·ral || 'mjʊrəl /'mjʊərəl] n.  壁画 adj.  壁的, 壁似的, 壁上的
 ]]></trans>
     <phonetic><![CDATA[[mju:'niʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -26747,12 +26802,16 @@ vi. 从事军需品生产
 </item><item>    <word>mural</word>
     <trans><![CDATA[n. 壁画；（美）壁饰 
 adj. 墙壁的 
+no
 ]]></trans>
     <phonetic><![CDATA[['mjuərəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>murky</word>
-    <trans><![CDATA[adj. 黑暗的；朦胧的；阴郁的 
+    <trans><![CDATA[adj. 黑暗的；朦胧的；阴郁的
+        murk  [mɜrk /mɜːk] n.  黑暗; 阴郁
+        from PIE *mer- "to flicker" (see morn).
+     morn  [mɔrn /mɔːn] n.  早晨; 明天 
 ]]></trans>
     <phonetic><![CDATA[['mə:ki]]]></phonetic>
     <tags>GRE</tags>
@@ -26761,6 +26820,7 @@ adj. 墙壁的
     <trans><![CDATA[vt. 低声说 
 vi. 低声说；私下抱怨；发出轻柔持续的声音 
 n. 低语；低语声；低声抱怨；潺潺声 
+no
 ]]></trans>
     <phonetic><![CDATA[['mə:mə]]]></phonetic>
     <tags>GRE</tags>
@@ -26769,18 +26829,21 @@ n. 低语；低语声；低声抱怨；潺潺声
     <trans><![CDATA[n. 沉思；冥想 
 vt. 沉思；沉思地说 
 vi. 沉思；凝望 
+mind
 ]]></trans>
     <phonetic><![CDATA[[mju:z]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>musicologist</word>
     <trans><![CDATA[n. 音乐学者，音乐理论家 
+        music
 ]]></trans>
     <phonetic><![CDATA[[,mju:zi'kɔlədʒist]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>musket</word>
     <trans><![CDATA[n. 步枪；滑膛枪，毛瑟枪 
+        '拟声词'
 ]]></trans>
     <phonetic><![CDATA[['mʌskit]]]></phonetic>
     <tags>GRE</tags>
@@ -26789,6 +26852,8 @@ vi. 沉思；凝望
     <trans><![CDATA[n. 集合；检阅；点名册；集合人员 
 vt. 召集；对…进行点名；使振作 
 vi. 召集；聚集 
+"to display, reveal, appear," 
+monster  [mon·ster || 'mɑnstər /'mɒ-] n.  怪物, 巨物, 恶人
 ]]></trans>
     <phonetic><![CDATA[['mʌstə]]]></phonetic>
     <tags>GRE</tags>
@@ -26796,6 +26861,8 @@ vi. 召集；聚集
 </item><item>    <word>mutate</word>
     <trans><![CDATA[vt. 改变，使突变 
 vi. 变化，产生突变 
+mutable
+move
 ]]></trans>
     <phonetic><![CDATA[[mju:'teit, 'mju:-]]]></phonetic>
     <tags>GRE</tags>
@@ -26804,6 +26871,7 @@ vi. 变化，产生突变
     <trans><![CDATA[n. 哑巴；弱音器；闭锁音 
 adj. 哑的；沉默的；无声的 
 vt. 减弱……的声音；使……柔和 
+no
 ]]></trans>
     <phonetic><![CDATA[[mju:t]]]></phonetic>
     <tags>GRE</tags>
@@ -26811,30 +26879,37 @@ vt. 减弱……的声音；使……柔和
 </item><item>    <word>muted</word>
     <trans><![CDATA[adj. 柔和的；无言的；趋缓的 
 v. 使柔和（mute的过去式和过去分词）；消除声音 
+mute  哑巴；弱音器；闭锁音 
 ]]></trans>
     <phonetic><![CDATA[['mju:tid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>mutineer</word>
     <trans><![CDATA[n. 反抗者；叛变者 
+        mutiny  [mu·ti·ny || 'mjuːtɪnɪ]
+n.  叛变, 兵变
+move
 ]]></trans>
     <phonetic><![CDATA[[,mju:ti'niə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>nutter</word>
     <trans><![CDATA[n. 疯子；拾坚果的人 
+        nut
 ]]></trans>
     <phonetic><![CDATA[['nʌtə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>myopia</word>
     <trans><![CDATA[n. [眼科] 近视；目光短浅，缺乏远见 
+        from myein "to shut" (see mute (adj.)) + ops (genitive opos) "eye" (see eye (n.)).
 ]]></trans>
     <phonetic><![CDATA[[mai'əupiə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>myopic</word>
     <trans><![CDATA[adj. 近视的；目光短浅的 
+        rom myein "to shut" (see mute (adj.)) + ops (genitive opos) "eye" (see eye (n.)).
 ]]></trans>
     <phonetic><![CDATA[[mai'ɔpik]]]></phonetic>
     <tags>GRE</tags>
@@ -26842,6 +26917,7 @@ v. 使柔和（mute的过去式和过去分词）；消除声音
 </item><item>    <word>myriad</word>
     <trans><![CDATA[n. 无数，极大数量；无数的人或物 
 adj. 无数的；种种的 
+no
 ]]></trans>
     <phonetic><![CDATA[['miriəd]]]></phonetic>
     <tags>GRE</tags>
@@ -26849,12 +26925,17 @@ adj. 无数的；种种的
 </item><item>    <word>mystic</word>
     <trans><![CDATA[n. 神秘主义者 
 adj. 神秘的；神秘主义的 
+mystery  [mys·ter·y || 'mɪstərɪ]
+n.  神秘的事物; 谜; 难以理解的事物; 神秘, 秘密
+from myein "to close, shut" (see mute (adj.)); 
 ]]></trans>
     <phonetic><![CDATA[['mistik]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>nadir</word>
     <trans><![CDATA[n. 最低点，最底点；[天] 天底 
+        from nazir "opposite" + as-samt "road, path" (see zenith).
+        zenith  [ze·nith || 'zɪːnɪθ /'zen-] n.  顶点, 天顶, 顶峰
 ]]></trans>
     <phonetic><![CDATA[['nei,diə, 'næ-]]]></phonetic>
     <tags>GRE</tags>
@@ -26863,24 +26944,30 @@ adj. 神秘的；神秘主义的
     <trans><![CDATA[n. 唠叨；老马；竞赛马 
 vt. 使烦恼；不断地唠叨 
 vi. 不断地唠叨 
+拟声词 '那个那个那个那个那个那个那个那个那个'
 ]]></trans>
     <phonetic><![CDATA[[næɡ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>naivety</word>
     <trans><![CDATA[n. 无邪的行为；天真烂漫（等于naivete） 
+         native
 ]]></trans>
     <phonetic><![CDATA[[na:'i:vti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>narcissism</word>
-    <trans><![CDATA[n. [心理] 自恋，自我陶醉 
+    <trans><![CDATA[n. [心理] 自恋，自我陶醉     
+        narcotic  [nar·cot·ic || nɑr'kɑtɪk /nɑː'kɒ-] n.  麻醉药, 镇静剂 adj.  麻醉的, 催眠的
+        Narcissus  [nar·cis·sus || nɑr'sɪsəs /nɑː-] n.  溺死后变成水仙的少年; 水仙属的植物
 ]]></trans>
     <phonetic><![CDATA[[nɑ:'sisizəm]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>narcissist</word>
     <trans><![CDATA[n. 自我陶醉者 
+        narcotic  [nar·cot·ic || nɑr'kɑtɪk /nɑː'kɒ-] n.  麻醉药, 镇静剂 adj.  麻醉的, 催眠的
+        Narcissus  [nar·cis·sus || nɑr'sɪsəs /nɑː-] n.  溺死后变成水仙的少年; 水仙属的植物
 ]]></trans>
     <phonetic><![CDATA[[nɑ:'sisist]]]></phonetic>
     <tags>GRE</tags>
@@ -26888,6 +26975,7 @@ vi. 不断地唠叨
 </item><item>    <word>narcotic</word>
     <trans><![CDATA[n. [药] 麻醉药；镇静剂；起麻醉作用的事物 
 adj. 麻醉的；有麻醉作用的；催眠的 
+        Narcissus  [nar·cis·sus || nɑr'sɪsəs /nɑː-] n.  溺死后变成水仙的少年; 水仙属的植物
 ]]></trans>
     <phonetic><![CDATA[[nɑ:'kɔtik]]]></phonetic>
     <tags>GRE</tags>
@@ -26895,30 +26983,39 @@ adj. 麻醉的；有麻醉作用的；催眠的
 </item><item>    <word>narrative</word>
     <trans><![CDATA[n. 叙述；故事；讲述 
 adj. 叙事的，叙述的；叙事体的 
+narration  [nar'ra·tion || næ'reɪʃn /nə-]
+n.  叙述, 讲述; 报导; 叙事体; 故事
+know
 ]]></trans>
     <phonetic><![CDATA[['nærətiv]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>nascent</word>
     <trans><![CDATA[adj. 初期的；开始存在的，发生中的 
+        no
 ]]></trans>
     <phonetic><![CDATA[['næsənt, 'nei-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>natal</word>
     <trans><![CDATA[adj. 出生的；诞生的；分娩的；出生地的 
+        natal  [na·tal || 'neɪtl]
+adj.  出生的, 诞生的
+native
 ]]></trans>
     <phonetic><![CDATA[['neitəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>natty</word>
     <trans><![CDATA[adj. 整洁的；敏捷的；考虑周到的；清楚的 
+        neat
 ]]></trans>
     <phonetic><![CDATA[['næti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>nausea</word>
     <trans><![CDATA[n. 恶心，晕船；极端的憎恶 
+        naval  [na·val || 'neɪvl] adj.  海军的, 有舰队的, 军舰的
 ]]></trans>
     <phonetic><![CDATA[['nɔ:ziə, -siə, -ʃə, -ʒə]]]></phonetic>
     <tags>GRE</tags>
@@ -26926,12 +27023,14 @@ adj. 叙事的，叙述的；叙事体的
 </item><item>    <word>nauseate</word>
     <trans><![CDATA[vt. 使厌恶；使恶心；使作呕 
 vi. 作呕；厌恶；产生恶感 
+naval  [na·val || 'neɪvl] adj.  海军的, 有舰队的, 军舰的
 ]]></trans>
     <phonetic><![CDATA[['nɔ:zieit, -si-, -ʃi-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>nautical</word>
     <trans><![CDATA[adj. 航海的，海上的；船员的 
+        naval  [na·val || 'neɪvl] adj.  海军的, 有舰队的, 军舰的
 ]]></trans>
     <phonetic><![CDATA[['nɔ:tikəl]]]></phonetic>
     <tags>GRE</tags>
@@ -26939,6 +27038,7 @@ vi. 作呕；厌恶；产生恶感
 </item><item>    <word>navigate</word>
     <trans><![CDATA[vi. 航行，航空 
 vt. 驾驶，操纵；使通过；航行于 
+naval  [na·val || 'neɪvl] adj.  海军的, 有舰队的, 军舰的
 ]]></trans>
     <phonetic><![CDATA[['næviɡeit]]]></phonetic>
     <tags>GRE</tags>
@@ -26946,12 +27046,18 @@ vt. 驾驶，操纵；使通过；航行于
 </item><item>    <word>naysay</word>
     <trans><![CDATA[n. 拒绝；否认 
 vt. 拒绝；否认 
+ from nay + say (v.).
+ nay  [neɪ]
+n.  拒绝, 投反对票, 反对
+adv.  否, 不但如是, 不
 ]]></trans>
     <phonetic><![CDATA[['neisei]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>nebulous</word>
     <trans><![CDATA[adj. 朦胧的；星云的，星云状的 
+        ebula  [neb·u·la || 'nebjələ /-jʊlə]
+n.  星云, 云翳[yì]
 ]]></trans>
     <phonetic><![CDATA[['nebjuləs]]]></phonetic>
     <tags>GRE</tags>
@@ -26960,24 +27066,28 @@ vt. 拒绝；否认
     <trans><![CDATA[n. 针；指针；刺激；针状物 
 vt. 刺激；用针缝 
 vi. 缝纫；做针线 
+noodle n.  面条#傻瓜; 脑袋
 ]]></trans>
     <phonetic><![CDATA[['ni:dl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>needlework</word>
     <trans><![CDATA[n. 刺绣，缝纫；女红的作品 
+        needle 针；指针；刺激；针状物 
 ]]></trans>
     <phonetic><![CDATA[['ni:dlwə:k]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>needy</word>
     <trans><![CDATA[adj. 贫困的；贫穷的；生活艰苦的 
+        need
 ]]></trans>
     <phonetic><![CDATA[['ni:di]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>nefarious</word>
     <trans><![CDATA[adj. 邪恶的；穷凶极恶的；不法的 
+        from ne- "not" (see un-) + fas "right, lawful, divinely spoken," related to fari "to speak" (see fame (n.))
 ]]></trans>
     <phonetic><![CDATA[[ni'fεəriəs]]]></phonetic>
     <tags>GRE</tags>
@@ -26986,24 +27096,29 @@ vi. 缝纫；做针线
     <trans><![CDATA[n. 对立面；反面 
 vt. 否定；取消；使无效 
 vi. 否定；否认；无效 
+ from ne- "not" (see un-) +  gate
 ]]></trans>
     <phonetic><![CDATA[[ni'ɡeit, 'neɡeit, 'ni:-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>negation</word>
     <trans><![CDATA[n. 否定，否认；拒绝 
+         from ne- "not" (see un-) +  gate
 ]]></trans>
     <phonetic><![CDATA[[ni'ɡeiʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>negligence</word>
     <trans><![CDATA[n. 疏忽；忽视；粗心大意 
+        neglect  [neg·lect || nɪ'glekt] n.  疏忽, 怠慢, 忽略
+rom Old Latin nec "not" (see deny) + legere "pick up, select" (see lecture (n.)).
 ]]></trans>
     <phonetic><![CDATA[['neɡlidʒəns]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>negotiable</word>
     <trans><![CDATA[adj. 可通过谈判解决的；可协商的 
+        from neg- "not" (see deny) + otium "ease, leisure." 
 ]]></trans>
     <phonetic><![CDATA[[ni'ɡəuʃiəbl]]]></phonetic>
     <tags>GRE</tags>
@@ -27011,30 +27126,36 @@ vi. 否定；否认；无效
 </item><item>    <word>negotiate</word>
     <trans><![CDATA[vi. 谈判，交涉 
 vt. 谈判，商议；转让；越过 
+from neg- "not" (see deny) + otium "ease, leisure." 
 ]]></trans>
     <phonetic><![CDATA[[ni'ɡəuʃieit, -si-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>neolithic</word>
     <trans><![CDATA[adj. [古] 新石器时代的；早先的 
+         from neo- + -lith "stone."
+         -lith  岩石；石头：
 ]]></trans>
     <phonetic><![CDATA[[,ni:əu'liθik]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>neologism</word>
     <trans><![CDATA[n. 新词；新义；新词的使用 
+        from neo- (see neo-) + Greek logos "word" (see lecture (n.)).
 ]]></trans>
     <phonetic><![CDATA[[ni:'ɔlədʒizəm, ni-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>neophyte</word>
     <trans><![CDATA[n. 新信徒；新入教者；初学者 
+        from neos "new" (see new) + phytos "grown; planted,"(see physic).
 ]]></trans>
     <phonetic><![CDATA[['ni:əufait]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>nepotism</word>
     <trans><![CDATA[n. 裙带关系；起用亲戚 
+        nephew  [neph·ew || 'nefjuː /nev- ,nef-] n.  侄子, 外甥
 ]]></trans>
     <phonetic><![CDATA[['nepətizəm]]]></phonetic>
     <tags>GRE</tags>
@@ -27042,6 +27163,7 @@ vt. 谈判，商议；转让；越过
 </item><item>    <word>nerve</word>
     <trans><![CDATA[n. 神经；勇气；[植] 叶脉 
 vt. 鼓起勇气 
+nervous  [nerv·ous || 'nɜrvəs /'nɜːvəs] adj.  神经紧张的, 神经的, 不安的
 ]]></trans>
     <phonetic><![CDATA[[nə:v]]]></phonetic>
     <tags>GRE</tags>
@@ -27050,12 +27172,15 @@ vt. 鼓起勇气
     <trans><![CDATA[n. 荨麻 
 vt. 剌激；惹恼；用荨麻刺 
 adj. 荨麻科的 
+ned- "to twist, knot" (see net (n.)). 
 ]]></trans>
     <phonetic><![CDATA[['netl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>neurology</word>
     <trans><![CDATA[n. 神经病学；神经学 
+        from neuro- (see neuro-) + -logia "study" (see -logy).
+        neuro- 神经： (see nerve).
 ]]></trans>
     <phonetic><![CDATA[[,njuə'rɔlədʒi]]]></phonetic>
     <tags>GRE</tags>
