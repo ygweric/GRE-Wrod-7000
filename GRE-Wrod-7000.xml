@@ -27188,18 +27188,27 @@ ned- "to twist, knot" (see net (n.)).
 </item><item>    <word>neutralize</word>
     <trans><![CDATA[vt. 抵销；使…中和；使…无效；使…中立 
 vi. 中和；中立化；变无效 
+neuter  [neu·ter || 'nuːtə(r) / 'njuː-]
+n.  中性名词, 阉割动物, 无性动物
+adj.  中性的; 中立的; 不及物的; 无性的
+from ne- "not, no" (see un-) + uter "either (of two)" (see whether).
 ]]></trans>
     <phonetic><![CDATA[['nju:trəlaiz]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>neutron</word>
     <trans><![CDATA[n. [核] 中子 
+        neuter  [neu·ter || 'nuːtə(r) / 'njuː-]
+n.  中性名词, 阉割动物, 无性动物
+adj.  中性的; 中立的; 不及物的; 无性的
+from ne- "not, no" (see un-) + uter "either (of two)" (see whether).
 ]]></trans>
     <phonetic><![CDATA[['nju:trɔn]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>nexus</word>
     <trans><![CDATA[n. 关系；连结，连系 
+         from PIE root *ned- "to bind, tie" (see net (n.)).
 ]]></trans>
     <phonetic><![CDATA[['neksəs]]]></phonetic>
     <tags>GRE</tags>
@@ -27207,6 +27216,7 @@ vi. 中和；中立化；变无效
 </item><item>    <word>nib</word>
     <trans><![CDATA[n. 钢笔尖；嘴；鹅管笔的尖端 
 vt. 装尖头；削尖；插入 
+neb  [neb] n.  鼻; 尖端; 口
 ]]></trans>
     <phonetic><![CDATA[[nib]]]></phonetic>
     <tags>GRE</tags>
@@ -27215,14 +27225,9 @@ vt. 装尖头；削尖；插入
     <trans><![CDATA[n. 轻咬；啃；细咬 
 vt. 细咬；一点一点地咬；吹毛求疵 
 vi. 细咬；一点一点地咬；吹毛求疵 
+no
 ]]></trans>
     <phonetic><![CDATA[['nibl]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
-</item><item>    <word>nice</word>
-    <trans><![CDATA[adj. 精密的；美好的；细微的；和蔼的 
-]]></trans>
-    <phonetic><![CDATA[[nais]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>nick</word>
@@ -27236,20 +27241,17 @@ vi. 刻痕；狙击
 </item><item>    <word>nightmare</word>
     <trans><![CDATA[n. 恶梦；梦魇般的经历 
 adj. 可怕的；噩梦似的 
+niche  [nɪtʃ ,nɪːʃ] n.  壁橱
+'你吃'
 ]]></trans>
     <phonetic><![CDATA[['naitmεə]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
-</item><item>    <word>nil</word>
-    <trans><![CDATA[n. 无，零 
-]]></trans>
-    <phonetic><![CDATA[[nil]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>nip</word>
     <trans><![CDATA[n. 夹；捏；刺骨；小饮 
 vt. 夹；捏；剪断；冻伤；阻止 
 vi. 夹；捏；刺骨；小饮 
+no
 ]]></trans>
     <phonetic><![CDATA[[nip]]]></phonetic>
     <tags>GRE</tags>
@@ -27257,18 +27259,22 @@ vi. 夹；捏；刺骨；小饮
 </item><item>    <word>nitpick</word>
     <trans><![CDATA[vi. 挑剔；吹毛求疵 
 vt. 对…吹毛求疵 
+nit  [nɪt] n.  卵; 幼虫#流氓; 没用的人
+ see nit (n.) + pick (v.).
 ]]></trans>
     <phonetic><![CDATA[['nitpik]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>nocturnal</word>
     <trans><![CDATA[adj. 夜的；夜曲的；夜间发生的 
+         (see night) + -urnus
 ]]></trans>
     <phonetic><![CDATA[[nɔk'tə:nəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>noisome</word>
     <trans><![CDATA[adj. 恶臭的；有害的 
+         see annoy) + -some (1).
 ]]></trans>
     <phonetic><![CDATA[['nɔisəm]]]></phonetic>
     <tags>GRE</tags>
@@ -27276,12 +27282,14 @@ vt. 对…吹毛求疵
 </item><item>    <word>nomad</word>
     <trans><![CDATA[n. 游牧民；流浪者 
 adj. 游牧的；流浪的 
+(as)一直在奔跑，但是 no mad，因为他们是流浪者，游牧民
 ]]></trans>
     <phonetic><![CDATA[['nəumæd, 'nɔ-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>nomadic</word>
     <trans><![CDATA[adj. 游牧的；流浪的；游动的 
+        nomad
 ]]></trans>
     <phonetic><![CDATA[[nəu'mædik, nɔ-]]]></phonetic>
     <tags>GRE</tags>
@@ -27289,30 +27297,35 @@ adj. 游牧的；流浪的
 </item><item>    <word>nominal</word>
     <trans><![CDATA[n. [语] 名词性词 
 adj. 名义上的；有名无实的；[会计] 票面上的 
+name
 ]]></trans>
     <phonetic><![CDATA[['nɔminəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>nonchalance</word>
     <trans><![CDATA[n. 冷淡；漠不关心；冷静 
+        calorie  [cal·o·rie || 'kælərɪ] n.  卡路里
 ]]></trans>
     <phonetic><![CDATA[['nɔnʃələns, ,nɔnʃə'lɑ:ns]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>noncommittal</word>
     <trans><![CDATA[adj. 态度不明朗的；不承担义务的；无明确意义的 
+        commit
 ]]></trans>
     <phonetic><![CDATA[[,nɔnkə'mitəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>nonentity</word>
     <trans><![CDATA[n. 不存在；虚无；无足轻重的人 
+        entity
 ]]></trans>
     <phonetic><![CDATA[[nɔn'entəti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>nonflammable</word>
     <trans><![CDATA[adj. 不燃烧的；不易燃烧的 
+        flame
 ]]></trans>
     <phonetic><![CDATA[[nɔn'flæməbl]]]></phonetic>
     <tags>GRE</tags>
@@ -27320,12 +27333,15 @@ adj. 名义上的；有名无实的；[会计] 票面上的
 </item><item>    <word>nonplus</word>
     <trans><![CDATA[n. 迷惑；困惑 
 vt. 使困惑 
+ 'nothing more', no more, no further" (see plus).
 ]]></trans>
     <phonetic><![CDATA[[,nɔn'plʌs, 'nɔnplʌs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>nonporous</word>
     <trans><![CDATA[adj. 无孔的，无孔隙的 
+        pore
+        radio
 ]]></trans>
     <phonetic><![CDATA[['nɔn'pɔ:rəs]]]></phonetic>
     <tags>GRE</tags>
@@ -27339,12 +27355,15 @@ adj. 非放射性
     <progress>0</progress>
 </item><item>    <word>nonsensical</word>
     <trans><![CDATA[adj. 无意义的；荒谬的 
+        sense
 ]]></trans>
     <phonetic><![CDATA[[nɔn'sensikəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>nonthreatening</word>
     <trans><![CDATA[nonthreatening: 非胁迫的 
+        threat n.
+        threaten v.
 ]]></trans>
     <phonetic><![CDATA[]]></phonetic>
     <tags>GRE</tags>
@@ -27357,18 +27376,22 @@ adj. 非放射性
     <progress>0</progress>
 </item><item>    <word>norm</word>
     <trans><![CDATA[n. 规范，基准；定额，分配之工作量 
+        normal
 ]]></trans>
     <phonetic><![CDATA[[nɔ:m]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>nostalgia</word>
     <trans><![CDATA[n. 乡愁；怀旧之情；怀乡病 
+      nostos "homecoming,"  +   "pain, grief, distress" (see -algia)
+      -algia 疼痛：
 ]]></trans>
     <phonetic><![CDATA[[nɔ'stældʒiə, nə-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>nostrum</word>
     <trans><![CDATA[n. 秘方；成药；万能药 
+        no
 ]]></trans>
     <phonetic><![CDATA[['nɔstrəm]]]></phonetic>
     <tags>GRE</tags>
@@ -27376,6 +27399,7 @@ adj. 非放射性
 </item><item>    <word>notable</word>
     <trans><![CDATA[n. 名人，显要人物 
 adj. 值得注意的，显著的；著名的 
+note
 ]]></trans>
     <phonetic><![CDATA[['nəutəbl]]]></phonetic>
     <tags>GRE</tags>
@@ -27383,54 +27407,70 @@ adj. 值得注意的，显著的；著名的
 </item><item>    <word>notch</word>
     <trans><![CDATA[n. 刻痕，凹口；等级；峡谷 
 vt. 赢得；用刻痕计算；在…上刻凹痕 
+niche n.  壁橱
 ]]></trans>
     <phonetic><![CDATA[[nɔtʃ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>notorious</word>
     <trans><![CDATA[adj. 声名狼藉的，臭名昭著的 
+        know
 ]]></trans>
     <phonetic><![CDATA[[nəu'tɔ:riəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>nourish</word>
     <trans><![CDATA[vt. 滋养；怀有；使健壮 
+        nutriment  ['nu·tri·ment || 'nuːtrɪmənt /'njuːt-]
+n.  营养物, 营养素, 食物
+'纽崔莱'
 ]]></trans>
     <phonetic><![CDATA[['nʌriʃ, 'nə:-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>nova</word>
     <trans><![CDATA[n. [天] 新星 
+        new + star
 ]]></trans>
     <phonetic><![CDATA[['nəuvə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>novelty</word>
     <trans><![CDATA[n. 新奇；新奇的事物；新颖小巧而廉价的物品 
+        novel  [nov·el || 'nɑvl /'nɒvl]
+n.  小说; 长篇故事
+adj.  新奇的, 异常的
+new
 ]]></trans>
     <phonetic><![CDATA[['nɔvəlti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>novice</word>
     <trans><![CDATA[n. 初学者，新手 
+        new
 ]]></trans>
     <phonetic><![CDATA[['nɔvis]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>noxious</word>
     <trans><![CDATA[adj. 有害的；有毒的；败坏道德的；讨厌的 
+        - "death" (see necro-).
+        necro- 或 necr-  死者：死尸；尸体：
 ]]></trans>
     <phonetic><![CDATA[['nɔkʃəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>nuance</word>
     <trans><![CDATA[n. 细微差别 
+        no
 ]]></trans>
     <phonetic><![CDATA[['nju:ɑ:ns, nju:'ɑ:ns]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>nubile</word>
     <trans><![CDATA[adj. 适婚的 
+        from stem of nubere "take as husband" (see nuptial)
+        nuptial  [nup·tial || 'nʌptʃəl] adj.  婚姻的, 婚礼的
 ]]></trans>
     <phonetic><![CDATA[['nju:bail, -bil]]]></phonetic>
     <tags>GRE</tags>
@@ -27453,18 +27493,25 @@ vi. 成核
     <trans><![CDATA[vt. 推进；用肘轻推；向…不停地唠叨 
 n. 推动；用肘轻推；没完没了抱怨的人 
 vi. 轻推；推进；唠叨 
+nag  [næg]
+v.  使烦恼; 不断地找...的岔子; 跟...纠缠不休; 困扰; 不断唠叨; 不断引起苦恼; 责骂不休
+n.  好唠叨的人#小马, 竞赛马, 驽马
 ]]></trans>
     <phonetic><![CDATA[[nʌdʒ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>nugatory</word>
     <trans><![CDATA[adj. 无价值的；琐碎的；无效的；无法律效力的 
+        nag  [næg]
+v.  使烦恼; 不断地找...的岔子; 跟...纠缠不休; 困扰; 不断唠叨; 不断引起苦恼; 责骂不休
+n.  好唠叨的人#小马, 竞赛马, 驽马
 ]]></trans>
     <phonetic><![CDATA[['nju:ɡətəri]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>nullify</word>
     <trans><![CDATA[vt. 使无效，作废；取消 
+        null
 ]]></trans>
     <phonetic><![CDATA[['nʌlifai]]]></phonetic>
     <tags>GRE</tags>
@@ -27472,18 +27519,29 @@ vi. 轻推；推进；唠叨
 </item><item>    <word>numb</word>
     <trans><![CDATA[adj. 麻木的；发愣的 
 vt. 使麻木；使发愣；使失去感觉 
+"to take, catch, grasp" (see nimble).
+nimble  [nim·ble || 'nɪmbl] adj.  敏捷的, 精明的, 伶俐的
+limb  [lɪm] n.  肢; 脚; 臂; 翼#边缘; 叶边; 刻度圈, 分度弧
 ]]></trans>
     <phonetic><![CDATA[[nʌm]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>numerous</word>
     <trans><![CDATA[adj. 许多的，很多的 
+        number
 ]]></trans>
     <phonetic><![CDATA[['nju:mərəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>numismatist</word>
     <trans><![CDATA[n. 钱币奖章收藏家 
+        numismatic  [nu·mis·mat·ic || ‚nuːmɪzmætɪk /‚njuːmɪz'mætɪk]
+adj.  货币的, 古币学的, 奖章的
+nem- "to divide, distribute, allot" (see nemesis). 
+nemesis  [nem·e·sis || 'nemɪsɪs]
+n.  正当的报应; 复仇者; 给以报应者; 必然使计划失败的人
+"to take," German nehmen; see nimble)
+nimble  敏捷的, 精明的, 伶俐的 limb
 ]]></trans>
     <phonetic><![CDATA[[nju:'mizmətist]]]></phonetic>
     <tags>GRE</tags>
@@ -27491,6 +27549,7 @@ vt. 使麻木；使发愣；使失去感觉
 </item><item>    <word>nurture</word>
     <trans><![CDATA[n. 养育；教养；营养物 
 vt. 养育；鼓励；培植 
+nursery  [nurs·er·y || 'nɜrsrɪ /'nɜːsrɪ] n.  托儿所, 温床, 苗圃
 ]]></trans>
     <phonetic><![CDATA[['nə:tʃə]]]></phonetic>
     <tags>GRE</tags>
@@ -27508,57 +27567,62 @@ adj. 营养的；滋养的
     <phonetic><![CDATA[[nju:'triʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
-</item><item>    <word>oafishness</word>
-    <trans><![CDATA[n. oafish的变形 
-]]></trans>
-    <phonetic><![CDATA[]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
 </item><item>    <word>oak</word>
     <trans><![CDATA[n. 橡树；橡木色；橡木家具 
 adj. 栎树的；栎木制的 
+no
 ]]></trans>
     <phonetic><![CDATA[[əuk]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>oasis</word>
     <trans><![CDATA[n. 绿洲；舒适的地方；令人宽慰的事物 
+        no
 ]]></trans>
     <phonetic><![CDATA[[əu'eisis, 'əuəsis]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>oath</word>
     <trans><![CDATA[n. 誓言，誓约；诅咒，咒骂 
+        vow
 ]]></trans>
     <phonetic><![CDATA[[əuθ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>obdurate</word>
     <trans><![CDATA[adj. 顽固的，执拗的；冷酷无情的 
+        from ob "against" (see ob-) + durare "harden, render hard," from durus "hard" (see endure). 
 ]]></trans>
     <phonetic><![CDATA[['ɔbdjurət]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>obedient</word>
     <trans><![CDATA[adj. 顺从的，服从的；孝顺的 
+        obey
 ]]></trans>
     <phonetic><![CDATA[[əu'bi:diənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>obeisance</word>
     <trans><![CDATA[n. 敬礼；尊敬 
+        obey
 ]]></trans>
     <phonetic><![CDATA[[əu'beisəns, -'bi:-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>obese</word>
     <trans><![CDATA[adj. 肥胖的，过胖的 
+        obesity  [əʊ'bɪːsətɪ] n.  肥胖; 肥大
+ from ob "over" (see ob-) + edere "eat" (see edible).
 ]]></trans>
     <phonetic><![CDATA[[əu'bi:s]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>obfuscate</word>
     <trans><![CDATA[vt. 使模糊；使迷乱；弄暗 
+         from ob "over" (see ob-) + fuscare "to make dark," from fuscus "dark" (see dusk).
+         dusk  [dʌsk] n.  薄暮, 黄昏, 傍晚
+         ask
 ]]></trans>
     <phonetic><![CDATA[[ɔb'fʌskeit, 'ɔbfʌskeit]]]></phonetic>
     <tags>GRE</tags>
@@ -27566,6 +27630,8 @@ adj. 栎树的；栎木制的
 </item><item>    <word>obituary</word>
     <trans><![CDATA[n. 讣告 
 adj. 讣告的；死亡的 
+obit  ['əʊbɪt /'ɒbɪt] n.  讣告; 忌辰
+from ob "to, toward" (see ob-) + it
 ]]></trans>
     <phonetic><![CDATA[[əu'bitjuəri, -tʃuə-]]]></phonetic>
     <tags>GRE</tags>
@@ -27585,12 +27651,18 @@ adj. 客观的；目标的；宾格的
     <progress>0</progress>
 </item><item>    <word>obligation</word>
     <trans><![CDATA[n. 义务；职责；债务 
+        oblige
+         from ob "to" (see ob-) + ligare "to bind," from PIE root *leig- "to bind" (see ligament)
+         ligament  [lig·a·ment || 'lɪgəmənt] n.  系带, 纽带; 韧带
 ]]></trans>
     <phonetic><![CDATA[[,ɔbli'ɡeiʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>obligatory</word>
     <trans><![CDATA[adj. 义务的；必须的；义不容辞的 
+        oblige
+         from ob "to" (see ob-) + ligare "to bind," from PIE root *leig- "to bind" (see ligament)
+         ligament  [lig·a·ment || 'lɪgəmənt] n.  系带, 纽带; 韧带
 ]]></trans>
     <phonetic><![CDATA[['ɔbliɡətəri, ɔb'liɡətɔ:ri, -təri]]]></phonetic>
     <tags>GRE</tags>
@@ -27598,6 +27670,8 @@ adj. 客观的；目标的；宾格的
 </item><item>    <word>oblige</word>
     <trans><![CDATA[vt. 迫使；强制；赐，施恩惠；责成 
 vi. 帮忙；施恩惠 
+         from ob "to" (see ob-) + ligare "to bind," from PIE root *leig- "to bind" (see ligament)
+         ligament  [lig·a·ment || 'lɪgəmənt] n.  系带, 纽带; 韧带
 ]]></trans>
     <phonetic><![CDATA[[ə'blaidʒ]]]></phonetic>
     <tags>GRE</tags>
@@ -27613,30 +27687,36 @@ adj. 乐于助人的；有礼貌的；体贴的；亲切的
     <trans><![CDATA[n. 倾斜物 
 adj. 斜的；不光明正大的 
 vi. 倾斜 
+from ob "against" (see ob-) + root of licinus "bent upward," from PIE root *lei- "to bend, be movable" (see limb (n.1)).
 ]]></trans>
     <phonetic><![CDATA[[ə'bli:k, ə'blaik]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>obliterate</word>
     <trans><![CDATA[vt. 消灭；涂去；冲刷；忘掉 
+        from ob "against" (see ob-) + littera (also litera) "letter, script" (see letter (n.))
 ]]></trans>
     <phonetic><![CDATA[[ə'blitəreit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>oblivious</word>
     <trans><![CDATA[adj. 遗忘的；健忘的；不注意的；不知道的 
+        from ob "over" (see ob-) + root of levis "smooth," from PIE *lei-w-, from root *(s)lei- "slime, slimy, sticky" (see slime (n.)).
+        slime  [slaɪm]  n.  软泥; 粘质物; 粘泥; 粘液 v.  用粘泥涂抹; 除去粘液; 用粘液覆盖
 ]]></trans>
     <phonetic><![CDATA[[ə'bliviəs, ɔ-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>obloquy</word>
     <trans><![CDATA[n. 毁谤；耻辱；漫骂 
+        from ob "against" (see ob-) + loqui "to speak," from PIE *tolk(w)- "to speak" (see locution). 
 ]]></trans>
     <phonetic><![CDATA[['ɔbləkwi]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>obnoxious</word>
     <trans><![CDATA[adj. 讨厌的；可憎的；不愉快的 
+         from ob "to, toward" (see ob-) + noxa "injury, hurt, damage entailing liability" (see noxious). 
 ]]></trans>
     <phonetic><![CDATA[[ɔb'nɔkʃəs]]]></phonetic>
     <tags>GRE</tags>
@@ -27644,30 +27724,36 @@ vi. 倾斜
 </item><item>    <word>obscure</word>
     <trans><![CDATA[adj. 模糊的；晦涩的；昏暗的 
 vt. 遮掩；使变暗；使难理解 
+" from ob "over" (see ob-) + -scurus "covered," from PIE *(s)keu- "to cover, conceal" (see sky).
 ]]></trans>
     <phonetic><![CDATA[[əb'skjuə, ɔb-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>obscurity</word>
     <trans><![CDATA[n. 朦胧；阴暗；晦涩；身份低微；不分明 
+        " from ob "over" (see ob-) + -scurus "covered," from PIE *(s)keu- "to cover, conceal" (see sky).
 ]]></trans>
     <phonetic><![CDATA[[əb'skjuriti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>obsequious</word>
     <trans><![CDATA[adj. 谄媚的；奉承的；顺从的 
+        from ob "after" (see ob-) + sequi "to follow" (see sequel).
 ]]></trans>
     <phonetic><![CDATA[[əb'si:kwiəs, ɔb-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>observatory</word>
     <trans><![CDATA[n. 天文台；气象台；瞭望台 
+        from ob "over" (see ob-) + servare "to watch, keep safe,from PIE root *ser- "to protect.
+        conserve  [con·serve || kən'sɜːv] v.  保存; 保藏
 ]]></trans>
     <phonetic><![CDATA[[əb'zə:vitəri, ɔb-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>obsess</word>
     <trans><![CDATA[vt. 迷住，缠住；使…着迷；使…困扰 
+         from ob "against" (see ob-) + sedere "sit" (see sedentary).
 ]]></trans>
     <phonetic><![CDATA[[ɔb'ses]]]></phonetic>
     <tags>GRE</tags>
@@ -27676,30 +27762,37 @@ vt. 遮掩；使变暗；使难理解
     <trans><![CDATA[n. 废词；陈腐的人 
 adj. 废弃的；老式的 
 vt. 淘汰；废弃 
+from ob "away" (see ob-) + an expanded form of solere "to be used to, be accustomed" (see insolent).
+insolent  ['in·so·lent || 'ɪnsələnt] adj.  粗野的, 侮慢的, 无礼的
+accustom  [ac·cus·tom || ə'kʌstəm] v.  使习惯于
 ]]></trans>
     <phonetic><![CDATA[['ɔbsəli:t, ,ɔbsə'li:t]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>obstacle</word>
     <trans><![CDATA[n. 障碍，干扰；妨害物 
+        from ob "against" (see ob-) + stare "to stand," from PIE root *sta- "to stand" (see stet).
 ]]></trans>
     <phonetic><![CDATA[['ɔbstəkl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>obstinacy</word>
     <trans><![CDATA[n. 固执，顽固；（病痛等的）难治，难解除 
+         from ob "by" (see ob-) + stinare (related to stare "stand") from PIE *ste-no-, from root *sta- "to stand" (see stet).
 ]]></trans>
     <phonetic><![CDATA[['ɔbstinəsi]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>obstinate</word>
     <trans><![CDATA[adj. 顽固的；倔强的；难以控制的 
+         from ob "by" (see ob-) + stinare (related to stare "stand") from PIE *ste-no-, from root *sta- "to stand" (see stet).
 ]]></trans>
     <phonetic><![CDATA[['ɔbstinit, -nət]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>obstreperous</word>
     <trans><![CDATA[adj. 吵闹的，喧嚣的；难驾驭的 
+         from ob "against" (see ob-) + strepere "make a noise,"
 ]]></trans>
     <phonetic><![CDATA[[əb'strepərəs]]]></phonetic>
     <tags>GRE</tags>
@@ -27707,18 +27800,22 @@ vt. 淘汰；废弃
 </item><item>    <word>obstruct</word>
     <trans><![CDATA[vt. 妨碍；阻塞；遮断 
 vi. 阻塞；设障碍 
+from ob "against" (see ob-) + struere "to pile, build" (see structure (n.)).
 ]]></trans>
     <phonetic><![CDATA[[əb'strʌkt, ɔb-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>obtainable</word>
     <trans><![CDATA[adj. 能得到的 
+         from obtain + -able. 
+          from ob "to" 
 ]]></trans>
     <phonetic><![CDATA[[əb'teinəbl, ɔb-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>obtuse</word>
     <trans><![CDATA[adj. 迟钝的；圆头的；不锋利的 
+        ob + t + use
 ]]></trans>
     <phonetic><![CDATA[[əb'tju:s, ɔb-]]]></phonetic>
     <tags>GRE</tags>
@@ -27732,6 +27829,7 @@ adj. 正面的；[植] 倒转的；对应面的
     <progress>0</progress>
 </item><item>    <word>obviate</word>
     <trans><![CDATA[vt. 排除；避免；消除 
+         obvious
 ]]></trans>
     <phonetic><![CDATA[['ɔbvieit]]]></phonetic>
     <tags>GRE</tags>
@@ -27745,6 +27843,7 @@ adj. 正面的；[植] 倒转的；对应面的
 </item><item>    <word>occlude</word>
     <trans><![CDATA[vt. 使闭塞；封闭；挡住 
 vi. 咬合 
+ from ob "against, up" (see ob-) + claudere "to shut, close" (see close (v.)).
 ]]></trans>
     <phonetic><![CDATA[[ə'klu:d, ɔ-]]]></phonetic>
     <tags>GRE</tags>
@@ -27752,20 +27851,22 @@ vi. 咬合
 </item><item>    <word>occult</word>
     <trans><![CDATA[n. 神秘学 
 adj. 神秘的；超自然的；难以理解的 
-vt. 掩蔽 
-vi. 被掩蔽 
+vt. 掩蔽  vi. 被掩蔽 
+ from ob "over" (see ob-) + a verb related to celare "to hide," from PIE root *kel- "to hide" (see cell). 
 ]]></trans>
     <phonetic><![CDATA[['ɔkʌlt, ɔ'kʌlt, ə-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>occupation</word>
     <trans><![CDATA[n. 职业；占有；消遣；占有期 
+        occupy
 ]]></trans>
     <phonetic><![CDATA[[,ɔkju'peiʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>occurrence</word>
     <trans><![CDATA[n. 发生；出现；事件；发现 
+        occur
 ]]></trans>
     <phonetic><![CDATA[[ə'kə:rəns, -'kʌ-]]]></phonetic>
     <tags>GRE</tags>
@@ -27773,49 +27874,52 @@ vi. 被掩蔽
 </item><item>    <word>octogenarian</word>
     <trans><![CDATA[n. 八十岁到八十九岁的人 
 adj. 八十岁到八十九岁的 
+ from octo "eight" (see eight) + -genaria "ten times,
 ]]></trans>
     <phonetic><![CDATA[[,ɔktədʒi'nεəriən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>odds</word>
     <trans><![CDATA[n. 几率；胜算；不平等；差别 
+        odd
 ]]></trans>
     <phonetic><![CDATA[[ɔdz]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>ode</word>
     <trans><![CDATA[n. 赋；颂歌；颂诗 
+        no
 ]]></trans>
     <phonetic><![CDATA[[əud]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>odious</word>
     <trans><![CDATA[adj. 可憎的；讨厌的 
+        ode 赋；颂歌；颂诗 
+         odium  ['o·di·um || 'əʊdɪəm] n.  憎恶, 恶评, 讨厌
 ]]></trans>
     <phonetic><![CDATA[['əudiəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>odium</word>
     <trans><![CDATA[n. 憎恶；讨厌 
+        ode 赋；颂歌；颂诗 
 ]]></trans>
     <phonetic><![CDATA[['əudiəm]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>odometer</word>
     <trans><![CDATA[n. （汽车的）里程表，[车辆] 里程计 
+        from Greek hodos "way" (see cede) + -meter.
+        cede  [siːd] v.  放弃
 ]]></trans>
     <phonetic><![CDATA[[əu'dɔmitə]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
-</item><item>    <word>odyssey</word>
-    <trans><![CDATA[n. 奥德赛（古希腊史诗） 
-]]></trans>
-    <phonetic><![CDATA[['ɔdisi]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>offend</word>
     <trans><![CDATA[vt. 冒犯；使…不愉快 
 vi. 违反；进攻；引起不舒服 
+from ob "against" (see ob-) + -fendere "to strike" (found only in compounds; see defend). 
 ]]></trans>
     <phonetic><![CDATA[[ə'fend]]]></phonetic>
     <tags>GRE</tags>
