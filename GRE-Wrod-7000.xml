@@ -30192,18 +30192,24 @@ pharmacy  [phar·ma·cy || 'fɑrməsɪ /'fɑː-] n.  药房, 配药学
     <progress>0</progress>
 </item><item>    <word>philanthropic</word>
     <trans><![CDATA[adj. 博爱的；仁慈的 
+         from phil- "loving" (see philo-) + anthropos "mankind" (see anthropo-). 
+         mankind  [man·kind || mæn'kaɪnd] n.  人类, 男性
+         anthropo-  人，人类：
 ]]></trans>
     <phonetic><![CDATA[[,filən'θrɔpik]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>philatelist</word>
     <trans><![CDATA[n. 集邮家 
+        from Greek phil- "loving" (see philo-) + ateleia "exemption from tax," 
+        no
 ]]></trans>
     <phonetic><![CDATA[[fi'lætəlist]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>philately</word>
     <trans><![CDATA[n. 集邮；集邮者 
+         from Greek phil- "loving" (see philo-) + ateleia "exemption from tax," 
 ]]></trans>
     <phonetic><![CDATA[[fi'lætəli]]]></phonetic>
     <tags>GRE</tags>
@@ -30211,36 +30217,44 @@ pharmacy  [phar·ma·cy || 'fɑrməsɪ /'fɑː-] n.  药房, 配药学
 </item><item>    <word>philistine</word>
     <trans><![CDATA[n. 俗气的人；-仇敌；门外汉 
 adj. 俗气的；无教养的；腓力斯人的 
+非利士人
 ]]></trans>
     <phonetic><![CDATA[['filistain; fi'listin]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>phlegmatic</word>
     <trans><![CDATA[adj. 冷淡的；迟钝的；冷漠的 
+        phlegm  [flem] n.  痰, 粘液质, 粘液
 ]]></trans>
     <phonetic><![CDATA[[fleɡ'mætik]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>phoenix</word>
     <trans><![CDATA[n. 凤凰；死而复生的人 
+        no
 ]]></trans>
     <phonetic><![CDATA[['fi:niks]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>phonetic</word>
     <trans><![CDATA[adj. 语音的，语音学的；音形一致的；发音有细微区别的 
+         from phone "sound, voice" (see fame (n.)).
+        phone
 ]]></trans>
     <phonetic><![CDATA[[fəu'netik]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>photosynthesis</word>
     <trans><![CDATA[n. 光合作用 
+        　　　synthetic 合成的
+　　　synthesis
 ]]></trans>
     <phonetic><![CDATA[[,fəutə'sinθəsis]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>physiological</word>
     <trans><![CDATA[adj. 生理学的，生理的 
+        from physio- "nature" (see physio-) + logia "study" (see -logy).
 ]]></trans>
     <phonetic><![CDATA[[,fiziə'lɔdʒikəl]]]></phonetic>
     <tags>GRE</tags>
@@ -30254,6 +30268,7 @@ adj. 俗气的；无教养的；腓力斯人的
 </item><item>    <word>pictorial</word>
     <trans><![CDATA[n. 画报；画刊 
 adj. 绘画的；形象化的 
+" from pictor "painter,
 ]]></trans>
     <phonetic><![CDATA[[pik'tɔ:riəl]]]></phonetic>
     <tags>GRE</tags>
@@ -30261,12 +30276,14 @@ adj. 绘画的；形象化的
 </item><item>    <word>piddling</word>
     <trans><![CDATA[adj. 琐屑的；无用的；不重要的 
 v. 撒尿；鬼混（piddle的ing形式） 
+piddle  [pid·dle || 'pɪdl] v.  浪费; 撒尿, 游荡, 鬼混
 ]]></trans>
     <phonetic><![CDATA[['pidliŋ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pied</word>
     <trans><![CDATA[adj. 杂色的；斑驳的；穿花衣服的 
+pie
 ]]></trans>
     <phonetic><![CDATA[['paid]]]></phonetic>
     <tags>GRE</tags>
@@ -30274,6 +30291,7 @@ v. 撒尿；鬼混（piddle的ing形式）
 </item><item>    <word>pierce</word>
     <trans><![CDATA[vt. 刺穿；洞察；响彻；深深地打动 
 vi. 进入；透入 
+ per- "through" (see per) + tundere "to beat, 
 ]]></trans>
     <phonetic><![CDATA[[piəs]]]></phonetic>
     <tags>GRE</tags>
@@ -30282,14 +30300,17 @@ vi. 进入；透入
     <trans><![CDATA[n. 熔化穿孔 
 v. 刺穿；感动；洞察（pierce的ing形式） 
 adj. 刺穿的；敏锐的；尖刻的；打动人心的 
+ per- "through" (see per) + tundere "to beat, 
 ]]></trans>
     <phonetic><![CDATA[['piəsiŋ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pigment</word>
     <trans><![CDATA[n. [物][生化] 色素；颜料 
-vt. 给…着色 
-vi. 呈现颜色 
+vt. 给…着色 vi. 呈现颜色 
+paint
+ dict-   lect-    pict-
+ dig-    leg-    pigment 颜料，染料
 ]]></trans>
     <phonetic><![CDATA[['piɡmənt]]]></phonetic>
     <tags>GRE</tags>
@@ -30297,6 +30318,7 @@ vi. 呈现颜色
 </item><item>    <word>pilgrim</word>
     <trans><![CDATA[n. 朝圣者；漫游者；（美）最初的移民 
 vi. 去朝圣；漫游 
+ from per- "beyond" + agri, locative case of ager "country" (see acre). 
 ]]></trans>
     <phonetic><![CDATA[['pilɡrim]]]></phonetic>
     <tags>GRE</tags>
@@ -30311,6 +30333,7 @@ vt. 用柱支持
 </item><item>    <word>pillory</word>
     <trans><![CDATA[n. 示众；颈手枷；使惹人嘲笑 
 vt. 给…上颈手枷；使…惹人嘲笑 
+pillar n. 柱子，柱形物；栋梁；墩 
 ]]></trans>
     <phonetic><![CDATA[['piləri]]]></phonetic>
     <tags>GRE</tags>
@@ -30319,6 +30342,7 @@ vt. 给…上颈手枷；使…惹人嘲笑
     <trans><![CDATA[n. 飞行员；领航员 
 adj. 试点的 
 v. 驾驶；领航；试用 
+no
 ]]></trans>
     <phonetic><![CDATA[['pailət]]]></phonetic>
     <tags>GRE</tags>
@@ -30336,6 +30360,10 @@ vi. 夹痛；节省
 adj. 松木的；似松的 
 vt. 为…悲哀；哀悼 
 vi. 渴望，痛苦；憔悴 
+pinch  匮乏；少量；夹痛 
+spear 矛
+ pierce 刺
+ pine
 ]]></trans>
     <phonetic><![CDATA[[pain]]]></phonetic>
     <tags>GRE</tags>
@@ -30343,6 +30371,7 @@ vi. 渴望，痛苦；憔悴
 </item><item>    <word>pinnacle</word>
     <trans><![CDATA[n. 高峰；小尖塔；尖峰；极点 
 vt. 造小尖塔；置于尖顶上；置于高处 
+pin
 ]]></trans>
     <phonetic><![CDATA[['pinəkl]]]></phonetic>
     <tags>GRE</tags>
@@ -30357,12 +30386,14 @@ adj. 精确的；详尽的
     <progress>0</progress>
 </item><item>    <word>pious</word>
     <trans><![CDATA[adj. 虔诚的；敬神的；可嘉的；尽责的 
+        pure
 ]]></trans>
     <phonetic><![CDATA[['paiəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>piquant</word>
     <trans><![CDATA[adj. 辛辣的；活泼的；痛快的；顽皮的；刺激的 
+        pike  [paɪk] n.  长矛, 长枪; 矛头, 箭头; 尖端, 尖头#狗鱼; 类似狗鱼的鱼#收费道路; 公路
 ]]></trans>
     <phonetic><![CDATA[['pi:kənt, pi-]]]></phonetic>
     <tags>GRE</tags>
@@ -30370,6 +30401,7 @@ adj. 精确的；详尽的
 </item><item>    <word>pique</word>
     <trans><![CDATA[n. 生气；愠怒；呕气 
 vt. 刺激；伤害…自尊心；激怒 
+pike  [paɪk] n.  长矛, 长枪; 矛头, 箭头; 尖端, 尖头#狗鱼; 类似狗鱼的鱼#收费道路; 公路
 ]]></trans>
     <phonetic><![CDATA[[pi:k]]]></phonetic>
     <tags>GRE</tags>
@@ -30378,6 +30410,7 @@ vt. 刺激；伤害…自尊心；激怒
     <trans><![CDATA[n. 海盗；盗版；侵犯专利权者 
 vt. 掠夺；翻印；剽窃 
 vi. 做海盗；从事劫掠 
+no
 ]]></trans>
     <phonetic><![CDATA[['paiərit]]]></phonetic>
     <tags>GRE</tags>
@@ -30385,6 +30418,8 @@ vi. 做海盗；从事劫掠
 </item><item>    <word>pirouette</word>
     <trans><![CDATA[n. （芭蕾舞）脚尖旋转 
 vi. （芭蕾舞）以脚尖旋转 
+rom Gallo-Romance root *pir- "peg(钉; 桩; 栓; 衣夹
+), plug" (cf. Italian piruolo "peg top") + diminutive suffix -ette.
 ]]></trans>
     <phonetic><![CDATA[[,piru'et]]]></phonetic>
     <tags>GRE</tags>
@@ -30392,6 +30427,7 @@ vi. （芭蕾舞）以脚尖旋转
 </item><item>    <word>pistol</word>
     <trans><![CDATA[n. 手枪；信号枪 
 vt. 用手枪射击 
+no
 ]]></trans>
     <phonetic><![CDATA[['pistl]]]></phonetic>
     <tags>GRE</tags>
@@ -30400,18 +30436,23 @@ vt. 用手枪射击
     <trans><![CDATA[n. 沥青；音高；程度；树脂；倾斜；投掷 
 vt. 投；掷；定位于；用沥青涂；扎营；向前倾跌 
 vi. 倾斜；投掷；搭帐篷；坠落 
+no
 ]]></trans>
     <phonetic><![CDATA[[pitʃ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pitcher</word>
     <trans><![CDATA[n. 投手；大水罐 
+        pitch vt. 投；掷； n. 沥青；音高；
 ]]></trans>
     <phonetic><![CDATA[['pitʃə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pitfall</word>
     <trans><![CDATA[n. 陷阱，圈套；缺陷；诱惑 
+         from pit (n.1) + fall (n.). 
+         pit  [pɪt]
+n.  洼坑, 凹处; 矿坑, 煤矿; 地窖; 窑#果核 
 ]]></trans>
     <phonetic><![CDATA[['pitfɔ:l]]]></phonetic>
     <tags>GRE</tags>
@@ -30419,54 +30460,64 @@ vi. 倾斜；投掷；搭帐篷；坠落
 </item><item>    <word>pith</word>
     <trans><![CDATA[n. 精髓；核心；骨髓；要旨 
 vt. 杀死；使瘫痪；除去…中的髓 
+no
 ]]></trans>
     <phonetic><![CDATA[[piθ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pithiness</word>
     <trans><![CDATA[n. 简洁；有力 
+        pith n. 精髓；核心；骨髓；要旨 
 ]]></trans>
     <phonetic><![CDATA[['piθinis]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pithy</word>
     <trans><![CDATA[adj. 有髓的，多髓的；精练的；简洁有力的 
+        pith n. 精髓；核心；骨髓；要旨 
 ]]></trans>
     <phonetic><![CDATA[['piθi]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pitiful</word>
     <trans><![CDATA[adj. 可怜的，令人同情的 
+        pity
 ]]></trans>
     <phonetic><![CDATA[['pitiful]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pittance</word>
     <trans><![CDATA[n. 少量；小额施舍；少量津贴 
+        pity
 ]]></trans>
     <phonetic><![CDATA[['pitəns]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>placate</word>
     <trans><![CDATA[vt. 抚慰；怀柔；使和解 
+        please
 ]]></trans>
     <phonetic><![CDATA[[plə'keit, 'pleikeit, 'plæ-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>placebo</word>
     <trans><![CDATA[n. 安慰剂；为死者所诵的晚祷词 
+        please
 ]]></trans>
     <phonetic><![CDATA[[plə'si:bəu]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>placid</word>
     <trans><![CDATA[adj. 平静的；温和的；沉着的 
+        please
 ]]></trans>
     <phonetic><![CDATA[['plæsid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>plagiarism</word>
     <trans><![CDATA[n. 剽窃；剽窃物 
+         from -ism + plagiary (n.) "plagiarist, literary thief"
+         no
 ]]></trans>
     <phonetic><![CDATA[['pleidʒjərizəm]]]></phonetic>
     <tags>GRE</tags>
@@ -30481,6 +30532,7 @@ vi. 剽窃；抄袭
 </item><item>    <word>plague</word>
     <trans><![CDATA[n. 瘟疫；灾祸；麻烦；讨厌的人 
 vt. 折磨；使苦恼；使得灾祸 
+no
 ]]></trans>
     <phonetic><![CDATA[[pleiɡ]]]></phonetic>
     <tags>GRE</tags>
@@ -30495,12 +30547,15 @@ adv. 清楚地；平易地
     <progress>0</progress>
 </item><item>    <word>plaintiff</word>
     <trans><![CDATA[n. 原告 
+        plaint  [pleɪnt] n.  悲叹; 起诉; 诉苦; 起诉状
+        pain
 ]]></trans>
     <phonetic><![CDATA[['pleintif]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>plaintive</word>
     <trans><![CDATA[adj. 哀伤的；悲哀的 
+        pain
 ]]></trans>
     <phonetic><![CDATA[['pleintiv]]]></phonetic>
     <tags>GRE</tags>
@@ -30508,6 +30563,10 @@ adv. 清楚地；平易地
 </item><item>    <word>plait</word>
     <trans><![CDATA[n. 褶；辫状物 
 vt. 编织；把…编成辫（等于pleat）；给…打褶 
+to lay, fold, twist" (see ply (v.1)).
+ply  [plaɪ]
+n.  一层; 胶合板; 一股; 倾向
+v.  将...胶合; 不断使用; 不断问; 不断给; 不断做; 不断地工作; 定期往返
 ]]></trans>
     <phonetic><![CDATA[[plæt, pleit]]]></phonetic>
     <tags>GRE</tags>
@@ -30523,12 +30582,16 @@ vi. 刨；乘飞机旅行；翱翔
     <progress>0</progress>
 </item><item>    <word>plangent</word>
     <trans><![CDATA[adj. 轰鸣的；凄切的 
+        beating with a loud sound,
+        plague  [pleɪg] n.  瘟疫, 灾祸, 麻烦 v.  折磨, 使得灾祸, 使苦恼
 ]]></trans>
     <phonetic><![CDATA[['plændʒənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>plankton</word>
     <trans><![CDATA[n. 浮游生物（总称） 
+        to wander, drift," from plazein "to drive astray,"
+         plague  [pleɪg] n.  瘟疫, 灾祸, 麻烦 v.  折磨, 使得灾祸, 使苦恼
 ]]></trans>
     <phonetic><![CDATA[['plæŋktən]]]></phonetic>
     <tags>GRE</tags>
@@ -30536,6 +30599,7 @@ vi. 刨；乘飞机旅行；翱翔
 </item><item>    <word>plaster</word>
     <trans><![CDATA[n. 石膏；灰泥；膏药 
 vt. 减轻；粘贴；涂以灰泥；敷以膏药；使平服 
+no
 ]]></trans>
     <phonetic><![CDATA[['plɑ:stə, 'plæs-]]]></phonetic>
     <tags>GRE</tags>
@@ -30543,30 +30607,36 @@ vt. 减轻；粘贴；涂以灰泥；敷以膏药；使平服
 </item><item>    <word>plateau</word>
     <trans><![CDATA[n. 高原；稳定水平；托盘；平顶女帽 
 vi. 达到平衡；达到稳定时期 
+plain  [pleɪn]
+n.  平原, 草原 adj.  简单的, 平常的, 明白的 adv.  清楚地
 ]]></trans>
     <phonetic><![CDATA[['plætəu, plæ't-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>platitude</word>
     <trans><![CDATA[n. 陈词滥调；平凡；陈腐 
+        plateau  [pla·teau || plæ'təʊ /'plætəʊ] n.  高地, 高原
 ]]></trans>
     <phonetic><![CDATA[['plætitju:d]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>platonic</word>
     <trans><![CDATA[adj. 理想的；柏拉图哲学的；不切实际的；纯精神友谊的 
+        '帕拉图'
 ]]></trans>
     <phonetic><![CDATA[[plə'tɔnik, plei-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>plaudit</word>
     <trans><![CDATA[n. 喝彩；赞美 
+         applaud, explode
 ]]></trans>
     <phonetic><![CDATA[['plɔ:dit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>plausible</word>
     <trans><![CDATA[adj. 貌似可信的，花言巧语的；貌似真实的，貌似有理的 
+        plaudit 喝彩；赞美 
 ]]></trans>
     <phonetic><![CDATA[['plɔ:zəble]]]></phonetic>
     <tags>GRE</tags>
@@ -30574,6 +30644,8 @@ vi. 达到平衡；达到稳定时期
 </item><item>    <word>plead</word>
     <trans><![CDATA[vt. 借口；为...辩护；托称 
 vi. 恳求；辩护 
+plea  [plɪː] n.  恳求, 辩解, 请求
+please
 ]]></trans>
     <phonetic><![CDATA[[pli:d]]]></phonetic>
     <tags>GRE</tags>
@@ -30581,6 +30653,8 @@ vi. 恳求；辩护
 </item><item>    <word>pleat</word>
     <trans><![CDATA[n. 褶；褶状物 
 vt. 使…打褶 
+plait  [pleɪt /plæt] n.  褶, 麦秆条带, 辫子 v.  在打褶; 编织, 编成; 把...编成辫子
+ ply
 ]]></trans>
     <phonetic><![CDATA[[pli:t]]]></phonetic>
     <tags>GRE</tags>
@@ -30588,24 +30662,29 @@ vt. 使…打褶
 </item><item>    <word>pledge</word>
     <trans><![CDATA[n. 保证，誓言；抵押；抵押品，典当物 
 vt. 保证，许诺；用……抵押；举杯祝……健康 
+no
 ]]></trans>
     <phonetic><![CDATA[[pledʒ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>plenitude</word>
     <trans><![CDATA[n. 充分；丰富；大量 
+        from plenus "complete, full" (see plenary).
+        from PIE *pele- (1) "to fill" (see poly-).
 ]]></trans>
     <phonetic><![CDATA[['plenitju:d]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>plethora</word>
     <trans><![CDATA[n. 过多；过剩；[医] 多血症 
+pleo- 或 pleio-  或 plio-  更多：
 ]]></trans>
     <phonetic><![CDATA[['pleθərə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pliable</word>
-    <trans><![CDATA[adj. 柔韧的；柔软的；圆滑的；易曲折的 
+    <trans><![CDATA[adj. 柔韧的；柔软的；圆滑的；易曲折的
+    ply  [plaɪ] n.  一层; 胶合板; 一股; 倾向 
 ]]></trans>
     <phonetic><![CDATA[['plaiəbl]]]></phonetic>
     <tags>GRE</tags>
@@ -30613,6 +30692,7 @@ vt. 保证，许诺；用……抵押；举杯祝……健康
 </item><item>    <word>pliant</word>
     <trans><![CDATA[n. 顺从 
 adj. 顺从的；易弯的；易受影响的；能适应的 
+ ply  [plaɪ] n.  一层; 胶合板; 一股; 倾向 
 ]]></trans>
     <phonetic><![CDATA[['plaiənt]]]></phonetic>
     <tags>GRE</tags>
@@ -30620,12 +30700,14 @@ adj. 顺从的；易弯的；易受影响的；能适应的
 </item><item>    <word>plight</word>
     <trans><![CDATA[n. 困境；境况；誓约 
 vt. 保证；约定 
+ply  [plaɪ] n.  一层; 胶合板; 一股; 倾向 
 ]]></trans>
     <phonetic><![CDATA[[plait]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>plinth</word>
     <trans><![CDATA[n. 柱基；底座 
+        no
 ]]></trans>
     <phonetic><![CDATA[[plinθ]]]></phonetic>
     <tags>GRE</tags>
@@ -30634,6 +30716,7 @@ vt. 保证；约定
     <trans><![CDATA[vt. 沉重缓慢地走 
 vi. 辛勤工作；沉重地走 
 n. 辛勤工作；沉重的步伐 
+no
 ]]></trans>
     <phonetic><![CDATA[[plɔd]]]></phonetic>
     <tags>GRE</tags>
@@ -30650,6 +30733,7 @@ vi. 密谋；策划；绘制
     <trans><![CDATA[n. 犁；耕地（等于plow） 
 vi. 用犁耕田；开路 
 vt. 犁；耕 
+plow  [plaʊ] n.  犁; 除雪机, 铲雪机; 似犁的工具; 北斗七星
 ]]></trans>
     <phonetic><![CDATA[[plau]]]></phonetic>
     <tags>GRE</tags>
@@ -30658,14 +30742,15 @@ vt. 犁；耕
     <trans><![CDATA[n. 策略；活动；工作 
 vt. 使部队由横队变为纵队 
 vi. 由横队变为纵队 
+deploy  [de·ploy || dɪ'plɔɪ] v.  使展开; 使疏开; 展开; 部署
 ]]></trans>
     <phonetic><![CDATA[[plɔi]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pluck</word>
     <trans><![CDATA[n. 勇气；内脏；快而猛的拉 
-vt. 摘；拔；扯 
-vi. 拉；拽；扯 
+vt. 摘；拔；扯 vi. 拉；拽；扯 
+block 勇气是大块头
 ]]></trans>
     <phonetic><![CDATA[[plʌk]]]></phonetic>
     <tags>GRE</tags>
@@ -30676,12 +30761,14 @@ adj. 垂直的
 vt. 使垂直；探测，探索 
 adv. 恰恰，正；垂直地 
 vi. 当管子工 
+no
 ]]></trans>
     <phonetic><![CDATA[[plʌm]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>plumber</word>
     <trans><![CDATA[n. 水管工；堵漏人员 
+        plumb  垂直；铅锤  当管子工 
 ]]></trans>
     <phonetic><![CDATA[['plʌmə]]]></phonetic>
     <tags>GRE</tags>
@@ -30690,6 +30777,7 @@ vi. 当管子工
     <trans><![CDATA[n. 羽毛 
 vt. 用羽毛装饰 
 vi. 骚首弄姿 
+no
 ]]></trans>
     <phonetic><![CDATA[[plu:m]]]></phonetic>
     <tags>GRE</tags>
@@ -30697,6 +30785,7 @@ vi. 骚首弄姿
 </item><item>    <word>plummet</word>
     <trans><![CDATA[n. [测] 铅锤，坠子 
 vi. 垂直落下 
+ plumb  垂直；铅锤  当管子工 
 ]]></trans>
     <phonetic><![CDATA[['plʌmit]]]></phonetic>
     <tags>GRE</tags>
@@ -30705,6 +30794,7 @@ vi. 垂直落下
     <trans><![CDATA[n. 抢夺；战利品；掠夺品 
 vt. 掠夺；抢劫；侵吞 
 vi. 掠夺；盗窃 
+no
 ]]></trans>
     <phonetic><![CDATA[['plʌndə]]]></phonetic>
     <tags>GRE</tags>
@@ -30713,6 +30803,7 @@ vi. 掠夺；盗窃
     <trans><![CDATA[n. 投入；跳进 
 vt. 使陷入；使投入；使插入 
 vi. 投入；陷入；跳进 
+plumb  垂直；铅锤  当管子工 
 ]]></trans>
     <phonetic><![CDATA[[plʌndʒ]]]></phonetic>
     <tags>GRE</tags>
@@ -30720,12 +30811,14 @@ vi. 投入；陷入；跳进
 </item><item>    <word>plush</word>
     <trans><![CDATA[adj. 豪华的；长毛绒做的；舒服的 
 n. 长毛绒 
+no
 ]]></trans>
     <phonetic><![CDATA[[plʌʃ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>plutocracy</word>
     <trans><![CDATA[n. 富豪统治，富豪统治集团 
+        plush  豪华的；长毛绒做的；舒服的 
 ]]></trans>
     <phonetic><![CDATA[[plu:'tɔkrəsi]]]></phonetic>
     <tags>GRE</tags>
@@ -30740,18 +30833,23 @@ vi. 结豆荚
     <progress>0</progress>
 </item><item>    <word>podiatrist</word>
     <trans><![CDATA[n. 足病医生 
+  pod-, stem of pous "foot" (see foot (n.))+ iatreia "healing," from iatros "physician" (see -iatric). 
+  iatric  adj.  医师的; 医疗的; 医药的
 ]]></trans>
     <phonetic><![CDATA[[pəu'di:ətrist]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>podium</word>
     <trans><![CDATA[n. 乐队指挥台；矮墙；墩座墙 
+         pod-, stem of pous "foot"
 ]]></trans>
     <phonetic><![CDATA[['pəudjəm]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>poignant</word>
     <trans><![CDATA[adj. 尖锐的；辛酸的；深刻的；切中要害的 
+        pungent  ['pun·gent || 'pʌdʒənt]
+adj.  苦痛的, 严厉的, 刺激性的
 ]]></trans>
     <phonetic><![CDATA[['pɔinjənt, 'pɔiɡnənt]]]></phonetic>
     <tags>GRE</tags>
@@ -30760,12 +30858,16 @@ vi. 结豆荚
     <trans><![CDATA[n. 平衡；姿势；镇静 
 vi. 平衡；准备好；悬着 
 vt. 使平衡；保持...姿势 
+pose
 ]]></trans>
     <phonetic><![CDATA[[pɔiz]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>poisonous</word>
     <trans><![CDATA[adj. 有毒的；恶毒的；讨厌的 
+        poison  [poi·son || 'pɔɪzn]
+n.  毒药, 毒害, 败坏道德之事
+v.  毒害, 败坏, 毒杀
 ]]></trans>
     <phonetic><![CDATA[['pɔizənəs]]]></phonetic>
     <tags>GRE</tags>
@@ -30774,6 +30876,7 @@ vt. 使平衡；保持...姿势
     <trans><![CDATA[n. 戳；刺；袋子；懒汉 
 vt. 刺，捅；戳；拨开 
 vi. 刺，捅；戳；伸出；刺探；闲荡 
+no
 ]]></trans>
     <phonetic><![CDATA[[pəuk]]]></phonetic>
     <tags>GRE</tags>
@@ -30781,12 +30884,18 @@ vi. 刺，捅；戳；伸出；刺探；闲荡
 </item><item>    <word>polar</word>
     <trans><![CDATA[n. 极面；极线 
 adj. 极地的；两极的；正好相反的 
+pole  [pəʊl] n.  极; 电极; 地极区域, 极地; 磁极#杆; 竿; 柱
+pale  [peɪl]
+n.  尖板条, 尖桩; 围起的地方, 围场; 界限, 范围; 管区, 辖区
+v.  用栅栏把...围起来; 使苍白, 使黯淡; 变苍白; 显得逊色; 变黯淡; 相形见绌
+adj.  苍白的, 灰白的; 微弱的, 暗淡的; 淡的
 ]]></trans>
     <phonetic><![CDATA[['pəulə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>polarity</word>
     <trans><![CDATA[n. [物] 极性；两极；对立 
+        polar
 ]]></trans>
     <phonetic><![CDATA[[pəu'lærəti]]]></phonetic>
     <tags>GRE</tags>
@@ -30794,6 +30903,7 @@ adj. 极地的；两极的；正好相反的
 </item><item>    <word>polarize</word>
     <trans><![CDATA[vt. （使）极化；（使）偏振；（使）两极分化 
 vi. 极化；偏振；两极分化 
+polar
 ]]></trans>
     <phonetic><![CDATA[['pəuləraiz]]]></phonetic>
     <tags>GRE</tags>
@@ -30801,12 +30911,14 @@ vi. 极化；偏振；两极分化
 </item><item>    <word>polemic</word>
     <trans><![CDATA[n. 争论；辩论者 
 adj. 好争论的 
+pole  [pəʊl] n.  极; 电极; 地极区域, 极地; 磁极#杆; 竿; 柱
 ]]></trans>
     <phonetic><![CDATA[[pɔ'lemik, pə-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>polemical</word>
     <trans><![CDATA[adj. 好辩的；好争论的；挑起论战的 
+        pole  [pəʊl] n.  极; 电极; 地极区域, 极地; 磁极#杆; 竿; 柱
 ]]></trans>
     <phonetic><![CDATA[[pə'lemikəl]]]></phonetic>
     <tags>GRE</tags>
@@ -30825,6 +30937,7 @@ vi. 擦亮，变光滑
 adj. 无角的；剪过毛的；修过枝的 
 vt. 投票；剪短；对…进行民意测验；获得选票 
 vi. 投票 
+people 人民
 ]]></trans>
     <phonetic><![CDATA[[pəul]]]></phonetic>
     <tags>GRE</tags>
@@ -30832,36 +30945,44 @@ vi. 投票
 </item><item>    <word>pollen</word>
     <trans><![CDATA[n. [植] 花粉 
 vt. 传授花粉给 
+flower 花；精华
+flour  n.面粉
+pol-
 ]]></trans>
     <phonetic><![CDATA[['pɔlin]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pollinate</word>
     <trans><![CDATA[vt. 对...授粉 
+        pollen
 ]]></trans>
     <phonetic><![CDATA[['pɔlineit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pollster</word>
     <trans><![CDATA[n. 民意测验专家，民意调查人；整理民意测验结果的人 
+        poll
 ]]></trans>
     <phonetic><![CDATA[['pəulstə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pomposity</word>
     <trans><![CDATA[n. 自大；炫耀；浮夸 
+        pomp  [pɑmp /pɒmp] n.  壮丽, 夸耀, 盛况
 ]]></trans>
     <phonetic><![CDATA[[pɔm'pɔsiti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pompous</word>
     <trans><![CDATA[adj. 自大的；浮夸的；华而不实的；爱炫耀的 
+        pomp  [pɑmp /pɒmp] n.  壮丽, 夸耀, 盛况
 ]]></trans>
     <phonetic><![CDATA[['pɔmpəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>poncho</word>
     <trans><![CDATA[n. 雨披；南美披风 
+        no
 ]]></trans>
     <phonetic><![CDATA[['pɔntʃəu]]]></phonetic>
     <tags>GRE</tags>
@@ -30869,6 +30990,7 @@ vt. 传授花粉给
 </item><item>    <word>ponder</word>
     <trans><![CDATA[vi. 考虑；沉思 
 vt. 仔细考虑；衡量 
+"weigh" (see pound (n.1))
 ]]></trans>
     <phonetic><![CDATA[['pɔndə]]]></phonetic>
     <tags>GRE</tags>
@@ -30876,12 +30998,14 @@ vt. 仔细考虑；衡量
 </item><item>    <word>ponderable</word>
     <trans><![CDATA[n. 值得考虑的事物 
 adj. 有重量的；可称量的；有价值的 
+"weigh" (see pound (n.1))
 ]]></trans>
     <phonetic><![CDATA[['pɔndərəbl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>ponderous</word>
     <trans><![CDATA[adj. 笨重的；沉闷的；呆板的 
+        "weigh" (see pound (n.1))
 ]]></trans>
     <phonetic><![CDATA[['pɔndərəs]]]></phonetic>
     <tags>GRE</tags>
@@ -30889,6 +31013,9 @@ adj. 有重量的；可称量的；有价值的
 </item><item>    <word>pontifical</word>
     <trans><![CDATA[n. 主教仪典书；主教祭服及徽章 
 adj. 罗马教宗的；主教的 
+pontifex  ['pɑntɪfeks /'pɒn-]  n.  大祭司; 教皇
+from pont-, stem of pons "bridge" (see pons) + -fex, -ficis, root of facere "make" (see factitious). 
+pons  [pɑnz /pɒnz] n.  桥; 脑桥; 连接部分
 ]]></trans>
     <phonetic><![CDATA[[pɔn'tifikəl]]]></phonetic>
     <tags>GRE</tags>
@@ -30896,18 +31023,22 @@ adj. 罗马教宗的；主教的
 </item><item>    <word>pontificate</word>
     <trans><![CDATA[vi. 执行教皇职务；武断地表示意见 
 n. 教皇的职位 
+from pont-, stem of pons "bridge" (see pons) + -fex, -ficis, root of facere "make" (see factitious). 
+pons  [pɑnz /pɒnz] n.  桥; 脑桥; 连接部分
 ]]></trans>
     <phonetic><![CDATA[[pɔn'tifikit, -keit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>populace</word>
     <trans><![CDATA[n. 大众；平民；人口 
+        people
 ]]></trans>
     <phonetic><![CDATA[['pɔpjuləs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>populous</word>
     <trans><![CDATA[adj. 人口稠密的；人口多的 
+        people
 ]]></trans>
     <phonetic><![CDATA[['pɔpjuləs]]]></phonetic>
     <tags>GRE</tags>
@@ -30915,12 +31046,15 @@ n. 教皇的职位
 </item><item>    <word>porcelain</word>
     <trans><![CDATA[n. 瓷；瓷器 
 adj. 瓷制的；精美的 
+拟声词'破sir铃'
 ]]></trans>
     <phonetic><![CDATA[['pɔ:səlin, -lein]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>porcupine</word>
     <trans><![CDATA[n. [脊椎] 箭猪，豪猪 
+        spine  [spaɪn]
+n.  脊柱, 脊椎; 似脊隆起的地带; 刺, 针; 书脊
 ]]></trans>
     <phonetic><![CDATA[['pɔ:kjupain]]]></phonetic>
     <tags>GRE</tags>
@@ -30941,18 +31075,23 @@ vi. 细想；凝视；熟读
     <progress>0</progress>
 </item><item>    <word>portentous</word>
     <trans><![CDATA[adj. 不祥的；预兆的；令人惊讶的 
+        portend  [por·tend || pɔr'tend /pɔː'tend] v.  预示, 预先警告; 表示, 意味着
+    from por- (variant of pro-; see pro-) "forth, forward" + tendere "to stretch, extend" (see tenet).
 ]]></trans>
     <phonetic><![CDATA[[pɔ:'tentəs, 'pəu-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>portfolio</word>
     <trans><![CDATA[n. 公文包；文件夹；证券投资组合；部长职务 
+        from porta, imperative of portare "to carry" (see port (n.1)) + foglio "sheet, leaf," from Latin folium (see folio)
+         folio  [fo·li·o || 'fəʊlɪəʊ] n.  对开的纸, 一页, 页码或张数
 ]]></trans>
     <phonetic><![CDATA[[pɔ:t'fəuljəu, ,pəut-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>portray</word>
     <trans><![CDATA[vt. 描绘；扮演 
+         from por- "forth" (from Latin pro-; see pro-) + traire "trace, draw," from Latin trahere "to drag, draw" (see tract (n.1))
 ]]></trans>
     <phonetic><![CDATA[[pɔ:'trei, pəu-]]]></phonetic>
     <tags>GRE</tags>
@@ -30967,6 +31106,7 @@ vi. 摆姿势；佯装；矫揉造作
     <progress>0</progress>
 </item><item>    <word>poseur</word>
     <trans><![CDATA[n. 装模作样的人；装腔作势的人 
+        pose
 ]]></trans>
     <phonetic><![CDATA[[pəu'zə:]]]></phonetic>
     <tags>GRE</tags>
@@ -30974,24 +31114,28 @@ vi. 摆姿势；佯装；矫揉造作
 </item><item>    <word>posit</word>
     <trans><![CDATA[n. 假设；设想 
 vt. 安置；假定 
+pose
 ]]></trans>
     <phonetic><![CDATA[['pɔzit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>posse</word>
     <trans><![CDATA[n. 一队；民防团；地方武装团队 
+        no
 ]]></trans>
     <phonetic><![CDATA[['pɔsi]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>possessed</word>
     <trans><![CDATA[adj. 疯狂的；着魔的 
+        posse 一队；民防团；地方武装团队 
 ]]></trans>
     <phonetic><![CDATA[[pə'zest]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>poster</word>
     <trans><![CDATA[n. 海报，广告；招贴 
+        post
 ]]></trans>
     <phonetic><![CDATA[['pəustə]]]></phonetic>
     <tags>GRE</tags>
@@ -30999,6 +31143,7 @@ vt. 安置；假定
 </item><item>    <word>postpone</word>
     <trans><![CDATA[vt. 使…延期；把…放在次要地位；把…放在后面 
 vi. 延缓，延迟；延缓发作 
+ from post "after" (see post-) + ponere "put, place" (see position (n.)). 
 ]]></trans>
     <phonetic><![CDATA[[pəust'pəun, pə'sp-]]]></phonetic>
     <tags>GRE</tags>
@@ -31006,6 +31151,7 @@ vi. 延缓，延迟；延缓发作
 </item><item>    <word>postulate</word>
     <trans><![CDATA[n. 基本条件；假定 
 vt. 假定；要求；视…为理所当然 
+suppose 假设
 ]]></trans>
     <phonetic><![CDATA[['pɔstjuleit, -tʃə-]]]></phonetic>
     <tags>GRE</tags>
@@ -31021,18 +31167,23 @@ vi. 摆姿势
 </item><item>    <word>potable</word>
     <trans><![CDATA[n. 饮料（常复数） 
 adj. 适于饮用的 
+bottle 瓶子  little 
+pot 罐子
 ]]></trans>
     <phonetic><![CDATA[['pəutəbl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>potation</word>
     <trans><![CDATA[n. 喝；饮料 
+        bottle 瓶子  little 
+        pot 罐子
 ]]></trans>
     <phonetic><![CDATA[[pəu'teiʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>potentate</word>
     <trans><![CDATA[n. 统治者，君主；有权势的人 
+        potent  ['po·tent || 'pəʊtənt] adj.  有力的, 有效的
 ]]></trans>
     <phonetic><![CDATA[['pəutənteit]]]></phonetic>
     <tags>GRE</tags>
@@ -31040,6 +31191,7 @@ adj. 适于饮用的
 </item><item>    <word>potential</word>
     <trans><![CDATA[n. 潜能；可能性；[电] 电势 
 adj. 潜在的；可能的；势的 
+potent  ['po·tent || 'pəʊtənt] adj.  有力的, 有效的
 ]]></trans>
     <phonetic><![CDATA[[pəu'tenʃəl]]]></phonetic>
     <tags>GRE</tags>
@@ -31047,18 +31199,21 @@ adj. 潜在的；可能的；势的
 </item><item>    <word>potentiate</word>
     <trans><![CDATA[n. 统治者 
 vt. 加强；赋与力量 
+potent  ['po·tent || 'pəʊtənt] adj.  有力的, 有效的
 ]]></trans>
     <phonetic><![CDATA[[pəu'tenʃieit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>potpourri</word>
     <trans><![CDATA[n. 百花香；混合物；杂曲；大杂烩 
+        no
 ]]></trans>
     <phonetic><![CDATA[[,pəu'puri, pəupu:'ri:]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pottery</word>
     <trans><![CDATA[n. 陶器；陶器厂；陶器制造术 
+        pot
 ]]></trans>
     <phonetic><![CDATA[['pɔtəri]]]></phonetic>
     <tags>GRE</tags>
@@ -31067,18 +31222,22 @@ vt. 加强；赋与力量
     <trans><![CDATA[n. 撅嘴；生气 
 vt. 撅嘴 
 vi. 撅嘴 
+no
 ]]></trans>
     <phonetic><![CDATA[[paut]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>practitioner</word>
     <trans><![CDATA[n. 开业者，从业者 
+         practice 
 ]]></trans>
     <phonetic><![CDATA[[præk'tiʃənə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pragmatic</word>
     <trans><![CDATA[adj. 实际的；实用主义的；国事的 
+        practice 实践
+        prag
 ]]></trans>
     <phonetic><![CDATA[[præɡ'mætik]]]></phonetic>
     <tags>GRE</tags>
@@ -31087,6 +31246,7 @@ vi. 撅嘴
     <trans><![CDATA[n. 恶作剧，开玩笑；戏谑 
 vt. 装饰；打扮 
 vi. 炫耀自己；胡闹 
+no
 ]]></trans>
     <phonetic><![CDATA[[præŋk]]]></phonetic>
     <tags>GRE</tags>
@@ -31095,6 +31255,7 @@ vi. 炫耀自己；胡闹
     <trans><![CDATA[n. 唠叨；空谈；瞎扯 
 vt. 瞎扯 
 vi. 唠叨 
+no
 ]]></trans>
     <phonetic><![CDATA[[preit]]]></phonetic>
     <tags>GRE</tags>
@@ -31103,6 +31264,7 @@ vi. 唠叨
     <trans><![CDATA[n. 说教 
 vt. 说教；讲道；鼓吹；传道；反复灌输 
 vi. 说教；讲道；鼓吹；宣扬 
+ from Latin prae "before" (see pre-) + dicare "to proclaim, to say" (see diction).
 ]]></trans>
     <phonetic><![CDATA[[pri:tʃ]]]></phonetic>
     <tags>GRE</tags>
@@ -31110,12 +31272,15 @@ vi. 说教；讲道；鼓吹；宣扬
 </item><item>    <word>preamble</word>
     <trans><![CDATA[n. 序文；电报报头；先兆 
 vi. 作序文 
+amble  [am·ble || 'æmbl]
+n.  缓行步态; 漫步, 从容轻松的步伐
 ]]></trans>
     <phonetic><![CDATA[[pri:'æmbl, 'pri:æ-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>precarious</word>
     <trans><![CDATA[adj. 危险的；不确定的 
+        entreaty, prayer" (see pray).
 ]]></trans>
     <phonetic><![CDATA[[pri'kεəriəs]]]></phonetic>
     <tags>GRE</tags>
@@ -31123,18 +31288,21 @@ vi. 作序文
 </item><item>    <word>precede</word>
     <trans><![CDATA[vt. 领先，在…之前；优于，高于 
 vi. 领先，在前面 
+from prae "before" (see pre-) + cedere "to go" (see cede).
 ]]></trans>
     <phonetic><![CDATA[[pri:'si:d, pri-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>precept</word>
     <trans><![CDATA[n. 规则；格言；训诫；命令 
+         from prae "before" (see pre-) + capere (past participle captus) "to take" (see capable). 
 ]]></trans>
     <phonetic><![CDATA[['pri:sept]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>precipice</word>
     <trans><![CDATA[n. 悬崖；绝壁；险境 
+         from prae "before, forth" (see pre-) + caput "head" (see head (n.)).
 ]]></trans>
     <phonetic><![CDATA[['presipis]]]></phonetic>
     <tags>GRE</tags>
@@ -31142,6 +31310,7 @@ vi. 领先，在前面
 </item><item>    <word>precipitant</word>
     <trans><![CDATA[n. [化学] 沉淀剂 
 adj. 勇往直前的；急促的；突如其来的 
+precipice 悬崖；绝壁；险境 
 ]]></trans>
     <phonetic><![CDATA[[pri'sipitənt]]]></phonetic>
     <tags>GRE</tags>
@@ -31151,12 +31320,14 @@ adj. 勇往直前的；急促的；突如其来的
 vt. 使沉淀；促成；猛抛；使陷入 
 adj. 突如其来的；猛地落下的；急促的 
 vi. [化学] 沉淀；猛地落下；冷凝成为雨或雪等 
+precipice 悬崖；绝壁；险境 
 ]]></trans>
     <phonetic><![CDATA[[pri'sipitit, -teit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>precipitation</word>
     <trans><![CDATA[n. [化学] 沉淀，[化学] 沉淀物；冰雹；坠落；鲁莽 
+        precipice 悬崖；绝壁；险境 
 ]]></trans>
     <phonetic><![CDATA[[pri,sipi'teiʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -31165,72 +31336,95 @@ vi. [化学] 沉淀；猛地落下；冷凝成为雨或雪等
     <trans><![CDATA[n. 摘要；大纲 
 vt. 概括…的大意；为…写摘要 
 [ 第三人称单数precis 过去式precised 过去分词precised 现在分词precising ] 
+from prae "before" (see pre-) + caedere "to cut" (see -cide;)
 ]]></trans>
     <phonetic><![CDATA[['preɪsi]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>precise</word>
     <trans><![CDATA[adj. 精确的；明确的；严格的 
+        from prae "before" (see pre-) + caedere "to cut" (see -cide;)
 ]]></trans>
     <phonetic><![CDATA[[pri'sais]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>preclude</word>
     <trans><![CDATA[vt. 排除；妨碍；阻止 
+        from prae- "before, ahead" (see pre-) + claudere "to shut" (see close (v.))
 ]]></trans>
     <phonetic><![CDATA[[pri'klu:d]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>precocious</word>
     <trans><![CDATA[adj. 早熟的；过早发育的 
+        from prae "before" (see pre-) + coquere "to ripen," literally "to cook" (see cook (n.)).
 ]]></trans>
     <phonetic><![CDATA[[pri'kəuʃəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>precursor</word>
     <trans><![CDATA[n. 先驱，前导 
+         from prae "before" (see pre-) + currere "to run" (see current (adj.)).
 ]]></trans>
     <phonetic><![CDATA[[pri:'kə:sə, pri-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>predator</word>
     <trans><![CDATA[n. [动] 捕食者；[动] 食肉动物；掠夺者 
+        predation  [prɪ'deɪʃn] n.  动物的捕食行为
+prey  [preɪ] n.  被掠食者, 牺牲者 v.  捕食, 折磨, 掠夺
 ]]></trans>
     <phonetic><![CDATA[['predətə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>predecessor</word>
     <trans><![CDATA[n. 前任，前辈 
+        decease  [de·cease || dɪ'siːs] n.  死亡
+ from de- "away" (see de-) + cedere "go" (see cede).
 ]]></trans>
     <phonetic><![CDATA[['pri:disesə, 'pre-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>predestine</word>
     <trans><![CDATA[vt. 注定 
+        predestination  [pre·des·ti·na·tion || prɪː‚destɪ'neɪʃn] n.  注定; 预先确定; 宿命
+        (see pre-) + destinare "appoint, determine" (see destiny).
+        destiny  ['des·ti·ny || 'destɪnɪ] n.  命运; 定数
+        destination  [des·ti·na·tion || ‚destɪ'neɪʃn] n.  目的地
+         from de- "completely, formally" (see de-) + -stinare (related to stare "to stand") from PIE *ste-no-, from root *sta- "to stand" (see stet). 
 ]]></trans>
     <phonetic><![CDATA[[pri:'destin]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>predicament</word>
     <trans><![CDATA[n. 窘况，困境；状态 
+        predicate  [pred·i·cate || 'predɪkeɪt] n.  谓语, 述部 v.  断定为, 意味着, 使基于; 作出论断, 断言
+        (see pre-) + dicare "proclaim," from stem of dicere "to speak, to say" (see diction). 
 ]]></trans>
     <phonetic><![CDATA[[pri'dikəmənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>predilection</word>
     <trans><![CDATA[n. 偏爱，嗜好 
+         (see pre-) + diligere "choose, love" (see diligent).
+         diligent  ['dil·i·gent || 'dɪlɪdʒənt] adj.  勤勉的, 勤奋的; 费尽心血的
+         diligence  [dil·i·gence || 'dɪlɪʒɒ0303;ːns] n.  勤奋, 用功#匆忙, 迅速; 注意的程度
+         dis- "apart" (see dis-) + legere "choose, gather" (see lecture (n.)). 
 ]]></trans>
     <phonetic><![CDATA[[,pri:di'lekʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>predisposition</word>
     <trans><![CDATA[n. 倾向；素质；易染病体质 
+        disposition  [dis·po·si·tion || ‚dɪspə'zɪʃn] n.  性情, 处理, 处置
 ]]></trans>
     <phonetic><![CDATA[['pri:,dispə'ziʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>predominant</word>
     <trans><![CDATA[adj. 主要的；卓越的；支配的；有力的；有影响的 
+        "before" (see pre-) + dominari "to rule" (see dominate).
+        dominate  ['domi·nate || 'dɑmɪneɪt /'dɒm] v.  支配, 控制, 统治;
 ]]></trans>
     <phonetic><![CDATA[[,pri'dɔminənt]]]></phonetic>
     <tags>GRE</tags>
@@ -31238,6 +31432,7 @@ vt. 概括…的大意；为…写摘要
 </item><item>    <word>predominate</word>
     <trans><![CDATA[vt. 支配，主宰；在…中占优势 
 vi. 占主导（或支配）地位；占优势 
+dominate  ['domi·nate || 'dɑmɪneɪt /'dɒm] v.  支配, 控制, 统治;
 ]]></trans>
     <phonetic><![CDATA[[pri'dɔmineit]]]></phonetic>
     <tags>GRE</tags>
