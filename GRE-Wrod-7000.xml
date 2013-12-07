@@ -28721,12 +28721,14 @@ oxide  [ox·ide || 'ɑksaɪd /'ɒk-] n.  氧化物
 </item><item>    <word>pacifist</word>
     <trans><![CDATA[n. 和平主义者 
 adj. 非战主义的 
+peace
 ]]></trans>
     <phonetic><![CDATA[['pæsifist]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pacify</word>
     <trans><![CDATA[vt. 使平静；安慰；平定 
+        peace
 ]]></trans>
     <phonetic><![CDATA[['pæsifai]]]></phonetic>
     <tags>GRE</tags>
@@ -28748,6 +28750,7 @@ adj. （常用来构成复合词）充满…的，塞满了…的
     <progress>0</progress>
 </item><item>    <word>pact</word>
     <trans><![CDATA[n. 协定；公约；条约；契约 
+        no
 ]]></trans>
     <phonetic><![CDATA[[pækt]]]></phonetic>
     <tags>GRE</tags>
@@ -28761,6 +28764,7 @@ v. 填补（pad的ing形式）
     <progress>0</progress>
 </item><item>    <word>paean</word>
     <trans><![CDATA[n. 赞美歌，欢乐歌 
+        no
 ]]></trans>
     <phonetic><![CDATA[['pi:ən]]]></phonetic>
     <tags>GRE</tags>
@@ -28768,12 +28772,14 @@ v. 填补（pad的ing形式）
 </item><item>    <word>pagan</word>
     <trans><![CDATA[n. 异教徒；无宗教信仰者 
 adj. 异教的；异教徒的 
+no
 ]]></trans>
     <phonetic><![CDATA[['peiɡən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pageant</word>
     <trans><![CDATA[n. 盛会；游行；虚饰；露天表演 
+        "play in a cycle of mystery plays, "page of a book" (see page (n.1)) 
 ]]></trans>
     <phonetic><![CDATA[['pædʒənt]]]></phonetic>
     <tags>GRE</tags>
@@ -28793,18 +28799,21 @@ adj. 艰苦的；勤勉的；小心的
     <progress>0</progress>
 </item><item>    <word>palate</word>
     <trans><![CDATA[n. 味觉；上颚；趣味 
+        no
 ]]></trans>
     <phonetic><![CDATA[['pælit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>palatial</word>
     <trans><![CDATA[adj. 宫殿似的；宏伟的；壮丽的 
+        palace
 ]]></trans>
     <phonetic><![CDATA[[pə'leiʃəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>palette</word>
     <trans><![CDATA[n. 调色板；颜料 
+        no
 ]]></trans>
     <phonetic><![CDATA[['pælit]]]></phonetic>
     <tags>GRE</tags>
@@ -28813,12 +28822,18 @@ adj. 艰苦的；勤勉的；小心的
     <trans><![CDATA[n. 幕；棺罩；遮盖物 
 vt. 覆盖；使乏味 
 vi. 走味 
+pallor  [pal·lor || 'pælə(r)] n.  苍白
+pale  [peɪl]
+adj.  苍白的, 灰白的; 微弱的, 暗淡的; 淡的
+n.  尖板条, 尖桩; 围起的地方, 围场; 界限, 范围; 管区, 辖区
+v.  用栅栏把...围起来; 使苍白, 使黯淡; 变苍白; 显得逊色; 变黯淡; 相形见绌
 ]]></trans>
     <phonetic><![CDATA[[pɔ:l]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>palliate</word>
     <trans><![CDATA[vt. 减轻；掩饰；辩解 
+        pall n. 幕；棺罩；遮盖物 
 ]]></trans>
     <phonetic><![CDATA[['pælieit]]]></phonetic>
     <tags>GRE</tags>
@@ -28826,24 +28841,29 @@ vi. 走味
 </item><item>    <word>palliative</word>
     <trans><![CDATA[n. 辩解；缓和剂；暂时姑息的手段 
 adj. 缓和的；掩饰的；可斟酌的 
+pall n. 幕；棺罩；遮盖物 
 ]]></trans>
     <phonetic><![CDATA[['pæliətiv]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pallid</word>
     <trans><![CDATA[adj. 苍白的；暗淡的；无生气的 
+        pale
 ]]></trans>
     <phonetic><![CDATA[['pælid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>palmy</word>
     <trans><![CDATA[adj. 繁荣的；多棕榈的 
+        palm  [pɑ(l)m /pɑːm] n.  手掌, 棕榈; 胜利; 棕榈叶; 荣誉勋章
+       棕榈 [zōng lǘ]  叶子大，集生干顶，掌状深裂
 ]]></trans>
     <phonetic><![CDATA[['pɑ:mi]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>palpable</word>
     <trans><![CDATA[adj. 明显的；可感知的；易觉察的 
+        palm
 ]]></trans>
     <phonetic><![CDATA[['pælpəbl]]]></phonetic>
     <tags>GRE</tags>
@@ -28851,24 +28871,29 @@ adj. 缓和的；掩饰的；可斟酌的
 </item><item>    <word>palpitate</word>
     <trans><![CDATA[vt. 使发抖 
 vi. 发抖；（心脏）悸动；跳动 
+palm
 ]]></trans>
     <phonetic><![CDATA[['pælpiteit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>palter</word>
     <trans><![CDATA[vi. 含糊其词；马虎处理；敷衍了事；讨价还价 
+        no
 ]]></trans>
     <phonetic><![CDATA[['pɔ:ltə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>paltry</word>
     <trans><![CDATA[adj. 不足取的；无价值的；琐碎的；卑鄙的 
+        no
 ]]></trans>
     <phonetic><![CDATA[['pɔ:ltri]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pamphlet</word>
     <trans><![CDATA[n. 小册子 
+        palm + ph + let
+        no
 ]]></trans>
     <phonetic><![CDATA[['pæmflit]]]></phonetic>
     <tags>GRE</tags>
@@ -28883,36 +28908,46 @@ vi. （镜头）被摇动
     <progress>0</progress>
 </item><item>    <word>panacea</word>
     <trans><![CDATA[n. 灵丹妙药；万能药 
+         from pan- "all" (see pan-) + akos "cure," from iasthai "to heal" (see -iatric). 
 ]]></trans>
     <phonetic><![CDATA[[,pænə'si:ə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>panache</word>
     <trans><![CDATA[n. 羽饰；灿烂；耍派头 
+        pinnacle  [pin·na·cle || 'pɪnəkl] n.  小尖塔, 高峰, 尖峰 v.  造小尖塔, 放置于高处
+        pin 
 ]]></trans>
     <phonetic><![CDATA[[pə'næʃ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pancreas</word>
     <trans><![CDATA[n. [解剖] 胰腺 
+        from pan- "all" (see pan-) + kreas "flesh" (see raw), 
+        外分泌主要成分是胰液，内含碱性的碳酸氢盐和各种消化酶，其功能是中和胃酸，消化糖、蛋白质和脂肪。
 ]]></trans>
     <phonetic><![CDATA[['pænkriəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pandemic</word>
     <trans><![CDATA[adj. 全国流行的；普遍的 
+         from pan- "all" (see pan-) + demos "people" (see demotic).
 ]]></trans>
     <phonetic><![CDATA[[pæn'demik]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pandemonium</word>
     <trans><![CDATA[n. 一片混乱；闹哄哄的场所 
+        from Greek pan- "all" (see pan-) + Late Latin daemonium "evil spirit," from Greek daimonion "inferior divine power," from daimon "lesser god" (see demon). 
+        demon  [de·mon || 'diːmən] n.  魔鬼; 极残忍的人
 ]]></trans>
     <phonetic><![CDATA[[,pændi'məunjəm]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>panegyric</word>
     <trans><![CDATA[n. 颂词，赞颂 
+        from pan- "all" (see pan-) + agyris "place of assembly," Aeolic form of agora (see agora).
+        agora 广场，集市
 ]]></trans>
     <phonetic><![CDATA[[,pæni'dʒirik]]]></phonetic>
     <tags>GRE</tags>
@@ -28920,6 +28955,7 @@ vi. （镜头）被摇动
 </item><item>    <word>panel</word>
     <trans><![CDATA[n. 仪表板；嵌板；座谈小组，全体陪审员 
 vt. 嵌镶板 
+pane  [peɪn] n.  窗玻璃, 方格, 方框
 ]]></trans>
     <phonetic><![CDATA[['pænl]]]></phonetic>
     <tags>GRE</tags>
@@ -28927,6 +28963,7 @@ vt. 嵌镶板
 </item><item>    <word>pang</word>
     <trans><![CDATA[n. （肉体上）剧痛；苦闷；（精神上）一阵极度的痛苦 
 vt. 使剧痛；折磨 
+拟声词 '嗙' 撞上了
 ]]></trans>
     <phonetic><![CDATA[[pæŋ]]]></phonetic>
     <tags>GRE</tags>
@@ -28942,12 +28979,14 @@ vi. 十分惊慌
     <progress>0</progress>
 </item><item>    <word>panorama</word>
     <trans><![CDATA[n. 全景，全貌；全景画；概论 
+          from pan- "all" + Greek horama
 ]]></trans>
     <phonetic><![CDATA[[,pænə'rɑ:mə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>panther</word>
     <trans><![CDATA[n. 豹；黑豹；美洲豹 
+        from Greek pan- "all" + ther "beast"
 ]]></trans>
     <phonetic><![CDATA[['pænθə]]]></phonetic>
     <tags>GRE</tags>
@@ -28956,36 +28995,43 @@ vi. 十分惊慌
     <trans><![CDATA[n. 哑剧；舞剧；手势 
 vi. 打手势；演哑剧 
 vt. 打手势；演哑剧 
+ from panto- (genitive of pan) "all" (see pan-) + mimos "imitator" (see mime (n.)). 
 ]]></trans>
     <phonetic><![CDATA[['pæntəmaim]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pantry</word>
     <trans><![CDATA[n. 餐具室；食品室；食品储藏室 
+        pan + try pan存储的地方
 ]]></trans>
     <phonetic><![CDATA[['pæntri]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>papyrus</word>
     <trans><![CDATA[n. 纸莎草；纸莎草纸 
+        paper
 ]]></trans>
     <phonetic><![CDATA[[pə'paiərəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>parable</word>
     <trans><![CDATA[n. 寓言，比喻；隐晦或谜般的格言 
+        from para- "alongside" (see para- (1)) + bole "a throwing, casting, beam, ray," related to ballein "to throw" (see ballistics). 
+        para- 或 par-  侧面；附近；旁边：超出，超越：不对的；异常的：
 ]]></trans>
     <phonetic><![CDATA[['pærəbl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>parabola</word>
     <trans><![CDATA[n. 抛物线 
+         from Greek parabole "parabola, comparison, analogy; application" (see parable),
 ]]></trans>
     <phonetic><![CDATA[[pə'ræbələ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>paradigm</word>
     <trans><![CDATA[n. 范例；词形变化表 
+         from para- "beside" (see para- (1)) + deiknynai "to show" (cognate with Latin dicere "to show;" see diction)
 ]]></trans>
     <phonetic><![CDATA[['pærədim]]]></phonetic>
     <tags>GRE</tags>
@@ -28993,6 +29039,7 @@ vt. 打手势；演哑剧
 </item><item>    <word>paragon</word>
     <trans><![CDATA[n. 模范；完美之物；优秀之人 
 adj. 完美的 
+from para- "on the side" (see para- (1)) + akone "whetstone," from PIE root *ak- "sharp, pointed" (see acrid).
 ]]></trans>
     <phonetic><![CDATA[['pærəɡən]]]></phonetic>
     <tags>GRE</tags>
@@ -29001,18 +29048,21 @@ adj. 完美的
     <trans><![CDATA[n. 平行线；对比 
 adj. 平行的；类似的，相同的 
 vt. 使…与…平行 
+ from para- "beside" (see para- (1)) + allelois "each other," from allos "other" (see alias)
 ]]></trans>
     <phonetic><![CDATA[['pærəlel]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>parallelism</word>
     <trans><![CDATA[n. 平行；类似，对应 
+        parallel
 ]]></trans>
     <phonetic><![CDATA[['pærəlelizəm]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>parameter</word>
     <trans><![CDATA[n. 参数；系数；参量 
+        from Greek para- "beside, subsidiary" (see para- (1)) + metron "measure" (see meter (n.2)). 
 ]]></trans>
     <phonetic><![CDATA[[pə'ræmitə]]]></phonetic>
     <tags>GRE</tags>
@@ -29020,12 +29070,14 @@ vt. 使…与…平行
 </item><item>    <word>paramount</word>
     <trans><![CDATA[n. 最高统治者 
 adj. 最重要的，主要的；至高无上的 
+from Latin per "through, for, by" (see per (prep.)) + amont "up," from a mont "upward" (see amount (v.))
 ]]></trans>
     <phonetic><![CDATA[['pærəmaunt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>paranoia</word>
     <trans><![CDATA[n. [心理] 偏执狂，[内科] 妄想狂 
+         from para- "beside, beyond" (see para- (1)) + noos "mind."
 ]]></trans>
     <phonetic><![CDATA[[,pærə'nɔiə]]]></phonetic>
     <tags>GRE</tags>
@@ -29033,20 +29085,23 @@ adj. 最重要的，主要的；至高无上的
 </item><item>    <word>paranoid</word>
     <trans><![CDATA[n. 患妄想狂的人；偏执狂患者 
 adj. 类似妄想狂的；属于偏执狂的 
+from paranoia + -oid.
+ from para- "beside, beyond" (see para- (1)) + noos "mind."
 ]]></trans>
     <phonetic><![CDATA[['pærənɔid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>paraphrase</word>
     <trans><![CDATA[n. 释义；改述；演释曲 
-vt. 改述 
-vi. 释义；意译 
+vt. 改述  vi. 释义；意译 
+from para- "beside" (see para- (1)) + phrazein "to tell" (see phrase (n.)).
 ]]></trans>
     <phonetic><![CDATA[['pærəfreiz]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>parasite</word>
     <trans><![CDATA[n. 寄生虫；食客 
+        from para- "beside" (see para- (1)) + sitos "food,
 ]]></trans>
     <phonetic><![CDATA[['pærəsait]]]></phonetic>
     <tags>GRE</tags>
@@ -29054,36 +29109,48 @@ vi. 释义；意译
 </item><item>    <word>parch</word>
     <trans><![CDATA[vt. 烤，烘；使干透 
 vi. 焦干；烤干 
+from Middle English perchen, variant of perishen "to perish" (see perish). 
+perish  [per·ish || 'perɪʃ] v.  毁灭, 腐烂, 死亡; 毁坏, 使麻木
+from per- "through, completely, to destruction" (see per) + ire "to go" (see ion).
 ]]></trans>
     <phonetic><![CDATA[[pɑ:tʃ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pare</word>
     <trans><![CDATA[vt. 消减；削皮；剪；修掉（边等） 
+        no
 ]]></trans>
     <phonetic><![CDATA[[pεə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pariah</word>
-    <trans><![CDATA[n. 贱民（印度的最下阶级） 
+    <trans><![CDATA[n. 贱民（印度的最下阶级）
+    no 
 ]]></trans>
     <phonetic><![CDATA[['pæriə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>parity</word>
     <trans><![CDATA[n. 平价；同等；相等 
+        "equal" (see pair (n.))
 ]]></trans>
     <phonetic><![CDATA[['pæriti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>parka</word>
     <trans><![CDATA[n. （户外穿着用的）派克大衣；皮制大衣 
+        no
 ]]></trans>
     <phonetic><![CDATA[['pɑ:kə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>parlance</word>
     <trans><![CDATA[n. 说法；用语；语调；发言 
+         from parler "to speak" (see parley).
+         parley  [par·ley || 'pɑrleɪ /'pɑːlɪ] n.  会谈; 讨论; 谈判 v.  会谈, 谈判
+         from Latin parabola "comparison" (see parable).
+         parable  [par·a·ble || 'pærəbl] n.  寓言, 谜, 比喻
+         from para- "alongside" (see para- (1)) + bole "a throwing, casting, beam, ray," related to ballein "to throw" (see ballistics). 
 ]]></trans>
     <phonetic><![CDATA[['pɑ:ləns]]]></phonetic>
     <tags>GRE</tags>
@@ -29091,12 +29158,14 @@ vi. 焦干；烤干
 </item><item>    <word>parody</word>
     <trans><![CDATA[n. 拙劣的模仿；诙谐的改编诗文 
 vt. 拙劣模仿 
+ from para- "beside, parallel to" (see para- (1), in this case, "mock-") + oide "song, ode" (see ode). 
 ]]></trans>
     <phonetic><![CDATA[['pærədi]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>paroxysm</word>
     <trans><![CDATA[n. （疾病周期性）发作；突发 
+ from para- "beyond" (see para- (1)) + oxynein "sharpen, goad," from oxys "sharp, pointed" (see acrid). 
 ]]></trans>
     <phonetic><![CDATA[['pærəksizəm]]]></phonetic>
     <tags>GRE</tags>
@@ -29104,6 +29173,7 @@ vt. 拙劣模仿
 </item><item>    <word>parquet</word>
     <trans><![CDATA[n. 镶木地板；剧场正厅座位；（法）检查机关 
 vt. 铺镶木地板于；用镶木制；铺 
+park
 ]]></trans>
     <phonetic><![CDATA[['pɑ:kei]]]></phonetic>
     <tags>GRE</tags>
@@ -29112,6 +29182,7 @@ vt. 铺镶木地板于；用镶木制；铺
     <trans><![CDATA[n. 回避；挡开；闪避的回答 
 vt. 回避；挡开 
 vi. 回避；阻挡 
+from Italian parare "to ward or defend a blow" (see para- (2)).
 ]]></trans>
     <phonetic><![CDATA[['pæri]]]></phonetic>
     <tags>GRE</tags>
@@ -29126,18 +29197,22 @@ vi. 理解；从语法上分析
     <progress>0</progress>
 </item><item>    <word>parsimony</word>
     <trans><![CDATA[n. 吝啬；过度节俭 
+        pars- + money
+        om Latin parsimonia "sparingness, frugality, thrift," from pars-
 ]]></trans>
     <phonetic><![CDATA[['pɑ:siməni]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>partial</word>
     <trans><![CDATA[adj. 局部的；偏爱的；不公平的 
+        part
 ]]></trans>
     <phonetic><![CDATA[['pɑ:ʃəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>partiality</word>
     <trans><![CDATA[n. 偏心；偏袒；偏爱；癖好 
+        part
 ]]></trans>
     <phonetic><![CDATA[[,pɑ:ʃi'æliti]]]></phonetic>
     <tags>GRE</tags>
@@ -29145,6 +29220,7 @@ vi. 理解；从语法上分析
 </item><item>    <word>particular</word>
     <trans><![CDATA[n. 详细说明；个别项目 
 adj. 特别的；详细的；独有的；挑剔的 
+part
 ]]></trans>
     <phonetic><![CDATA[[pə'tikjulə]]]></phonetic>
     <tags>GRE</tags>
@@ -29152,6 +29228,7 @@ adj. 特别的；详细的；独有的；挑剔的
 </item><item>    <word>particularize</word>
     <trans><![CDATA[vt. 列举；使特殊 
 vi. 详细说明；大书特书 
+part
 ]]></trans>
     <phonetic><![CDATA[[pə'tikjuləraiz]]]></phonetic>
     <tags>GRE</tags>
@@ -29159,6 +29236,7 @@ vi. 详细说明；大书特书
 </item><item>    <word>partisan</word>
     <trans><![CDATA[n. 游击队；虔诚信徒；党羽 
 adj. 党派的；效忠的；偏袒的；盲目推崇的 
+part
 ]]></trans>
     <phonetic><![CDATA[[,pɑ:ti'zæn]]]></phonetic>
     <tags>GRE</tags>
@@ -29166,12 +29244,14 @@ adj. 党派的；效忠的；偏袒的；盲目推崇的
 </item><item>    <word>partition</word>
     <trans><![CDATA[n. 划分，分开；[数] 分割；隔墙；隔离物 
 vt. [数] 分割；分隔；区分 
+part
 ]]></trans>
     <phonetic><![CDATA[[pɑ:'tiʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>passionate</word>
     <trans><![CDATA[adj. 热情的；热烈的，激昂的；易怒的 
+        passion
 ]]></trans>
     <phonetic><![CDATA[['pæʃənit]]]></phonetic>
     <tags>GRE</tags>
@@ -29179,6 +29259,7 @@ vt. [数] 分割；分隔；区分
 </item><item>    <word>passive</word>
     <trans><![CDATA[n. 被动语态 
 adj. 被动的，消极的；被动语态的 
+from pass-, past participle stem of pati "to suffer" (see passion). 
 ]]></trans>
     <phonetic><![CDATA[['pæsiv]]]></phonetic>
     <tags>GRE</tags>
@@ -29186,12 +29267,16 @@ adj. 被动的，消极的；被动语态的
 </item><item>    <word>pastel</word>
     <trans><![CDATA[n. 粉蜡笔；粉蜡笔画 
 adj. 柔和的；彩色蜡笔的，粉蜡笔的 
+paste  [peɪst]
+n.  浆糊; 糊状物; 面团; 糊, 酱
+(as)蜡笔画其实就是颜料'粘'到上面的
 ]]></trans>
     <phonetic><![CDATA[[pæs'tel]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pasteurize</word>
     <trans><![CDATA[vt. 用巴氏法灭菌；对…进行加热杀菌 
+         Louis Pasteur
 ]]></trans>
     <phonetic><![CDATA[['pæstəraiz]]]></phonetic>
     <tags>GRE</tags>
@@ -29199,6 +29284,7 @@ adj. 柔和的；彩色蜡笔的，粉蜡笔的
 </item><item>    <word>pastiche</word>
     <trans><![CDATA[n. 混成曲；模仿画 
 vt. 东拼西凑；混杂 
+pasta  [pas·ta || 'pɑstə /'pæstə] n.  生面团
 ]]></trans>
     <phonetic><![CDATA[[pæs'ti:ʃ, pɑ:]]]></phonetic>
     <tags>GRE</tags>
@@ -29206,20 +29292,24 @@ vt. 东拼西凑；混杂
 </item><item>    <word>pastoral</word>
     <trans><![CDATA[n. 牧歌；田园诗；田园景色 
 adj. 牧师的；牧人的；田园生活的；乡村的 
+pastor  [pas·tor || 'pæstə(r) /'pɑːs-] n.  牧师
 ]]></trans>
     <phonetic><![CDATA[['pɑ:stərəl, 'pæs-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pastry</word>
     <trans><![CDATA[n. 油酥点心；面粉糕饼 
+        paste  [peɪst]
+n.  浆糊; 糊状物; 面团; 糊, 酱
+(as)蜡笔画其实就是颜料'粘'到上面的
 ]]></trans>
     <phonetic><![CDATA[['peistri]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>patch</word>
     <trans><![CDATA[n. 眼罩；斑点；碎片；小块土地 
-vi. 打补丁 
-vt. 修补；解决；掩饰 
+vi. 打补丁  vt. 修补；解决；掩饰 
+piece
 ]]></trans>
     <phonetic><![CDATA[[pætʃ]]]></phonetic>
     <tags>GRE</tags>
@@ -29228,24 +29318,28 @@ vt. 修补；解决；掩饰
     <trans><![CDATA[n. 专利权；执照；专利品 
 adj. 专利的；新奇的；显然的 
 vt. 授予专利；取得…的专利权 
+no
 ]]></trans>
     <phonetic><![CDATA[['pætnt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pathogen</word>
     <trans><![CDATA[n. 病原体；病菌 
+         from Greek pathos "disease" (see pathos) + French -génique "producing" (see -gen)
 ]]></trans>
     <phonetic><![CDATA[['pæθədʒən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pathology</word>
     <trans><![CDATA[n. 病理学（复数pathologies） 
+        from Greek pathos "suffering" (see pathos) + -logia "study" (see -logy). 
 ]]></trans>
     <phonetic><![CDATA[[pə'θɔlədʒi]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>patina</word>
     <trans><![CDATA[n. [材] 铜绿；光泽；神态；圣餐盘 
+         from Latin patina "dish, pan" (see pan (n.))
 ]]></trans>
     <phonetic><![CDATA[['pætinə]]]></phonetic>
     <tags>GRE</tags>
@@ -29253,48 +29347,62 @@ vt. 授予专利；取得…的专利权
 </item><item>    <word>patrician</word>
     <trans><![CDATA[n. 贵族；有教养的人 
 adj. 贵族的；显贵的 
+no
 ]]></trans>
     <phonetic><![CDATA[[pə'triʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>patrimony</word>
     <trans><![CDATA[n. 遗产；祖传的财物；继承物（特征、性格等）；教会的财产 
+        no
 ]]></trans>
     <phonetic><![CDATA[['pætriməni]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>patriot</word>
     <trans><![CDATA[n. 爱国者 
+         father 
+         pater
+         patron  [pa·tron || 'peɪtrən]n.  赞助人, 保护人, 顾客
 ]]></trans>
     <phonetic><![CDATA[['peitriət]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>patriotism</word>
     <trans><![CDATA[n. 爱国主义；爱国心，爱国精神 
+        father 
+         pater
+         patron  [pa·tron || 'peɪtrən]n.  赞助人, 保护人, 顾客
 ]]></trans>
     <phonetic><![CDATA[['pætriətizəm]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>patronage</word>
     <trans><![CDATA[n. 赞助；光顾；任免权 
+        father 
+         pater
+         patron  [pa·tron || 'peɪtrən]n.  赞助人, 保护人, 顾客
 ]]></trans>
     <phonetic><![CDATA[['pætrənidʒ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>patronize</word>
     <trans><![CDATA[vt. 惠顾；资助；保护 
+        patron  [pa·tron || 'peɪtrən]n.  赞助人, 保护人, 顾客
 ]]></trans>
     <phonetic><![CDATA[['pætrənaiz]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>paucity</word>
     <trans><![CDATA[n. 缺乏；少数；少量 
+         from root *pau- (1) "few, little"
 ]]></trans>
     <phonetic><![CDATA[['pɔ:siti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>paunchy</word>
     <trans><![CDATA[adj. 大肚子的；大腹便便的 
+        paunch  [pɔːntʃ] n.  腹; 大肚子; 胃
 ]]></trans>
     <phonetic><![CDATA[['pɔ:ntʃi]]]></phonetic>
     <tags>GRE</tags>
@@ -29302,6 +29410,7 @@ adj. 贵族的；显贵的
 </item><item>    <word>pauper</word>
     <trans><![CDATA[n. 乞丐；穷人；靠救济度日者 
 adj. 贫民的 
+poor
 ]]></trans>
     <phonetic><![CDATA[['pɔ:pə]]]></phonetic>
     <tags>GRE</tags>
