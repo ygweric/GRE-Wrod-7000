@@ -29426,12 +29426,14 @@ vi. 消瘦；到达最高点；变憔悴
     <progress>0</progress>
 </item><item>    <word>pecan</word>
     <trans><![CDATA[n. 美洲山核桃；美洲山核桃树 
+        no
 ]]></trans>
     <phonetic><![CDATA[[pi'kæn]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>peccadillo</word>
     <trans><![CDATA[n. 轻罪；小过失；小瑕疵 
+        no
 ]]></trans>
     <phonetic><![CDATA[[,pekə'diləu]]]></phonetic>
     <tags>GRE</tags>
@@ -29440,12 +29442,14 @@ vi. 消瘦；到达最高点；变憔悴
     <trans><![CDATA[n. 许多；配克（容量单位，等于2加仑）；啄痕 
 vt. 啄食；扔 
 vi. 啄食；扔石头；吹毛求疵 
+pick
 ]]></trans>
     <phonetic><![CDATA[[pek]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pedagogy</word>
     <trans><![CDATA[n. 教育；教育学；教授法 
+ from pais (genitive paidos) "child" (see pedo-) + agogos "leader," from agein "to lead" (see act (n.)). 
 ]]></trans>
     <phonetic><![CDATA[['pedəɡɔɡi]]]></phonetic>
     <tags>GRE</tags>
@@ -29455,12 +29459,14 @@ vi. 啄食；扔石头；吹毛求疵
 vi. 踩踏板；骑车 
 vt. 骑（自行车）；踩……的踏板 
 adj. 脚的；脚踏的 
+no
 ]]></trans>
     <phonetic><![CDATA[['pedl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pedant</word>
     <trans><![CDATA[n. 学究；书呆子；卖弄学问的人；空谈家 
+        pedagogue  [ped·a·gogue || 'pedəgɑg /-gɒg] n.  教师, 爱假装博学者, 教育者
 ]]></trans>
     <phonetic><![CDATA[['pedənt]]]></phonetic>
     <tags>GRE</tags>
@@ -29468,6 +29474,7 @@ adj. 脚的；脚踏的
 </item><item>    <word>pedestal</word>
     <trans><![CDATA[n. 基架，基座；基础 
 vt. 搁在台上；支持；加座 
+pes (genitive pedis) "foot" (see foot (n.)).
 ]]></trans>
     <phonetic><![CDATA[['pedistəl]]]></phonetic>
     <tags>GRE</tags>
@@ -29475,12 +29482,14 @@ vt. 搁在台上；支持；加座
 </item><item>    <word>pedestrian</word>
     <trans><![CDATA[n. 行人；步行者 
 adj. 徒步的；缺乏想像力的 
+pes (genitive pedis) "foot" (see foot (n.)).
 ]]></trans>
     <phonetic><![CDATA[[pi'destriən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pediatrics</word>
     <trans><![CDATA[n. 小儿科 
+        stem of pais "child" (cf. pedo-) + -iatric.
 ]]></trans>
     <phonetic><![CDATA[[,pi:di'ætriks]]]></phonetic>
     <tags>GRE</tags>
@@ -29510,12 +29519,17 @@ vi. 凝视，盯着看；窥视
     <trans><![CDATA[n. 怨恨；麻烦的事物；触怒 
 vi. 焦躁；气恼；惹恼 
 vt. 使焦躁；使气恼 
+peevish  ['pee·vish || 'pɪːvɪʃ] adj.  易怒的, 撒娇的, 暴躁的
+pervert  [per·vert || pər'vɜrt /pə'vɜːt] n.  堕落者; 变态者 v.  使堕落, 滥用, 歪曲
+from per- "away" (see per) + vertere "to turn" (see versus). 
 ]]></trans>
     <phonetic><![CDATA[[pi:v]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>peevish</word>
     <trans><![CDATA[adj. 易怒的，暴躁的；带怒气的；撒娇的 
+        pervert  [per·vert || pər'vɜrt /pə'vɜːt] n.  堕落者; 变态者 v.  使堕落, 滥用, 歪曲
+from per- "away" (see per) + vertere "to turn" (see versus). 
 ]]></trans>
     <phonetic><![CDATA[['pi:viʃ]]]></phonetic>
     <tags>GRE</tags>
@@ -29523,26 +29537,23 @@ vt. 使焦躁；使气恼
 </item><item>    <word>pejorative</word>
     <trans><![CDATA[n. 轻蔑语 
 adj. 轻蔑的；[临床] 恶化的，变坏的 
+peccadillo  [pec·ca·dil·lo || ‚pekə'dɪləʊ]
+n.  轻罪, 小暇疵, 小过
+ped- "to walk, stumble, fall," related to the root of foot (n.).
 ]]></trans>
     <phonetic><![CDATA[['pi:dʒərətive]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pelf</word>
     <trans><![CDATA[n. 钱财；不义之财，赃物 
+        no
 ]]></trans>
     <phonetic><![CDATA[[pelf]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
-</item><item>    <word>pell-mell</word>
-    <trans><![CDATA[n. 混乱；杂乱；乱七八糟 
-adj. 混乱的；杂乱的 
-adv. 混乱地；乱七八糟地 
-]]></trans>
-    <phonetic><![CDATA[['pel'mel]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
 </item><item>    <word>pellucid</word>
     <trans><![CDATA[adj. 透明的；清晰的；明了的 
+        " from per- "through" (see per) + lucere "to shine" (see light (n.)).
 ]]></trans>
     <phonetic><![CDATA[[pe'lju:sid]]]></phonetic>
     <tags>GRE</tags>
@@ -29556,12 +29567,14 @@ vt. 写；关入栏中
     <progress>0</progress>
 </item><item>    <word>penalize</word>
     <trans><![CDATA[vt. 处罚；处刑；使不利 
+         penal  [pe·nal || 'pɪːnl]adj.  刑的, 刑法上的, 刑罚的
 ]]></trans>
     <phonetic><![CDATA[['pi:nəlaiz]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>penalty</word>
     <trans><![CDATA[n. 罚款，罚金；处罚 
+         penal  [pe·nal || 'pɪːnl]adj.  刑的, 刑法上的, 刑罚的
 ]]></trans>
     <phonetic><![CDATA[['penəlti]]]></phonetic>
     <tags>GRE</tags>
@@ -29575,6 +29588,15 @@ vt. 使…以苦行赎罪
     <progress>0</progress>
 </item><item>    <word>penchant</word>
     <trans><![CDATA[n. 嗜好；倾向 
+        pendant  [pend·ant || 'pendənt]
+n.  下垂物; 挂件; 垂饰; 悬吊装置
+adj.  下垂物的; 垂饰的; 悬吊装置的
+from Latin pendere "to hang" (see pendant (n.)).
+penitence  [pen·i·tence || 'penɪtəns] n.  忏悔; 赎罪
+to pull, draw, stretch" (see span (v.))
+span  [spæn]
+n.  墩距; 一段时间; 跨度; 指距, 一叉宽#跨绳
+v.  横跨, 跨越; 在...上建拱门; 在...架桥; 以指距量; 套上
 ]]></trans>
     <phonetic><![CDATA[['pentʃənt,pā:ŋ'ʃā:ŋ]]]></phonetic>
     <tags>GRE</tags>
@@ -29589,6 +29611,7 @@ adj. 未决定的；行将发生的
     <progress>0</progress>
 </item><item>    <word>pendulum</word>
     <trans><![CDATA[n. 钟摆；摇锤；摇摆不定的事态 
+        pend
 ]]></trans>
     <phonetic><![CDATA[['pendjuləm, -dʒə-]]]></phonetic>
     <tags>GRE</tags>
@@ -29596,12 +29619,14 @@ adj. 未决定的；行将发生的
 </item><item>    <word>penetrate</word>
     <trans><![CDATA[vi. 渗透；刺入；看透 
 vt. 渗透；穿透；洞察 
+no
 ]]></trans>
     <phonetic><![CDATA[['penitreit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>peninsula</word>
     <trans><![CDATA[n. 半岛 
+         from pen "almost" + insula "island" (see isle)
 ]]></trans>
     <phonetic><![CDATA[[pi'ninsjulə]]]></phonetic>
     <tags>GRE</tags>
@@ -29609,12 +29634,17 @@ vt. 渗透；穿透；洞察
 </item><item>    <word>penitent</word>
     <trans><![CDATA[adj. 忏悔的，悔过的 
 n. 悔罪者，忏悔者 
+penitence  [pen·i·tence || 'penɪtəns] n.  忏悔; 赎罪
+penal  [pe·nal || 'pɪːnl] adj.  刑的, 刑法上的, 刑罚的
 ]]></trans>
     <phonetic><![CDATA[['penitənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pennant</word>
     <trans><![CDATA[n. 细长三角旗；奖旗；信号旗 
+        pendant  [pend·ant || 'pendənt]
+n.  下垂物; 挂件; 垂饰; 悬吊装置
+adj.  下垂物的; 垂饰的; 悬吊装置的
 ]]></trans>
     <phonetic><![CDATA[['penənt]]]></phonetic>
     <tags>GRE</tags>
@@ -29622,12 +29652,15 @@ n. 悔罪者，忏悔者
 </item><item>    <word>penultimate</word>
     <trans><![CDATA[n. 倒数第二；倒数第二音节 
 adj. 倒数第二的；倒数第二音节的 
+penultima [pi'nʌltimə] n. 尾倒数第二音节；倒数第二个
+from paene "almost" + ultimus "final" (see ultimate).
 ]]></trans>
     <phonetic><![CDATA[[pi'nʌltimit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>penury</word>
     <trans><![CDATA[n. 贫困；贫穷 
+        penny 便士
 ]]></trans>
     <phonetic><![CDATA[['penjuri]]]></phonetic>
     <tags>GRE</tags>
@@ -29635,6 +29668,7 @@ adj. 倒数第二的；倒数第二音节的
 </item><item>    <word>perambulate</word>
     <trans><![CDATA[vt. 巡行；巡视；漫步 
 vi. 漫步；巡回 
+from per- "through" (see per) + ambulare "to walk" (see amble).
 ]]></trans>
     <phonetic><![CDATA[[pə'ræmbjuleit]]]></phonetic>
     <tags>GRE</tags>
@@ -29643,24 +29677,28 @@ vi. 漫步；巡回
     <trans><![CDATA[n. 高位；栖木；杆 
 vt. 栖息；就位；位于；使坐落于 
 vi. 栖息；就位；位于 
+no
 ]]></trans>
     <phonetic><![CDATA[[pə:tʃ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>percussionist</word>
     <trans><![CDATA[n. 敲击乐器演奏者；打击乐器乐手 
+         from per- "through" (see per) + quatere "to strike, shake" (see quash). 
 ]]></trans>
     <phonetic><![CDATA[[pə:'kʌʃənist]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>peregrination</word>
     <trans><![CDATA[n. 游历；旅行；旅程 
+         from per- (see per) + agri, locative of ager "field, territory, land, country" (see acre).
 ]]></trans>
     <phonetic><![CDATA[[,periɡri'neiʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>peremptory</word>
     <trans><![CDATA[adj. 强制的；绝对的；断然的；专横的 
+         from per- "away entirely, to destruction" (see per) + emere "to take" (see exempt (adj.)).
 ]]></trans>
     <phonetic><![CDATA[[pə'remptəri, 'perəmp-]]]></phonetic>
     <tags>GRE</tags>
@@ -29668,24 +29706,32 @@ vi. 栖息；就位；位于
 </item><item>    <word>perennial</word>
     <trans><![CDATA[n. 多年生植物 
 adj. 多年生的；常年的；四季不断的；常在的；反复的 
+from per- "through" (see per) + annus "year" (see annual). 
 ]]></trans>
     <phonetic><![CDATA[[pə'reniəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>perfervid</word>
     <trans><![CDATA[adj. 非常热心的；热烈的 
+        from per- "completely" (see per) + fervidus (see fervid). 
+        fervid  ['fer·vid || 'fɜrvɪd /'fɜːv-] adj.  热的; 热心的
+        from fervere "to boil, glow" (see brew (v.)). 
+        brew  [bruː] n.  酿造酒, 酝酿
+v.  酿造; 泡, 调制, 煮; 用...酿酒; 为...泡, 为...煮; 酿酒; 酝酿着, 即将发生; 被冲泡
 ]]></trans>
     <phonetic><![CDATA[[pə:'fə:vid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>perfidious</word>
-    <trans><![CDATA[adj. 背信弃义的；不忠的 
+    <trans><![CDATA[adj. 背信弃义的；不忠的     
+         from per "through" (see per) + fidem (nominative fides) "faith" (see faith).
 ]]></trans>
     <phonetic><![CDATA[[pə'fidiəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>perfidy</word>
     <trans><![CDATA[n. 不诚实；背信弃义 
+        from per "through" (see per) + fidem (nominative fides) "faith" (see faith).
 ]]></trans>
     <phonetic><![CDATA[['pə:fidi]]]></phonetic>
     <tags>GRE</tags>
@@ -29693,12 +29739,15 @@ adj. 多年生的；常年的；四季不断的；常在的；反复的
 </item><item>    <word>perforate</word>
     <trans><![CDATA[vt. 穿孔于，打孔穿透；在…上打齿孔 
 vi. 穿过，贯穿；穿孔 
+from per- "through" (see per) + forare "to pierce" (see bore (v.1)).
+pierce  [pɪrs /pɪəs] v.  刺穿, 洞悉, 穿透; 穿入, 透入, 进入
 ]]></trans>
     <phonetic><![CDATA[['pə:fəreit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>perfunctory</word>
     <trans><![CDATA[adj. 敷衍的；马虎的；得过且过的 
+        " from per- "through" + fungi "perform" (see function (n.)).
 ]]></trans>
     <phonetic><![CDATA[[pə'fʌŋktəri]]]></phonetic>
     <tags>GRE</tags>
@@ -29706,18 +29755,22 @@ vi. 穿过，贯穿；穿孔
 </item><item>    <word>peril</word>
     <trans><![CDATA[n. 危险；冒险 
 vt. 危及；置…于险境 
+fear 
 ]]></trans>
     <phonetic><![CDATA[['peril]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>perilous</word>
     <trans><![CDATA[adj. 危险的，冒险的 
+         from periculum "a danger, attempt, risk" (see peril). 
+         peril  [per·il || 'perəl] n.  危险, 冒险 v.  使有危险, 使临险境; 危及
 ]]></trans>
     <phonetic><![CDATA[['periləs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>perimeter</word>
     <trans><![CDATA[n. 周长；周界；[眼科] 视野计 
+        from peri- "around" (see peri-) + metron "measure" (see meter (n.2)).
 ]]></trans>
     <phonetic><![CDATA[[pə'rimitə]]]></phonetic>
     <tags>GRE</tags>
@@ -29725,6 +29778,7 @@ vt. 危及；置…于险境
 </item><item>    <word>periodical</word>
     <trans><![CDATA[n. 期刊；杂志 
 adj. [数] 周期的；定期的 
+period
 ]]></trans>
     <phonetic><![CDATA[[,piəri'ɔdikəl]]]></phonetic>
     <tags>GRE</tags>
@@ -29732,24 +29786,29 @@ adj. [数] 周期的；定期的
 </item><item>    <word>peripatetic</word>
     <trans><![CDATA[n. 走来走去的人；逍遥学派的人 
 adj. 漫游的；逍遥学派的 
+from peri- "around" (see peri-) + patein "to walk, tread" (see find (v.)). 
 ]]></trans>
     <phonetic><![CDATA[[,peripə'tetik]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>peripheral</word>
     <trans><![CDATA[adj. 外围的；次要的 
+        periphery  [pe·riph·er·y || pə'rɪfrɪ] n.  外围
+ from peri- "round about" (see peri-) + pherein "to carry" (see infer).
 ]]></trans>
     <phonetic><![CDATA[[pə'rifərəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>periphery</word>
     <trans><![CDATA[n. 外围，边缘；圆周；圆柱体表面 
+         from peri- "round about" (see peri-) + pherein "to carry" (see infer).
 ]]></trans>
     <phonetic><![CDATA[[pə'rifəri]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>periscope</word>
     <trans><![CDATA[n. 潜望镜 
+         from peri- "around" + -scope "
 ]]></trans>
     <phonetic><![CDATA[['periskəup]]]></phonetic>
     <tags>GRE</tags>
@@ -29757,6 +29816,7 @@ adj. 漫游的；逍遥学派的
 </item><item>    <word>perish</word>
     <trans><![CDATA[vi. 死亡；毁灭；腐烂；枯萎 
 vt. 使麻木；毁坏 
+from per- "through, completely, to destruction" (see per) + ire "to go" (see ion). 
 ]]></trans>
     <phonetic><![CDATA[['periʃ]]]></phonetic>
     <tags>GRE</tags>
@@ -29764,24 +29824,29 @@ vt. 使麻木；毁坏
 </item><item>    <word>perishing</word>
     <trans><![CDATA[adj. 讨厌的；严寒的；糟糕的 
 v. 死亡（perish的ing形式）；毁灭；使麻木 
+perish vi. 死亡；毁灭；腐烂；枯萎 
 ]]></trans>
     <phonetic><![CDATA[['periʃiŋ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>perjure</word>
     <trans><![CDATA[vt. 作伪证；使发伪誓；使破坏誓言 
+        perjury  ['per·ju·ry || 'pɜrdʒərɪ /'pɜːd-] n.  伪誓, 伪证
+         from per- "away, entirely" (see per) + iurare "to swear" (see jury (n.)). 
 ]]></trans>
     <phonetic><![CDATA[['pə:dʒə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>perjury</word>
     <trans><![CDATA[n. 伪证；伪誓；背信弃义 
+        from per- "away, entirely" (see per) + iurare "to swear" (see jury (n.)). 
 ]]></trans>
     <phonetic><![CDATA[['pə:dʒəri]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>perky</word>
     <trans><![CDATA[adj. 神气的；得意洋洋的；自信的；活泼的 
+        no
 ]]></trans>
     <phonetic><![CDATA[['pə:ki]]]></phonetic>
     <tags>GRE</tags>
@@ -29789,12 +29854,14 @@ v. 死亡（perish的ing形式）；毁灭；使麻木
 </item><item>    <word>permanent</word>
     <trans><![CDATA[n. 烫发（等于permanent wave） 
 adj. 永久的，永恒的；不变的 
+ from per- "through" (see per) + manere "stay" (see mansion).
 ]]></trans>
     <phonetic><![CDATA[['pə:mənənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>permeable</word>
     <trans><![CDATA[adj. 能透过的；有渗透性的 
+        from per- "through" (see per) + meare "to pass," from PIE root *mei- "to change" (see mutable). 
 ]]></trans>
     <phonetic><![CDATA[['pə:miəbl]]]></phonetic>
     <tags>GRE</tags>
@@ -29802,6 +29869,7 @@ adj. 永久的，永恒的；不变的
 </item><item>    <word>permeate</word>
     <trans><![CDATA[vt. 渗透，透过；弥漫 
 vi. 弥漫；透入；散布 
+from per- "through" (see per) + meare "to pass," from PIE root *mei- "to change" (see mutable). 
 ]]></trans>
     <phonetic><![CDATA[['pə:mieit]]]></phonetic>
     <tags>GRE</tags>
@@ -29814,6 +29882,7 @@ vi. 弥漫；透入；散布
     <progress>0</progress>
 </item><item>    <word>pernicious</word>
     <trans><![CDATA[adj. 有害的；恶性的；致命的；险恶的 
+         from per- "completely" (see per) + necis "violent death, murder," 
 ]]></trans>
     <phonetic><![CDATA[[pə'niʃəs]]]></phonetic>
     <tags>GRE</tags>
@@ -29821,12 +29890,18 @@ vi. 弥漫；透入；散布
 </item><item>    <word>perpendicular</word>
     <trans><![CDATA[n. 垂线；垂直的位置 
 adj. 垂直的，正交的；直立的；陡峭的 
+from per- "thoroughly" (see per) + pendere "to weigh, to hang" (see pendant).
+pendant  [pend·ant || 'pendənt]
+n.  下垂物; 挂件; 垂饰; 悬吊装置 adj.  下垂物的; 垂饰的; 悬吊装置的
 ]]></trans>
     <phonetic><![CDATA[[,pə:pən'dikjulə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>perpetual</word>
     <trans><![CDATA[adj. 永久的；不断的；四季开花的；无期限的 
+         from per- "through" + root of petere "to seek, go to, aim at"
+         petition  [pe·ti·tion || pɪ'tɪʃn]
+n.  请愿, 陈情书, 诉状 v.  向...请愿; 祈求; 请求; 请愿; 请求
 ]]></trans>
     <phonetic><![CDATA[[pə'petʃuəl, -tju-]]]></phonetic>
     <tags>GRE</tags>
@@ -29834,36 +29909,47 @@ adj. 垂直的，正交的；直立的；陡峭的
 </item><item>    <word>perpetuate</word>
     <trans><![CDATA[vt. 使不朽；保持 
 adj. 长存的 
+perpetual  [per·pet·u·al || pər'petʃʊəl /pə'p-] adj.  永久的, 没完没了的, 不断的
+from per- "through" + root of petere "to seek, go to, aim at" (see petition (n.))
+         petition  [pe·ti·tion || pɪ'tɪʃn]
+n.  请愿, 陈情书, 诉状 v.  向...请愿; 祈求; 请求; 请愿; 请求
 ]]></trans>
     <phonetic><![CDATA[[pə'petʃueit, -tju-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>perquisite</word>
     <trans><![CDATA[n. 额外补贴；临时津贴；特权 
+         ," from per- "thoroughly" (see per) + quærere "to seek" (see query (v.))
 ]]></trans>
     <phonetic><![CDATA[['pə:kwizit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>persecute</word>
     <trans><![CDATA[vt. 迫害；困扰；同…捣乱 
+        from per- "through" (see per) + sequi "follow" (see sequel)
+        sequel  [se·quel || 'sɪːkwəl] n.  继续, 随之而来的事; 结局; 续集, 续篇; 余波
 ]]></trans>
     <phonetic><![CDATA[['pə:sikju:t]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>persiflage</word>
     <trans><![CDATA[n. 挖苦；嘲弄；戏谑 
+        from Latin per- "through" (see per) + French siffler "to whistle, hiss,"
 ]]></trans>
     <phonetic><![CDATA[['pə:siflɑ:ʒ, ,pə:si'flɑ:ʒ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>personable</word>
     <trans><![CDATA[adj. 风度好的；貌美的；具有行为能力的 
+         person + -able, 
 ]]></trans>
     <phonetic><![CDATA[['pə:sənəble]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>personification</word>
     <trans><![CDATA[n. 人格化；化身；拟人法（一种修辞手法）；象征 
+        personify  [per·son·i·fy || pɜr'sɑnɪfaɪ /pɜː'sɒ-] v.  赋与...以人性, 使人格化
+person + -fy
 ]]></trans>
     <phonetic><![CDATA[[pə:,sɔnifi'keiʃən, pə-]]]></phonetic>
     <tags>GRE</tags>
@@ -29878,24 +29964,28 @@ adj. 人员的；有关人事的
 </item><item>    <word>perspective</word>
     <trans><![CDATA[n. 观点；远景；透视图 
 adj. 透视的 
+ per- "through" (see per) + specere "look at" (see scope (n.1)).
 ]]></trans>
     <phonetic><![CDATA[[pə'spektiv]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>perspicacious</word>
     <trans><![CDATA[adj. 有洞察力的；聪颖的；敏锐的 
+         per- "through" (see per) + specere "look at" (see scope (n.1)).
 ]]></trans>
     <phonetic><![CDATA[[,pə:spi'keiʃəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>perspicuity</word>
     <trans><![CDATA[n. （语言、文章、表达等的）明晰；简明 
+         per- "through" (see per) + specere "look at" (see scope (n.1)).
 ]]></trans>
     <phonetic><![CDATA[[,pə:spi'kju:əti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>perspicuous</word>
     <trans><![CDATA[adj. 明了的；清晰明白的；易懂的 
+         per- "through" (see per) + specere "look at" (see scope (n.1)).
 ]]></trans>
     <phonetic><![CDATA[[pə'spikjuəs]]]></phonetic>
     <tags>GRE</tags>
@@ -29903,66 +29993,84 @@ adj. 透视的
 </item><item>    <word>perspire</word>
     <trans><![CDATA[vt. 使流汗；分泌出 
 vi. 流汗；分泌；渗出 
+perspiration  [per·spi·ra·tion || ‚pɜrspə'reɪʃn /‚pɜː-] n.  汗, 努力, 流汗
+ from per- "through" (see per) + spirare "to breathe, blow" (see spirit (n.)). 
 ]]></trans>
     <phonetic><![CDATA[[pəs'paiə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pertain</word>
     <trans><![CDATA[vi. 属于；关于；适合 
+        from per- "through" (see per) + tenere "to hold" (see tenet). 
+        tenet  [ten·et || 'tenɪt] n.  教义, 原则, 宗旨
 ]]></trans>
     <phonetic><![CDATA[[pə:'tein, pə-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pertinacious</word>
     <trans><![CDATA[adj. 顽固的；执拗的 
+        pertinacity  [,per·ti'nac·i·ty || ‚pɜrtə'næsətɪ /‚pɜːtɪ-] n.  执拗; 难治愈; 顽固
+         from per- "very" (see per) + tenax (see tenacious).
+         tenacious  [te·na·cious || tɪ'neɪʃəs] adj.  紧握的; 强的; 坚持的, 固执的, 顽强的; 坚韧的
+         tenacity  n.  固执; 坚韧, 韧性; 坚持, 不屈不挠, 顽强; 保持力
+    tenet  [ten·et || 'tenɪt] n.  教义, 原则, 宗旨
 ]]></trans>
     <phonetic><![CDATA[[,pə:ti'neiʃəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pertinent</word>
     <trans><![CDATA[adj. 相关的，相干的；中肯的；切题的 
+        pertain  [per·tain || pɜr'teɪn /pɜː-] v.  属于, 附属, 关于
+ from per- "through" (see per) + tenere "to hold" (see tenet). 
 ]]></trans>
     <phonetic><![CDATA[['pə:tinənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>peruse</word>
     <trans><![CDATA[vt. 详细考察；精读 
+         per- "completely" (see per) + use (v.).
 ]]></trans>
     <phonetic><![CDATA[[pə'ru:z]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pervade</word>
     <trans><![CDATA[vt. 遍及；弥漫 
+         per- "through" + vadere "to go" 
 ]]></trans>
     <phonetic><![CDATA[[pə:'veid, pə-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pessimism</word>
     <trans><![CDATA[n. 悲观，悲观情绪；厌世主义 
+        no
 ]]></trans>
     <phonetic><![CDATA[['pesimizəm]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pest</word>
     <trans><![CDATA[n. 害虫；有害之物；讨厌的人 
+        '拍死他'
 ]]></trans>
     <phonetic><![CDATA[[pest]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pester</word>
     <trans><![CDATA[vt. 纠缠，烦扰；使烦恼 
+        pest + er
 ]]></trans>
     <phonetic><![CDATA[['pestə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pesticide</word>
     <trans><![CDATA[n. 杀虫剂 
+         pest + Latinate -cide.
 ]]></trans>
     <phonetic><![CDATA[['pestisaid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pestilent</word>
     <trans><![CDATA[adj. 致命的；有害的；恼人的；危害社会的 
+        from pestis "deadly contagious disease" (see pest (n.)). 
 ]]></trans>
     <phonetic><![CDATA[['pestilənt]]]></phonetic>
     <tags>GRE</tags>
@@ -29971,26 +30079,29 @@ vi. 流汗；分泌；渗出
     <trans><![CDATA[n. 杵；碾槌 
 vt. 用杵捣；用槌磨 
 vi. 用杵捣碎；用槌磨碎 
+(as)用'杵'拍死'pest'
 ]]></trans>
     <phonetic><![CDATA[['pesəl, 'pestl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>petal</word>
     <trans><![CDATA[n. 花瓣 
+        no
 ]]></trans>
     <phonetic><![CDATA[['petəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>petition</word>
     <trans><![CDATA[n. 请愿；请愿书；祈求；[法] 诉状 
-vt. 请愿；请求；恳求 
-vi. 请愿；请求 
+vt. 请愿；请求；恳求 vi. 请愿；请求 
+(as)pet 的请求
 ]]></trans>
     <phonetic><![CDATA[[pi'tiʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>petitioner</word>
     <trans><![CDATA[n. 请愿人；诉愿人；（英）离婚案原告 
+        petition
 ]]></trans>
     <phonetic><![CDATA[[pə'tiʃənə(r)]]]></phonetic>
     <tags>GRE</tags>
@@ -29998,42 +30109,54 @@ vi. 请愿；请求
 </item><item>    <word>petrify</word>
     <trans><![CDATA[vt. 使…石化；使…惊呆 
 vi. 石化；惊呆 
+ from Latin petra "rock, crag" (see petrous) + -ficare, from facere "to make, do" (see factitious). 
+ petrous  ['petrəs] adj.  坚硬如石的; 似岩石的
 ]]></trans>
     <phonetic><![CDATA[['petrifai]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>petroglyph</word>
     <trans><![CDATA[n. 岩石雕刻；岩石画 
+         petrous  ['petrəs] adj.  坚硬如石的; 似岩石的
 ]]></trans>
     <phonetic><![CDATA[['petrəuɡlif]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>petroleum</word>
     <trans><![CDATA[n. 石油 
+        (see petrous) + oleum "oil" (see oil (n.)).
+         petrous  ['petrəs] adj.  坚硬如石的; 似岩石的
 ]]></trans>
     <phonetic><![CDATA[[pi'trəuliəm, pə-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>petrology</word>
     <trans><![CDATA[n. [岩] 岩石学 
+         petrous  ['petrəs] adj.  坚硬如石的; 似岩石的
 ]]></trans>
     <phonetic><![CDATA[[pi:'trɔlədʒi]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>petty</word>
     <trans><![CDATA[adj. 琐碎的；小气的；小规模的 
+        petit  [pet·it || 'petɪ] adj.  没有价值的; 轻微的; 无用的; 细小的
+        piece
+        pet
 ]]></trans>
     <phonetic><![CDATA[['peti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>petulance</word>
     <trans><![CDATA[n. 易怒；生气；性急；暴躁 
+        petulant  ['pet·u·lant || 'petʃlənt /-tʃʊl] adj.  暴躁的, 难以取悦的, 易生气的
+        petition  [pe·ti·tion || pɪ'tɪʃn] n.  请愿, 陈情书, 诉状
 ]]></trans>
     <phonetic><![CDATA[['petjuləns]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>petulant</word>
     <trans><![CDATA[adj. 暴躁的；任性的；难以取悦的 
+        petition  [pe·ti·tion || pɪ'tɪʃn] n.  请愿, 陈情书, 诉状
 ]]></trans>
     <phonetic><![CDATA[['petjulənt, -tʃə-]]]></phonetic>
     <tags>GRE</tags>
@@ -30041,6 +30164,7 @@ vi. 石化；惊呆
 </item><item>    <word>phantom</word>
     <trans><![CDATA[n. 幽灵；幻影；虚位 
 adj. 幽灵的；幻觉的；有名无实的 
+no
 ]]></trans>
     <phonetic><![CDATA[['fæntəm]]]></phonetic>
     <tags>GRE</tags>
@@ -30048,6 +30172,7 @@ adj. 幽灵的；幻觉的；有名无实的
 </item><item>    <word>pharmaceutical</word>
     <trans><![CDATA[n. 药物 
 adj. 制药（学）的 
+pharmacy  [phar·ma·cy || 'fɑrməsɪ /'fɑː-] n.  药房, 配药学
 ]]></trans>
     <phonetic><![CDATA[[,fɑ:mə'sju:tikəl]]]></phonetic>
     <tags>GRE</tags>
@@ -30060,6 +30185,7 @@ adj. 制药（学）的
     <progress>0</progress>
 </item><item>    <word>phenomenal</word>
     <trans><![CDATA[adj. 现象的；显著的；异常的；能知觉的 
+        phenomena
 ]]></trans>
     <phonetic><![CDATA[[fi'nɔminəl, fə-]]]></phonetic>
     <tags>GRE</tags>
