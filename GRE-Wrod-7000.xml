@@ -34712,13 +34712,15 @@ no
 </item><item>    <word>reprimand</word>
     <trans><![CDATA[n. 谴责；训斥；申诉 
 vt. 谴责；训斥；责难 
-repress)
+repress
 ]]></trans>
     <phonetic><![CDATA[['reprimɑ:nd, repri'm-, -mænd, -'mænd]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>reprisal</word>
     <trans><![CDATA[n. 报复（行为）；报复性劫掠 
+        reprehend  [rep·re·hend || ‚reprɪ'hend] v.  申斥, 非难, 谴责, 指摘
+prehensile  [pre·hen·sile || prɪ'hensl /-saɪl] adj.  适于抓住的
 ]]></trans>
     <phonetic><![CDATA[[ri'praizəl]]]></phonetic>
     <tags>GRE</tags>
@@ -34726,6 +34728,7 @@ repress)
 </item><item>    <word>reprise</word>
     <trans><![CDATA[n. 重复；（从地产每年收入中扣除的）年金 
 vt. 重奏 
+no
 ]]></trans>
     <phonetic><![CDATA[[ri'pri:z, ri'praiz]]]></phonetic>
     <tags>GRE</tags>
@@ -34733,6 +34736,7 @@ vt. 重奏
 </item><item>    <word>reproach</word>
     <trans><![CDATA[n. 责备；耻辱 
 vt. 责备；申斥 
+approach 途径；方法  v.接近
 ]]></trans>
     <phonetic><![CDATA[[ri'prəutʃ]]]></phonetic>
     <tags>GRE</tags>
@@ -34741,12 +34745,14 @@ vt. 责备；申斥
     <trans><![CDATA[n. 恶棍，无赖 
 adj. 邪恶的；堕落的 
 v. 非难；拒绝；斥责 
+no
 ]]></trans>
     <phonetic><![CDATA[['reprəubeit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>reproof</word>
     <trans><![CDATA[n. 责备；谴责 
+        reprove  [re·prove || rɪ'pruːv] v.  责备, 非难, 指责; 使知罪, 责骂
 ]]></trans>
     <phonetic><![CDATA[[ri'pru:f]]]></phonetic>
     <tags>GRE</tags>
@@ -34754,6 +34760,7 @@ v. 非难；拒绝；斥责
 </item><item>    <word>reprove</word>
     <trans><![CDATA[vt. 责骂；谴责；非难 
 vi. 责备；指责；非难 
+no
 ]]></trans>
     <phonetic><![CDATA[[ri'pru:v]]]></phonetic>
     <tags>GRE</tags>
@@ -34768,24 +34775,30 @@ adj. 爬虫类的；卑鄙的
 </item><item>    <word>reptilian</word>
     <trans><![CDATA[n. 爬虫类动物 
 adj. 爬虫类的；卑鄙的 
+sub  creep
 ]]></trans>
     <phonetic><![CDATA[[rep'tiliən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>repudiate</word>
     <trans><![CDATA[vt. 拒绝；否定；批判；与…断绝关系；拒付 
+          foot
+          pod-   tripod 三脚桌, 三脚架
+        re pod-词根：脚
 ]]></trans>
     <phonetic><![CDATA[[ri'pju:dieit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>repugnance</word>
     <trans><![CDATA[n. 反感；厌恶；不一致，抵触 
+         re- "back" (see re-) + pugnare "to fight" (see pugnacious).
 ]]></trans>
     <phonetic><![CDATA[[ri'pʌɡnəns]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>repugnant</word>
     <trans><![CDATA[adj. 讨厌的；矛盾的；敌对的 
+         re- "back" (see re-) + pugnare "to fight" (see pugnacious).
 ]]></trans>
     <phonetic><![CDATA[[ri'pʌɡnənt]]]></phonetic>
     <tags>GRE</tags>
@@ -34793,12 +34806,16 @@ adj. 爬虫类的；卑鄙的
 </item><item>    <word>repulse</word>
     <trans><![CDATA[n. 拒绝；击退 
 vt. 拒绝；驱逐；憎恶 
+  palm 掌
+  pel-词根：推
+repel  击退, 抵制
 ]]></trans>
     <phonetic><![CDATA[[ri'pʌls]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>repulsion</word>
     <trans><![CDATA[n. 排斥；反驳；反感；厌恶 
+        repulse n. 拒绝；击退 
 ]]></trans>
     <phonetic><![CDATA[[ri'pʌlʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -34816,13 +34833,6 @@ vt. 名誉；认为；把…称为
     <phonetic><![CDATA[[ri'pju:t]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
-</item><item>    <word>request</word>
-    <trans><![CDATA[n. 请求；需要 
-vt. 要求，请求 
-]]></trans>
-    <phonetic><![CDATA[[ri'kwest]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
 </item><item>    <word>requisite</word>
     <trans><![CDATA[n. 必需品 
 adj. 必备的，必不可少的；需要的 
@@ -34832,18 +34842,25 @@ adj. 必备的，必不可少的；需要的
     <progress>0</progress>
 </item><item>    <word>requite</word>
     <trans><![CDATA[vt. 报答，回报；酬谢 
+        from re- "back" +  quite "clear, pay up," earlier variant of quit (see quit). 
 ]]></trans>
     <phonetic><![CDATA[[ri'kwait]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>rescind</word>
     <trans><![CDATA[vi. 解除；废除；撤回 
+        from re- "back" (see re-) + scindere "to cut, split" (see shed (v.)). 
+        shed  [ʃed]
+n.  分水岭; 梭口, 梭道#棚, 小屋; 库房; 堆房; 车库
+v.  流出; 散发; 流下; 放射; 流出, 溢出; 脱落; 泻去; 蜕皮
 ]]></trans>
     <phonetic><![CDATA[[ri'sind]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>rescission</word>
     <trans><![CDATA[n. 取消，废除 
+        rescind vi. 解除；废除；撤回 
+        from re- "back" (see re-) + scindere "to cut, split" (see shed (v.)). 
 ]]></trans>
     <phonetic><![CDATA[[ri'siʒən]]]></phonetic>
     <tags>GRE</tags>
@@ -34851,18 +34868,23 @@ adj. 必备的，必不可少的；需要的
 </item><item>    <word>rescue</word>
     <trans><![CDATA[n. 营救；援救；解救 
 vt. 营救；援救 
+　secure v.使..安全 a.安全的
+re+secure= rescue
 ]]></trans>
     <phonetic><![CDATA[['reskju:]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>resent</word>
     <trans><![CDATA[vt. 怨恨；愤恨；厌恶 
+          sense 感觉
+  sent-词根：感觉
 ]]></trans>
     <phonetic><![CDATA[[ri'zent]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>resentment</word>
     <trans><![CDATA[n. 愤恨，怨恨 
+        resent
 ]]></trans>
     <phonetic><![CDATA[[ri'zentmənt]]]></phonetic>
     <tags>GRE</tags>
@@ -34871,12 +34893,16 @@ vt. 营救；援救
     <trans><![CDATA[n. 储备，储存；自然保护区；预备队；[金融] 储备金 
 vt. 储备；保留；预约 
 vi. 预订 
+save 保存
+   serve-词根：保
 ]]></trans>
     <phonetic><![CDATA[[ri'zə:v]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>reside</word>
     <trans><![CDATA[vt. 住，居住；属于 
+        from re- "back, again" (see re-) + sedere "to sit" (see sedentary).
+        sedentary  [sed·en·tar·y || 'sedntərɪ /-rɪ] adj.  久坐的, 土生的, 坐惯的
 ]]></trans>
     <phonetic><![CDATA[[ri'zaid]]]></phonetic>
     <tags>GRE</tags>
@@ -34884,6 +34910,7 @@ vi. 预订
 </item><item>    <word>resident</word>
     <trans><![CDATA[n. 居民 
 adj. 居住的；住院医师；定居的 
+reside
 ]]></trans>
     <phonetic><![CDATA[['rezidənt]]]></phonetic>
     <tags>GRE</tags>
@@ -34891,18 +34918,22 @@ adj. 居住的；住院医师；定居的
 </item><item>    <word>residual</word>
     <trans><![CDATA[n. 剩余；残渣 
 adj. 剩余的；残留的 
+ reside  [re·side || rɪ'zaɪd] v.  住, 居住; 属于, 归于; 驻在; 存在于
 ]]></trans>
     <phonetic><![CDATA[[ri'zidjuəl, -dʒu-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>residue</word>
     <trans><![CDATA[n. 残渣；剩余；滤渣 
+        reside  [re·side || rɪ'zaɪd] v.  住, 居住; 属于, 归于; 驻在; 存在于
 ]]></trans>
     <phonetic><![CDATA[['rezidju:,-du:]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>resignation</word>
     <trans><![CDATA[n. 辞职；放弃；辞职书；顺从 
+        resign  [re·sign || rɪ'zaɪn] v.  辞职, 使顺从, 放弃; 辞职, 屈从
+         from re- "opposite" (see re-) + signare "to make an entry in an account book," literally "to mark" (see sign (v.)).
 ]]></trans>
     <phonetic><![CDATA[[,reziɡ'neiʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -34910,24 +34941,32 @@ adj. 剩余的；残留的
 </item><item>    <word>resigned</word>
     <trans><![CDATA[v. 辞职；顺从（resign的过去分词） 
 adj. 顺从的；已辞职的；己放弃的 
+resign  [re·sign || rɪ'zaɪn] v.  辞职, 使顺从, 放弃; 辞职, 屈从
 ]]></trans>
     <phonetic><![CDATA[[ri'zaind]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>resilience</word>
     <trans><![CDATA[n. 恢复力；弹力；顺应力 
+        salient  ['sa·li·ent || 'seɪlɪənt]
+n.  凸角, 突出部分
+adj.  显著的, 跳跃的, 突出的
 ]]></trans>
     <phonetic><![CDATA[[ri'ziliəns, -jəns]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>resilient</word>
     <trans><![CDATA[adj. 弹回的，有弹力的 
+        salient  ['sa·li·ent || 'seɪlɪənt]
+n.  凸角, 突出部分
+adj.  显著的, 跳跃的, 突出的
 ]]></trans>
     <phonetic><![CDATA[[ri'ziliənt, -jənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>resonant</word>
     <trans><![CDATA[adj. 洪亮的，共振的；共鸣的 
+         sound  supersonic 
 ]]></trans>
     <phonetic><![CDATA[['rezənənt]]]></phonetic>
     <tags>GRE</tags>
@@ -34935,6 +34974,8 @@ adj. 顺从的；已辞职的；己放弃的
 </item><item>    <word>resort</word>
     <trans><![CDATA[n. 凭借，手段；度假胜地；常去之地 
 vi. 求助，诉诸；常去；采取某手段或方法 
+  source  源头
+resource 资源；办法
 ]]></trans>
     <phonetic><![CDATA[[ri'zɔ:t]]]></phonetic>
     <tags>GRE</tags>
@@ -34942,6 +34983,7 @@ vi. 求助，诉诸；常去；采取某手段或方法
 </item><item>    <word>resound</word>
     <trans><![CDATA[vt. 回响；传颂；大声讲 
 vi. 回响；鸣响；被传颂 
+sound
 ]]></trans>
     <phonetic><![CDATA[[ri'zaund, -'saund]]]></phonetic>
     <tags>GRE</tags>
@@ -34954,6 +34996,10 @@ vi. 回响；鸣响；被传颂
     <progress>0</progress>
 </item><item>    <word>respiration</word>
     <trans><![CDATA[n. 呼吸；呼吸作用 
+          pore 气孔
+         spire-词根：呼吸
+        inspire 吸气
+        expire  呼气
 ]]></trans>
     <phonetic><![CDATA[[,respə'reiʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -34961,12 +35007,15 @@ vi. 回响；鸣响；被传颂
 </item><item>    <word>respite</word>
     <trans><![CDATA[n. 缓解；暂缓；暂时的休息；缓期执行 
 vt. 使缓解；使暂缓；使延期；缓期执行 
+ from Latin respectus "consideration, recourse, regard" (see respect (n.)).
+respect  [re·spect || rɪ'spekt] n.  敬重, 尊敬; 尊重, 重视, 注重; 敬意, 问候; 关系
 ]]></trans>
     <phonetic><![CDATA[['respait, -pit, ri'spait]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>resplendent</word>
     <trans><![CDATA[adj. 光辉的；华丽的 
+        splendid  [splen·did || 'splendɪd] adj.  光亮的, 了不起的
 ]]></trans>
     <phonetic><![CDATA[[ri'splendənt]]]></phonetic>
     <tags>GRE</tags>
@@ -34974,14 +35023,9 @@ vt. 使缓解；使暂缓；使延期；缓期执行
 </item><item>    <word>respondent</word>
     <trans><![CDATA[n. [法] 被告；应答者 
 adj. 回答的；应答的 
+response
 ]]></trans>
     <phonetic><![CDATA[[ri'spɔndənt]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
-</item><item>    <word>response</word>
-    <trans><![CDATA[n. 响应；反应；回答 
-]]></trans>
-    <phonetic><![CDATA[[ri'spɔns]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>responsive</word>
@@ -34998,24 +35042,28 @@ adj. 回答的；应答的
     <progress>0</progress>
 </item><item>    <word>restitution</word>
     <trans><![CDATA[n. 恢复；赔偿；归还 
+        rom re- "again" (see re-) + statuere "to set up," from PIE root *sta- "to stand," with derivatives meaning "place or thing that is standing" (see stet).
 ]]></trans>
     <phonetic><![CDATA[[,resti'tju:ʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>restive</word>
     <trans><![CDATA[adj. 倔强的；难驾御的；不安宁的 
+        rest  休息；静止
 ]]></trans>
     <phonetic><![CDATA[['restiv]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>restiveness</word>
     <trans><![CDATA[n. 难以驾御；倔强 
+        rest  休息；静止 倔强的；难驾御的；不安宁的 
 ]]></trans>
     <phonetic><![CDATA[['restivnis]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>restless</word>
     <trans><![CDATA[adj. 焦躁不安的；不安宁的；得不到满足的 
+        rest  休息；静止
 ]]></trans>
     <phonetic><![CDATA[['restlis]]]></phonetic>
     <tags>GRE</tags>
@@ -35050,12 +35098,19 @@ adj. 精力充沛的；精力恢复的
     <trans><![CDATA[n. [管理] 履历；个人简历；摘要 
 vi. 再开始 
 vt. 重新开始；重新获得 
+  summer 
+  sume-词根：抓、摘
 ]]></trans>
     <phonetic><![CDATA[[ri'zju:m, -'zu:m]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>resurgence</word>
     <trans><![CDATA[n. 复活；再现；再起 
+        resurge (波浪)再起伏，再澎湃；复活
+         re- "again" (see re-) + surgere "to rise" (see surge).
+         surge n.  大浪, 波涛; 爆发, 冲刺; 
+        source  n. 源头
+          surge  v.汹涌
 ]]></trans>
     <phonetic><![CDATA[[ri'sə:dʒəns]]]></phonetic>
     <tags>GRE</tags>
@@ -35063,6 +35118,7 @@ vt. 重新开始；重新获得
 </item><item>    <word>resurrect</word>
     <trans><![CDATA[vt. 使复活；复兴；挖出 
 vi. 复活 
+resurge (波浪)再起伏，再澎湃；复活
 ]]></trans>
     <phonetic><![CDATA[[,rezə'rekt]]]></phonetic>
     <tags>GRE</tags>
@@ -35070,6 +35126,7 @@ vi. 复活
 </item><item>    <word>resuscitate</word>
     <trans><![CDATA[vt. 使复苏；使复兴 
 vi. 恢复；复兴 
+resurge (波浪)再起伏，再澎湃；复活
 ]]></trans>
     <phonetic><![CDATA[[ri'sʌsiteit]]]></phonetic>
     <tags>GRE</tags>
@@ -35080,6 +35137,8 @@ adj. 零售的
 vt. 零售；转述 
 adv. 以零售方式 
 vi. 零售 
+from re- "back" (see re-) + taillier "to cut, trim" (see tailor (n.))
+tailor  [tai·lor || 'teɪlə(r)] n.  裁缝师; 服装店 v.  裁制; 使合适; 修改; 做裁缝
 ]]></trans>
     <phonetic><![CDATA[['ri:teil]]]></phonetic>
     <tags>GRE</tags>
@@ -35099,12 +35158,14 @@ vi. 零售
 </item><item>    <word>retaliate</word>
     <trans><![CDATA[vi. 报复；回敬 
 vt. 报复 
+no
 ]]></trans>
     <phonetic><![CDATA[[ri'tælieit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>retaliation</word>
     <trans><![CDATA[n. 报复；反击；回敬 
+        retaliate 报复；回敬 
 ]]></trans>
     <phonetic><![CDATA[[ri,tæli'eiʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -35113,18 +35174,21 @@ vt. 报复
     <trans><![CDATA[n. 延迟；阻止 
 vt. 延迟；阻止；妨碍；使减速 
 vi. 减慢；受到阻滞 
+no
 ]]></trans>
     <phonetic><![CDATA[[ri'tɑ:d]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>reticent</word>
     <trans><![CDATA[adj. 沉默的；有保留的；谨慎的 
+        re tic=dict- 
 ]]></trans>
     <phonetic><![CDATA[['retisənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>retinue</word>
     <trans><![CDATA[n. 随行人员；扈从 
+        "to employ, to retain, hold back" (see retain). 
 ]]></trans>
     <phonetic><![CDATA[['retinju:, -nu:]]]></phonetic>
     <tags>GRE</tags>
@@ -35132,6 +35196,7 @@ vi. 减慢；受到阻滞
 </item><item>    <word>retiring</word>
     <trans><![CDATA[v. 退休（retire的ing形式） 
 adj. 退休的；不善社交的；过隐居生活的 
+retire  [re·tire || rɪ'taɪə(r)] v.  退休; 退出; 退役; 退隐; 使退休; 使退却, 撤回; 令退役; 收回
 ]]></trans>
     <phonetic><![CDATA[[ri'taiəriŋ]]]></phonetic>
     <tags>GRE</tags>
@@ -35140,6 +35205,8 @@ adj. 退休的；不善社交的；过隐居生活的
     <trans><![CDATA[n. 反驳，顶嘴；曲颈瓶 
 vi. 反驳，回嘴 
 vt. 反驳，反击 
+" from re- "back" (see re-) + torquere "to twist" (see thwart).
+thwart  [θwɔrt /θwɔːt] n.  横座板, 划手座; 独木舟的横梁 v.  反对, 横过, 阻碍 adj.  横放的, 横着的; 执拗的, 固执的
 ]]></trans>
     <phonetic><![CDATA[[ri'tɔ:t]]]></phonetic>
     <tags>GRE</tags>
@@ -35148,12 +35215,14 @@ vt. 反驳，反击
     <trans><![CDATA[n. 润饰；修整部分 
 vt. 润饰；修整 
 vi. 润饰；修整 
+ from re- "again" (see re-) + toucher (see touch (v.)).
 ]]></trans>
     <phonetic><![CDATA[[,ri:'tʌtʃ, 'ri:tʌtʃ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>retrace</word>
     <trans><![CDATA[vt. 追溯；折回；重描 
+        trace
 ]]></trans>
     <phonetic><![CDATA[[ri'treis, ri:-, 'ri:treis]]]></phonetic>
     <tags>GRE</tags>
@@ -35162,6 +35231,7 @@ vi. 润饰；修整
     <trans><![CDATA[n. 收缩核 
 vt. 缩回；缩进；取消 
 vi. 缩回；缩进；撤消 
+tract  [trækt] n.  道#广阔的地面; 地方; 土地#短文; 小册子; 传单
 ]]></trans>
     <phonetic><![CDATA[[ri'trækt]]]></phonetic>
     <tags>GRE</tags>
@@ -35170,6 +35240,7 @@ vi. 缩回；缩进；撤消
     <trans><![CDATA[n. 撤退；休息寓所；撤退 
 vt. 退（棋）；使后退 
 vi. 撤退；退避；向后倾 
+back" (see re-) + trahere "to draw" (see tract (n.1))
 ]]></trans>
     <phonetic><![CDATA[[ri'tri:t]]]></phonetic>
     <tags>GRE</tags>
@@ -35177,12 +35248,15 @@ vi. 撤退；退避；向后倾
 </item><item>    <word>retrench</word>
     <trans><![CDATA[vt. 删除；减少；紧缩开支 
 vi. 节省；紧缩 
+from re- "back" (see re-) + Old French trenchier "to cut" (see trench).
+trench  [trentʃ] n.  沟渠, 管沟, 堑壕
 ]]></trans>
     <phonetic><![CDATA[[ri'trentʃ, ri:-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>retribution</word>
     <trans><![CDATA[n. 报应；惩罚；报答；报偿 
+        contribute  [con·trib·ute || kən'trɪbjuːt] v.  有助于, 投稿, 捐助; 出力, 投稿, 捐献
 ]]></trans>
     <phonetic><![CDATA[[,retri'bju:ʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -35198,18 +35272,22 @@ vi. 找回猎物
 </item><item>    <word>revealing</word>
     <trans><![CDATA[v. 揭示；展现（reveal的ing形式） 
 adj. 透露真情的；有启迪作用的；袒胸露肩的 
+reveal  
 ]]></trans>
     <phonetic><![CDATA[[ri'vi:liŋ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>revelation</word>
     <trans><![CDATA[n. 启示；揭露；出乎意料的事；被揭露的真相 
+        reveal  
 ]]></trans>
     <phonetic><![CDATA[[,revə'leiʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>revelry</word>
     <trans><![CDATA[n. 狂欢；欢宴 
+         from revel (n.) + -ery.
+         revel  [rev·el || 'revl] n.  狂欢; 闹饮; 欢宴; 喜庆狂欢活动
 ]]></trans>
     <phonetic><![CDATA[['revəlri]]]></phonetic>
     <tags>GRE</tags>
@@ -35224,6 +35302,8 @@ vi. 报仇；雪耻
     <progress>0</progress>
 </item><item>    <word>revenue</word>
     <trans><![CDATA[n. 税收，国家的收入；收益 
+        from re- "back" (see re-) + venire "come" (see venue).
+        venue  [ven·ue || 'venjuː] n.  犯罪地点, 集合地点, 审判地
 ]]></trans>
     <phonetic><![CDATA[['revənju:, -nu:]]]></phonetic>
     <tags>GRE</tags>
@@ -35232,18 +35312,23 @@ vi. 报仇；雪耻
     <trans><![CDATA[adj. 回响的；反射的 
 vt. 使回响；使反射；使弹回 
 vi. 回响；反响；弹回；不断发生后效 
+verb 动词
+ verbal 语言的
 ]]></trans>
     <phonetic><![CDATA[[ri'və:bəreit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>revere</word>
     <trans><![CDATA[vt. 敬畏；尊敬；崇敬 
+          fear 害怕
+          respect 尊敬
 ]]></trans>
     <phonetic><![CDATA[[ri'viə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>reverie</word>
     <trans><![CDATA[n. 幻想；沉思；幻想曲 
+        rave  [reɪv] n.  胡言乱语; 呼啸, 咆哮; 狂骂; 热烈赞美
 ]]></trans>
     <phonetic><![CDATA[['revəri]]]></phonetic>
     <tags>GRE</tags>
@@ -35268,6 +35353,7 @@ vi. 回复；重提；返祖遗传；归还
 </item><item>    <word>revile</word>
     <trans><![CDATA[vt. 辱骂；斥责 
 vi. 辱骂；谩骂 
+vile  [vaɪl] adj.  卑鄙的, 恶劣的, 可耻的
 ]]></trans>
     <phonetic><![CDATA[[ri'vail]]]></phonetic>
     <tags>GRE</tags>
@@ -35282,6 +35368,10 @@ vt. 修正；复习；校订
     <progress>0</progress>
 </item><item>    <word>revitalize</word>
     <trans><![CDATA[vt. 使…复活；使…复兴；使…恢复生气 
+        from re- "back, again" + vitalize. 
+        vitalize (Amer.)  ['vi·tal·ize || 'vaɪtəlaɪz] v.  赋予生命, 使有生气, 给予活力
+        from vital + -ize. 
+        vital  [vi·tal || 'vaɪtl] adj.  重要的, 充满活力的, 生命的
 ]]></trans>
     <phonetic><![CDATA[[,ri:'vaitəlaiz]]]></phonetic>
     <tags>GRE</tags>
@@ -35289,6 +35379,8 @@ vt. 修正；复习；校订
 </item><item>    <word>revive</word>
     <trans><![CDATA[vt. 使复兴；使苏醒；回想起；重演，重播 
 vi. 复兴；复活；苏醒；恢复精神 
+re- "again" (see re-) + vivere "to live" (see vital).
+vital  [vi·tal || 'vaɪtl] adj.  重要的, 充满活力的, 生命的
 ]]></trans>
     <phonetic><![CDATA[[ri'vaiv]]]></phonetic>
     <tags>GRE</tags>
@@ -35297,12 +35389,15 @@ vi. 复兴；复活；苏醒；恢复精神
     <trans><![CDATA[n. 反抗；叛乱；反感 
 vt. 使反感；使恶心 
 vi. 反抗；反叛；反感，厌恶 
+ revolve  [re·volve || rɪ'vɑlv /-'vɒlv]
+v.  旋转, 自转; 周期性出现, 循环往复; 沿轨道运转; 盘桓于脑海, 一再浮现; 使旋转; 反复思考, 斟酌
 ]]></trans>
     <phonetic><![CDATA[[ri'vəult, -'vɔ:lt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>revue</word>
     <trans><![CDATA[n. 讽刺时事的滑稽剧 
+        review
 ]]></trans>
     <phonetic><![CDATA[[ri'vju:]]]></phonetic>
     <tags>GRE</tags>
@@ -35310,6 +35405,9 @@ vi. 反抗；反叛；反感，厌恶
 </item><item>    <word>reward</word>
     <trans><![CDATA[n. [劳经] 报酬；报答；酬谢 
 vt. [劳经] 奖励；奖赏 
+ (see re-), + garder "look, heed, watch" (see guard (v.)). 
+ guard  [gɑrd /gɑːd] n.  守卫; 护卫队; 警戒
+ (as)给guard奖励
 ]]></trans>
     <phonetic><![CDATA[[ri'wɔ:d]]]></phonetic>
     <tags>GRE</tags>
@@ -35323,26 +35421,23 @@ vt. [劳经] 奖励；奖赏
 </item><item>    <word>rhetoric</word>
     <trans><![CDATA[n. 修辞，修辞学；华丽的词藻 
 adj. 花言巧语的 
+write
 ]]></trans>
     <phonetic><![CDATA[['retərik]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>rhinestone</word>
     <trans><![CDATA[n. 人造钻石；莱茵石（一种假钻石） 
+        莱茵石：一种无色的含铅玻璃或玻璃的人造宝石，常具有钻石般的发光表面
 ]]></trans>
     <phonetic><![CDATA[['rainstəun]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
-</item><item>    <word>rhubarb</word>
-    <trans><![CDATA[n. 大黄的叶柄，大黄 
-]]></trans>
-    <phonetic><![CDATA[['ru:bɑ:b]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>rhyme</word>
     <trans><![CDATA[n. 韵律；韵脚；韵文；押韵词 
 vt. 使押韵；用韵诗表达；把…写作诗 
 vi. 押韵；作押韵诗 
+rhythm节奏, 韵律
 ]]></trans>
     <phonetic><![CDATA[[raim]]]></phonetic>
     <tags>GRE</tags>
@@ -35350,6 +35445,7 @@ vi. 押韵；作押韵诗
 </item><item>    <word>rhythmic</word>
     <trans><![CDATA[n. 韵律论（等于rhythmics） 
 adj. [生物] 有节奏的（等于rhythmical）；间歇的；合拍的 
+rhythm节奏, 韵律
 ]]></trans>
     <phonetic><![CDATA[['riðmik, 'riθ-]]]></phonetic>
     <tags>GRE</tags>
@@ -35357,6 +35453,7 @@ adj. [生物] 有节奏的（等于rhythmical）；间歇的；合拍的
 </item><item>    <word>rib</word>
     <trans><![CDATA[n. 肋骨；排骨；肋状物 
 vt. 戏弄；装肋于 
+no
 ]]></trans>
     <phonetic><![CDATA[[rib]]]></phonetic>
     <tags>GRE</tags>
