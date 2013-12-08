@@ -35461,12 +35461,15 @@ no
 </item><item>    <word>ribald</word>
     <trans><![CDATA[n. 言谈粗俗的人；说下流话的人 
 adj. 下流的；言谈粗俗的 
+rubber 橡皮
+rub 擦, 摩擦
 ]]></trans>
     <phonetic><![CDATA[['ribəld, 'ribɔ:ld, 'raibɔ:ld]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>rickety</word>
     <trans><![CDATA[adj. 摇晃的；虚弱的；患佝偻病的 
+        rickets  [rick·ets || 'rɪkɪts] n.  软骨病, 驼背, 佝偻病
 ]]></trans>
     <phonetic><![CDATA[['rikəti]]]></phonetic>
     <tags>GRE</tags>
@@ -35488,12 +35491,14 @@ vi. 出谜
 </item><item>    <word>ridicule</word>
     <trans><![CDATA[n. 嘲笑；笑柄；愚弄 
 vt. 嘲笑；嘲弄；愚弄 
+ride 骑马
 ]]></trans>
     <phonetic><![CDATA[['ridikju:l]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>rife</word>
     <trans><![CDATA[adj. 普遍的；流行的；盛传的 
+        no
 ]]></trans>
     <phonetic><![CDATA[[raif]]]></phonetic>
     <tags>GRE</tags>
@@ -35501,14 +35506,17 @@ vt. 嘲笑；嘲弄；愚弄
 </item><item>    <word>rifle</word>
     <trans><![CDATA[n. 步枪；来复枪 
 vt. 用步枪射击；抢夺；偷走 
+'拟声词'
 ]]></trans>
     <phonetic><![CDATA[['raifl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>rift</word>
     <trans><![CDATA[n. 裂缝；不和；[木] 裂口 
-vt. 使断裂；使分开 
-vi. 裂开 
+vt. 使断裂；使分开   vi. 裂开 
+ripe 成熟
+rip n.裂口  v.破裂
+rift n.裂口 
 ]]></trans>
     <phonetic><![CDATA[[rift]]]></phonetic>
     <tags>GRE</tags>
@@ -35516,12 +35524,15 @@ vi. 裂开
 </item><item>    <word>rig</word>
     <trans><![CDATA[n. 装备；钻探设备；服装；[船] 帆装 
 vt. 操纵；装配；装扮；装上索具 
+no
 ]]></trans>
     <phonetic><![CDATA[[riɡ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>rigid</word>
     <trans><![CDATA[adj. 严格的；僵硬的，死板的；坚硬的；精确的 
+        rig 装备；钻探设备；服装；[船] 帆装 
+        rig-id
 ]]></trans>
     <phonetic><![CDATA[['ridʒid]]]></phonetic>
     <tags>GRE</tags>
@@ -35530,42 +35541,55 @@ vt. 操纵；装配；装扮；装上索具
     <trans><![CDATA[n. 山脊；山脉；屋脊 
 vt. 使成脊状；作垄 
 vi. 成脊状 
+bridge 桥梁
+　ridge 脊梁；（如屋脊、山脊等）隆起物
 ]]></trans>
     <phonetic><![CDATA[[ridʒ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>refectory</word>
     <trans><![CDATA[n. 食堂；（修道院，学院等处的）餐厅 
+        from re- (see re-) + facere (see factitious).
 ]]></trans>
     <phonetic><![CDATA[[ri'fektəri]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>protuberant</word>
     <trans><![CDATA[adj. 突起的；招人注意的；显著的 
+        protuberance  [pro·tu·ber·ance || prəʊ'tuːbərəns /prə'tju-] n.  隆起; 结节; 突出
+        pro- "forward" (see pro-) + tuber "lump, swelling" (see tuber).
+        tuber  [tu·ber || 'tuːbə(r) /'tju-] n.  块茎, 结节, 突起
+        "to swell" (see thigh).
 ]]></trans>
     <phonetic><![CDATA[[prəu'tju:bərənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>prosecution</word>
     <trans><![CDATA[n. 起诉，检举；进行；经营 
+        prosecute  [pros·e·cute || 'prɑsɪkjuːt /'prɒ-] v.  对...起诉; 依法进行; 告发; 彻底进行; 告发, 作检察官, 起诉
+        pursue  [pur·sue || pər'suː /pə'sju-] v.  追赶, 追捕, 追踪; 追赶; 继续进行
 ]]></trans>
     <phonetic><![CDATA[[,prɔsi'kju:ʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>proscribe</word>
     <trans><![CDATA[vt. 剥夺……的公权；禁止 
+         from pro- "before" (see pro-) + scribere "to write" (see script (n.))
 ]]></trans>
     <phonetic><![CDATA[[prəus'kraib]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>rigor</word>
     <trans><![CDATA[n. 严厉；精确；苛刻；僵硬 
+        from rigere "be stiff" (see rigid).
+        rigid  [rig·id || 'rɪdʒɪd] adj.  坚硬的; 不易弯曲的; 坚固的; 严格的
 ]]></trans>
     <phonetic><![CDATA[['riɡə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>rile</word>
     <trans><![CDATA[vt. 激怒；搅浑；惹怒 
+        no
 ]]></trans>
     <phonetic><![CDATA[[rail]]]></phonetic>
     <tags>GRE</tags>
@@ -35573,12 +35597,15 @@ vi. 成脊状
 </item><item>    <word>rind</word>
     <trans><![CDATA[n. 壳；外皮 
 vt. 剥壳；削皮 
+rend  [rend] v.  分裂, 强夺, 劈开; 撕开, 裂开; 分裂
 ]]></trans>
     <phonetic><![CDATA[[raind, rain]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>ringlet</word>
     <trans><![CDATA[n. 小圈；长卷发 
+        from ring (n.1) + diminutive suffix -let.
+        -let 小的物体：
 ]]></trans>
     <phonetic><![CDATA[['riŋlit]]]></phonetic>
     <tags>GRE</tags>
@@ -35587,12 +35614,14 @@ vt. 剥壳；削皮
     <trans><![CDATA[n. 暴乱；放纵；蔓延 
 vt. 浪费，挥霍 
 vi. 骚乱；放荡 
+no
 ]]></trans>
     <phonetic><![CDATA[['raiət]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>riotous</word>
     <trans><![CDATA[adj. 暴乱的；狂欢的；不受约束的；放荡的；茂盛的 
+        riot  n. 暴乱；放纵；蔓延 
 ]]></trans>
     <phonetic><![CDATA[['raiətəs]]]></phonetic>
     <tags>GRE</tags>
@@ -35600,20 +35629,22 @@ vi. 骚乱；放荡
 </item><item>    <word>ripen</word>
     <trans><![CDATA[vt. 使成熟 
 vi. 成熟 
+ripe
 ]]></trans>
     <phonetic><![CDATA[['raipən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>ripple</word>
     <trans><![CDATA[n. 波纹；涟漪；[物] 涟波 
-vt. 在…上形成波痕 
-vi. 起潺潺声 
+vt. 在…上形成波痕  vi. 起潺潺声 
+rip  [rɪp] n.   激浪, 回流;裂口; 破洞; 裂缝#巨澜;#生活放荡的人; 劣马; 浪子; 无用的老马
 ]]></trans>
     <phonetic><![CDATA[['ripl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>rite</word>
     <trans><![CDATA[n. 仪式；惯例，习俗；典礼 
+        no
 ]]></trans>
     <phonetic><![CDATA[[rait]]]></phonetic>
     <tags>GRE</tags>
@@ -35621,21 +35652,22 @@ vi. 起潺潺声
 </item><item>    <word>ritual</word>
     <trans><![CDATA[n. 仪式；惯例；礼制 
 adj. 仪式的；例行的；礼节性的 
+rite  n. 仪式；惯例，习俗；典礼 
 ]]></trans>
     <phonetic><![CDATA[['ritjuəl, -tʃu-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>rival</word>
     <trans><![CDATA[n. 对手；竞争者 
-adj. 竞争的 
-vt. 与…竞争；比得上某人 
-vi. 竞争 
+adj. 竞争的 vt. 与…竞争；比得上某人  vi. 竞争 
+river 河
 ]]></trans>
     <phonetic><![CDATA[['raivəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>rivalry</word>
     <trans><![CDATA[n. 竞争；对抗；竞赛 
+        rival n. 对手；竞争者 
 ]]></trans>
     <phonetic><![CDATA[['raivəlri]]]></phonetic>
     <tags>GRE</tags>
@@ -35643,12 +35675,15 @@ vi. 竞争
 </item><item>    <word>rive</word>
     <trans><![CDATA[vt. 撕开；使沮丧 
 vi. 裂开；破裂 
+river 河
 ]]></trans>
     <phonetic><![CDATA[[raiv]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>riven</word>
     <trans><![CDATA[v. 撕裂（rive的过去分词） 
+        rive  撕开；使沮丧 
+        river 河
 ]]></trans>
     <phonetic><![CDATA[['rivən]]]></phonetic>
     <tags>GRE</tags>
@@ -35656,6 +35691,8 @@ vi. 裂开；破裂
 </item><item>    <word>rivet</word>
     <trans><![CDATA[n. 铆钉 
 vt. 铆接；固定；（把目光、注意力等）集中于 
+turn, grind," related to rive (v.). 
+ rive  撕开；使沮丧 
 ]]></trans>
     <phonetic><![CDATA[['rivit]]]></phonetic>
     <tags>GRE</tags>
@@ -35664,58 +35701,68 @@ vt. 铆接；固定；（把目光、注意力等）集中于
     <trans><![CDATA[n. [机] 铆接 
 adj. 吸引人的 
 v. 用铆钉固定；集中于…（rivet的ing形式） 
+rivet n. 铆钉 
 ]]></trans>
     <phonetic><![CDATA[['rivitiŋ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>rivulet</word>
     <trans><![CDATA[n. 小溪，小河 
+        river+ -let
 ]]></trans>
     <phonetic><![CDATA[['rivjulit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>robe</word>
     <trans><![CDATA[n. 长袍，礼服；制服 
-vi. 穿长袍 
-vt. 使穿长袍 
+vi. 穿长袍  vt. 使穿长袍 
+rob  [rɑb /rɒb] v.  抢劫, 盗取, 劫掠; 非法剥夺, 使丧失; 抢劫
+(as)抢劫的都要穿长袍盖住自己
 ]]></trans>
     <phonetic><![CDATA[[rəub]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>robust</word>
     <trans><![CDATA[adj. 强健的；健康的；粗野的；粗鲁的 
+        (as)乐百氏
 ]]></trans>
     <phonetic><![CDATA[[rəu'bʌst, 'rəubʌst]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>roe</word>
     <trans><![CDATA[n. 鱼卵，鱼子；牝鹿，獐 
+        '肉'
 ]]></trans>
     <phonetic><![CDATA[[rəu]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>roil</word>
     <trans><![CDATA[n. 小股汹涌的急流 
-vt. 搅浑；惹怒 
-vi. 动荡；喧闹 
+vt. 搅浑；惹怒  vi. 动荡；喧闹 
+robust 强健的；健康的；粗野的；粗鲁的 
+乐百氏
 ]]></trans>
     <phonetic><![CDATA[[rɔil]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>rookie</word>
     <trans><![CDATA[n. 新手 
+        no
 ]]></trans>
     <phonetic><![CDATA[['ruki]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>roster</word>
     <trans><![CDATA[n. 花名册；执勤人员表；逐项登记表 
+        originally "gridiron," from Middle Dutch roosten "to roast" (see roast (v.))
+        roast  [rəʊst] n.  烤肉, 嘲笑, 烘烤
 ]]></trans>
     <phonetic><![CDATA[['rɔstə, 'rəu-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>rostrum</word>
     <trans><![CDATA[n. 讲坛；演讲者；嘴；喙 
+        no
 ]]></trans>
     <phonetic><![CDATA[['rɔstrəm, 'rɔ:-]]]></phonetic>
     <tags>GRE</tags>
@@ -35731,6 +35778,7 @@ vi. 旋转；循环
 </item><item>    <word>rotten</word>
     <trans><![CDATA[adj. 腐烂的；堕落的；恶臭的；虚弱的；极坏的 
 adv. 非常 
+rot n.  腐烂, 腐败
 ]]></trans>
     <phonetic><![CDATA[['rɔtən]]]></phonetic>
     <tags>GRE</tags>
@@ -35738,38 +35786,44 @@ adv. 非常
 </item><item>    <word>roughen</word>
     <trans><![CDATA[vt. 使粗糙 
 vi. 变粗糙 
+rough  
 ]]></trans>
     <phonetic><![CDATA[['rʌfən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>royalty</word>
     <trans><![CDATA[n. 皇室；版税；王权；专利税 
+        royal  [roy·al || 'rɔɪəl] adj.  王室的, 盛大的, 皇家的
 ]]></trans>
     <phonetic><![CDATA[['rɔiəlti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>rubicund</word>
     <trans><![CDATA[adj. 红润的；透红的 
+        red
 ]]></trans>
     <phonetic><![CDATA[['ru:bikənd]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>rudder</word>
     <trans><![CDATA[n. 船舵；飞机方向舵 
+        from *ro- "steer(指点, 建议;掌舵, 驾驶;)" (see row (v.)) 
 ]]></trans>
     <phonetic><![CDATA[['rʌdə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>rudimentary</word>
     <trans><![CDATA[adj. 基本的；初步的；退化的；残遗的；未发展的 
+        rude
 ]]></trans>
     <phonetic><![CDATA[[,ru:di'mentəri]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>rue</word>
-    <trans><![CDATA[n. 芸香；后悔 
+    <trans><![CDATA[n.后悔 ,芸香； 
 vt. 后悔；懊悔 
 vi. 后悔；悲伤 
+rough
 ]]></trans>
     <phonetic><![CDATA[[ru:]]]></phonetic>
     <tags>GRE</tags>
@@ -35785,6 +35839,7 @@ adj. 残暴的；凶恶的；无法无天的
     <trans><![CDATA[n. 皱褶；生气；混乱；连续轻敲声 
 vi. 起皱；烦恼；连续地轻敲 
 vt. 弄皱；触怒；扰乱；迅速翻动 
+rough
 ]]></trans>
     <phonetic><![CDATA[['rʌfl]]]></phonetic>
     <tags>GRE</tags>
@@ -35792,6 +35847,7 @@ vt. 弄皱；触怒；扰乱；迅速翻动
 </item><item>    <word>ruminant</word>
     <trans><![CDATA[n. 反刍动物 
 adj. 反刍的；沉思的 
+ruminate  ['ru·mi·nate || 'ruːmɪneɪt] v.  反刍, 倒嚼; 沉思, 反复思考; 倒嚼; 沉思, 反复思考
 ]]></trans>
     <phonetic><![CDATA[['ru:minənt]]]></phonetic>
     <tags>GRE</tags>
@@ -35800,6 +35856,7 @@ adj. 反刍的；沉思的
     <trans><![CDATA[n. 皱褶；皱纹 
 vt. 弄皱；弄得乱七八糟 
 vi. 弄皱；变凌乱 
+ramp  [ræmp] n.  斜面; 坡道; 斜坡; 活动舷梯 v.  用后脚立起, 跃立; 暴跳
 ]]></trans>
     <phonetic><![CDATA[['rʌmpl]]]></phonetic>
     <tags>GRE</tags>
@@ -35807,6 +35864,7 @@ vi. 弄皱；变凌乱
 </item><item>    <word>rung</word>
     <trans><![CDATA[n. 横档，脚蹬横木；地位 
 v. 给…打电话（ring的过去式和过去分词） 
+no
 ]]></trans>
     <phonetic><![CDATA[[rʌŋ]]]></phonetic>
     <tags>GRE</tags>
@@ -35814,6 +35872,7 @@ v. 给…打电话（ring的过去式和过去分词）
 </item><item>    <word>runic</word>
     <trans><![CDATA[n. 北欧古字碑文 
 adj. 古代北欧文字的 
+rune  [ruːn] n.  如尼文; 神秘的记号
 ]]></trans>
     <phonetic><![CDATA[['ru:nik]]]></phonetic>
     <tags>GRE</tags>
@@ -35822,18 +35881,22 @@ adj. 古代北欧文字的
     <trans><![CDATA[n. 破裂；决裂；疝气 
 vt. 使破裂；断绝；发生疝 
 vi. 破裂；发疝气 
+rip  [rɪp] n.  裂口; 破洞; 裂缝#巨澜; 激浪, 回流#生活放荡的人; 劣马; 浪子; 无用的老马
 ]]></trans>
     <phonetic><![CDATA[['rʌptʃə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>rural</word>
     <trans><![CDATA[adj. 农村的，乡下的；田园的，有乡村风味的 
+        room
+        urban 都市
 ]]></trans>
     <phonetic><![CDATA[['ruərəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>ruse</word>
     <trans><![CDATA[n. 策略，计策；诡计 
+         from re-, intensive prefix (see re-), + causari "plead as a reason, object, allege," from causa "reason, cause" (see cause (n.)).
 ]]></trans>
     <phonetic><![CDATA[[ru:z, ru:s]]]></phonetic>
     <tags>GRE</tags>
@@ -35841,12 +35904,14 @@ vi. 破裂；发疝气
 </item><item>    <word>rustic</word>
     <trans><![CDATA[adj. 乡村的；纯朴的；粗野的；手工粗糙的 
 n. 乡下人；乡巴佬 
+rural 农村的，乡下的；田园的，有乡村风味的 
 ]]></trans>
     <phonetic><![CDATA[['rʌstik]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>ruthlessness</word>
     <trans><![CDATA[n. 无情；冷酷；残忍 
+        ruth  [ruːθ] n.  怜悯; 悲哀
 ]]></trans>
     <phonetic><![CDATA[['ru:θlisnis]]]></phonetic>
     <tags>GRE</tags>
@@ -35855,24 +35920,29 @@ n. 乡下人；乡巴佬
     <trans><![CDATA[n. 破坏；破坏活动；怠工 
 vt. 妨害；对…采取破坏行动 
 vi. 从事破坏活动 
+sand 沙子 boot
 ]]></trans>
     <phonetic><![CDATA[['sæbətɑ:ʒ, ,sæbə'tɑ:ʒ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>saboteur</word>
     <trans><![CDATA[n. 怠工者，破坏者；从事破坏活动者 
+        sabotage  破坏；破坏活动；怠工 
+        sand 沙子 boot
 ]]></trans>
     <phonetic><![CDATA[[,sæbə'tə:, -'tjuə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>saccharin</word>
     <trans><![CDATA[n. [有化] 糖精；邻磺酰苯甲酰亚胺 
+         sugar
 ]]></trans>
     <phonetic><![CDATA[['sækərin]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>sacred</word>
     <trans><![CDATA[adj. 神的；神圣的；宗教的；庄严的 
+        secret 秘密；神秘的
 ]]></trans>
     <phonetic><![CDATA[['seikrid]]]></phonetic>
     <tags>GRE</tags>
@@ -35881,18 +35951,22 @@ vi. 从事破坏活动
     <trans><![CDATA[n. 牺牲；祭品；供奉 
 vt. 牺牲；献祭；亏本出售 
 vi. 献祭；奉献 
+sacred 神的；神圣的；宗教的；庄严的 
 ]]></trans>
     <phonetic><![CDATA[['sækrifais]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>sacrilege</word>
     <trans><![CDATA[n. 冒渎；亵渎圣物；悖理逆天的行为 
+         from sacrum "sacred object" (from neuter singular of sacer "sacred;" see sacred) + legere "take, pick up" (see lecture (n.)).
+        sacred 神的；神圣的；宗教的；庄严的 
 ]]></trans>
     <phonetic><![CDATA[['sækrilidʒ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>sacrilegious</word>
     <trans><![CDATA[adj. 该受天谴的，亵渎神明的 
+        sacrilege 冒渎；亵渎圣物；悖理逆天的行为 
 ]]></trans>
     <phonetic><![CDATA[[,sækri'lidʒəs]]]></phonetic>
     <tags>GRE</tags>
@@ -35908,19 +35982,16 @@ vi. 悲哀；悲痛
     <trans><![CDATA[n. 鞍，鞍状物；车座；拖具 
 vt. 承受；使负担；装以马鞍 
 vi. 跨上马鞍 
+ from PIE *sed- (1) "to sit"
 ]]></trans>
     <phonetic><![CDATA[['sædl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
-</item><item>    <word>safeguard</word>
-    <trans><![CDATA[n. [安全] 保护；保卫；保护措施 
-vt. [安全] 保护，护卫 
-]]></trans>
-    <phonetic><![CDATA[['seifɡɑ:d]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
+</item>ogress>0</progress>
 </item><item>    <word>sagacious</word>
     <trans><![CDATA[adj. 睿智的，聪慧的；有远见的，聪慧的 
+        sagacity  [sa·gac·i·ty || sə'gæsətɪ] n.  睿智, 聪慧
+        sage   圣人；贤人；哲人 
 ]]></trans>
     <phonetic><![CDATA[[sə'ɡeiʃəs]]]></phonetic>
     <tags>GRE</tags>
@@ -35928,12 +35999,17 @@ vt. [安全] 保护，护卫
 </item><item>    <word>sage</word>
     <trans><![CDATA[n. 圣人；贤人；哲人 
 adj. 明智的；贤明的；审慎的 
+insane 不清醒的；有精神病的
+sane a. 神智健全的
+sage贤明的, 明智的
 ]]></trans>
     <phonetic><![CDATA[[seidʒ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>saintly</word>
     <trans><![CDATA[adj. 圣洁的 
+        saint  [seɪnt] n.  圣人, 圣徒, 道德崇高的人
+        sage   圣人；贤人；哲人 
 ]]></trans>
     <phonetic><![CDATA[['seintli]]]></phonetic>
     <tags>GRE</tags>
@@ -35941,37 +36017,47 @@ adj. 明智的；贤明的；审慎的
 </item><item>    <word>salient</word>
     <trans><![CDATA[n. 凸角；突出部分 
 adj. 显著的；突出的；跳跃的 
+no
 ]]></trans>
     <phonetic><![CDATA[['seiljənt, -liənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>saliva</word>
     <trans><![CDATA[n. 唾液；涎 
+        sallow 
 ]]></trans>
     <phonetic><![CDATA[[sə'laivə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>salmon</word>
     <trans><![CDATA[n. 鲑鱼；大马哈鱼；鲑肉色 
-adj. 浅澄色的 
+adj. 浅澄色的
+no 
 ]]></trans>
     <phonetic><![CDATA[['sæmən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>salubrious</word>
     <trans><![CDATA[adj. 清爽的；气候有益健康的 
+        "welfare, health" (see salute (v.)).
+        salute  [sa·lute || sə'luːt] n.  敬礼; 致敬; 敬礼姿势; 致意
+        safe
 ]]></trans>
     <phonetic><![CDATA[[sə'lju:briəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>salutary</word>
     <trans><![CDATA[adj. 有益的，有用的；有益健康的 
+          salute  [sa·lute || sə'luːt] n.  敬礼; 致敬; 敬礼姿势; 致意
+        safe
 ]]></trans>
     <phonetic><![CDATA[['sæljutəri]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>salutation</word>
     <trans><![CDATA[n. 称呼；问候；招呼；寒喧 
+          salute  [sa·lute || sə'luːt] n.  敬礼; 致敬; 敬礼姿势; 致意
+        safe
 ]]></trans>
     <phonetic><![CDATA[[,sælju:'teiʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -35980,6 +36066,7 @@ adj. 浅澄色的
     <trans><![CDATA[n. 致敬，欢迎；敬礼 
 vt. 行礼致敬，欢迎 
 vi. 致意，打招呼；行礼 
+safe
 ]]></trans>
     <phonetic><![CDATA[[sə'lju:t, sɑ:'lu:te]]]></phonetic>
     <tags>GRE</tags>
@@ -35987,6 +36074,7 @@ vi. 致意，打招呼；行礼
 </item><item>    <word>salvage</word>
     <trans><![CDATA[n. 打捞；海上救助；抢救财货；救难的奖金 
 vt. 抢救；海上救助 
+save
 ]]></trans>
     <phonetic><![CDATA[['sælvidʒ]]]></phonetic>
     <tags>GRE</tags>
@@ -35994,6 +36082,7 @@ vt. 抢救；海上救助
 </item><item>    <word>salve</word>
     <trans><![CDATA[vt. 涂油膏；缓和 
 n. 药膏；安慰 
+salvage 打捞；海上救助；抢救财货；救难的奖金 
 ]]></trans>
     <phonetic><![CDATA[[sælv]]]></phonetic>
     <tags>GRE</tags>
@@ -36006,12 +36095,15 @@ n. 药膏；安慰
     <progress>0</progress>
 </item><item>    <word>sanctify</word>
     <trans><![CDATA[vt. 使圣洁；使神圣化；把…奉献给神；认可 
+         from sanctus "holy" (see saint (n.)) + root of facere "to make" (see factitious). 
+         saint  [seɪnt] n.  圣人, 圣徒, 道德崇高的人 
 ]]></trans>
     <phonetic><![CDATA[['sæŋktifai]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>sanctimonious</word>
     <trans><![CDATA[adj. 假装虔诚的；假装圣洁的；假装诚实的 
+        sanctify 使圣洁；使神圣化；把…奉献给神；认可 
 ]]></trans>
     <phonetic><![CDATA[[,sæŋkti'məuniəs]]]></phonetic>
     <tags>GRE</tags>
@@ -36019,6 +36111,7 @@ n. 药膏；安慰
 </item><item>    <word>sanction</word>
     <trans><![CDATA[n. 制裁，处罚；认可；支持 
 vt. 制裁，处罚；批准；鼓励 
+saint  [seɪnt] n.  圣人, 圣徒, 道德崇高的人 
 ]]></trans>
     <phonetic><![CDATA[['sæŋ,kʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -36026,12 +36119,14 @@ vt. 制裁，处罚；批准；鼓励
 </item><item>    <word>sandal</word>
     <trans><![CDATA[n. 凉鞋；檀香；檀香木；便鞋 
 [ 过去式sandalled或sandaled 过去分词sandalled或sandaled 现在分词sandalling或sandaling ] 
+no
 ]]></trans>
     <phonetic><![CDATA[['sand(ə)l]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>sane</word>
     <trans><![CDATA[adj. 健全的；理智的；[临床] 神志正常的 
+        insane
 ]]></trans>
     <phonetic><![CDATA[[sein]]]></phonetic>
     <tags>GRE</tags>
@@ -36040,12 +36135,15 @@ vt. 制裁，处罚；批准；鼓励
     <trans><![CDATA[n. 血红色 
 adj. 乐观的；满怀希望的；面色红润的 
 vt. 血染；以血沾污 
+sanct-词根：神圣     圣杯
+sang-词根：血液  sang=blood
 ]]></trans>
     <phonetic><![CDATA[['sæŋɡwin]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>sanity</word>
     <trans><![CDATA[n. 明智；头脑清楚；精神健全；通情达理 
+        saint  [seɪnt] n.  圣人, 圣徒, 道德崇高的人 
 ]]></trans>
     <phonetic><![CDATA[['sænəti]]]></phonetic>
     <tags>GRE</tags>
@@ -36054,6 +36152,7 @@ vt. 血染；以血沾污
     <trans><![CDATA[n. [植] 树液；精力，元气；活力；坑道 
 vt. 使衰竭，使伤元气；挖掘以破坏基础 
 vi. 挖坑道 
+sip 吸
 ]]></trans>
     <phonetic><![CDATA[[sæp]]]></phonetic>
     <tags>GRE</tags>
@@ -36061,6 +36160,8 @@ vi. 挖坑道
 </item><item>    <word>sapient</word>
     <trans><![CDATA[n. （史前的）智人 
 adj. 聪明的；伶俐的；装聪明样的；有见识的 
+sap 树液；精力，元气；活力；坑道  
+(as)史前人类和树液
 ]]></trans>
     <phonetic><![CDATA[['seipiənt, 'sæ-]]]></phonetic>
     <tags>GRE</tags>
@@ -36068,18 +36169,22 @@ adj. 聪明的；伶俐的；装聪明样的；有见识的
 </item><item>    <word>sapphire</word>
     <trans><![CDATA[n. 蓝宝石；[宝] 青玉；天蓝色 
 adj. 天蓝色的 
+no
 ]]></trans>
     <phonetic><![CDATA[['sæfaiə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>sarcastic</word>
     <trans><![CDATA[adj. 挖苦的；尖刻的，辛辣的 
+        sarcasm  [sar·casm || 'sɑrkæzəm /'sɑːk] n.  挖苦, 讽刺
+         cast 投、掷
 ]]></trans>
     <phonetic><![CDATA[[sɑ:'kæztik]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>sartorial</word>
     <trans><![CDATA[adj. 裁缝的；缝纫的；裁缝匠的 
+        no
 ]]></trans>
     <phonetic><![CDATA[[sɑ:'tɔ:riəl, sə-]]]></phonetic>
     <tags>GRE</tags>
@@ -36087,18 +36192,22 @@ adj. 天蓝色的
 </item><item>    <word>sash</word>
     <trans><![CDATA[n. 腰带；肩带；饰带；框格 
 vt. 系上腰带；装以窗框 
+no
 ]]></trans>
     <phonetic><![CDATA[[sæʃ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>sate</word>
     <trans><![CDATA[v. 使心满意足，使饱享（sit 的过去式和过去分词） 
+        from root *sa- "to satisfy" (see sad (adj.)). 
 ]]></trans>
     <phonetic><![CDATA[[seit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>satire</word>
     <trans><![CDATA[n. 讽刺；讽刺文学，讽刺作品 
+        saturate  [sat·u·rate || 'sætʃəreɪt] v.  浸透; 使湿透; 渗透; 使充满
+        from PIE root *sa- "to satisfy" (see sad).
 ]]></trans>
     <phonetic><![CDATA[['sætaiə]]]></phonetic>
     <tags>GRE</tags>
@@ -36106,6 +36215,7 @@ vt. 系上腰带；装以窗框
 </item><item>    <word>satirize</word>
     <trans><![CDATA[vt. 讽刺；挖苦 
 vi. 写讽刺作品 
+satire 讽刺；讽刺文学，讽刺作品 
 ]]></trans>
     <phonetic><![CDATA[['sætəraiz]]]></phonetic>
     <tags>GRE</tags>
@@ -36113,12 +36223,15 @@ vi. 写讽刺作品
 </item><item>    <word>saturate</word>
     <trans><![CDATA[adj. 浸透的，饱和的；深颜色的 
 vt. 浸透，使湿透；使饱和，使充满 
+from PIE root *sa- "to satisfy" (see sad).
 ]]></trans>
     <phonetic><![CDATA[['sætʃəreit, 'sætʃərit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>saturnine</word>
     <trans><![CDATA[adj. 忧郁的；阴沉的；铅中毒的；沉默寡言的 
+        saturate 浸透的，饱和的；深颜色的 
+        from PIE root *sa- "to satisfy" (see sad).
 ]]></trans>
     <phonetic><![CDATA[['sætə(:)nain]]]></phonetic>
     <tags>GRE</tags>
@@ -36126,6 +36239,7 @@ vt. 浸透，使湿透；使饱和，使充满
 </item><item>    <word>saunter</word>
     <trans><![CDATA[n. 漫步；闲逛 
 vi. 闲逛；漫步 
+no
 ]]></trans>
     <phonetic><![CDATA[['sɔ:ntə, 'sɑ:n-]]]></phonetic>
     <tags>GRE</tags>
@@ -36134,12 +36248,15 @@ vi. 闲逛；漫步
     <trans><![CDATA[n. 未开化的；粗鲁的人；残暴成性的人 
 adj. 野蛮的；残酷的；狂怒的；荒凉的 
 vt. 乱咬；粗暴的对待 
+sylvan  [syl·van || 'sɪlvən] adj.  森林的; 生活在森林中的; 多树木的; 在森林中发现的
 ]]></trans>
     <phonetic><![CDATA[['sævidʒ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>savant</word>
     <trans><![CDATA[n. 学者；专家 
+        savage 未开化的；粗鲁的人；残暴成性的人 
+        (as)...传说中的'砖家'...
 ]]></trans>
     <phonetic><![CDATA[['sævənt, sɑ:'vɔŋ]]]></phonetic>
     <tags>GRE</tags>
@@ -36148,6 +36265,7 @@ vt. 乱咬；粗暴的对待
     <trans><![CDATA[n. [木] 锯屑 
 adj. 撒木屑的；无实质的 
 vt. 在…上撒木屑；用木屑填塞 
+ saw (n.1) + dust (n.).
 ]]></trans>
     <phonetic><![CDATA[['sɔ:dʌst]]]></phonetic>
     <tags>GRE</tags>
@@ -36155,6 +36273,7 @@ vt. 在…上撒木屑；用木屑填塞
 </item><item>    <word>scabbard</word>
     <trans><![CDATA[n. 鞘；枪套 
 vt. 把…插入鞘中 
+from PIE *(s)ker- (1) "to cut;" see shear) + *berg- "protect"
 ]]></trans>
     <phonetic><![CDATA[['skæbəd]]]></phonetic>
     <tags>GRE</tags>
@@ -36176,6 +36295,8 @@ vt. 给…搭脚手架；用支架支撑
     <trans><![CDATA[n. [外科] 烫伤 
 v. 烫（scald的ing形式） 
 adj. 滚烫的；尖刻的 
+scald  [skɔːld] n.  烫, 烫洗; 晒焦, 灼枯; 烫伤
+ from Latin ex- "off" (see ex-) + calidus "hot" (see calorie).
 ]]></trans>
     <phonetic><![CDATA[['skɔ:ldiŋ]]]></phonetic>
     <tags>GRE</tags>
@@ -36190,12 +36311,14 @@ vi. 衡量；攀登；剥落；生水垢
     <progress>0</progress>
 </item><item>    <word>scalpel</word>
     <trans><![CDATA[n. 解剖刀；外科手术刀 
+        to cut, cleave" (see scale (n.1)).
 ]]></trans>
     <phonetic><![CDATA[['skælpəl, skæl'pel]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>scandal</word>
     <trans><![CDATA[n. 丑闻；流言蜚语；诽谤；公愤 
+        from PIE *skand- "to leap, climb" (see scan (v.)
 ]]></trans>
     <phonetic><![CDATA[['skændəl]]]></phonetic>
     <tags>GRE</tags>
