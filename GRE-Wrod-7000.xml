@@ -31439,12 +31439,15 @@ dominate  ['domi·nate || 'dɑmɪneɪt /'dɒm] v.  支配, 控制, 统治;
     <progress>0</progress>
 </item><item>    <word>preeminent</word>
     <trans><![CDATA[adj. 卓越的；超群的 
+        eminent  [em·i·nent || 'emɪnənt] adj.  显赫的; 有名的; 杰出的
+from ex- "out" (see ex-) + minere, related to mons "hill" (see mount (n.)). 
 ]]></trans>
     <phonetic><![CDATA[[pri'eminənt, ,pri:-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>preempt</word>
     <trans><![CDATA[vt. 先占；先取；以先买权获得 
+        exempt 
 ]]></trans>
     <phonetic><![CDATA[[pri'empt, ,pri:-]]]></phonetic>
     <tags>GRE</tags>
@@ -31452,6 +31455,10 @@ dominate  ['domi·nate || 'dɑmɪneɪt /'dɒm] v.  支配, 控制, 统治;
 </item><item>    <word>preen</word>
     <trans><![CDATA[vt. 打扮；用嘴整理；赞扬 
 vi. 洋洋自得；把（自己）打扮漂亮 
+prune  [pruːn]
+n.  梅干, 洋李脯; 傻瓜; 乏味的人, 讨厌的人; 深紫红色
+v.  整枝; 减少; 删除; 修剪, 修整; 删除; 剪去, 剪除; 削减
+ pro- "forth" (see pro-) + *retundiare "round off," from Latin rotundus (see round (adj.))
 ]]></trans>
     <phonetic><![CDATA[[pri:n]]]></phonetic>
     <tags>GRE</tags>
@@ -31460,18 +31467,21 @@ vi. 洋洋自得；把（自己）打扮漂亮
     <trans><![CDATA[n. 前言；引语 
 vt. 为…加序言；以…开始 
 vi. 作序 
+ from prae "before" (see pre-) + fari "speak" (see fame (n.)).
 ]]></trans>
     <phonetic><![CDATA[['prefis]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pregnant</word>
     <trans><![CDATA[adj. 怀孕的；富有意义的 
+         from prae- "before" (see pre-) + root of gnasci "be born" (see genus). 
 ]]></trans>
     <phonetic><![CDATA[['preɡnənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>prehistoric</word>
     <trans><![CDATA[adj. 史前的；陈旧的 
+        pre- + historic.
 ]]></trans>
     <phonetic><![CDATA[[,pri:hi'stɔrik]]]></phonetic>
     <tags>GRE</tags>
@@ -31479,6 +31489,7 @@ vi. 作序
 </item><item>    <word>prejudice</word>
     <trans><![CDATA[n. 偏见；侵害 
 vt. 损害；使有偏见 
+ judge 
 ]]></trans>
     <phonetic><![CDATA[['predʒudis]]]></phonetic>
     <tags>GRE</tags>
@@ -31486,12 +31497,16 @@ vt. 损害；使有偏见
 </item><item>    <word>preliminary</word>
     <trans><![CDATA[n. 准备；预赛；初步措施 
 adj. 初步的；开始的；预备的 
+"before" (see pre-) + limen (genitive liminis) "threshold(门槛, 开端, 入口)" (see limit (n.)).
 ]]></trans>
     <phonetic><![CDATA[[pri'liminəri]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>preliterate</word>
-    <trans><![CDATA[adj. 文字出现以前的，尚无文字的 
+    <trans><![CDATA[adj. 文字出现以前的，尚无文字的
+    literate  [lit·er·ate || 'lɪtərət]
+n.  学者
+adj.  精通文学的, 受过教育的 
 ]]></trans>
     <phonetic><![CDATA[[pri:'litərət]]]></phonetic>
     <tags>GRE</tags>
@@ -31500,6 +31515,9 @@ adj. 初步的；开始的；预备的
     <trans><![CDATA[n. 前奏；序幕；前奏曲 
 vt. 成为…的序幕；演奏…作为前奏曲 
 vi. 作为序曲；奏序曲 
+ (see pre-) + ludere "to play" (see ludicrous).
+ ludicrous  [lu·di·crous || 'luːdɪkrəs]
+adj.  可笑的, 荒唐的, 滑稽的
 ]]></trans>
     <phonetic><![CDATA[['prelju:d, 'prei-]]]></phonetic>
     <tags>GRE</tags>
@@ -31507,6 +31525,7 @@ vi. 作为序曲；奏序曲
 </item><item>    <word>premature</word>
     <trans><![CDATA[n. 早产儿；过早发生的事物 
 adj. 早产的；不成熟的；比预期早的 
+ (see pre-) + maturus "ripe, timely" (see mature (v.)).
 ]]></trans>
     <phonetic><![CDATA[[,premə'tjuə, ,pri:-]]]></phonetic>
     <tags>GRE</tags>
@@ -31514,6 +31533,8 @@ adj. 早产的；不成熟的；比预期早的
 </item><item>    <word>premeditate</word>
     <trans><![CDATA[vt. 预谋；预先考虑 
 vi. 预谋；预先考虑 
+meditate  [med·i·tate || 'medɪteɪt] v.  想, 计划, 考虑; 沉思, 深思熟虑
+medical  [med·i·cal || 'medɪkl] n.  医生; 体格检查 adj.  医学的; 药的; 内科的
 ]]></trans>
     <phonetic><![CDATA[[pri'mediteit, pri:-]]]></phonetic>
     <tags>GRE</tags>
@@ -31521,6 +31542,8 @@ vi. 预谋；预先考虑
 </item><item>    <word>premeditated</word>
     <trans><![CDATA[adj. 预谋的；预先考虑的；经预先计划的 
 v. 预谋（premeditate的过去式和过去分词）；预先考虑 
+meditate  [med·i·tate || 'medɪteɪt] v.  想, 计划, 考虑; 沉思, 深思熟虑
+medical  [med·i·cal || 'medɪkl] n.  医生; 体格检查 adj.  医学的; 药的; 内科的
 ]]></trans>
     <phonetic><![CDATA[[pri'mediteitid]]]></phonetic>
     <tags>GRE</tags>
@@ -31530,6 +31553,7 @@ v. 预谋（premeditate的过去式和过去分词）；预先考虑
 vi. 初次公演；首次露面 
 vt. 初次公演；初次上演 
 adj. 首位的；初次的；女主角的 
+primary 
 ]]></trans>
     <phonetic><![CDATA[[pri'miə, prə'mjer]]]></phonetic>
     <tags>GRE</tags>
@@ -31538,36 +31562,43 @@ adj. 首位的；初次的；女主角的
     <trans><![CDATA[n. 前提；上述各项；房屋连地基 
 vt. 引出，预先提出；作为…的前提 
 vi. 作出前提 
+" (see pre-) + mittere "to send" (see mission). 
 ]]></trans>
     <phonetic><![CDATA[[pri'maiz, 'premis]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>premium</word>
     <trans><![CDATA[n. 保险费，额外费用；奖金 
+        (see pre-) + emere "to buy," originally "to take" (see exempt (adj.)).
 ]]></trans>
     <phonetic><![CDATA[['pri:miəm]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>premonition</word>
     <trans><![CDATA[n. 预告；征兆 
+        (see pre-) + monere "to warn" (see monitor (n.)).
 ]]></trans>
     <phonetic><![CDATA[[,pri:mə'niʃən, ,pre-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>offense</word>
     <trans><![CDATA[n. 犯罪，过错；进攻；触怒；引起反感的事物 
+        offend  [of·fend || ə'fend] v.  冒犯; 伤害...的感情; 触怒; 使不舒服; 违反; 犯罪; 犯过错; 引起不舒服
+(see ob-) + -fendere "to strike" (found only in compounds; see defend). 
 ]]></trans>
     <phonetic><![CDATA[[ə'fens]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>paradox</word>
     <trans><![CDATA[n. 悖论，反论；似非而是的论点；自相矛盾的人或事 
+        from para- "contrary to" (see para- (1)) + doxa "opinion," from dokein "to appear, seem, think" (see decent).
 ]]></trans>
     <phonetic><![CDATA[['pærədɔks]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>perception</word>
     <trans><![CDATA[n. 知觉；[生理] 感觉；看法；洞察力；获取 
+         per "thoroughly" (see per) + capere "to grasp, take" (see capable). 
 ]]></trans>
     <phonetic><![CDATA[[pə'sepʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -31575,36 +31606,44 @@ vi. 作出前提
 </item><item>    <word>offbeat</word>
     <trans><![CDATA[n. 弱拍 
 adj. 离奇的；标新立异的；弱拍的 
+from off (adv.) + beat (n.).
 ]]></trans>
     <phonetic><![CDATA[['ɔfbi:t, 'ɔ:-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>metabolism</word>
     <trans><![CDATA[n. [生理] 新陈代谢 
+        from meta- "over" (see meta-) + ballein "to throw" (see ballistics).
+        ballistics  [bal'lis·tics || -ks] n.  弹道学; 发射学
+        ball  -ics 
 ]]></trans>
     <phonetic><![CDATA[[mi'tæbəlizəm, me-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>nominate</word>
     <trans><![CDATA[vt. 推荐；提名；任命；指定 
+        name
 ]]></trans>
     <phonetic><![CDATA[['nɔmineit, 'nɔminət, -neit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pervious</word>
     <trans><![CDATA[adj. 能被通过的；能接受的；可渗透的 
+        (区别)previous
 ]]></trans>
     <phonetic><![CDATA[['pə:viəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pedagogue</word>
     <trans><![CDATA[n. 教师，教员；卖弄学问者 
+        from pais (genitive paidos) "child" (see pedo-) + agogos "leader," from agein "to lead" (see act (n.))
 ]]></trans>
     <phonetic><![CDATA[['pedəɡɔɡ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>preoccupation</word>
     <trans><![CDATA[n. 全神贯注，入神；当务之急；关注的事物；抢先占据；成见 
+         from prae- "before" (see pre-) + occupare "seize" (see occupy). 
 ]]></trans>
     <phonetic><![CDATA[[pri:,ɔkju'peiʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -31612,18 +31651,21 @@ adj. 离奇的；标新立异的；弱拍的
 </item><item>    <word>preponderate</word>
     <trans><![CDATA[vt. 胜过；压倒 
 vi. （在重量、数量、力量等方面）占优势 
+ from prae "before" (see pre-) + ponderare "to weigh" (see pound (n.1)).
 ]]></trans>
     <phonetic><![CDATA[[pri'pɔndəreit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>preposition</word>
     <trans><![CDATA[n. 介词；前置词 
+         from prae "before" (see pre-) + ponere "put, set, place" (see position (n.))
 ]]></trans>
     <phonetic><![CDATA[[,prepə'ziʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>preposterous</word>
     <trans><![CDATA[adj. 荒谬的；可笑的 
+         from prae "before" + posterus "subsequent."
 ]]></trans>
     <phonetic><![CDATA[[pri'pɔstərəs]]]></phonetic>
     <tags>GRE</tags>
@@ -31631,6 +31673,7 @@ vi. （在重量、数量、力量等方面）占优势
 </item><item>    <word>prerequisite</word>
     <trans><![CDATA[n. 先决条件 
 adj. 首要必备的 
+ from pre- + requisite.
 ]]></trans>
     <phonetic><![CDATA[['pri:'rekwizit]]]></phonetic>
     <tags>GRE</tags>
@@ -31638,6 +31681,7 @@ adj. 首要必备的
 </item><item>    <word>prerogative</word>
     <trans><![CDATA[n. 特权 
 adj. 有特权的 
+ from prae- "before" (see pre-) + rogare "to ask" (see rogation).
 ]]></trans>
     <phonetic><![CDATA[[pri'rɔɡətiv]]]></phonetic>
     <tags>GRE</tags>
@@ -31646,12 +31690,16 @@ adj. 有特权的
     <trans><![CDATA[n. 预感；前兆 
 vt. 预感；预言 
 vi. 预示；预言 
+from prae "before" (see pre-) + sagus "prophetic," related to sagire "perceive" (see sagacious).
+prophetic  [pro·phet·ic· || prə'fetɪk(l)] adj.  预言的, 预示的, 先知的
+sagacious  [sa·ga·cious || sə'geɪʃəs] adj.  睿智的, 贤明的, 聪明的
 ]]></trans>
     <phonetic><![CDATA[['presidʒ, pri'seidʒ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>prescience</word>
     <trans><![CDATA[n. 先见；预知 
+         prae "before" (see pre-) + scire "to know" (see science).
 ]]></trans>
     <phonetic><![CDATA[['presiəns, 'preʃi-, 'pri:-]]]></phonetic>
     <tags>GRE</tags>
@@ -31659,6 +31707,8 @@ vi. 预示；预言
 </item><item>    <word>prescribe</word>
     <trans><![CDATA[vt. 规定；开处方 
 vi. 规定；开药方 
+   creep 爬
+  scribe-词根：书写
 ]]></trans>
     <phonetic><![CDATA[[pris'kraib]]]></phonetic>
     <tags>GRE</tags>
@@ -31666,24 +31716,32 @@ vi. 规定；开药方
 </item><item>    <word>prescription</word>
     <trans><![CDATA[n. 药方；指示；惯例 
 adj. 凭处方方可购买的 
+prescribe vt. 规定；开处方 
+ creep 爬
+  scribe-词根：书写
 ]]></trans>
     <phonetic><![CDATA[[pris'kripʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>presentation</word>
     <trans><![CDATA[n. 描述，陈述；介绍；赠送 
+        present 
 ]]></trans>
     <phonetic><![CDATA[[,prezən'teiʃən, ,pri:-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>presenter</word>
     <trans><![CDATA[n. 提出者；推荐者；赠送者；任命者 
+        present
 ]]></trans>
     <phonetic><![CDATA[[pri'zentə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>preservation</word>
     <trans><![CDATA[n. 保存，保留 
+        preserve  [pre·serve || prɪ'zɜrv /-'zɜːv]
+n.  蜜饯, 禁猎地, 果酱 v.  保存, 保藏; 保护; 防腐; 维护; 做蜜饯, 禁猎
+ "before" (see pre-) + servare "to keep safe" (see observe)
 ]]></trans>
     <phonetic><![CDATA[[,prezə'veiʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -31691,6 +31749,9 @@ adj. 凭处方方可购买的
 </item><item>    <word>preside</word>
     <trans><![CDATA[vi. 主持，担任会议主席 
 vt. 管理 
+before" (see pre-) + sedere "to sit" (see sedentary).
+sedentary  [sed·en·tar·y || 'sedntərɪ /-rɪ] adj.  久坐的, 土生的, 坐惯的
+sit
 ]]></trans>
     <phonetic><![CDATA[[pri'zaid]]]></phonetic>
     <tags>GRE</tags>
@@ -31713,12 +31774,18 @@ adj. 紧迫的；迫切的；恳切的
     <progress>0</progress>
 </item><item>    <word>prestige</word>
     <trans><![CDATA[n. 威望，声望；声誉 
+        prestigious  [pres·tig·ious || pre'stɪːdʒəs /-'stɪd-]
+adj.  享有声望的, 声望很高的
+"before" (see pre-) + stringere "to tie or bind" (see strain (v.))
+pre stage-舞台
 ]]></trans>
     <phonetic><![CDATA[[pre'sti:ʒ, -'sti:dʒ, 'prestidʒ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>prestigious</word>
     <trans><![CDATA[adj. 有名望的；享有声望的 
+        "before" (see pre-) + stringere "to tie or bind" (see strain (v.))
+        pre stage-舞台
 ]]></trans>
     <phonetic><![CDATA[[pre'stidʒəs, -'sti:-]]]></phonetic>
     <tags>GRE</tags>
@@ -31726,12 +31793,16 @@ adj. 紧迫的；迫切的；恳切的
 </item><item>    <word>presume</word>
     <trans><![CDATA[vi. 相信；擅自行为 
 vt. 假定；推测；擅自；意味着 
+  summer 夏天
+  sume-词根：抓、摘
+assume v.采取，承担；假设
 ]]></trans>
     <phonetic><![CDATA[[pri'zju:m, -'zu:m]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>presumption</word>
     <trans><![CDATA[n. 放肆，傲慢；推测 
+        presume vi. 相信；擅自行为 
 ]]></trans>
     <phonetic><![CDATA[[pri'zʌmpʃən, pri:-]]]></phonetic>
     <tags>GRE</tags>
@@ -31744,26 +31815,31 @@ vt. 假定；推测；擅自；意味着
     <progress>0</progress>
 </item><item>    <word>pretend</word>
     <trans><![CDATA[adj. 假装的 
-vi. 假装；伪称 
-vt. 假装；假扮；伪称 
+vi. 佯装; 自命, 自称; 假装; 假扮; 假装; 妄求; 自封, 自称
+"before" (see pre-) + tendere "to stretch," from PIE root *ten- "to stretch" (see tend). 
+adj.  假装的; 假想的
+装作------装
 ]]></trans>
     <phonetic><![CDATA[[pri'tend, pri:-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pretension</word>
     <trans><![CDATA[n. 自负；要求；主张；借口；骄傲 
+        pretend 佯装; 自命, 自称; 假装; 假扮; 假装; 妄求; 自封, 自称
 ]]></trans>
     <phonetic><![CDATA[[pri'tenʃən, pri:-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pretentious</word>
     <trans><![CDATA[adj. 自命不凡的；炫耀的；做作的 
+        pretend   佯装; 自命, 自称; 假装; 假扮; 假装; 妄求; 自封, 自称
 ]]></trans>
     <phonetic><![CDATA[[pri'tenʃəs, pri:-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>preternatural</word>
     <trans><![CDATA[adj. 超自然的；异常的，不可思议的 
+        from praeter "beyond" (see preterite) + accusative of natura "nature" (see natural).
 ]]></trans>
     <phonetic><![CDATA[[,pri:tə'nætʃərəl]]]></phonetic>
     <tags>GRE</tags>
@@ -31771,18 +31847,22 @@ vt. 假装；假扮；伪称
 </item><item>    <word>pretext</word>
     <trans><![CDATA[n. 借口；托辞 
 vt. 以…为借口 
+prae- "in front" (see pre-) + texere "to weave," from PIE root *tek- "make" (see texture (n.)).
 ]]></trans>
     <phonetic><![CDATA[['pri:tekst]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>prevail</word>
     <trans><![CDATA[vi. 盛行，流行；战胜，获胜 
+        before" (see pre-) + valere "have power, be strong" (see valiant).
+        valiant   adj.  勇敢的, 英勇的
 ]]></trans>
     <phonetic><![CDATA[[pri'veil, pri:-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>prevaricate</word>
     <trans><![CDATA[vi. 搪塞；支吾其辞，闪烁其辞 
+        prae "before" (see pre-) + varicare "to straddle," from varicus "straddling," from varus "bowlegged, knock-kneed" (see varus).
 ]]></trans>
     <phonetic><![CDATA[[pri'værikeit]]]></phonetic>
     <tags>GRE</tags>
@@ -31804,6 +31884,7 @@ adv. 在先；在…以前
 </item><item>    <word>prey</word>
     <trans><![CDATA[n. 捕食；牺牲者；被捕食的动物 
 vi. 捕食；掠夺；折磨 
+no
 ]]></trans>
     <phonetic><![CDATA[[prei]]]></phonetic>
     <tags>GRE</tags>
@@ -31812,6 +31893,7 @@ vi. 捕食；掠夺；折磨
     <trans><![CDATA[adj. 拘谨的；整洁的；呆板的 
 vt. 使显得一本正经；把…打扮得整整齐齐 
 vi. 显得一本正经 
+literally "first" (see prime (adj.)).
 ]]></trans>
     <phonetic><![CDATA[[prim]]]></phonetic>
     <tags>GRE</tags>
@@ -31819,6 +31901,7 @@ vi. 显得一本正经
 </item><item>    <word>primate</word>
     <trans><![CDATA[n. 大主教；灵长类的动物；首领 
 adj. 灵长目动物的；首要的 
+prime
 ]]></trans>
     <phonetic><![CDATA[['praimeit, -mit]]]></phonetic>
     <tags>GRE</tags>
@@ -31836,6 +31919,8 @@ adv. 极好地
 </item><item>    <word>primp</word>
     <trans><![CDATA[vt. 精心打扮；装饰 
 vi. 装饰；打扮 
+prim adj.  呆板的; 装出淑女模样的; 拘谨的; 整齐的
+v.  使显得一本正经; 把...打扮得整齐; 显得一本正经
 ]]></trans>
     <phonetic><![CDATA[[primp]]]></phonetic>
     <tags>GRE</tags>
@@ -31843,30 +31928,38 @@ vi. 装饰；打扮
 </item><item>    <word>principal</word>
     <trans><![CDATA[n. 校长；委托人，当事人；资本；主犯 
 adj. 首要的；最重要的 
+prince  [prɪns] n.  王子, 亲王; 贵族, 侯, 公; 国君; 巨子, 泰斗
+prime 
 ]]></trans>
     <phonetic><![CDATA[['prinsəpəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>principle</word>
     <trans><![CDATA[n. 原理，原则；主义，道义；本质，本义；根源，源泉 
+        prince  [prɪns] n.  王子, 亲王; 贵族, 侯, 公; 国君; 巨子, 泰斗
 ]]></trans>
     <phonetic><![CDATA[['prinsəpl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>priority</word>
     <trans><![CDATA[n. 优先；优先权；[数] 优先次序；优先考虑的事 
+        prior  [pri·or || 'praɪə(r)]
+n.  小修道院院长; 大修道院副院长 adj.  在先的, 在前的; 优先的, 更重要的; 居先的
+ *prei-, from root *per- (1) "forward, through" (see per).
 ]]></trans>
     <phonetic><![CDATA[[prai'ɔrəti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pristine</word>
     <trans><![CDATA[adj. 原始的，古时的；纯朴的 
+        prime 
 ]]></trans>
     <phonetic><![CDATA[['pristain, -ti:n]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>privation</word>
     <trans><![CDATA[n. 贫困；丧失；被剥夺了某物的状态 
+        " (see private (adj.)). 
 ]]></trans>
     <phonetic><![CDATA[[prai'veiʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -31874,6 +31967,7 @@ adj. 首要的；最重要的
 </item><item>    <word>privilege</word>
     <trans><![CDATA[n. 特权；优待；基本权利 
 vt. 给与…特权；特免 
+private
 ]]></trans>
     <phonetic><![CDATA[['privilidʒ]]]></phonetic>
     <tags>GRE</tags>
@@ -31882,24 +31976,31 @@ vt. 给与…特权；特免
     <trans><![CDATA[n. 探针；调查 
 vi. 调查；探测 
 vt. 探查；用探针探测 
+prove  n.证明
+proof  v.证据
 ]]></trans>
     <phonetic><![CDATA[[prəub]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>probity</word>
     <trans><![CDATA[n. 廉洁；正直 
+        prove
 ]]></trans>
     <phonetic><![CDATA[['prəubiti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>proboscis</word>
     <trans><![CDATA[n. 鼻子；[昆] 喙；象鼻；[无脊椎] 吻 
+         pro "forward" (see pro-) + boskein "to nourish, feed," 
+         botanic  [bo·tan·ic || bə'tænɪk(l)] adj.  植物的; 植物学的
 ]]></trans>
     <phonetic><![CDATA[[prəu'bɔsis]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>proceeds</word>
     <trans><![CDATA[n. 收入，收益；实收款项 
+        proceed 
+        pro- "forward" (see pro-) + cedere "to go" (see cede).
 ]]></trans>
     <phonetic><![CDATA[['prəusi:dz]]]></phonetic>
     <tags>GRE</tags>
@@ -31908,12 +32009,15 @@ vt. 探查；用探针探测
     <trans><![CDATA[n. 队伍，行列；一列，一排；列队行进 
 vt. 沿著……行进 
 vi. 列队行进 
+ proceed 
+        pro- "forward" (see pro-) + cedere "to go" (see cede).
 ]]></trans>
     <phonetic><![CDATA[[prəu'seʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>proclaim</word>
     <trans><![CDATA[vt. 宣告，公布；声明；表明；赞扬 
+        pro- "forth" (see pro-) + clamare "to cry out" (see claim (v.))
 ]]></trans>
     <phonetic><![CDATA[[prəu'kleim]]]></phonetic>
     <tags>GRE</tags>
@@ -31921,6 +32025,7 @@ vi. 列队行进
 </item><item>    <word>procrastinate</word>
     <trans><![CDATA[vi. 耽搁，延迟 
 vt. 耽搁，延迟 
+no
 ]]></trans>
     <phonetic><![CDATA[[prəu'kræstineit]]]></phonetic>
     <tags>GRE</tags>
@@ -31928,6 +32033,8 @@ vt. 耽搁，延迟
 </item><item>    <word>proctor</word>
     <trans><![CDATA[n. 代理人；学监 
 vt. 监督 
+no
+proxy
 ]]></trans>
     <phonetic><![CDATA[['prɔktə]]]></phonetic>
     <tags>GRE</tags>
@@ -31935,6 +32042,7 @@ vt. 监督
 </item><item>    <word>procure</word>
     <trans><![CDATA[vt. 获得，取得；导致 
 vi. 取得 
+from pro- "in behalf of" (see pro-) + curare "care for" (see cure (v.))
 ]]></trans>
     <phonetic><![CDATA[[prəu'kjuə]]]></phonetic>
     <tags>GRE</tags>
@@ -31943,6 +32051,7 @@ vi. 取得
     <trans><![CDATA[n. 刺针；刺棒；签子 
 vi. 刺；捅 
 vt. 刺，戳；刺激 
+brad  [bræd] n.  无头钉; 角钉; 曲头钉
 ]]></trans>
     <phonetic><![CDATA[[prɔd]]]></phonetic>
     <tags>GRE</tags>
@@ -31950,18 +32059,21 @@ vt. 刺，戳；刺激
 </item><item>    <word>prodigal</word>
     <trans><![CDATA[n. 浪子；挥霍者 
 adj. 挥霍的；十分慷慨的 
+from pro- "forth" (see pro-) + agere "to drive" (see act (v.))
 ]]></trans>
     <phonetic><![CDATA[['prɔdiɡəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>prodigious</word>
     <trans><![CDATA[adj. 惊人的，异常的，奇妙的；巨大的 
+        prodigy  [prod·i·gy || 'prɑdɪdʒɪ /'prɒd-] n.  惊人的事物, 神童, 不凡的人
 ]]></trans>
     <phonetic><![CDATA[[prəu'didʒəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>prodigy</word>
     <trans><![CDATA[n. 奇迹，奇事；奇才；奇观；预兆 
+        no
 ]]></trans>
     <phonetic><![CDATA[['prɔdidʒi]]]></phonetic>
     <tags>GRE</tags>
@@ -31983,6 +32095,7 @@ vi. 生产，创作
 </item><item>    <word>profane</word>
     <trans><![CDATA[adj. 亵渎的；世俗的；异教的 
 vt. 亵渎；玷污 
+from pro- "before" (see pro-) + fano, ablative of fanum "temple" (see feast (n.))
 ]]></trans>
     <phonetic><![CDATA[[prəu'fein]]]></phonetic>
     <tags>GRE</tags>
@@ -31990,6 +32103,7 @@ vt. 亵渎；玷污
 </item><item>    <word>proffer</word>
     <trans><![CDATA[n. 提供；提出；提议 
 vt. 提供；提出；奉献 
+offet
 ]]></trans>
     <phonetic><![CDATA[['prɔfə]]]></phonetic>
     <tags>GRE</tags>
@@ -31997,12 +32111,14 @@ vt. 提供；提出；奉献
 </item><item>    <word>proficient</word>
     <trans><![CDATA[n. 精通；专家，能手 
 adj. 熟练的，精通的 
+pro- "forward" (see pro-) + root of facere "to make" (see factitious).
 ]]></trans>
     <phonetic><![CDATA[[prəu'fiʃənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>profile</word>
     <trans><![CDATA[n. 侧面；轮廓；外形；剖面 
+         (see pro-) + filare "draw out, spin," from Late Latin filare "to spin, draw out a line," from filum "thread" (see file (v.)).
 ]]></trans>
     <phonetic><![CDATA[['prəufail]]]></phonetic>
     <tags>GRE</tags>
@@ -32010,6 +32126,7 @@ adj. 熟练的，精通的
 </item><item>    <word>profiteer</word>
     <trans><![CDATA[n. [贸易] 奸商；牟取暴利的人 
 vi. 赚大钱；牟取暴利 
+profit 
 ]]></trans>
     <phonetic><![CDATA[[,prɔfi'tiə]]]></phonetic>
     <tags>GRE</tags>
@@ -32017,36 +32134,48 @@ vi. 赚大钱；牟取暴利
 </item><item>    <word>profligate</word>
     <trans><![CDATA[n. 放荡者；享乐者 
 adj. 放荡的，不检点的；恣意挥霍的 
+ pro- "down, forth" (see pro-) + fligere "to strike" (see afflict)
+ afflict  [af·flict || ə'flɪkt] v.  使痛苦; 折磨
 ]]></trans>
     <phonetic><![CDATA[['prɔfliɡət, -ɡeit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>profound</word>
     <trans><![CDATA[adj. 深厚的；意义深远的；渊博的 
+        from pro- "forth" (see pro-) + fundus "bottom" (see fund (n.))
+        found  [faʊnd] v.  建立; 创立, 创办; 建造; 将...建立在; 铸, 铸造; 熔制; 熔化
 ]]></trans>
     <phonetic><![CDATA[[prəu'faund]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>profuse</word>
     <trans><![CDATA[adj. 丰富的；很多的；慷慨的；浪费的 
+        pro- "forth" (see pro-) + fundere "to pour" (see found (v.2)). 
+        found  [faʊnd] v.  建立; 创立, 创办; 建造; 将...建立在; 铸, 铸造; 熔制; 熔化
 ]]></trans>
     <phonetic><![CDATA[[prəu'fju:s]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>progeny</word>
     <trans><![CDATA[n. 子孙；后裔；成果 
+         from pro- "forth" (see pro-) + gignere "to produce, beget" (see genus).
 ]]></trans>
     <phonetic><![CDATA[['prɔdʒini]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>prognosis</word>
     <trans><![CDATA[n. [医] 预后；预知 
+         from pro- "before" (see pro-) + gignoskein "come to know" (see gnostic). 
+         gnostic  [Gnos·tic || 'nɒstɪk] adj.  有知识的
+         know
 ]]></trans>
     <phonetic><![CDATA[[prɔɡ'nəusis]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>prohibitive</word>
     <trans><![CDATA[adj. 禁止的，禁止性的；抑制的；（费用，价格等）过高的；类同禁止的 
+        prohibit  [pro·hib·it || prəʊ'hɪbɪt /prə-] v.  禁止, 阻止
+        from pro- "away, forth" (see pro-) + habere "to hold" (see habit). 
 ]]></trans>
     <phonetic><![CDATA[[prəu'hibitiv]]]></phonetic>
     <tags>GRE</tags>
@@ -32054,18 +32183,24 @@ adj. 放荡的，不检点的；恣意挥霍的
 </item><item>    <word>projectile</word>
     <trans><![CDATA[adj. 抛射的；抛掷的；供抛射用的；（触角等）能伸出的 
 n. 射弹；抛射体；自动推进武器 
+project
+" from pro- "forward" (see pro-) + combining form of iacere (past participle iactus) "to throw" (see jet (v.))
 ]]></trans>
     <phonetic><![CDATA[[prəu'dʒektail, -til]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>projection</word>
     <trans><![CDATA[n. 投射；规划；突出；发射；推测 
+        project
+" from pro- "forward" (see pro-) + combining form of iacere (past participle iactus) "to throw" (see jet (v.))
 ]]></trans>
     <phonetic><![CDATA[[prəu'dʒekʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>projector</word>
     <trans><![CDATA[n. [仪] 投影仪；放映机；探照灯；设计者 
+        project
+" from pro- "forward" (see pro-) + combining form of iacere (past participle iactus) "to throw" (see jet (v.))
 ]]></trans>
     <phonetic><![CDATA[[prəu'dʒektə]]]></phonetic>
     <tags>GRE</tags>
@@ -32073,24 +32208,30 @@ n. 射弹；抛射体；自动推进武器
 </item><item>    <word>proliferate</word>
     <trans><![CDATA[vi. 增殖；扩散；激增 
 vt. 使激增 
+ from Latin proles "offspring" (see prolific) + ferre "to bear" (see infer).
+ prolific  [pro'lif·ic || prə'lɪfɪk] adj.  生子的, 多产的, 结果实的
 ]]></trans>
     <phonetic><![CDATA[[prəu'lifəreit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>prolific</word>
     <trans><![CDATA[adj. 多产的；丰富的 
+        life
 ]]></trans>
     <phonetic><![CDATA[[prəu'lifik]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>prolix</word>
     <trans><![CDATA[adj. 冗长的；说话啰嗦的 
+        pro- "forth" (see pro-) + base of liquere "to flow" (see liquid (adj.)).
 ]]></trans>
     <phonetic><![CDATA[['prəuliks, prəu'l-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>prolixity</word>
     <trans><![CDATA[n. 冗长；罗嗦 
+        prolix 冗长的；说话啰嗦的 
+        pro- "forth" (see pro-) + base of liquere "to flow" (see liquid (adj.)).
 ]]></trans>
     <phonetic><![CDATA[[prəu'liksəti]]]></phonetic>
     <tags>GRE</tags>
@@ -32098,6 +32239,7 @@ vt. 使激增
 </item><item>    <word>prologue</word>
     <trans><![CDATA[n. 开场白；序言 
 vt. 加上…前言；为…作序 
+ "before" (see pro-) + logos "discourse, speech," from legein "to speak" (see lecture (n.)).
 ]]></trans>
     <phonetic><![CDATA[['prəulɔɡ, -lɔ:ɡ]]]></phonetic>
     <tags>GRE</tags>
@@ -32110,15 +32252,16 @@ vt. 加上…前言；为…作序
     <progress>0</progress>
 </item><item>    <word>promenade</word>
     <trans><![CDATA[n. 散步；舞会；骑马 
-adj. 散步的 
-vt. 散步，漫步；骑马 
-vi. 散步 
+adj. 散步的 vt. 散步，漫步；骑马 vi. 散步 
+pro- "forth" (see pro-) + minare "to drive (animals) with shouts," from minari "to threaten" (see menace (n.)). 
+menace  [men·ace || 'menɪs] n.  威胁, 胁迫 v.  威胁, 恐吓; 危及; 进行威胁, 进行恐吓
 ]]></trans>
     <phonetic><![CDATA[[,prɔmi'nɑ:d, -'neid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>prominent</word>
     <trans><![CDATA[adj. 突出的，显著的；杰出的；卓越的 
+        menace  [men·ace || 'menɪs] n.  威胁, 胁迫 v.  威胁, 恐吓; 危及; 进行威胁, 进行恐吓
 ]]></trans>
     <phonetic><![CDATA[['prɔminənt]]]></phonetic>
     <tags>GRE</tags>
@@ -32126,6 +32269,7 @@ vi. 散步
 </item><item>    <word>promote</word>
     <trans><![CDATA[vi. 成为王后或其他大于卒的子 
 vt. 促进；提升；推销；发扬 
+ pro- "forward" (see pro-) + movere "to move" (see move (v.)).
 ]]></trans>
     <phonetic><![CDATA[[prəu'məut]]]></phonetic>
     <tags>GRE</tags>
@@ -32135,6 +32279,7 @@ vt. 促进；提升；推销；发扬
 adj. 敏捷的，迅速的；立刻的 
 vt. 提示；促进；激起；（给演员）提白 
 adv. 准时地 
+ pro- "forward" (see pro-) + emere "to take" (see exempt (adj.))
 ]]></trans>
     <phonetic><![CDATA[[prɔmpt]]]></phonetic>
     <tags>GRE</tags>
