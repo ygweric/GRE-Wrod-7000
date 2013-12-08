@@ -32286,12 +32286,14 @@ adv. 准时地
     <progress>0</progress>
 </item><item>    <word>promulgate</word>
     <trans><![CDATA[vt. 公布；传播；发表 
+        no
 ]]></trans>
     <phonetic><![CDATA[['prɔməlɡeit, prəu'mʌl-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>prone</word>
     <trans><![CDATA[adj. 俯卧的；有…倾向的，易于…的 
+        pro + one 一声只为你一个
 ]]></trans>
     <phonetic><![CDATA[[prəun]]]></phonetic>
     <tags>GRE</tags>
@@ -32306,6 +32308,7 @@ adj. 显著的；断然的；讲出来的
 </item><item>    <word>prop</word>
     <trans><![CDATA[n. 支柱；支持者 
 vt. 支撑；维持 
+no
 ]]></trans>
     <phonetic><![CDATA[[prɔp]]]></phonetic>
     <tags>GRE</tags>
@@ -32313,54 +32316,68 @@ vt. 支撑；维持
 </item><item>    <word>propagate</word>
     <trans><![CDATA[vt. 传播；传送；繁殖；宣传 
 vi. 繁殖；增殖 
+   pact-词根：拍
+   palm  pat  
 ]]></trans>
     <phonetic><![CDATA[['prɔpəɡeit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>propel</word>
     <trans><![CDATA[vt. 推进；驱使；激励；驱策 
+           palm
+   pel-词根：推
 ]]></trans>
     <phonetic><![CDATA[[prəu'pel]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>propensity</word>
     <trans><![CDATA[n. 倾向，习性；癖好，偏爱 
+           depend 依靠
+            pend-词根：靠、挂
+        propend
 ]]></trans>
     <phonetic><![CDATA[[prəu'pensiti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>prophecy</word>
     <trans><![CDATA[n. 预言；预言书；预言能力 
+        prophet  [proph·et || 'prɑfɪt /'prɒ-] n.  预言者, 提倡者, 先知
+ from pro- "before" (see pro-) + root of phanai "to speak," from PIE *bha- (2) "speak" (see fame (n.)). 
 ]]></trans>
     <phonetic><![CDATA[['prɔfisi]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>prophet</word>
     <trans><![CDATA[n. 先知；预言者；提倡者 
+ from pro- "before" (see pro-) + root of phanai "to speak," from PIE *bha- (2) "speak" (see fame (n.)). 
 ]]></trans>
     <phonetic><![CDATA[['prɔfit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>prophetic</word>
     <trans><![CDATA[adj. 预言的，预示的；先知的 
+         from pro- "before" (see pro-) + root of phanai "to speak," from PIE *bha- (2) "speak" (see fame (n.))
 ]]></trans>
     <phonetic><![CDATA[[prəu'fetik]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>propitiate</word>
     <trans><![CDATA[vt. 抚慰，安抚；与…和解 
+        no
 ]]></trans>
     <phonetic><![CDATA[[prəu'piʃieit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>propitious</word>
     <trans><![CDATA[adj. 适合的；吉利的；顺利的 
+        no
 ]]></trans>
     <phonetic><![CDATA[[prəu'piʃəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>proposal</word>
     <trans><![CDATA[n. 提议，建议；求婚 
+        propose 
 ]]></trans>
     <phonetic><![CDATA[[prəu'pəuzəl]]]></phonetic>
     <tags>GRE</tags>
@@ -32368,6 +32385,8 @@ vi. 繁殖；增殖
 </item><item>    <word>proposition</word>
     <trans><![CDATA[n. [数] 命题；提议；主题；议题 
 vt. 向…提议；向…求欢 
+propound  [pro·pound || prə'paʊnd] v.  提出, 提议
+pro + position
 ]]></trans>
     <phonetic><![CDATA[[,prɔpə'ziʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -32375,24 +32394,33 @@ vt. 向…提议；向…求欢
 </item><item>    <word>proprietary</word>
     <trans><![CDATA[n. 所有权；所有人 
 adj. 所有的；专利的；私人拥有的 
+private 私人的
+proper 恰当的；特有的
 ]]></trans>
     <phonetic><![CDATA[[prəu'praiətəri]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>propriety</word>
     <trans><![CDATA[n. 适当；礼节；得体 
+        private 私人的
+proper 恰当的；特有的
 ]]></trans>
     <phonetic><![CDATA[[prəu'praiəti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>propulsion</word>
     <trans><![CDATA[n. 推进；推进力 
+        propel  [pro·pel || prə'pel] v.  推进, 驱使
 ]]></trans>
     <phonetic><![CDATA[[prəu'pʌlʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>prosaic</word>
     <trans><![CDATA[adj. 平凡的，乏味的；散文体的 
+        prose  [prəʊz] n.  散文
+         from pro- "forward" (see pro-) + vorsus "turned," past participle of vertere "to turn" (see verse).
+         verse  [vɜrs / vɜːs-] n.  韵文; 诗节; 诗
+         "to turn, bend" (see versus).
 ]]></trans>
     <phonetic><![CDATA[[prəu'zeiik]]]></phonetic>
     <tags>GRE</tags>
@@ -32402,6 +32430,8 @@ adj. 所有的；专利的；私人拥有的
 adj. 散文的；平凡的；乏味的 
 vt. 把…写成散文 
 vi. 写散文；乏味地讲话 
+verse  [vɜrs / vɜːs-] n.  韵文; 诗节; 诗 
+    "to turn, bend" (see versus).
 ]]></trans>
     <phonetic><![CDATA[[prəuz]]]></phonetic>
     <tags>GRE</tags>
@@ -32409,13 +32439,14 @@ vi. 写散文；乏味地讲话
 </item><item>    <word>prosecute</word>
     <trans><![CDATA[vt. 检举；贯彻；从事；依法进行 
 vi. 起诉；告发；作检察官 
+pursue  [pur·sue || pər'suː /pə'sju-] v.  追赶, 追捕, 追踪; 追赶; 继续进行
 ]]></trans>
     <phonetic><![CDATA[['prɔsikju:t]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>proselytize</word>
-    <trans><![CDATA[vt. 使改宗 
-vi. 劝诱改宗 
+    <trans><![CDATA[vt. 使改宗教 
+vi. 劝诱改宗教
 ]]></trans>
     <phonetic><![CDATA[['prɔsilitaiz]]]></phonetic>
     <tags>GRE</tags>
@@ -32424,18 +32455,21 @@ vi. 劝诱改宗
     <trans><![CDATA[n. 前途；预期；景色 
 vt. 勘探，勘察 
 vi. 勘探，找矿 
+ pro- "forward" (see pro-) + specere "look at" (see scope (n.1)). 
 ]]></trans>
     <phonetic><![CDATA[['prɔspekt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>prosperity</word>
     <trans><![CDATA[n. 繁荣，成功 
+        prosper  [pros·per || 'prɑspə(r) /'prɒ-] v.  繁荣, 昌盛; 成功
 ]]></trans>
     <phonetic><![CDATA[[prɔs'periti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>prosperous</word>
     <trans><![CDATA[adj. 繁荣的；兴旺的 
+         prosper  [pros·per || 'prɑspə(r) /'prɒ-] v.  繁荣, 昌盛; 成功
 ]]></trans>
     <phonetic><![CDATA[['prɔspərəs]]]></phonetic>
     <tags>GRE</tags>
@@ -32443,18 +32477,21 @@ vi. 勘探，找矿
 </item><item>    <word>prostrate</word>
     <trans><![CDATA[adj. 俯卧的；拜倒的；降伏的；沮丧的 
 vt. 使…屈服；将…弄倒；使…俯伏 
+from pro- "forth" (see pro-) + sternere "to spread out," from PIE root *stere- "to spread, extend, stretch out" (see structure (n.)).
 ]]></trans>
     <phonetic><![CDATA[['prɔstreit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>protagonist</word>
     <trans><![CDATA[n. 主角，主演；主要人物，领导者 
+        from protos "first" (see proto-) + agonistes "actor, competitor," from agon "contest" (see act (n.))
 ]]></trans>
     <phonetic><![CDATA[[prəu'tæɡənist]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>protean</word>
     <trans><![CDATA[adj. 千变万化的；一人演几个角色的；变形虫的 
+        no
 ]]></trans>
     <phonetic><![CDATA[[prəu'ti:ən, 'prəuti-]]]></phonetic>
     <tags>GRE</tags>
@@ -32464,6 +32501,8 @@ vt. 使…屈服；将…弄倒；使…俯伏
 adj. 表示抗议的；抗议性的 
 vt. 抗议；断言 
 vi. 抗议；断言 
+pro- "forth, before" (see pro-) + testari "testify," from testis "witness" (see ). 
+testament  [tes·ta·ment || 'testəmənt] n.  圣经旧约; 遗嘱, 遗言; 圣经新约; 证明, 证据
 ]]></trans>
     <phonetic><![CDATA[[prəu'test, 'prəu-]]]></phonetic>
     <tags>GRE</tags>
@@ -32472,42 +32511,50 @@ vi. 抗议；断言
     <trans><![CDATA[n. 协议；草案；礼仪 
 vt. 拟定 
 vi. 拟定 
+from protos "first" (see proto-) + kolla "glue." 
 ]]></trans>
     <phonetic><![CDATA[['prəutəkɔl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>prototype</word>
     <trans><![CDATA[n. 原型；标准，模范 
+        from protos "first" (see proto-) + typos "impression, mold, pattern" (see type (n.)).
 ]]></trans>
     <phonetic><![CDATA[['prəutətaip]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>protract</word>
     <trans><![CDATA[vt. 绘制；延长；伸展 
+        no
 ]]></trans>
     <phonetic><![CDATA[[prə'trækt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>provenance</word>
     <trans><![CDATA[n. 出处，起源 
+         from pro- "forth" (see pro-) + venire "come" (see venue).
+         venue  [ven·ue || 'venjuː] n.  犯罪地点, 集合地点, 审判地
 ]]></trans>
     <phonetic><![CDATA[['prɔvənəns]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>provender</word>
     <trans><![CDATA[n. 粮草；秣；食物 
+        no
 ]]></trans>
     <phonetic><![CDATA[['prɔvində]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>provident</word>
     <trans><![CDATA[adj. 节俭的；有先见之明的；顾及未来的 
+        provide
 ]]></trans>
     <phonetic><![CDATA[['prɔvidənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>providential</word>
     <trans><![CDATA[adj. 幸运的 
+        provide
 ]]></trans>
     <phonetic><![CDATA[[,prɔvi'denʃəl]]]></phonetic>
     <tags>GRE</tags>
@@ -32515,6 +32562,7 @@ vi. 拟定
 </item><item>    <word>provincial</word>
     <trans><![CDATA[n. 粗野的人；乡下人；外地人 
 adj. 省的；地方性的；偏狭的 
+province
 ]]></trans>
     <phonetic><![CDATA[[prəu'vinʃəl]]]></phonetic>
     <tags>GRE</tags>
@@ -32522,6 +32570,7 @@ adj. 省的；地方性的；偏狭的
 </item><item>    <word>provision</word>
     <trans><![CDATA[n. 规定；条款；准备；[经] 供应品 
 vt. 供给…食物及必需品 
+provide
 ]]></trans>
     <phonetic><![CDATA[[prəu'viʒən]]]></phonetic>
     <tags>GRE</tags>
@@ -32529,24 +32578,30 @@ vt. 供给…食物及必需品
 </item><item>    <word>provisional</word>
     <trans><![CDATA[n. 临时邮票 
 adj. 临时的，暂时的；暂定的 
+provision  规定；条款；准备；[经] 供应品 
+provide
 ]]></trans>
     <phonetic><![CDATA[[prəu'viʒənəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>provisory</word>
     <trans><![CDATA[adj. [法] 有附带条件的，有附文的；临时的 
+        provide
 ]]></trans>
     <phonetic><![CDATA[[prəu'vaizəri]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>provocation</word>
     <trans><![CDATA[n. 挑衅；激怒；挑拨 
+        provoke v.  激怒, 煽动, 挑拨
+        pro- "forth" (see pro-) + vocare "to call" (see voice (n.)).
 ]]></trans>
     <phonetic><![CDATA[[,prɔvə'keiʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>prowess</word>
     <trans><![CDATA[n. 英勇；超凡技术；勇猛 
+        proud
 ]]></trans>
     <phonetic><![CDATA[['prauis]]]></phonetic>
     <tags>GRE</tags>
@@ -32555,6 +32610,7 @@ adj. 临时的，暂时的；暂定的
     <trans><![CDATA[n. 徘徊，潜行；悄悄踱步 
 vt. 在…搜寻；潜行于 
 vi. 徘徊，潜行 
+bowl
 ]]></trans>
     <phonetic><![CDATA[[praul]]]></phonetic>
     <tags>GRE</tags>
@@ -32567,18 +32623,22 @@ vi. 徘徊，潜行
     <progress>0</progress>
 </item><item>    <word>prude</word>
     <trans><![CDATA[n. 拘守礼仪的人；故做正经的女人 
+        a brave man" (see proud); 
 ]]></trans>
     <phonetic><![CDATA[[pru:d]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>prudent</word>
     <trans><![CDATA[adj. 谨慎的；精明的；节俭的 
+         providere "to foresee" (see provide). 
 ]]></trans>
     <phonetic><![CDATA[['pru:dənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>prudish</word>
     <trans><![CDATA[adj. 装正经的；过分规矩的 
+        prude n. 拘守礼仪的人；故做正经的女人 
+        a brave man" (see proud); 
 ]]></trans>
     <phonetic><![CDATA[['pru:diʃ]]]></phonetic>
     <tags>GRE</tags>
@@ -32587,6 +32647,7 @@ vi. 徘徊，潜行
     <trans><![CDATA[n. 深紫红色；傻瓜；李子干 
 vt. 修剪；删除；剪去 
 vi. 删除；减少 
+from pro- "forth" (see pro-) + *retundiare "round off," from Latin rotundus (see round (adj.)).
 ]]></trans>
     <phonetic><![CDATA[[pru:n]]]></phonetic>
     <tags>GRE</tags>
@@ -32595,24 +32656,28 @@ vi. 删除；减少
     <trans><![CDATA[vi. 刺探，探查 
 vt. 撬动，撬开 
 n. 窥探；杠杆 
+"a taking hold, grasp" (see prize (n.2)).
 ]]></trans>
     <phonetic><![CDATA[[prai]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pseudonym</word>
     <trans><![CDATA[n. 笔名；假名 
+         from pseudes "false" (see pseudo-) + onyma, Aeolic dialectal variant of onoma "name" (see name (n.)).
 ]]></trans>
     <phonetic><![CDATA[['psju:dənim]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>psyche</word>
     <trans><![CDATA[n. 灵魂；心智 
+        no
 ]]></trans>
     <phonetic><![CDATA[['psaiki]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>psychology</word>
     <trans><![CDATA[n. 心理学；心理状态 
+        psyche n. 灵魂；心智 
 ]]></trans>
     <phonetic><![CDATA[[psai'kɔlədʒi]]]></phonetic>
     <tags>GRE</tags>
@@ -32627,12 +32692,15 @@ n. 窥探；杠杆
     <trans><![CDATA[n. 皱纹；皱褶 
 vt. 折叠；使起皱；使缩拢 
 vi. 折叠；皱起；缩拢 
+poke  [pəʊk]
+n.  戳, 捅; 一拳; 拨弄; 游手好闲的人#袋, 袋子; 钱包, 票夹; 装金块的袋子
 ]]></trans>
     <phonetic><![CDATA[['pʌkə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>puckish</word>
     <trans><![CDATA[adj. 恶作剧的，淘气的 
+        puck  [pʌk] n.  恶作剧的小妖精; 淘气的小孩
 ]]></trans>
     <phonetic><![CDATA[['pʌkiʃ]]]></phonetic>
     <tags>GRE</tags>
@@ -32641,54 +32709,70 @@ vi. 折叠；皱起；缩拢
     <trans><![CDATA[n. 水坑，泥潭；胶土（由粘土与水和成，不透水） 
 vt. 使泥泞，搅浑；把…捣制成胶土；搅炼；用胶土填塞 
 vi. 搅泥浆；在水坑中嬉戏 
+no
 ]]></trans>
     <phonetic><![CDATA[['pʌdl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>puerile</word>
     <trans><![CDATA[adj. 幼稚的；孩子气的；未成熟的；天真的 
+        no
 ]]></trans>
     <phonetic><![CDATA[['pjuərail, -ril]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pugilism</word>
     <trans><![CDATA[n. 拳击 
+        pug  [pʌg]
+n.  哈巴狗; 调车用的小火车头; 狮子鼻#兽迹#拳击手#粘土
+v.  循踪追击
 ]]></trans>
     <phonetic><![CDATA[['pju:dʒilizəm]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pugilist</word>
     <trans><![CDATA[n. 拳击手 
+         pug  [pʌg]
+n.  哈巴狗; 调车用的小火车头; 狮子鼻#兽迹#拳击手#粘土
+v.  循踪追击
 ]]></trans>
     <phonetic><![CDATA[['pju:dʒilist]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pugnacious</word>
     <trans><![CDATA[adj. 好斗的，好战的 
+         pug  [pʌg]
+n.  哈巴狗; 调车用的小火车头; 狮子鼻#兽迹#拳击手#粘土
+v.  循踪追击
 ]]></trans>
     <phonetic><![CDATA[[pʌɡ'neiʃəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>puissance</word>
     <trans><![CDATA[n. 权力；权势；影响；（马的）越障能力测试 
+        puissant  ['pjuːɪsnt ,pwɪːsnt] adj.  强力的, 有权力的, 强盛的
+        power
 ]]></trans>
     <phonetic><![CDATA[['pju:isəns, 'pwis-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>puissant</word>
     <trans><![CDATA[adj. 强大的，强盛的；有势力的，有权力的 
+        power
 ]]></trans>
     <phonetic><![CDATA[['pjuisənt, 'pwis-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pulchritude</word>
     <trans><![CDATA[n. 美丽；标致 
+        no
 ]]></trans>
     <phonetic><![CDATA[['pʌlkritju:d]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pullet</word>
     <trans><![CDATA[n. 小母鸡 
+        no
 ]]></trans>
     <phonetic><![CDATA[['pulit]]]></phonetic>
     <tags>GRE</tags>
@@ -32696,6 +32780,9 @@ vi. 搅泥浆；在水坑中嬉戏
 </item><item>    <word>pulley</word>
     <trans><![CDATA[n. 滑轮；皮带轮；滑车 
 vt. 用滑轮升起 
+pole  [pəʊl]
+n.  极; 电极; 地极区域, 极地; 磁极#杆; 竿; 柱
+v.  用杆支撑; 用篙撑; 用竿跳; 撑篙
 ]]></trans>
     <phonetic><![CDATA[['puli]]]></phonetic>
     <tags>GRE</tags>
@@ -32704,6 +32791,7 @@ vt. 用滑轮升起
     <trans><![CDATA[n. 纸浆；果肉；黏浆状物质 
 vt. 使…化成纸浆；除去…的果肉 
 vi. 变成纸浆；成为浆状 
+no
 ]]></trans>
     <phonetic><![CDATA[[pʌlp]]]></phonetic>
     <tags>GRE</tags>
@@ -32712,12 +32800,14 @@ vi. 变成纸浆；成为浆状
     <trans><![CDATA[n. [电子] 脉冲；脉搏 
 vt. 使跳动 
 vi. 跳动，脉跳 
+ push pull   pulse n.脉搏
 ]]></trans>
     <phonetic><![CDATA[[pʌls]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pulverize</word>
     <trans><![CDATA[vt. 粉碎；使成粉末；研磨 
+        pollen  [pol·len || 'pɑlən /'pɒ-] n.  花粉
 ]]></trans>
     <phonetic><![CDATA[['pʌlvəraiz]]]></phonetic>
     <tags>GRE</tags>
@@ -32726,6 +32816,7 @@ vi. 跳动，脉跳
     <trans><![CDATA[n. 双关语；俏皮话 
 vt. 捣实敲打 
 vi. 说双关语；说俏皮话 
+no
 ]]></trans>
     <phonetic><![CDATA[[pʌn]]]></phonetic>
     <tags>GRE</tags>
@@ -32734,12 +32825,14 @@ vi. 说双关语；说俏皮话
     <trans><![CDATA[n. 冲压机；打洞器；钻孔机 
 vt. 开洞；以拳重击 
 vi. 用拳猛击 
+no
 ]]></trans>
     <phonetic><![CDATA[[pʌntʃ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>punctilious</word>
     <trans><![CDATA[adj. 一丝不苟的；精密细心的；拘泥形式的 
+        from Latin punctum "prick( 刺, 刺痛, 戳; 刺, 竖起)" (see point (n.)). 
 ]]></trans>
     <phonetic><![CDATA[[pʌŋk'tiliəs]]]></phonetic>
     <tags>GRE</tags>
@@ -32748,24 +32841,30 @@ vi. 用拳猛击
     <trans><![CDATA[n. 穿刺；刺痕 
 vt. 刺穿；揭穿；削弱 
 vi. 被刺穿；被戳破 
+pungent  ['pun·gent || 'pʌdʒənt] adj.  苦痛的, 严厉的, 刺激性的
 ]]></trans>
     <phonetic><![CDATA[['pʌŋktʃə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pundit</word>
     <trans><![CDATA[n. 博学者；梵文学者 
+        no
 ]]></trans>
     <phonetic><![CDATA[['pʌndit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pungent</word>
     <trans><![CDATA[adj. 辛辣的；刺激性的；苦痛的；尖刻的 
+        punch冲压机, 冲床；猛击
+        punct-词根：打孔
+        pung-  
 ]]></trans>
     <phonetic><![CDATA[['pʌndʒənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>puny</word>
     <trans><![CDATA[adj. 弱小的；微不足道的；微小的 
+        no
 ]]></trans>
     <phonetic><![CDATA[['pju:ni]]]></phonetic>
     <tags>GRE</tags>
@@ -32781,6 +32880,10 @@ vi. 购买东西
 </item><item>    <word>purgative</word>
     <trans><![CDATA[n. 泻剂，泻药 
 adj. 净化的；通便的；赎罪的 
+purge  [pɜrdʒ /pɜː-]
+n.  净化, 清除, 从硬盘上删除多余的文件 (计算机用语); 没有 "取消" 选择地消除文件 (计算机用语); 泻药
+v.  使洁净, 使净化; 清洗; 清除; 使通便; 净化; 清洗; 清除; 通便
+from purus "pure" (see pure) + root of agere "to drive, make" (see act (n.)). 
 ]]></trans>
     <phonetic><![CDATA[['pə:ɡətiv]]]></phonetic>
     <tags>GRE</tags>
@@ -32788,6 +32891,10 @@ adj. 净化的；通便的；赎罪的
 </item><item>    <word>purgatory</word>
     <trans><![CDATA[n. 炼狱；涤罪；暂时的苦难 
 adj. 涤罪的（等于purgative） 
+purge  [pɜrdʒ /pɜː-]
+n.  净化, 清除, 从硬盘上删除多余的文件 (计算机用语); 没有 "取消" 选择地消除文件 (计算机用语); 泻药
+v.  使洁净, 使净化; 清洗; 清除; 使通便; 净化; 清洗; 清除; 通便
+from purus "pure" (see pure) + root of agere "to drive, make" (see act (n.)). 
 ]]></trans>
     <phonetic><![CDATA[['pə:ɡətəri]]]></phonetic>
     <tags>GRE</tags>
@@ -32796,6 +32903,7 @@ adj. 涤罪的（等于purgative）
     <trans><![CDATA[n. 净化；泻药 
 vt. 净化；清洗；通便 
 vi. 净化；通便 
+from purus "pure" (see pure) + root of agere "to drive, make" (see act (n.)). 
 ]]></trans>
     <phonetic><![CDATA[[pə:dʒ]]]></phonetic>
     <tags>GRE</tags>
@@ -32803,18 +32911,21 @@ vi. 净化；通便
 </item><item>    <word>purify</word>
     <trans><![CDATA[vt. 净化；使纯净 
 vi. 净化；变纯净 
+pure
 ]]></trans>
     <phonetic><![CDATA[['pjuərifai]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>purity</word>
     <trans><![CDATA[n. [化学] 纯度；纯洁；纯净；纯粹 
+        pure
 ]]></trans>
     <phonetic><![CDATA[['pjuəriti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>purlieu</word>
     <trans><![CDATA[n. 范围；界限；常去的地方；森林边缘带 
+        no
 ]]></trans>
     <phonetic><![CDATA[['pə:lju:]]]></phonetic>
     <tags>GRE</tags>
@@ -32822,6 +32933,7 @@ vi. 净化；变纯净
 </item><item>    <word>purloin</word>
     <trans><![CDATA[vt. 偷窃 
 vi. 偷窃 
+ from por- (from Latin pro- "forth;" see pro-) + Old French loing "far," from Latin longe, from longus (see long (adj.)).
 ]]></trans>
     <phonetic><![CDATA[[pə:'lɔin]]]></phonetic>
     <tags>GRE</tags>
@@ -32829,6 +32941,8 @@ vi. 偷窃
 </item><item>    <word>purported</word>
     <trans><![CDATA[adj. 传说的 
 v. 声称（purport的过去分词）；意图 
+purport  [pur·port || 'pɜrpət /'pɜː-] n.  意义, 大要, 要旨 v.  意味着, 声称, 做为...要旨
+from pur- (from Latin pro- "forth;" see pur-) + Old French porter "to carry," from Latin portare "to carry" (see port (n.1)).
 ]]></trans>
     <phonetic><![CDATA[[pə:'pɔ:tid, 'pə:p-, 'pə:pə-]]]></phonetic>
     <tags>GRE</tags>
@@ -32836,6 +32950,7 @@ v. 声称（purport的过去分词）；意图
 </item><item>    <word>pursue</word>
     <trans><![CDATA[vi. 追赶；继续进行 
 vt. 继续；从事；追赶；纠缠 
+ from pro- "forward" (see pro-) + sequi "follow" (see sequel)
 ]]></trans>
     <phonetic><![CDATA[[pə'sju:, -'su:]]]></phonetic>
     <tags>GRE</tags>
@@ -32843,24 +32958,28 @@ vt. 继续；从事；追赶；纠缠
 </item><item>    <word>purvey</word>
     <trans><![CDATA[vt. 供应；供给 
 vi. 供应；供给 
+provide
 ]]></trans>
     <phonetic><![CDATA[[pə'vei]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pusillanimous</word>
     <trans><![CDATA[adj. 胆怯的；懦弱的；优柔寡断的 
+        from Latin pusillis "very weak, little" (diminutive of pullus "young animal;" see foal (n.)) + animus "spirit, courage" (see animus)
 ]]></trans>
     <phonetic><![CDATA[[,pju:si'læniməs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pylon</word>
     <trans><![CDATA[n. 桥塔；指示塔；高压线铁塔 
+        no
 ]]></trans>
     <phonetic><![CDATA[['pailən, -lɔn]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>pyre</word>
     <trans><![CDATA[n. 火葬用的柴堆 
+        fire
 ]]></trans>
     <phonetic><![CDATA[[paiə]]]></phonetic>
     <tags>GRE</tags>
@@ -32869,6 +32988,7 @@ vi. 供应；供给
     <trans><![CDATA[n. 庸医；鸭叫声 
 adj. 骗人的；冒牌医生的 
 vi. （鸭子）嘎嘎叫；吹嘘；大声闲聊 
+no
 ]]></trans>
     <phonetic><![CDATA[[kwæk]]]></phonetic>
     <tags>GRE</tags>
@@ -32876,6 +32996,7 @@ vi. （鸭子）嘎嘎叫；吹嘘；大声闲聊
 </item><item>    <word>quaff</word>
     <trans><![CDATA[vt. 大口地喝，痛饮 
 vi. 狂饮，痛饮 
+no
 ]]></trans>
     <phonetic><![CDATA[[kwɑ:f, kwɔf]]]></phonetic>
     <tags>GRE</tags>
@@ -32883,12 +33004,14 @@ vi. 狂饮，痛饮
 </item><item>    <word>quail</word>
     <trans><![CDATA[n. 鹌鹑 
 vi. 畏缩，胆怯；感到恐惧 
+quell  [kwel] v.  镇压; 压制; 平息; 消除
 ]]></trans>
     <phonetic><![CDATA[[kweil]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>quaint</word>
     <trans><![CDATA[adj. 古雅的；奇怪的；离奇有趣的；做得很精巧的 
+        no
 ]]></trans>
     <phonetic><![CDATA[[kweint]]]></phonetic>
     <tags>GRE</tags>
@@ -32896,12 +33019,15 @@ vi. 畏缩，胆怯；感到恐惧
 </item><item>    <word>qualified</word>
     <trans><![CDATA[v. 限制（qualify的过去分词）；描述；授权予 
 adj. 合格的；有资格的 
+quality  
 ]]></trans>
     <phonetic><![CDATA[['kwɔlifaid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>qualms</word>
     <trans><![CDATA[n. 良心之谴责；不安 
+qualm  [kwɑːm ,kwɔːm] n.  晕眩, 疑虑, 不安
+        quell  [kwel] v.  镇压; 压制; 平息; 消除
 ]]></trans>
     <phonetic><![CDATA[[kwa:lms]]]></phonetic>
     <tags>GRE</tags>
