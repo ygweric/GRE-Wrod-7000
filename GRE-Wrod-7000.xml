@@ -37333,6 +37333,9 @@ vt. 肩负，承担
 </item><item>    <word>shove</word>
     <trans><![CDATA[n. 推；挤 
 vt. 挤；强使；撞；猛推 
+sharp 锋利的
+shave v.刮，剃
+shove v.推
 ]]></trans>
     <phonetic><![CDATA[[ʃʌv]]]></phonetic>
     <tags>GRE</tags>
@@ -37340,6 +37343,9 @@ vt. 挤；强使；撞；猛推
 </item><item>    <word>shrewd</word>
     <trans><![CDATA[n. 精明（的人）；机灵（的人） 
 adj. 精明的；狡猾的；机灵的 
+shrew  [ʃruː] n.  泼妇; 悍妇
+skreu- "to cut; cutting tool" (see shred (n.)), 
+shred  [ʃred] n.  碎布条, 少量, 细片
 ]]></trans>
     <phonetic><![CDATA[[ʃru:d]]]></phonetic>
     <tags>GRE</tags>
@@ -37348,6 +37354,8 @@ adj. 精明的；狡猾的；机灵的
     <trans><![CDATA[vt. 尖声发出 
 vi. 尖叫；促人注意 
 n. 尖声；尖锐的响声 
+"to screech" (see screech),
+screech  [skrɪːtʃ] n.  尖声喊叫, 急煞车声, 尖叫声
 ]]></trans>
     <phonetic><![CDATA[[ʃri:k]]]></phonetic>
     <tags>GRE</tags>
@@ -37355,6 +37363,7 @@ n. 尖声；尖锐的响声
 </item><item>    <word>shrine</word>
     <trans><![CDATA[n. 圣地；神殿；神龛；圣祠 
 vt. 将…置于神龛内；把…奉为神圣 
+no
 ]]></trans>
     <phonetic><![CDATA[[ʃrain]]]></phonetic>
     <tags>GRE</tags>
@@ -37363,6 +37372,7 @@ vt. 将…置于神龛内；把…奉为神圣
     <trans><![CDATA[n. 收缩 
 vi. 收缩；畏缩 
 vt. 使缩小，使收缩 
+no
 ]]></trans>
     <phonetic><![CDATA[[ʃriŋk]]]></phonetic>
     <tags>GRE</tags>
@@ -37370,12 +37380,14 @@ vt. 使缩小，使收缩
 </item><item>    <word>shroud</word>
     <trans><![CDATA[n. 寿衣；覆盖物；船的横桅索；[电] 护罩 
 vt. 覆盖；包以尸衣 
+"to cut" (see shred (n.)). 
 ]]></trans>
     <phonetic><![CDATA[[ʃraud]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>shrub</word>
     <trans><![CDATA[n. 灌木；灌木丛 
+        "to cut" (see shear (v.)).
 ]]></trans>
     <phonetic><![CDATA[[ʃrʌb]]]></phonetic>
     <tags>GRE</tags>
@@ -37384,6 +37396,7 @@ vt. 覆盖；包以尸衣
     <trans><![CDATA[n. 耸肩 
 vi. 耸肩 
 vt. 耸肩，耸肩表示 
+no
 ]]></trans>
     <phonetic><![CDATA[[ʃrʌɡ]]]></phonetic>
     <tags>GRE</tags>
@@ -37392,6 +37405,7 @@ vt. 耸肩，耸肩表示
     <trans><![CDATA[n. 壳；外皮；荚；毫无价值的东西 
 vt. 剥去 
 vi. 剥去 
+no
 ]]></trans>
     <phonetic><![CDATA[[ʃʌk]]]></phonetic>
     <tags>GRE</tags>
@@ -37399,12 +37413,14 @@ vi. 剥去
 </item><item>    <word>shudder</word>
     <trans><![CDATA[n. 发抖；战栗；震动 
 vi. 发抖；战栗 
+no
 ]]></trans>
     <phonetic><![CDATA[['ʃʌdə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>shun</word>
     <trans><![CDATA[vt. 避开，避免；回避 
+        shunt 使转轨；使分流；回避讨论；推延 
 ]]></trans>
     <phonetic><![CDATA[[ʃʌn]]]></phonetic>
     <tags>GRE</tags>
@@ -37413,6 +37429,7 @@ vi. 发抖；战栗
     <trans><![CDATA[vt. 使转轨；使分流；回避讨论；推延 
 vi. 转轨；转向一边；往返 
 n. 转轨；[电] 分流器 
+shun vt. 避开，避免；回避 
 ]]></trans>
     <phonetic><![CDATA[[ʃʌnt]]]></phonetic>
     <tags>GRE</tags>
@@ -37420,30 +37437,35 @@ n. 转轨；[电] 分流器
 </item><item>    <word>sibilant</word>
     <trans><![CDATA[n. 齿擦音 
 adj. 咝咝作声的；发丝音的 
+no
 ]]></trans>
     <phonetic><![CDATA[['sibilənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>sibling</word>
     <trans><![CDATA[n. 兄弟姊妹；民族成员 
+        no
 ]]></trans>
     <phonetic><![CDATA[['sibliŋ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>sibyl</word>
     <trans><![CDATA[n. 女巫；女预言家 
+        no
 ]]></trans>
     <phonetic><![CDATA[['sibil]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>sidereal</word>
     <trans><![CDATA[adj. [天] 恒星的；根据星球运行测定的 
+        side + real
 ]]></trans>
     <phonetic><![CDATA[[sai'diəriəl, si-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>sideshow</word>
     <trans><![CDATA[n. 穿插表演；串演的节；小事件 
+        from side (adj.) + show (n.).
 ]]></trans>
     <phonetic><![CDATA[['saidʃəu]]]></phonetic>
     <tags>GRE</tags>
@@ -37452,6 +37474,7 @@ adj. 咝咝作声的；发丝音的
     <trans><![CDATA[n. 台阶；横跨的一步 
 vt. 回避；横跨一步躲避 
 vi. 回避问题；侧向跨步 
+side + step
 ]]></trans>
     <phonetic><![CDATA[['saidstep]]]></phonetic>
     <tags>GRE</tags>
@@ -37459,6 +37482,7 @@ vi. 回避问题；侧向跨步
 </item><item>    <word>siege</word>
     <trans><![CDATA[n. 围攻；包围；围城；不断袭击；长期努力 
 vt. 围攻；包围 
+sedentary  [sed·en·tar·y || 'sedntərɪ /-rɪ] adj.  久坐的, 土生的, 坐惯的
 ]]></trans>
     <phonetic><![CDATA[[si:dʒ]]]></phonetic>
     <tags>GRE</tags>
@@ -37466,6 +37490,8 @@ vt. 围攻；包围
 </item><item>    <word>sift</word>
     <trans><![CDATA[vt. 筛选；撒；过滤；详查 
 vi. 筛；详查；撒下；细究 
+sieve  [sɪv] n.  筛子, 不会保密的人, 滤网
+from PIE *seib- "to pour out, sieve, drip, trickle" (see soap (n.))
 ]]></trans>
     <phonetic><![CDATA[[sift]]]></phonetic>
     <tags>GRE</tags>
@@ -37475,6 +37501,7 @@ vi. 筛；详查；撒下；细究
 adj. 显著的；作为信号的 
 vt. 标志；用信号通知 
 vi. 发信号 
+sign
 ]]></trans>
     <phonetic><![CDATA[['siɡnəl]]]></phonetic>
     <tags>GRE</tags>
@@ -37482,6 +37509,7 @@ vi. 发信号
 </item><item>    <word>significant</word>
     <trans><![CDATA[n. 象征；有意义的事物 
 adj. 重大的；有效的；有意义的；值得注意的；意味深长的 
+from signum "sign" (see sign (n.)) + root of facere "to make" (see factitious).
 ]]></trans>
     <phonetic><![CDATA[[sig'nifikənt]]]></phonetic>
     <tags>GRE</tags>
@@ -37489,12 +37517,14 @@ adj. 重大的；有效的；有意义的；值得注意的；意味深长的
 </item><item>    <word>signify</word>
     <trans><![CDATA[vt. 表示；意味；预示 
 vi. 有重要性；要紧；冒充内行 
+sign
 ]]></trans>
     <phonetic><![CDATA[['signifai]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>sill</word>
     <trans><![CDATA[n. 窗台；基石；门槛；[海洋] 海底山脊 
+        no
 ]]></trans>
     <phonetic><![CDATA[[sil]]]></phonetic>
     <tags>GRE</tags>
@@ -37503,12 +37533,14 @@ vi. 有重要性；要紧；冒充内行
     <trans><![CDATA[n. 淤泥，泥沙；煤粉；残渣 
 vt. 使淤塞；充塞 
 vi. 淤塞，充塞；为淤泥堵塞 
+from PIE *sal- (see salt (n.)).
 ]]></trans>
     <phonetic><![CDATA[[silt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>silversmith</word>
     <trans><![CDATA[n. 银器匠 
+        silver + smith
 ]]></trans>
     <phonetic><![CDATA[['silvəsmiθ]]]></phonetic>
     <tags>GRE</tags>
@@ -37517,12 +37549,14 @@ vi. 淤塞，充塞；为淤泥堵塞
     <trans><![CDATA[n. 假笑；傻笑 
 vt. 假笑着说 
 vi. 假笑 
+simple
 ]]></trans>
     <phonetic><![CDATA[['simpə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>simpleton</word>
     <trans><![CDATA[n. 傻子；笨蛋 
+        simple
 ]]></trans>
     <phonetic><![CDATA[['simpltən]]]></phonetic>
     <tags>GRE</tags>
@@ -37530,6 +37564,7 @@ vi. 假笑
 </item><item>    <word>simulate</word>
     <trans><![CDATA[adj. 模仿的；假装的 
 vt. 模仿；假装；冒充 
+similar
 ]]></trans>
     <phonetic><![CDATA[['simjuleit]]]></phonetic>
     <tags>GRE</tags>
@@ -37537,18 +37572,24 @@ vt. 模仿；假装；冒充
 </item><item>    <word>simultaneous</word>
     <trans><![CDATA[n. 同时译员 
 adj. 同时的；联立的；同时发生的 
+similar
 ]]></trans>
     <phonetic><![CDATA[[,siməl'teiniəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>sincere</word>
     <trans><![CDATA[adj. 真诚的；诚挚的；真实的 
+        "one" (see same) + root of crescere "to grow" (see crescent).
+        crescent  [cres·cent || 'kresnt] n.  新月, 新月形之物
 ]]></trans>
     <phonetic><![CDATA[[sin'siə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>sinecure</word>
     <trans><![CDATA[n. 闲职；挂名职务 
+        from Latin sine "without" (see sans) + cura, ablative singular of cura "care" (see cure (n.1)).
+         sans   prep.  无, 没有
+        cure  [kjʊə] n.  治疗; 疗法; 痊愈; 药
 ]]></trans>
     <phonetic><![CDATA[['saini,kjuə, 'sinu-]]]></phonetic>
     <tags>GRE</tags>
@@ -37556,6 +37597,7 @@ adj. 同时的；联立的；同时发生的
 </item><item>    <word>sinew</word>
     <trans><![CDATA[n. 筋；肌腱；体力；精力 
 vt. 加强；使牢固 
+no
 ]]></trans>
     <phonetic><![CDATA[['sinju:]]]></phonetic>
     <tags>GRE</tags>
@@ -37564,18 +37606,22 @@ vt. 加强；使牢固
     <trans><![CDATA[n. 烧焦；烤焦 
 vt. 烧焦；烤焦 
 vi. 烧焦；烤焦 
+no
 ]]></trans>
     <phonetic><![CDATA[[sindʒ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>singularity</word>
     <trans><![CDATA[n. 奇异；奇点；突出；稀有 
+        singular  [sin·gu·lar || 'sɪŋgjələ(r) /-jʊl-] adj.  单数的; 非凡的, 卓越的;独个的; 单一的; 
+        single
 ]]></trans>
     <phonetic><![CDATA[[,siŋɡju'læriti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>sinuous</word>
     <trans><![CDATA[adj. 蜿蜒的；弯曲的；迂回的 
+        (as)sin 正弦函数
 ]]></trans>
     <phonetic><![CDATA[['sinjuəs]]]></phonetic>
     <tags>GRE</tags>
@@ -37593,6 +37639,7 @@ vi. 啜饮
 adj. 迷人的 
 vt. 引诱 
 vi. 响着警报器行驶 
+no
 ]]></trans>
     <phonetic><![CDATA[['saiərən]]]></phonetic>
     <tags>GRE</tags>
@@ -37600,6 +37647,7 @@ vi. 响着警报器行驶
 </item><item>    <word>skeleton</word>
     <trans><![CDATA[n. 骨架，骨骼；纲要；骨瘦如柴的人 
 adj. 骨骼的；骨瘦如柴的；概略的 
+sclero- 或 scler- 硬的：硬：
 ]]></trans>
     <phonetic><![CDATA[['skelitən]]]></phonetic>
     <tags>GRE</tags>
@@ -37608,25 +37656,32 @@ adj. 骨骼的；骨瘦如柴的；概略的
     <trans><![CDATA[n. 悟性；理解能力；懂行（的人） 
 vt. 理解；懂 
 vi. 理解；知道 
+ sapient  ['sa·pi·ent || 'seɪpɪənt] adj.  装聪明样的, 伶俐的, 聪明的
 ]]></trans>
     <phonetic><![CDATA[]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>satiated</word>
     <trans><![CDATA[adj. [对...厌倦的；充分满足的；生腻的 
+        sad
 ]]></trans>
     <phonetic><![CDATA[['seiʃieitid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>sketchy</word>
     <trans><![CDATA[adj. 写生风格的；写生的；概略的 
+        sketch  [sketʃ] n.  素描, 小品, 草图
+        schema
 ]]></trans>
     <phonetic><![CDATA[['sketʃi]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>skew</word>
     <trans><![CDATA[n. 斜交；歪斜 
-adj. 斜交的；歪斜的 
+adj. 斜交的；歪斜的  
+　escape逃避, 避免,逃跑   
+eschew [es·chew || ɪs'tʃuː] 避开, 远避
+ skew 走偏，斜进
 ]]></trans>
     <phonetic><![CDATA[[skju:]]]></phonetic>
     <tags>GRE</tags>
@@ -37634,18 +37689,21 @@ adj. 斜交的；歪斜的
 </item><item>    <word>skewer</word>
     <trans><![CDATA[n. 烤肉叉子；串肉扦；针 
 vt. 刺穿；串住 
+no
 ]]></trans>
     <phonetic><![CDATA[['skjuə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>skiff</word>
     <trans><![CDATA[n. 小艇；小型帆船；轻舟 
+         ship
 ]]></trans>
     <phonetic><![CDATA[[skif]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>skillet</word>
     <trans><![CDATA[n. 煮锅；长柄平底煎锅 
+        no
 ]]></trans>
     <phonetic><![CDATA[['skilit]]]></phonetic>
     <tags>GRE</tags>
@@ -37655,6 +37713,7 @@ vt. 刺穿；串住
 adj. 脱脂的；撇去浮沫的；表层的 
 vt. 略读；撇去…的浮物；从…表面飞掠而过；去除；（为逃税而）隐瞒（部分收入） 
 vi. 浏览；掠过 
+no
 ]]></trans>
     <phonetic><![CDATA[[skim]]]></phonetic>
     <tags>GRE</tags>
@@ -37663,12 +37722,16 @@ vi. 浏览；掠过
     <trans><![CDATA[vi. 节省；不够用心 
 vt. 克扣；对…不够用心；舍不得给；少给 
 adj. 少的；不足的 
+scamp  [skæmp] n.  流氓; 顽皮的家伙
+scrimp  [skrɪmp] v.  节省或精打细算; 节省; 对...吝啬
 ]]></trans>
     <phonetic><![CDATA[[skimp]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>skinflint</word>
     <trans><![CDATA[n. 吝啬鬼；一毛不拔的人 
+        from skin (v.) + flint. 
+        flint  [flɪnt] n.  打火石, 极硬的东西, 燧石
 ]]></trans>
     <phonetic><![CDATA[['skinflint]]]></phonetic>
     <tags>GRE</tags>
@@ -37676,6 +37739,7 @@ adj. 少的；不足的
 </item><item>    <word>skirmish</word>
     <trans><![CDATA[n. 小冲突，小规模战斗；小争论 
 vi. 进行小规模战斗；发生小争论 
+"to cut" (see shear). 
 ]]></trans>
     <phonetic><![CDATA[['skə:miʃ]]]></phonetic>
     <tags>GRE</tags>
@@ -37684,18 +37748,22 @@ vi. 进行小规模战斗；发生小争论
     <trans><![CDATA[n. 裙子 
 vt. 绕过，回避；位于…边缘 
 vi. 沿边走，绕开；环绕 
+shirt  [ʃɜrt /ʃɜːt] n.  衬衫, 衬衣
+skirt  [skɜrt /skɜːt] n.  裙子, 边缘, 下摆 v.  位于...边缘, 回避, 装边于; 位于边缘
 ]]></trans>
     <phonetic><![CDATA[[skə:t]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>skit</word>
     <trans><![CDATA[n. 讽刺文；滑稽短剧 
+        no
 ]]></trans>
     <phonetic><![CDATA[[skit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>skyscraper</word>
     <trans><![CDATA[n. 摩天楼，超高层大楼；特别高的东西 
+        sky + scraper
 ]]></trans>
     <phonetic><![CDATA[['skai,skreipə]]]></phonetic>
     <tags>GRE</tags>
@@ -37703,6 +37771,7 @@ vi. 沿边走，绕开；环绕
 </item><item>    <word>slab</word>
     <trans><![CDATA[n. 厚板，平板；混凝土路面；厚片 
 vt. 把…分成厚片；用石板铺 
+no
 ]]></trans>
     <phonetic><![CDATA[[slæb]]]></phonetic>
     <tags>GRE</tags>
@@ -37713,6 +37782,9 @@ adj. 松弛的；疏忽的；不流畅的
 vt. 放松；使缓慢 
 adv. 马虎地；缓慢地 
 vi. 松懈；减弱 
+*(s)leg- "to be slack" (see lax). 
+lax  [læks 
+adj.  松的; 不严格的; 松懈的
 ]]></trans>
     <phonetic><![CDATA[[slæk]]]></phonetic>
     <tags>GRE</tags>
@@ -37720,19 +37792,16 @@ vi. 松懈；减弱
 </item><item>    <word>slacken</word>
     <trans><![CDATA[vi. 松劲，懈怠；变松弛；变缓慢 
 vt. 使缓慢；使松弛 
+slack adj. 松弛的；疏忽的；不流畅的  n. 煤末；峡谷 
 ]]></trans>
     <phonetic><![CDATA[['slækən]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
-</item><item>    <word>sla</word>
-    <trans><![CDATA[abbr. 航天器-登月舱适配器（spacecraft lunar-module adapter） 
-]]></trans>
-    <phonetic><![CDATA[[slɑ:]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>slake</word>
     <trans><![CDATA[vt. 消除；熄灭；使清凉 
 vi. （石灰）熟化；消除；平息 
+from slæc "lax" (see slack (adj.))
+slack adj. 松弛的；疏忽的；不流畅的  n. 煤末；峡谷 
 ]]></trans>
     <phonetic><![CDATA[[sleik]]]></phonetic>
     <tags>GRE</tags>
@@ -37740,12 +37809,19 @@ vi. （石灰）熟化；消除；平息
 </item><item>    <word>slander</word>
     <trans><![CDATA[n. 诽谤；中伤 
 vt. 诽谤；造谣中伤 
+scar 刀疤
+scandal 丑行,丑闻,诽谤
+slander 诽谤
 ]]></trans>
     <phonetic><![CDATA[['slɑ:ndə, 'slæn-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>slanderous</word>
     <trans><![CDATA[adj. 诽谤的；诽谤性的；中伤的 
+        slander n. 诽谤；中伤 
+        scar 刀疤
+        scandal 丑行,丑闻,诽谤
+        slander 诽谤
 ]]></trans>
     <phonetic><![CDATA[['slɑ:ndərəs, 'slæn-]]]></phonetic>
     <tags>GRE</tags>
@@ -37755,6 +37831,7 @@ vt. 诽谤；造谣中伤
 vi. 倾斜；有倾向 
 vt. 使倾斜；使倾向于 
 adj. 倾斜的；有偏见的 
+no
 ]]></trans>
     <phonetic><![CDATA[[slɑ:nt, slænt]]]></phonetic>
     <tags>GRE</tags>
@@ -37763,6 +37840,9 @@ adj. 倾斜的；有偏见的
     <trans><![CDATA[n. 板岩；石板；蓝色；石片 
 adj. 板岩的；石板色的 
 vt. 铺石板；严厉批评某人 
+slat  [slæt] n.  板条; 梯级横木; 百叶板; 横木 v.  给...装板条; 用板条做
+slit  [slɪt] n.  裂缝, 狭长的裂口, 投币口 v.  切开, 使成狭缝, 扯裂
+slice  薄片；部分；菜刀，火铲 
 ]]></trans>
     <phonetic><![CDATA[[sleit]]]></phonetic>
     <tags>GRE</tags>
@@ -37770,6 +37850,7 @@ vt. 铺石板；严厉批评某人
 </item><item>    <word>slaughter</word>
     <trans><![CDATA[n. 屠宰，屠杀；杀戮；消灭 
 vt. 屠宰，屠杀；杀戮；使惨败 
+slay  [sleɪ] v.  杀死, 杀害; 使大为高兴, 使禁不住大笑
 ]]></trans>
     <phonetic><![CDATA[['slɔ:tə]]]></phonetic>
     <tags>GRE</tags>
@@ -37778,6 +37859,8 @@ vt. 屠宰，屠杀；杀戮；使惨败
     <trans><![CDATA[n. 雪橇 
 vt. 乘雪橇；用雪橇运输 
 vi. 乘雪橇；驾雪橇 
+sled  [sled] n.  雪橇; 平底雪橇, 长橇; 重型运输雪橇; 摘棉机
+(see slide (v.)).
 ]]></trans>
     <phonetic><![CDATA[[slei]]]></phonetic>
     <tags>GRE</tags>
@@ -37787,6 +37870,7 @@ vi. 乘雪橇；驾雪橇
 vi. 扭转；侧滑；转向；猛拐 
 vt. 使扭转；使旋转 
 v. 杀害（slay的过去式） 
+no
 ]]></trans>
     <phonetic><![CDATA[[slu:]]]></phonetic>
     <tags>GRE</tags>
@@ -37795,6 +37879,7 @@ v. 杀害（slay的过去式）
     <trans><![CDATA[n. 薄片；部分；菜刀，火铲 
 vt. 切下；把…分成部分；将…切成薄片 
 vi. 切开；割破 
+slit  [slɪt] n.  裂缝, 狭长的裂口, 投币口 
 ]]></trans>
     <phonetic><![CDATA[[slais]]]></phonetic>
     <tags>GRE</tags>
@@ -37805,6 +37890,7 @@ adj. 光滑的；华而不实的；聪明的；熟练的；老套的
 adv. 灵活地；聪明地 
 vt. 使光滑；使漂亮 
 vi. 打扮整洁 
+slid
 ]]></trans>
     <phonetic><![CDATA[[slik]]]></phonetic>
     <tags>GRE</tags>
@@ -37813,24 +37899,28 @@ vi. 打扮整洁
     <trans><![CDATA[n. 怠慢；轻蔑 
 adj. 轻微的，少量的；脆弱的；细长的；不重要的 
 vt. 轻视，忽略；怠慢 
+s + light
 ]]></trans>
     <phonetic><![CDATA[[slait]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>slippage</word>
     <trans><![CDATA[n. 滑移；滑动；下降 
+        slip  
 ]]></trans>
     <phonetic><![CDATA[['slipidʒ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>slippery</word>
     <trans><![CDATA[adj. 滑的；狡猾的；不稳定的 
+        slip  
 ]]></trans>
     <phonetic><![CDATA[['slipəri]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>slipshod</word>
     <trans><![CDATA[adj. 潦草的；穿著不整洁的；穿著踏跟鞋的 
+         slip (v.) + shoe  
 ]]></trans>
     <phonetic><![CDATA[['slipʃɔd]]]></phonetic>
     <tags>GRE</tags>
@@ -37839,6 +37929,7 @@ vt. 轻视，忽略；怠慢
     <trans><![CDATA[n. 连走带跑的滑走 
 vt. 使滑动 
 vi. 连走带跑地滑 
+slide 
 ]]></trans>
     <phonetic><![CDATA[['sliðə]]]></phonetic>
     <tags>GRE</tags>
@@ -37847,12 +37938,17 @@ vi. 连走带跑地滑
     <trans><![CDATA[n. 梳毛，梳棉；裂片 
 vt. 使成薄片；使裂成小片 
 vi. 成为薄片；裂成小片 
+no
 ]]></trans>
     <phonetic><![CDATA[['slivə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>sloppy</word>
     <trans><![CDATA[adj. 草率的；粗心的；泥泞的；肥大的；稀薄的 
+        slop  [slɑp /slɒp]
+n.  溢的液体; 泥浆; 水坑; 烂泥#宽大的罩衣; 工作服; 外套; 廉价的现成服装
+v.  溅出; 泼出; 溢出; 在泥浆中走; 使溢出, 弄脏, 使溅出
+ slip 
 ]]></trans>
     <phonetic><![CDATA[['slɔpi]]]></phonetic>
     <tags>GRE</tags>
@@ -37860,12 +37956,14 @@ vi. 成为薄片；裂成小片
 </item><item>    <word>slot</word>
     <trans><![CDATA[n. 位置；狭槽；水沟；硬币投币口 
 vt. 跟踪；开槽于 
+no
 ]]></trans>
     <phonetic><![CDATA[[slɔt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>sloth</word>
     <trans><![CDATA[n. 怠惰，懒惰；[脊椎] 树懒 
+        slow
 ]]></trans>
     <phonetic><![CDATA[[slɔθ]]]></phonetic>
     <tags>GRE</tags>
@@ -37874,6 +37972,8 @@ vt. 跟踪；开槽于
     <trans><![CDATA[n. 下垂；笨拙的人，懒散的人；懒散的样子 
 vt. 使下垂 
 vi. 没精打采地站；耷拉 
+sloth  怠惰，懒惰；[脊椎] 树懒 
+slow
 ]]></trans>
     <phonetic><![CDATA[[slautʃ]]]></phonetic>
     <tags>GRE</tags>
@@ -37882,12 +37982,14 @@ vi. 没精打采地站；耷拉
     <trans><![CDATA[n. 蜕下的皮（或壳）；绝境；[地理] 泥沼；[外科] 腐肉 
 vt. 使陷入泥沼；抛弃 
 vi. 蜕皮；脱落；在泥浆中跋涉 
+no
 ]]></trans>
     <phonetic><![CDATA[[slau]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>sluggard</word>
     <trans><![CDATA[n. 游手好闲的人；懒鬼；偷懒者 
+        no
 ]]></trans>
     <phonetic><![CDATA[['slʌɡəd]]]></phonetic>
     <tags>GRE</tags>
@@ -37896,6 +37998,7 @@ vi. 蜕皮；脱落；在泥浆中跋涉
     <trans><![CDATA[n. 水闸；蓄水；洗矿槽 
 vt. 冲洗；开闸放水 
 vi. 奔流 
+no
 ]]></trans>
     <phonetic><![CDATA[[slu:s]]]></phonetic>
     <tags>GRE</tags>
@@ -37904,6 +38007,7 @@ vi. 奔流
     <trans><![CDATA[n. 睡眠；麻木状态；静止状态 
 vi. 睡眠；蛰伏；麻木 
 vt. 睡眠；睡着度过 
+no
 ]]></trans>
     <phonetic><![CDATA[['slʌmbə]]]></phonetic>
     <tags>GRE</tags>
@@ -37912,6 +38016,7 @@ vt. 睡眠；睡着度过
     <trans><![CDATA[n. 污点；诽谤；连音符 
 vi. 含糊地发音；潦草地写字；拖着脚走 
 vt. 忽视；草率地看过；含糊地念；诋毁 
+no
 ]]></trans>
     <phonetic><![CDATA[[slə:]]]></phonetic>
     <tags>GRE</tags>
@@ -37920,18 +38025,21 @@ vt. 忽视；草率地看过；含糊地念；诋毁
     <trans><![CDATA[n. 吃的声音；啜食声 
 vt. 出声地吃或喝 
 vi. 出声地吃或喝 
+no
 ]]></trans>
     <phonetic><![CDATA[[slə:p]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>sly</word>
     <trans><![CDATA[adj. 狡猾的；淘气的；诡密的 
+        slay  [sleɪ] v.  杀死, 杀害; 使大为高兴, 使禁不住大笑
 ]]></trans>
     <phonetic><![CDATA[[slai]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>smarmy</word>
     <trans><![CDATA[adj. 爱说奉承话的；虚情假意的 
+        no
 ]]></trans>
     <phonetic><![CDATA[['smɑ:mi]]]></phonetic>
     <tags>GRE</tags>
@@ -37954,6 +38062,7 @@ v. 略知；肤浅地学习；粉碎（smatter的ing形式）
     <trans><![CDATA[n. 涂片；诽谤；污点 
 vt. 诽谤；弄脏；涂上；把…擦模糊 
 vi. 被弄脏 
+no
 ]]></trans>
     <phonetic><![CDATA[[smiə]]]></phonetic>
     <tags>GRE</tags>
@@ -37962,6 +38071,7 @@ vi. 被弄脏
     <trans><![CDATA[n. 傻笑；假笑；得意的笑 
 vt. 以假笑表示；以傻笑表示 
 vi. 傻笑；假笑 
+smile 
 ]]></trans>
     <phonetic><![CDATA[[smə:k]]]></phonetic>
     <tags>GRE</tags>
@@ -37980,6 +38090,8 @@ vi. 变平静；变平滑
     <trans><![CDATA[n. 窒息状态；令人窒息的浓烟 
 vt. 使窒息；抑制；（用灰等）闷熄；忍住 
 vi. 窒息；被抑制；闷死 
+smolder  [smol·der || 'sməʊldə(r)] n.  闷烧, 闷燃
+murder  [mur·der || 'mɜrdər /'mɜːdə] n.  谋杀
 ]]></trans>
     <phonetic><![CDATA[['smʌðə]]]></phonetic>
     <tags>GRE</tags>
@@ -37988,6 +38100,7 @@ vi. 窒息；被抑制；闷死
     <trans><![CDATA[n. 污点，污迹；烟熏火堆 
 vt. 弄脏，涂污；用浓烟熏 
 vi. 被弄脏；形成污迹 
+no
 ]]></trans>
     <phonetic><![CDATA[[smʌdʒ]]]></phonetic>
     <tags>GRE</tags>
@@ -37995,6 +38108,8 @@ vi. 被弄脏；形成污迹
 </item><item>    <word>smug</word>
     <trans><![CDATA[n. 书呆子；自命不凡的家伙 
 adj. 自鸣得意的；自以为是的；整洁的 
+ smock  [smɑk /smɒk] n.  罩衫; 女式衬衣; 工作服
+ (as) smoke geek就是桌上都是烟头
 ]]></trans>
     <phonetic><![CDATA[[smʌɡ]]]></phonetic>
     <tags>GRE</tags>
@@ -38002,6 +38117,7 @@ adj. 自鸣得意的；自以为是的；整洁的
 </item><item>    <word>smuggle</word>
     <trans><![CDATA[vt. 走私；偷运 
 vi. 走私，私运；偷带 
+ smock  [smɑk /smɒk] n.  罩衫; 女式衬衣; 工作服
 ]]></trans>
     <phonetic><![CDATA[['smʌɡl]]]></phonetic>
     <tags>GRE</tags>
@@ -38009,6 +38125,7 @@ vi. 走私，私运；偷带
 </item><item>    <word>snare</word>
     <trans><![CDATA[n. 陷阱；圈套；[外科] 勒除器 
 vt. 捕捉；诱惑 
+no
 ]]></trans>
     <phonetic><![CDATA[[snεə]]]></phonetic>
     <tags>GRE</tags>
@@ -38017,6 +38134,7 @@ vt. 捕捉；诱惑
     <trans><![CDATA[vt. 搞乱；咆哮着说；使…缠结 
 vi. 咆哮；怒骂；缠结 
 n. 咆哮；怒骂；混乱 
+snare   陷阱；圈套；[外科] 勒除器 
 ]]></trans>
     <phonetic><![CDATA[[snɑ:l]]]></phonetic>
     <tags>GRE</tags>
@@ -38025,6 +38143,7 @@ n. 咆哮；怒骂；混乱
     <trans><![CDATA[n. 抢夺；抓举；小量 
 vt. 夺得；抽空做；及时救助 
 vi. 抢走；很快接受 
+snap  [snæp] n.  猛咬, 劈啪声, 突然折断
 ]]></trans>
     <phonetic><![CDATA[[snætʃ]]]></phonetic>
     <tags>GRE</tags>
@@ -38032,6 +38151,8 @@ vi. 抢走；很快接受
 </item><item>    <word>sneaking</word>
     <trans><![CDATA[v. 潜行（sneak的ing形式） 
 adj. 鬼鬼祟祟的；私下的；卑鄙的 
+sneak  [snɪːk] n.  偷偷摸摸的人, 鬼鬼祟祟的人; 溜走, 不告而别; 告密者; 偷偷摸摸的勾当
+snake  [sneɪk] n.  蛇; 蛇形浮动汇率制; 奸险的人, 卑劣的人
 ]]></trans>
     <phonetic><![CDATA[['sni:kiŋ]]]></phonetic>
     <tags>GRE</tags>
@@ -38040,6 +38161,7 @@ adj. 鬼鬼祟祟的；私下的；卑鄙的
     <trans><![CDATA[vi. 嘲笑，冷笑 
 vt. 嘲笑，冷笑 
 n. 嘲笑，冷笑 
+no
 ]]></trans>
     <phonetic><![CDATA[[sniə]]]></phonetic>
     <tags>GRE</tags>
@@ -38047,6 +38169,7 @@ n. 嘲笑，冷笑
 </item><item>    <word>snide</word>
     <trans><![CDATA[n. 赝品；骗子 
 adj. 伪造的；卑鄙的；暗讽的 
+no
 ]]></trans>
     <phonetic><![CDATA[[snaid]]]></phonetic>
     <tags>GRE</tags>
@@ -38055,6 +38178,7 @@ adj. 伪造的；卑鄙的；暗讽的
     <trans><![CDATA[n. 剪；便宜货 
 vt. 剪断 
 vi. 剪 
+no
 ]]></trans>
     <phonetic><![CDATA[[snip]]]></phonetic>
     <tags>GRE</tags>
@@ -38063,6 +38187,8 @@ vi. 剪
     <trans><![CDATA[n. 告密者；告发者 
 vt. 偷；顺手牵羊 
 vi. 告密；进行小偷小摸 
+snatch  [snætʃ] n.  夺取; 片刻, 短时; 抢夺; 片段, 点滴
+snap  [snæp] n.  猛咬, 劈啪声, 突然折断
 ]]></trans>
     <phonetic><![CDATA[[snitʃ]]]></phonetic>
     <tags>GRE</tags>
@@ -51591,6 +51717,7 @@ vt. 用投石器投掷；吊起
     <trans><![CDATA[n. 裂缝；投币口 
 vt. 撕裂；使有狭缝 
 vi. 纵裂 
+slice  薄片；部分；菜刀，火铲 
 ]]></trans>
     <phonetic><![CDATA[[slit]]]></phonetic>
     <tags>GRE</tags>
