@@ -39703,6 +39703,7 @@ straight + forward
     <trans><![CDATA[n. 线；串；海滨 
 vt. 使搁浅；使陷于困境；弄断；使落后 
 vi. 搁浅 
+stand
 ]]></trans>
     <phonetic><![CDATA[[strænd]]]></phonetic>
     <tags>GRE</tags>
@@ -39710,12 +39711,15 @@ vi. 搁浅
 </item><item>    <word>stranded</word>
     <trans><![CDATA[v. 搁浅（strand的过去式和过去分词） 
 adj. 搁浅的；陷于困境的；有…股的（常用来构成复合词） 
+strand  使搁浅；使陷于困境；弄断；使落后 
+stand
 ]]></trans>
     <phonetic><![CDATA[['strændid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>stratagem</word>
     <trans><![CDATA[n. 策略；计谋 
+        strategy
 ]]></trans>
     <phonetic><![CDATA[['strætədʒəm]]]></phonetic>
     <tags>GRE</tags>
@@ -39723,12 +39727,15 @@ adj. 搁浅的；陷于困境的；有…股的（常用来构成复合词）
 </item><item>    <word>stratify</word>
     <trans><![CDATA[vt. 分层；成层；使形成阶层 
 vi. 分层；成层；阶层化 
+stratum  [stra·tum || 'strætəm ,'streɪ- /'strɑːt-] n.  层; 组织层; 地层; 社会阶层
+structure
 ]]></trans>
     <phonetic><![CDATA[['strætifai]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>stratum</word>
     <trans><![CDATA[n. （组织的）层；[地质] 地层；社会阶层 
+        structure
 ]]></trans>
     <phonetic><![CDATA[['streitəm, 'stræ-, 'strɑ:-]]]></phonetic>
     <tags>GRE</tags>
@@ -39737,6 +39744,7 @@ vi. 分层；成层；阶层化
     <trans><![CDATA[n. 走失的家畜；流浪者 
 adj. 迷路的；离群的；偶遇的 
 vi. 流浪；迷路；偏离 
+ astray  [a·stray || ə'streɪ] adv.  入歧途地; 迷途地
 ]]></trans>
     <phonetic><![CDATA[[strei]]]></phonetic>
     <tags>GRE</tags>
@@ -39745,6 +39753,9 @@ vi. 流浪；迷路；偏离
     <trans><![CDATA[n. 条纹，线条；倾向 
 vi. 飞跑，疾驶；加上条纹 
 vt. 飞跑，疾驰；加条纹于 
+stretch  [stretʃ] n.  伸展, 连绵, 张开
+tract-词根：拉扯
+strip  [strɪp] n.  脱衣舞#条, 带; 连环漫画; 细长片; 简易机场
 ]]></trans>
     <phonetic><![CDATA[[stri:k]]]></phonetic>
     <tags>GRE</tags>
@@ -39762,12 +39773,15 @@ vi. 流；涌进；飘扬
 vt. 伸展,张开 
 adj. 可伸缩的 
 vi. 伸展 
+tract-词根：拉扯
+strip  [strɪp] n.  脱衣舞#条, 带; 连环漫画; 细长片; 简易机场
 ]]></trans>
     <phonetic><![CDATA[[[stretʃ]]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>strew</word>
     <trans><![CDATA[vt. 散播；撒满 
+        no
 ]]></trans>
     <phonetic><![CDATA[[stru:]]]></phonetic>
     <tags>GRE</tags>
@@ -39775,6 +39789,7 @@ vi. 伸展
 </item><item>    <word>striate</word>
     <trans><![CDATA[adj. 有条纹的 
 vt. 加条纹，加条痕 
+strip  [strɪp] n.  脱衣舞#条, 带; 连环漫画; 细长片; 简易机场
 ]]></trans>
     <phonetic><![CDATA[['straiit, -eit, 'straieit]]]></phonetic>
     <tags>GRE</tags>
@@ -39782,12 +39797,15 @@ vt. 加条纹，加条痕
 </item><item>    <word>striated</word>
     <trans><![CDATA[adj. 有条纹的；有线纹的 
 v. 加条纹（striate的过去分词） 
+striate 有条纹的
 ]]></trans>
     <phonetic><![CDATA[['straieitid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>stricture</word>
     <trans><![CDATA[n. 狭窄；苛评；非难 
+        "to bind or draw tight" (see strain (v.)).
+        strain  [streɪn] n.  过度的疲劳; 张力; 紧张#血缘, 世系; 种, 品种; 族; 气质, 倾向
 ]]></trans>
     <phonetic><![CDATA[['striktʃə]]]></phonetic>
     <tags>GRE</tags>
@@ -39796,18 +39814,24 @@ v. 加条纹（striate的过去分词）
     <trans><![CDATA[n. 大步；步幅；进展 
 vt. 跨过；大踏步走过；跨坐在… 
 vi. 跨；跨过；大步行走 
+stand +ride=
 ]]></trans>
     <phonetic><![CDATA[[straid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>strident</word>
     <trans><![CDATA[adj. 刺耳的；尖锐的；吱吱尖叫的；轧轧作响的 
+        no
 ]]></trans>
     <phonetic><![CDATA[['straidənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>strife</word>
     <trans><![CDATA[n. 冲突；争吵；不和 
+        strive 奋斗，努力
+        "to fight;" see stride.
+        stride 大步；步幅；进展 
+        (as)有发展就会有冲突
 ]]></trans>
     <phonetic><![CDATA[[straif]]]></phonetic>
     <tags>GRE</tags>
@@ -39815,12 +39839,14 @@ vi. 跨；跨过；大步行走
 </item><item>    <word>striking</word>
     <trans><![CDATA[v. 打（strike的ing形式） 
 adj. 显著的，突出的，惊人的；打击的；罢工的 
+striking
 ]]></trans>
     <phonetic><![CDATA[['straikiŋ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>stringent</word>
     <trans><![CDATA[adj. 严厉的；迫切的；银根紧的 
+        bind or draw tight" (see strain).
 ]]></trans>
     <phonetic><![CDATA[['strindʒənt]]]></phonetic>
     <tags>GRE</tags>
@@ -39835,6 +39861,7 @@ vi. 脱去衣服
     <progress>0</progress>
 </item><item>    <word>strive</word>
     <trans><![CDATA[vi. 努力；奋斗；抗争 
+         stride 大步；步幅；进展 
 ]]></trans>
     <phonetic><![CDATA[[straiv]]]></phonetic>
     <tags>GRE</tags>
@@ -39843,6 +39870,7 @@ vi. 脱去衣服
     <trans><![CDATA[n. 中风；冲程；笔画；打击；尝试；轻抚 
 vt. 抚摸；敲击；划尾桨；划掉 
 vi. 击球；作尾桨手；敲击键盘 
+strike
 ]]></trans>
     <phonetic><![CDATA[[strəuk]]]></phonetic>
     <tags>GRE</tags>
@@ -39851,6 +39879,7 @@ vi. 击球；作尾桨手；敲击键盘
     <trans><![CDATA[n. 漫步；闲逛；巡回演出 
 vt. 散步；闲逛 
 vi. 散步；闲逛；巡回演出 
+st + roll 站着滚动，闲逛
 ]]></trans>
     <phonetic><![CDATA[[strəul]]]></phonetic>
     <tags>GRE</tags>
@@ -39859,12 +39888,15 @@ vi. 散步；闲逛；巡回演出
     <trans><![CDATA[n. 支柱；高视阔步 
 vt. 炫耀；在…上趾高气扬地走；给…加支撑 
 vi. 高视阔步；趾高气扬地走 
+structure n.  结构, 建筑物, 构造
+strut 支柱；高视阔步 
 ]]></trans>
     <phonetic><![CDATA[[strʌt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>stubborn</word>
     <trans><![CDATA[adj. 顽固的；顽强的；难处理的 
+        stop
 ]]></trans>
     <phonetic><![CDATA[['stʌbən]]]></phonetic>
     <tags>GRE</tags>
@@ -39878,19 +39910,22 @@ adj. 有计划的；故意的
     <progress>0</progress>
 </item><item>    <word>stuffy</word>
     <trans><![CDATA[adj. 闷热的；古板的；不通气的 
+        stuff  [stʌf] v.  塞满, 填充, 填满; 饱食, 吃得过多 n.  材料, 原料; 物品, 东西; 木料; 纺织品
 ]]></trans>
     <phonetic><![CDATA[['stʌfi]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>stultify</word>
     <trans><![CDATA[vt. 使变无效；使显得愚笨；使无价值 
+        stuff  [stʌf] v.  塞满, 填充, 填满; 饱食, 吃得过多 n.  材料, 原料; 物品, 东西; 木料; 纺织品
 ]]></trans>
     <phonetic><![CDATA[['stʌltifai]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>stunning</word>
     <trans><![CDATA[adj. 极好的；使人晕倒的；震耳欲聋的 
-v. 把…打昏；使震耳欲聋；使大吃一惊（stun的ing形式） 
+v. 把…打昏；使震耳欲聋；使大吃一惊（stun的ing形式）
+stun  [stʌn] v.  使晕倒, 打晕, 使惊吓 n.  晕眩, 惊倒, 打昏 
 ]]></trans>
     <phonetic><![CDATA[['stʌniŋ]]]></phonetic>
     <tags>GRE</tags>
@@ -39899,12 +39934,15 @@ v. 把…打昏；使震耳欲聋；使大吃一惊（stun的ing形式）
     <trans><![CDATA[n. 噱头，手腕；绝技 
 vt. 阻碍…的正常生长或发展 
 vi. 表演特技；作惊人表演 
+stump  [stʌmp] n.  树桩, 烟头, 残余 v.  砍断, 难住, 挑战
+root of stub or stamp,
 ]]></trans>
     <phonetic><![CDATA[[stʌnt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>stupor</word>
     <trans><![CDATA[n. 昏迷，恍惚；麻木 
+        stupid n.  无感觉, 麻木, 人事不省
 ]]></trans>
     <phonetic><![CDATA[['stju:pə]]]></phonetic>
     <tags>GRE</tags>
@@ -39912,6 +39950,7 @@ vi. 表演特技；作惊人表演
 </item><item>    <word>sturdy</word>
     <trans><![CDATA[n. 羊晕倒病 
 adj. 坚定的；强健的；健全的 
+no
 ]]></trans>
     <phonetic><![CDATA[['stə:di]]]></phonetic>
     <tags>GRE</tags>
@@ -39920,18 +39959,21 @@ adj. 坚定的；强健的；健全的
     <trans><![CDATA[n. 口吃，结巴 
 vi. 结结巴巴地说话 
 vt. 结结巴巴地说出 
+no
 ]]></trans>
     <phonetic><![CDATA[['stʌtə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>stygian</word>
-    <trans><![CDATA[adj. 阴暗的，幽暗的；地狱的 
+    <trans><![CDATA[adj. 阴暗的，幽暗的；地狱的     
+       Styx  n.  冥河
 ]]></trans>
     <phonetic><![CDATA[['stidʒiən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>stylus</word>
     <trans><![CDATA[n. 铁笔；唱针；尖笔；药笔剂 
+        style 有笔风
 ]]></trans>
     <phonetic><![CDATA[['stailəs]]]></phonetic>
     <tags>GRE</tags>
@@ -39939,12 +39981,15 @@ vt. 结结巴巴地说出
 </item><item>    <word>stymie</word>
     <trans><![CDATA[n. 妨碍球 
 vt. 从中作梗，阻挠；妨碍 
+stay+me
 ]]></trans>
     <phonetic><![CDATA[['staimi]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>subdue</word>
     <trans><![CDATA[vt. 征服；抑制；减轻 
+        sub  duce
+        duce  n.  元首; 领袖
 ]]></trans>
     <phonetic><![CDATA[[səb'dju:]]]></phonetic>
     <tags>GRE</tags>
@@ -39952,6 +39997,7 @@ vt. 从中作梗，阻挠；妨碍
 </item><item>    <word>subdued</word>
     <trans><![CDATA[v. 使服从，压制，减弱（subdue 的过去式和过去分词） 
 adj. 减弱的；被制服的；被抑制的 
+subdue
 ]]></trans>
     <phonetic><![CDATA[[səb'dju:d]]]></phonetic>
     <tags>GRE</tags>
@@ -39972,6 +40018,8 @@ vt. 使…隶属；使屈从于…
     <progress>0</progress>
 </item><item>    <word>subjugate</word>
     <trans><![CDATA[vt. 征服；使服从；克制 
+        sub "under" (see sub-) + jugum (see jugular).
+        jugular  [jug·u·lar || 'dʒʌgjələr /-gjʊlə] n.  颈静脉 adj.  咽喉的, 颈静脉的, 颈部的
 ]]></trans>
     <phonetic><![CDATA[['sʌbdʒəɡeit, -dʒu-]]]></phonetic>
     <tags>GRE</tags>
@@ -39988,25 +40036,21 @@ vi. 升华；纯化；变高尚
 </item><item>    <word>subliminal</word>
     <trans><![CDATA[n. 潜意识；阈下意识 
 adj. [生理] 阈下的；潜在意识的；微小得难以察觉的 
+ sub "below" (see sub-) + Latin limen (genitive liminis) "threshold" (see limit (n.)). 
 ]]></trans>
     <phonetic><![CDATA[[,sʌb'liminəl, 'sʌbl-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>submission</word>
     <trans><![CDATA[n. 投降；提交（物）；服从；（向法官提出的）意见；谦恭 
+        submit
 ]]></trans>
     <phonetic><![CDATA[[səb'miʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
-</item><item>    <word>submit</word>
-    <trans><![CDATA[vi. 提交；服从 
-vt. 使服从；主张；呈递 
-]]></trans>
-    <phonetic><![CDATA[[səb'mit]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
 </item><item>    <word>suborn</word>
     <trans><![CDATA[vt. 唆使；收买；使作伪证 
+    " from sub "under, secretly" (see sub-) + ornare "equip," related to ordo "order" (see order).
 ]]></trans>
     <phonetic><![CDATA[[sʌ'bɔ:n]]]></phonetic>
     <tags>GRE</tags>
@@ -40014,6 +40058,8 @@ vt. 使服从；主张；呈递
 </item><item>    <word>subpoena</word>
     <trans><![CDATA[n. 传票 
 vt. 传唤，传审；传讯 
+ from Latin sub "under" (see sub-) + poena, ablative of poena "penalty" (see penal).
+ penal  [pe·nal || 'pɪːnl] adj.  刑的, 刑法上的, 刑罚的
 ]]></trans>
     <phonetic><![CDATA[[səb'pi:nə]]]></phonetic>
     <tags>GRE</tags>
@@ -40033,24 +40079,33 @@ vt. 传唤，传审；传讯
 </item><item>    <word>subsidiary</word>
     <trans><![CDATA[n. 子公司；辅助者 
 adj. 附属的；辅助的 
+subsidy  ['sub·si·dy || 'sʌbsɪdɪ] n.  补助金, 津贴
+ from sub "behind, near" (see sub-) + sedere "to sit" (see sedentary).
+ sedentary  [sed·en·tar·y || 'sedntərɪ /-rɪ] adj.  久坐的, 土生的, 坐惯的
+ sit
 ]]></trans>
     <phonetic><![CDATA[[səb'sidiəri]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>subsidy</word>
     <trans><![CDATA[n. 补贴；津贴；补助金 
+         from sub "behind, near" (see sub-) + sedere "to sit" (see sedentary).
+ sedentary  [sed·en·tar·y || 'sedntərɪ /-rɪ] adj.  久坐的, 土生的, 坐惯的
+ sit
 ]]></trans>
     <phonetic><![CDATA[['sʌbsidi]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>subsistence</word>
     <trans><![CDATA[n. 生活；生存；存在 
+         from sub "under, up to" (see sub-) + sistere "to assume a standing position," from stare "to stand" (see stay (v.))
 ]]></trans>
     <phonetic><![CDATA[[səb'sistəns]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>substance</word>
     <trans><![CDATA[n. 物质；实质；资产；主旨 
+         from sub "up to, under" + stare "to stand," from PIE root *sta- "to stand" (see stet).
 ]]></trans>
     <phonetic><![CDATA[['sʌbstəns]]]></phonetic>
     <tags>GRE</tags>
@@ -40058,12 +40113,14 @@ adj. 附属的；辅助的
 </item><item>    <word>substantial</word>
     <trans><![CDATA[n. 本质；重要材料 
 adj. 大量的；实质的；内容充实的 
+substance 物质；实质；资产；主旨 
 ]]></trans>
     <phonetic><![CDATA[[səb'stænʃəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>substantiate</word>
     <trans><![CDATA[vt. 证实；使实体化 
+        substance 物质；实质；资产；主旨 
 ]]></trans>
     <phonetic><![CDATA[[səb'stænʃieit]]]></phonetic>
     <tags>GRE</tags>
@@ -40071,6 +40128,7 @@ adj. 大量的；实质的；内容充实的
 </item><item>    <word>substantive</word>
     <trans><![CDATA[n. 名词性实词；独立存在的实体 
 adj. 有实质的；大量的；真实的；独立存在的 
+substance 物质；实质；资产；主旨 
 ]]></trans>
     <phonetic><![CDATA[['sʌbstəntiv]]]></phonetic>
     <tags>GRE</tags>
@@ -40079,18 +40137,23 @@ adj. 有实质的；大量的；真实的；独立存在的
     <trans><![CDATA[n. 代用品；代替者 
 vi. 替代 
 vt. 代替 
+from sub "under" (see sub-) + statuere "set up," from PIE root *sta- "to stand," with derivatives meaning "place or thing that is standing" (see stet).
 ]]></trans>
     <phonetic><![CDATA[['sʌbstitju:t, -tu:t]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>subsume</word>
     <trans><![CDATA[vt. 把……归入；把……包括在内 
+        from Latin sub "under" (see sub-) + sumere "to take" (see exempt (adj.))
 ]]></trans>
     <phonetic><![CDATA[[səb'sju:m]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>subterfuge</word>
     <trans><![CDATA[n. 托词；借口；诡计 
+        from subter "beneath, secretly" + fugere "flee" (see fugitive).
+        fugitive  [fu·gi·tive || 'fjuːdʒɪtɪv] n.  逃亡者; 难捕捉之物; 亡命者
+        flee  [flɪː] v.  逃, 消失; 逃避; 逃走; 逃跑
 ]]></trans>
     <phonetic><![CDATA[['sʌbtəfju:dʒ]]]></phonetic>
     <tags>GRE</tags>
@@ -40098,12 +40161,15 @@ vt. 代替
 </item><item>    <word>subterranean</word>
     <trans><![CDATA[n. 地下工作者 
 adj. 地下的；秘密的；隐蔽的 
+from sub "under" (see sub-) + terra "earth" (see terrain).
+terrain  [ter·rain || tə'reɪn] n.  地带, 地形, 地域
 ]]></trans>
     <phonetic><![CDATA[[,sʌbtə'reiniən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>subtle</word>
     <trans><![CDATA[adj. 微妙的；精细的；敏感的；狡猾的；稀薄的 
+         from sub "under" (see sub-) + -tilis, from tela "web" and texere "to weave" (see texture). 
 ]]></trans>
     <phonetic><![CDATA[['sʌtl]]]></phonetic>
     <tags>GRE</tags>
@@ -40117,18 +40183,23 @@ adj. 地下的；秘密的；隐蔽的
 </item><item>    <word>subversive</word>
     <trans><![CDATA[n. 危险分子；颠覆分子 
 adj. 破坏性的；从事颠覆的 
+subvert  [sub'vert || səb'vɜrt /-ɜːt] v.  推翻, 毁灭, 颠覆
+from sub "under" (see sub-) + vertere "to turn" (see versus).
 ]]></trans>
     <phonetic><![CDATA[[səb'və:siv, sʌb-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>subvert</word>
-    <trans><![CDATA[vt. 颠覆；推翻；破坏 
+    <trans><![CDATA[vt. 颠覆；推翻；破坏
+    from sub "under" (see sub-) + vertere "to turn" (see versus). 
 ]]></trans>
     <phonetic><![CDATA[[səb'və:t, sʌb-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>succinct</word>
     <trans><![CDATA[adj. 简洁的；简明的；紧身的 
+        from under" (see sub-) + cingere "to gird" (see cinch).
+        cinch  [sɪntʃ] n.  肚带, 确实的事情, 紧握
 ]]></trans>
     <phonetic><![CDATA[[sək'siŋkt, sə's-]]]></phonetic>
     <tags>GRE</tags>
@@ -40136,12 +40207,15 @@ adj. 破坏性的；从事颠覆的
 </item><item>    <word>succor</word>
     <trans><![CDATA[vt. 救援；援助 
 n. 救援；援助者 
+from sub "up to" + currere "to run" (see current (adj.)).
 ]]></trans>
     <phonetic><![CDATA[['sʌkə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>succumb</word>
     <trans><![CDATA[vi. 屈服；死；被压垮 
+from sub "down" (see sub-) + -cumbere "take a reclining position," related to cubare "lie down" (see cubicle).
+cubicle  [cu·bi·cle || 'kjuːbɪkl] n.  小卧室
 ]]></trans>
     <phonetic><![CDATA[[sə'kʌm]]]></phonetic>
     <tags>GRE</tags>
@@ -40149,12 +40223,14 @@ n. 救援；援助者
 </item><item>    <word>suffice</word>
     <trans><![CDATA[vt. 使满足；足够…用；合格 
 vi. 足够；有能力 
+suffice  [suf·fice || sə'faɪs] v.  足够, 有能力; 使满足
 ]]></trans>
     <phonetic><![CDATA[[sə'fais]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>sufficient</word>
     <trans><![CDATA[adj. 足够的；充分的 
+        suffice  [suf·fice || sə'faɪs] v.  足够, 有能力; 使满足
 ]]></trans>
     <phonetic><![CDATA[[sə'fiʃənt]]]></phonetic>
     <tags>GRE</tags>
@@ -40162,24 +40238,28 @@ vi. 足够；有能力
 </item><item>    <word>suffocate</word>
     <trans><![CDATA[vt. 压制，阻碍；使……窒息 
 vi. 受阻，受扼制；窒息 
+from sub "up (from under)" (see sub-) + fauces (plural) "throat, narrow entrance."
 ]]></trans>
     <phonetic><![CDATA[['sʌfəkeit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>suffrage</word>
     <trans><![CDATA[n. 选举权；投票；参政权；代祷；赞成票 
+        from sub "under" (see sub-) + fragor "crash, din, shouts (as of approval)," related to frangere "to break" (see fraction).
 ]]></trans>
     <phonetic><![CDATA[['sʌfridʒ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>suffragist</word>
     <trans><![CDATA[n. 妇女政权论者；参政权扩大论者 
+        suffrage  选举权；投票；参政权；代祷；赞成票 
 ]]></trans>
     <phonetic><![CDATA[['sʌfrədʒist]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>suffuse</word>
     <trans><![CDATA[vt. 充满；弥漫 
+        from sub "under" + fundere "to pour" (see found (v.2)).
 ]]></trans>
     <phonetic><![CDATA[[sə'fju:z]]]></phonetic>
     <tags>GRE</tags>
@@ -40192,12 +40272,14 @@ vi. 受阻，受扼制；窒息
     <progress>0</progress>
 </item><item>    <word>sulky</word>
     <trans><![CDATA[adj. 生气的；阴沉的 
+        no
 ]]></trans>
     <phonetic><![CDATA[['sʌlki]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>sullen</word>
     <trans><![CDATA[adj. 愠怒的，不高兴的；（天气）阴沉的；沉闷的 
+        sole
 ]]></trans>
     <phonetic><![CDATA[['sʌlən]]]></phonetic>
     <tags>GRE</tags>
