@@ -38195,12 +38195,15 @@ snap  [snæp] n.  猛咬, 劈啪声, 突然折断
     <progress>0</progress>
 </item><item>    <word>snobbish</word>
     <trans><![CDATA[adj. 势利的 
+         snob + -ish. 
+         snob  [snɑb /snɒ-] n.  势利鬼; 媚上傲下的人
 ]]></trans>
     <phonetic><![CDATA[['snɔbiʃ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>snowdrift</word>
     <trans><![CDATA[n. 随风飘飞的雪；被风刮在一起的雪堆 
+        snow + drift
 ]]></trans>
     <phonetic><![CDATA[['snəudrift]]]></phonetic>
     <tags>GRE</tags>
@@ -38209,6 +38212,8 @@ snap  [snæp] n.  猛咬, 劈啪声, 突然折断
     <trans><![CDATA[n. 冷落；斥责；突然的停止 
 vt. 冷落；严厉斥责；掐灭 
 adj. 制动用的；短扁上翘的 
+snip  [snɪp] n.  剪; 喀嚓声; 剪声; 剪下的小片
+snap  [snæp] n.  猛咬, 劈啪声, 突然折断
 ]]></trans>
     <phonetic><![CDATA[[snʌb]]]></phonetic>
     <tags>GRE</tags>
@@ -38218,6 +38223,7 @@ adj. 制动用的；短扁上翘的
 vt. 使变得温暖舒适；隐藏 
 vi. 偎依；舒适地蜷伏 
 n. 舒适温暖的地方；雅室 
+(as)是那个(秋裤)
 ]]></trans>
     <phonetic><![CDATA[[snʌɡ]]]></phonetic>
     <tags>GRE</tags>
@@ -38226,6 +38232,8 @@ n. 舒适温暖的地方；雅室
     <trans><![CDATA[n. 浸；湿透；大雨 
 vi. 浸泡；渗透 
 vt. 吸收，吸入；沉浸在（工作或学习中）；使……上下湿透 
+ sup  [sʌp] v.  啜, 呷; 啜饮; 吃晚饭
+ soup
 ]]></trans>
     <phonetic><![CDATA[[səuk]]]></phonetic>
     <tags>GRE</tags>
@@ -38233,6 +38241,10 @@ vt. 吸收，吸入；沉浸在（工作或学习中）；使……上下湿透
 </item><item>    <word>soar</word>
     <trans><![CDATA[n. 高飞；高涨 
 vi. 高飞；高耸；往上飞舞 
+(see ex-) + aura "breeze, air" (see aura). 
+aura  [au·ra || 'ɔːrə] n.  气味; 灵气; 气氛; 预兆
+air
+(as)嫂子，嫦娥高飞了
 ]]></trans>
     <phonetic><![CDATA[[sɔ:]]]></phonetic>
     <tags>GRE</tags>
@@ -38240,12 +38252,14 @@ vi. 高飞；高耸；往上飞舞
 </item><item>    <word>sober</word>
     <trans><![CDATA[adj. 冷静的，清醒的；未醉的 
 vt. 使严肃；使醒酒，使清醒 
+no
 ]]></trans>
     <phonetic><![CDATA[['səubə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>sobriety</word>
     <trans><![CDATA[n. 清醒，冷静；节制；严肃 
+        sober  冷静的，清醒的；未醉的 
 ]]></trans>
     <phonetic><![CDATA[[səu'braiəti]]]></phonetic>
     <tags>GRE</tags>
@@ -38255,6 +38269,7 @@ vt. 使严肃；使醒酒，使清醒
 n. 短袜；一击 
 adv. 正着地；不偏不倚地 
 adj. 非常成功的 
+no
 ]]></trans>
     <phonetic><![CDATA[[sɔk]]]></phonetic>
     <tags>GRE</tags>
@@ -38262,6 +38277,7 @@ adj. 非常成功的
 </item><item>    <word>sod</word>
     <trans><![CDATA[n. 草地；草皮 
 vt. 铺上草皮；以生草土覆盖；铺草皮于 
+no
 ]]></trans>
     <phonetic><![CDATA[[sɔd]]]></phonetic>
     <tags>GRE</tags>
@@ -38269,12 +38285,14 @@ vt. 铺上草皮；以生草土覆盖；铺草皮于
 </item><item>    <word>sodden</word>
     <trans><![CDATA[adj. 浸透的；浑身湿透的；浸过酒的 
 vt. 使浸透；使迷糊 
+sod 草地；草皮 
 ]]></trans>
     <phonetic><![CDATA[['sɔdən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>soggy</word>
     <trans><![CDATA[adj. 浸水的；透湿的；沉闷的 
+        sod 草地；草皮 
 ]]></trans>
     <phonetic><![CDATA[['sɔɡi]]]></phonetic>
     <tags>GRE</tags>
@@ -38290,6 +38308,7 @@ vi. 变脏
 </item><item>    <word>solace</word>
     <trans><![CDATA[n. 安慰；慰藉；安慰之物 
 vt. 安慰；抚慰；使快乐（过去式solaced，过去分词solaced，现在分词solacing，第三人称单数solaces） 
+no
 ]]></trans>
     <phonetic><![CDATA[['sɔləs, -lis]]]></phonetic>
     <tags>GRE</tags>
@@ -38298,18 +38317,21 @@ vt. 安慰；抚慰；使快乐（过去式solaced，过去分词solaced，现�
     <trans><![CDATA[n. 焊料；接合物 
 vt. 焊接；使联接在一起 
 vi. 焊接 
+ "solid" (see solid (adj.)). 
 ]]></trans>
     <phonetic><![CDATA[['sɔldə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>solemn</word>
     <trans><![CDATA[adj. 庄严的，严肃的；隆重的，郑重的 
+        sole (as)孤家寡人
 ]]></trans>
     <phonetic><![CDATA[['sɔləm]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>solemnity</word>
     <trans><![CDATA[n. 严肃；庄严；一本正经 
+        solemn 庄严的，严肃的；隆重的，郑重的 
 ]]></trans>
     <phonetic><![CDATA[[sə'lemnəti]]]></phonetic>
     <tags>GRE</tags>
@@ -38317,24 +38339,28 @@ vi. 焊接
 </item><item>    <word>solicit</word>
     <trans><![CDATA[vt. 征求；招揽；请求；乞求 
 vi. 征求；招揽；恳求；请求 
+sole 唯一的   excite(刺激, 激励, 使兴奋)
 ]]></trans>
     <phonetic><![CDATA[[sə'lisit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>solicitous</word>
     <trans><![CDATA[adj. 热切期望的；热心的；挂念的 
+        solicit 征求；招揽；请求；乞求 
 ]]></trans>
     <phonetic><![CDATA[[sə'lisitəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>solicitude</word>
     <trans><![CDATA[n. 焦虑；渴望；担心 
+         solicit 征求；招揽；请求；乞求 
 ]]></trans>
     <phonetic><![CDATA[[sə'lisitju:d]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>solidarity</word>
     <trans><![CDATA[n. 团结，团结一致 
+        solide
 ]]></trans>
     <phonetic><![CDATA[[,sɔli'dæriti]]]></phonetic>
     <tags>GRE</tags>
@@ -38342,6 +38368,7 @@ vi. 征求；招揽；恳求；请求
 </item><item>    <word>solidify</word>
     <trans><![CDATA[vt. 团结；凝固 
 vi. 团结；凝固 
+solide
 ]]></trans>
     <phonetic><![CDATA[[sə'lidifai]]]></phonetic>
     <tags>GRE</tags>
@@ -38349,12 +38376,14 @@ vi. 团结；凝固
 </item><item>    <word>solitary</word>
     <trans><![CDATA[n. 独居者；隐士 
 adj. 孤独的；独居的 
+sole
 ]]></trans>
     <phonetic><![CDATA[['sɔlitəri]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>solitude</word>
     <trans><![CDATA[n. 孤独；隐居；荒僻的地方 
+        sole
 ]]></trans>
     <phonetic><![CDATA[['sɔlitju:d]]]></phonetic>
     <tags>GRE</tags>
@@ -38365,12 +38394,15 @@ adj. 独奏的；独唱的；单独的
 vt. 单人攀登；单独驾 
 vi. 单独表演；放单飞 
 adv. 单独地 
+sole
 ]]></trans>
     <phonetic><![CDATA[['səuləu]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>soluble</word>
-    <trans><![CDATA[adj. [化学] 可溶的，可溶解的；可解决的 
+    <trans><![CDATA[adj. [化学] 可溶的，可溶解的；可解决的
+      loose 松开，解开
+  solve v.解开；解决 
 ]]></trans>
     <phonetic><![CDATA[['sɔljubl]]]></phonetic>
     <tags>GRE</tags>
@@ -38378,30 +38410,38 @@ adv. 单独地
 </item><item>    <word>solvent</word>
     <trans><![CDATA[n. 溶剂；解决方法 
 adj. 有偿付能力的；有溶解力的 
+   loose 松开，解开
+  solve v.解开；解决 
 ]]></trans>
     <phonetic><![CDATA[['sɔlvənt, 'sɔ:l-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>somatic</word>
     <trans><![CDATA[adj. 躯体的；肉体的；体壁的 
+        somato-   躯体：体细胞：
 ]]></trans>
     <phonetic><![CDATA[[səu'mætik]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>somber</word>
     <trans><![CDATA[adj. 忧郁的；昏暗的；严峻的；阴天的 
+         umbrella 雨伞
+        sub "under" (see sub-) + umbra "shade, shadow," perhaps from a suffixed form of PIE *andho- "blind, dark" (see umbrage). 
+        umbrage  [um·brage || 'ʌmbrɪdʒ] n.  不快, 阴影, 愤怒
 ]]></trans>
     <phonetic><![CDATA[['sɔmbə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>sonata</word>
     <trans><![CDATA[n. 奏鸣曲 
+         sound
 ]]></trans>
     <phonetic><![CDATA[[sə'nɑ:tə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>sonnet</word>
     <trans><![CDATA[n. 十四行诗；商籁诗 
+        sound
 ]]></trans>
     <phonetic><![CDATA[['sɔnit]]]></phonetic>
     <tags>GRE</tags>
@@ -38409,6 +38449,7 @@ adj. 有偿付能力的；有溶解力的
 </item><item>    <word>soot</word>
     <trans><![CDATA[n. 煤烟，烟灰 
 vt. 用煤烟熏黑；以煤烟弄脏 
+no
 ]]></trans>
     <phonetic><![CDATA[[su:t, sut]]]></phonetic>
     <tags>GRE</tags>
@@ -38416,6 +38457,7 @@ vt. 用煤烟熏黑；以煤烟弄脏
 </item><item>    <word>soothe</word>
     <trans><![CDATA[vt. 安慰；使平静；缓和 
 vi. 起抚慰作用 
+smooth
 ]]></trans>
     <phonetic><![CDATA[[su:ð]]]></phonetic>
     <tags>GRE</tags>
@@ -38424,12 +38466,15 @@ vi. 起抚慰作用
     <trans><![CDATA[n. 面包片；湿透的东西；懦夫；小贿赂 
 vt. 吸水；浸湿；贿赂 
 vi. 湿透；渗透 
+sup  [sʌp] v.  啜, 呷; 啜饮; 吃晚饭
+sip
 ]]></trans>
     <phonetic><![CDATA[[sɔp]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>sophism</word>
     <trans><![CDATA[n. 诡辩 
+        sophist  ['Soph·ist || 'sɒfɪst] n.  诡辩家; 诡辩者; 博学者
 ]]></trans>
     <phonetic><![CDATA[['sɔfizəm]]]></phonetic>
     <tags>GRE</tags>
@@ -38437,18 +38482,21 @@ vi. 湿透；渗透
 </item><item>    <word>sophisticated</word>
     <trans><![CDATA[adj. 复杂的；精致的；久经世故的；富有经验的 
 v. 使变得世故；使迷惑；篡改（sophisticate的过去分词形式） 
+sophist  ['Soph·ist || 'sɒfɪst] n.  诡辩家; 诡辩者; 博学者
 ]]></trans>
     <phonetic><![CDATA[[sə'fistikeitid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>sophistication</word>
     <trans><![CDATA[n. 复杂；诡辩；老于世故；有教养 
+        sophist  ['Soph·ist || 'sɒfɪst] n.  诡辩家; 诡辩者; 博学者
 ]]></trans>
     <phonetic><![CDATA[[sə,fisti'keiʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>sophistry</word>
     <trans><![CDATA[n. 诡辩；诡辩法 
+        sophist  ['Soph·ist || 'sɒfɪst] n.  诡辩家; 诡辩者; 博学者
 ]]></trans>
     <phonetic><![CDATA[['sɔfistri]]]></phonetic>
     <tags>GRE</tags>
@@ -38456,6 +38504,8 @@ v. 使变得世故；使迷惑；篡改（sophisticate的过去分词形式）
 </item><item>    <word>soporific</word>
     <trans><![CDATA[n. 催眠剂；安眠药 
 adj. 催眠的；想睡的 
+sopor   n.  迷睡; 酣睡; 昏睡
+sleep
 ]]></trans>
     <phonetic><![CDATA[[,sɔpə'rifik, ,səu-]]]></phonetic>
     <tags>GRE</tags>
@@ -38464,18 +38514,23 @@ adj. 催眠的；想睡的
     <trans><![CDATA[adj. 浑身湿透的 
 v. 使浸泡；吸收水分（sop的ing形式） 
 adv. 非常湿地 
+sop  [sɑp /sɒp]
+n.  面包片; 巴结用的物品, 诱饵; 湿软食物; 小贿赂
+v.  浸湿, 贿赂, 吸水; 渗透, 湿透
 ]]></trans>
     <phonetic><![CDATA[['sɔpiŋ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>sorcery</word>
     <trans><![CDATA[n. 魔术，巫术 
+        rom Latin sors (genitive sortis) "lot, fate, fortune" (see sort (n.)).
 ]]></trans>
     <phonetic><![CDATA[['sɔ:səri]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>sordid</word>
     <trans><![CDATA[adj. 肮脏的；卑鄙的；利欲熏心的；色彩暗淡的 
+       骚
 ]]></trans>
     <phonetic><![CDATA[['sɔ:did]]]></phonetic>
     <tags>GRE</tags>
@@ -38483,12 +38538,18 @@ adv. 非常湿地
 </item><item>    <word>souvenir</word>
     <trans><![CDATA[n. 纪念品；礼物 
 vt. 把…留作纪念 
+ from sub- "up" (see sub-) + venire "to come" (see venue).
+ venue  [ven·ue || 'venjuː] n.  犯罪地点, 集合地点, 审判地
 ]]></trans>
     <phonetic><![CDATA[[,su:və'niə, 'su:vəniə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>sovereignty</word>
     <trans><![CDATA[n. 主权；主权国家；君主；独立国 
+        sovereign  [sov·er·eign || 'sɑvərɪn /'sɒvrɪn] rn.  皇帝, 君主, 金磅
+        super + reign
+        region  [re·gion || 'rɪːdʒən] n.  区域, 地区, 地方
+        reign  [reɪn] n.  统治; 在位期间, 统治时期; 支配
 ]]></trans>
     <phonetic><![CDATA[['sɔvrənti, 'sʌv-]]]></phonetic>
     <tags>GRE</tags>
@@ -38497,6 +38558,10 @@ vt. 把…留作纪念
     <trans><![CDATA[n. 母猪 
 vt. 播种；散布；使密布 
 vi. 播种 
+  sow 大母猪
+  cow 母牛
+  sow 播种；
+  sort 种类
 ]]></trans>
     <phonetic><![CDATA[[səu]]]></phonetic>
     <tags>GRE</tags>
@@ -38510,6 +38575,7 @@ vi. 播种
 </item><item>    <word>span</word>
     <trans><![CDATA[n. 跨度，跨距；范围 
 vt. 跨越；持续；以手指测量 
+space 空间
 ]]></trans>
     <phonetic><![CDATA[[/spæn/]]]></phonetic>
     <tags>GRE</tags>
@@ -38518,6 +38584,8 @@ vt. 跨越；持续；以手指测量
     <trans><![CDATA[n. 一巴掌 
 vt. 拍击使之前进；打…的屁股 
 vi. 掴；飞跑 
+spark 火花
+speed 
 ]]></trans>
     <phonetic><![CDATA[[spæŋk]]]></phonetic>
     <tags>GRE</tags>
@@ -38525,6 +38593,8 @@ vi. 掴；飞跑
 </item><item>    <word>sparing</word>
     <trans><![CDATA[n. 抽出；宽恕；免去；给予（spare的ing形式） 
 adj. 节约的；贫乏的；保守的 
+spare  time 
+spare a.  v.节省
 ]]></trans>
     <phonetic><![CDATA[['spεəriŋ]]]></phonetic>
     <tags>GRE</tags>
@@ -38537,15 +38607,9 @@ vi. 闪烁；发火花；求婚
     <phonetic><![CDATA[[spɑ:k]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
-</item><item>    <word>sparring</word>
-    <trans><![CDATA[n. 对打；夹条板，保护条 
-v. 拳击（spar的现在分词形式） 
-]]></trans>
-    <phonetic><![CDATA[['spɑ:riŋ]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
 </item><item>    <word>sparse</word>
     <trans><![CDATA[adj. 稀疏的；稀少的 
+        spare a.  v.节省
 ]]></trans>
     <phonetic><![CDATA[[spɑ:s]]]></phonetic>
     <tags>GRE</tags>
@@ -38553,6 +38617,7 @@ v. 拳击（spar的现在分词形式）
 </item><item>    <word>spartan</word>
     <trans><![CDATA[n. 斯巴达人；勇士 
 adj. 斯巴达的；斯巴达式的 
+拟声词
 ]]></trans>
     <phonetic><![CDATA[['spɑ:tən]]]></phonetic>
     <tags>GRE</tags>
@@ -38561,24 +38626,31 @@ adj. 斯巴达的；斯巴达式的
     <trans><![CDATA[n. 口角；蚝卵；蚝仔；掌击 
 v. 吐口水（spit的过去式） 
 vi. 争吵；一巴掌打去 
+spit  [spɪt] n.  唾液, 口水;
+sip 啜 [chuò]
 ]]></trans>
     <phonetic><![CDATA[[spæt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>spate</word>
     <trans><![CDATA[n. 洪水；一阵；大雨；突然迸发 
+        spout  [spaʊt] n.  喷口; 水柱, 水流; 嘴; 水落管
+        sport + out
 ]]></trans>
     <phonetic><![CDATA[[speit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>spatial</word>
     <trans><![CDATA[adj. 空间的；存在于空间的；受空间条件限制的 
+        space 空间
 ]]></trans>
     <phonetic><![CDATA[['speiʃəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>spatula</word>
     <trans><![CDATA[n. （调和、涂抹用）抹刀，小铲；[医] 压舌板 
+        spade  [speɪd] n.  铲; 铁锹#黑桃
+        spoon
 ]]></trans>
     <phonetic><![CDATA[['spætjulə, -tʃə-]]]></phonetic>
     <tags>GRE</tags>
@@ -38587,6 +38659,7 @@ vi. 争吵；一巴掌打去
     <trans><![CDATA[n. 卵；菌丝；产物 
 vt. 产卵；酿成，造成；大量生产 
 vi. 产卵；大量生产 
+expand
 ]]></trans>
     <phonetic><![CDATA[[spɔ:n]]]></phonetic>
     <tags>GRE</tags>
@@ -38594,6 +38667,7 @@ vi. 产卵；大量生产
 </item><item>    <word>spear</word>
     <trans><![CDATA[n. 矛，枪 
 vt. 用矛刺 
+spire  ['spaɪə(r)] n.  尖塔; 锥形体; 尖顶; 幼叶, 幼苗#螺旋; 螺线的一圈; 螺线; 螺旋部, 螺塔
 ]]></trans>
     <phonetic><![CDATA[[spiə]]]></phonetic>
     <tags>GRE</tags>
@@ -38601,24 +38675,30 @@ vt. 用矛刺
 </item><item>    <word>specialize</word>
     <trans><![CDATA[vi. 专门从事；详细说明；特化 
 vt. 使专门化；使适应特殊情况；详细说明 
+special
 ]]></trans>
     <phonetic><![CDATA[['speʃəlaiz]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>specifics</word>
     <trans><![CDATA[n. 细节；特性（specific的复数）；详情 
+        special
 ]]></trans>
     <phonetic><![CDATA[[spi'sifiks]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>specimen</word>
     <trans><![CDATA[n. 样品，样本；标本 
+         from specere "to look at" (see scope (n.1)).
+         spec  [spek] n.  投机, 规格, 说明
 ]]></trans>
     <phonetic><![CDATA[['spesimin, -əmən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>specious</word>
     <trans><![CDATA[adj. 似是而非的；外表美观的；华而不实的；徒有其表的 
+         from species "appearance, form, figure, beauty" (see species)
+         species  [spe·cies || 'spɪːʃɪːz ,-s-] n.  种类; 形式; 种; 人类
 ]]></trans>
     <phonetic><![CDATA[['spi:ʃəs]]]></phonetic>
     <tags>GRE</tags>
@@ -38626,30 +38706,38 @@ vt. 使专门化；使适应特殊情况；详细说明
 </item><item>    <word>speck</word>
     <trans><![CDATA[n. 灰尘；污点；小颗粒 
 vt. 使有斑点 
+speckle  ['speck·le || 'spekl] n.  小的斑点, 斑点, 褐斑 v.  弄上斑点, 沾上斑点, 弄成斑纹
 ]]></trans>
     <phonetic><![CDATA[[spek]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>spectacular</word>
     <trans><![CDATA[adj. 壮观的，惊人的；公开展示的 
+        spek- "to observe" (see scope (n.1)).
 ]]></trans>
     <phonetic><![CDATA[[spek'tækjulə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>specter</word>
     <trans><![CDATA[n. 幽灵；妖怪；恐怖之物 
+        spectrum  [spec·trum || 'spektrəm] n.  谱; 频谱; 光谱; 射频频谱
+        from specere "to look at, view" (see scope (n.1))
 ]]></trans>
     <phonetic><![CDATA[['spektə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>spectral</word>
     <trans><![CDATA[adj. [光] 光谱的；幽灵的；鬼怪的 
+        specter  [spec·ter || 'spektə(r)] n.  鬼怪; 恐怖之物; 幽灵
+        spectrum  [spec·trum || 'spektrəm] n.  谱; 频谱; 光谱; 射频频谱
+        scope
 ]]></trans>
     <phonetic><![CDATA[['spektrəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>spectrum</word>
     <trans><![CDATA[n. 光谱；频谱；范围；余象 
+        scope
 ]]></trans>
     <phonetic><![CDATA[['spektrəm]]]></phonetic>
     <tags>GRE</tags>
@@ -38657,12 +38745,15 @@ vt. 使有斑点
 </item><item>    <word>speculate</word>
     <trans><![CDATA[vi. 推测；投机；思索 
 vt. 推断 
+speculation  [spec·u·la·tion || ‚spekjə'leɪʃn /-jʊ'l-] n.  思索; 推测; 沉思; 投机
+ from specere "to look at, view" (see scope (n.1)). 
 ]]></trans>
     <phonetic><![CDATA[['spekjuleit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>speculative</word>
     <trans><![CDATA[adj. 投机的；推测的；思索性的 
+        speculate 推测；投机；思索 
 ]]></trans>
     <phonetic><![CDATA[['spekjulətiv, -lei-]]]></phonetic>
     <tags>GRE</tags>
@@ -38678,6 +38769,8 @@ vt. 拼，拼写；意味着；招致；拼成；迷住；轮值
 </item><item>    <word>spendthrift</word>
     <trans><![CDATA[n. 挥霍无度的人；浪费的人 
 adj. 挥霍无度的；浪费的 
+spend + thrift
+thrift  [θrɪft] n.  节约, 繁荣
 ]]></trans>
     <phonetic><![CDATA[['spendθrift]]]></phonetic>
     <tags>GRE</tags>
