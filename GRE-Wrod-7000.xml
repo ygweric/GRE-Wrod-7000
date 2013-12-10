@@ -40922,38 +40922,40 @@ no
     <trans><![CDATA[n. 禁忌；禁止 
 adj. 禁忌的；忌讳的 
 vt. 禁忌；禁止 
+no
 ]]></trans>
     <phonetic><![CDATA[[tə'bu:, tæ-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tacit</word>
     <trans><![CDATA[adj. 缄默的；不言而喻的 
+        re-dict-ent= reticent沉默寡言的
+                     tacit  心照不宣的
 ]]></trans>
     <phonetic><![CDATA[['tæsit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>taciturn</word>
     <trans><![CDATA[adj. 沉默寡言的；无言的，不太说话的 
+        tacit adj. 缄默的；不言而喻的
 ]]></trans>
     <phonetic><![CDATA[['tæsitə:n]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
-</item><item>    <word>tackiness</word>
-    <trans><![CDATA[n. 粘着性 
-]]></trans>
-    <phonetic><![CDATA[['tækinis]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tackle</word>
     <trans><![CDATA[n. 滑车；装备；用具；扭倒 
 vi. 扭倒；拦截抢球 
 vt. 处理；抓住；固定；与…交涉 
+ take
+ tack  [tæk] n.  平头钉, 大头钉; 粗缝针脚; 图钉; 假缝#租借合同经贸专业#杂物
+ tail
 ]]></trans>
     <phonetic><![CDATA[['tækl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tact</word>
     <trans><![CDATA[n. 机智；老练；圆滑；鉴赏力 
+        "sense of touch or feeling" ,  "to touch" (see tangent).
 ]]></trans>
     <phonetic><![CDATA[[tækt]]]></phonetic>
     <tags>GRE</tags>
@@ -40961,32 +40963,29 @@ vt. 处理；抓住；固定；与…交涉
 </item><item>    <word>tactic</word>
     <trans><![CDATA[n. 策略，战略 
 adj. 按顺序的，依次排列的 
+tactics  ['tac·tics || 'tæktɪks] n.  战术, 用兵学; 策略, 手段
 ]]></trans>
     <phonetic><![CDATA[['tæktik]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tactile</word>
     <trans><![CDATA[adj. [生理] 触觉的，有触觉的；能触知的 
+        "to touch" (see tangent)
 ]]></trans>
     <phonetic><![CDATA[['tæktail, -til]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tadpole</word>
     <trans><![CDATA[n. 蝌蚪 
+        from tadde "toad" (see toad) + pol "head" (see poll (n.)).
+        poll  [pəʊl] n.  民意测验; 投票, 选举; 民意测验记录; 投票数
 ]]></trans>
     <phonetic><![CDATA[['tædpəul]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
-</item><item>    <word>taking</word>
-    <trans><![CDATA[n. 取得；捕获；营业收入 
-v. 拿；捕捉；夺取（take的ing形式） 
-adj. 可爱的；迷人的；会传染的 
-]]></trans>
-    <phonetic><![CDATA[['teikiŋ]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
 </item><item>    <word>talisman</word>
     <trans><![CDATA[n. 护身符；法宝 
+        from telos "completion, end, tax" (see tele-).
 ]]></trans>
     <phonetic><![CDATA[['tælizmən, -lis-]]]></phonetic>
     <tags>GRE</tags>
@@ -40995,18 +40994,21 @@ adj. 可爱的；迷人的；会传染的
     <trans><![CDATA[n. 计数器；标签；记账 
 vi. 一致；记分 
 vt. 使符合；计算；记录 
+ tailor
 ]]></trans>
     <phonetic><![CDATA[['tæli]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>talon</word>
     <trans><![CDATA[n. 爪；[建] 爪饰；如爪的手 
+        no
 ]]></trans>
     <phonetic><![CDATA[['tælən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tambourine</word>
     <trans><![CDATA[n. 小手鼓；非洲野鸽 
+        tabor n.  小鼓
 ]]></trans>
     <phonetic><![CDATA[[,tæmbə'ri:n]]]></phonetic>
     <tags>GRE</tags>
@@ -41022,6 +41024,7 @@ vi. 变得驯服
 </item><item>    <word>tamp</word>
     <trans><![CDATA[n. 捣棒；打夯的工具 
 vt. 夯实，砸实；填塞 
+no
 ]]></trans>
     <phonetic><![CDATA[[tæmp]]]></phonetic>
     <tags>GRE</tags>
@@ -41030,6 +41033,7 @@ vt. 夯实，砸实；填塞
     <trans><![CDATA[n. 填塞者；捣棒 
 vi. 篡改；干预；损害；削弱；玩弄；贿赂 
 vt. 篡改 
+tamp n. 捣棒；打夯的工具 
 ]]></trans>
     <phonetic><![CDATA[['tæmpə]]]></phonetic>
     <tags>GRE</tags>
@@ -41039,6 +41043,7 @@ vt. 篡改
 adj. 黄褐色的；鞣皮的 
 vt. 鞣（革）；晒成褐色 
 vi. 晒成棕褐色 
+no
 ]]></trans>
     <phonetic><![CDATA[[tæn]]]></phonetic>
     <tags>GRE</tags>
@@ -41046,6 +41051,7 @@ vi. 晒成棕褐色
 </item><item>    <word>tangential</word>
     <trans><![CDATA[n. 正切，切线 
 adj. [数] 切线的，[数] 正切的；离题的，扯远的 
+ tangent n.  切线, 正切
 ]]></trans>
     <phonetic><![CDATA[[tæn'dʒenʃəl]]]></phonetic>
     <tags>GRE</tags>
@@ -41054,6 +41060,10 @@ adj. [数] 切线的，[数] 正切的；离题的，扯远的
     <trans><![CDATA[n. 纠纷；混乱状态 
 vt. 使纠缠；处于混乱状态 
 vi. 缠结；乱作一团 
+tact-词根：碰
+tag-词根：碰
+tang-词根：碰
+tangent a.相切的；n.切线
 ]]></trans>
     <phonetic><![CDATA[['tæŋɡl]]]></phonetic>
     <tags>GRE</tags>
@@ -41061,12 +41071,16 @@ vi. 缠结；乱作一团
 </item><item>    <word>tango</word>
     <trans><![CDATA[n. 探戈舞；探戈舞曲 
 vi. 跳探戈舞 
+拟声词
 ]]></trans>
     <phonetic><![CDATA[['tæŋɡəu]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tangy</word>
     <trans><![CDATA[adj. 扑鼻的；有刺激性的；强烈的 
+        tact-词根：碰
+        tag-词根：碰
+        tang-词根：碰
 ]]></trans>
     <phonetic><![CDATA[['tæŋi]]]></phonetic>
     <tags>GRE</tags>
@@ -41074,18 +41088,21 @@ vi. 跳探戈舞
 </item><item>    <word>tantalize</word>
     <trans><![CDATA[vt. 逗弄；使干着急 
 vi. 逗弄人；令人干着急 
+Tantalus  丹达罗斯：一位国王，因其犯过罪而被打入阴间并被罚站立在水中，当他想去饮水时水即流走，其头上挂有水果，但当他想拿水果时却退开
 ]]></trans>
     <phonetic><![CDATA[['tæntəlaiz]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tantamount</word>
     <trans><![CDATA[adj. 同等的；相当于…的 
+         tant "as much" + amount
 ]]></trans>
     <phonetic><![CDATA[['tæntəmaunt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tantrum</word>
     <trans><![CDATA[n. 发脾气；发怒 
+        no
 ]]></trans>
     <phonetic><![CDATA[['tæntrəm]]]></phonetic>
     <tags>GRE</tags>
@@ -41094,6 +41111,8 @@ vi. 逗弄人；令人干着急
     <trans><![CDATA[n. 细蜡烛，烛芯；逐渐变弱；锥形物 
 vi. 逐渐减少；逐渐变弱 
 vt. 逐渐减少；使成锥形 
+top 顶端
+tip 尖端
 ]]></trans>
     <phonetic><![CDATA[['teipə]]]></phonetic>
     <tags>GRE</tags>
@@ -41101,6 +41120,7 @@ vt. 逐渐减少；使成锥形
 </item><item>    <word>tapestry</word>
     <trans><![CDATA[n. 织锦；挂毯；绣帷 
 vt. 用挂毯装饰 
+no
 ]]></trans>
     <phonetic><![CDATA[['tæpistri]]]></phonetic>
     <tags>GRE</tags>
@@ -41108,6 +41128,7 @@ vt. 用挂毯装饰
 </item><item>    <word>tardy</word>
     <trans><![CDATA[n. 迟到 
 adj. 缓慢的，迟缓的；迟到的 
+tard-拖沓  踏步
 ]]></trans>
     <phonetic><![CDATA[['tɑ:di]]]></phonetic>
     <tags>GRE</tags>
@@ -41115,6 +41136,7 @@ adj. 缓慢的，迟缓的；迟到的
 </item><item>    <word>tare</word>
     <trans><![CDATA[n. 皮重；巢菜；毒麦；野碗豆 
 vt. 称皮重 
+no
 ]]></trans>
     <phonetic><![CDATA[[tεə]]]></phonetic>
     <tags>GRE</tags>
@@ -41122,6 +41144,7 @@ vt. 称皮重
 </item><item>    <word>tariff</word>
     <trans><![CDATA[n. 关税表；收费表 
 vt. 定税率；征收关税 
+'泰锐斧'
 ]]></trans>
     <phonetic><![CDATA[['tærif]]]></phonetic>
     <tags>GRE</tags>
@@ -41130,12 +41153,17 @@ vt. 定税率；征收关税
     <trans><![CDATA[n. 晦暗，无光泽；污点 
 vt. 玷污；使……失去光泽；使……变灰暗 
 vi. 失去光泽；被玷污；变灰暗 
+dark 黑
 ]]></trans>
     <phonetic><![CDATA[['tɑ:niʃ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tarpaulin</word>
     <trans><![CDATA[n. 柏油帆布；防水帽；防水衣；涂焦油防水布 
+        from tar (n.1) + palling, from pall "heavy cloth covering" (see pall (n.))
+        tar  [tɑr /tɑː] n.  焦油; 柏油#水手, 海员
+        tree
+        pall  [pɔːl] n.  棺罩; 遮盖物, 幕; 柩衣; 罩布
 ]]></trans>
     <phonetic><![CDATA[[tɑ:'pɔ:lin, 'tɑ:pə-]]]></phonetic>
     <tags>GRE</tags>
@@ -41144,6 +41172,7 @@ vi. 失去光泽；被玷污；变灰暗
     <trans><![CDATA[n. 果馅饼；妓女 
 adj. 酸的；锋利的；尖刻的 
 vt. 打扮 
+no
 ]]></trans>
     <phonetic><![CDATA[[tɑ:t]]]></phonetic>
     <tags>GRE</tags>
@@ -41157,6 +41186,8 @@ n. 可口的东西；引人入胜的东西
     <progress>0</progress>
 </item><item>    <word>tatty</word>
     <trans><![CDATA[adj. 不整洁的；不值钱的；破旧的 
+        "a rag" (see tatter).
+        tatter  [tat·ter || 'tætə(r)] n.  破布条; 破衣服; 碎片
 ]]></trans>
     <phonetic><![CDATA[['tæti]]]></phonetic>
     <tags>GRE</tags>
@@ -41164,6 +41195,8 @@ n. 可口的东西；引人入胜的东西
 </item><item>    <word>taut</word>
     <trans><![CDATA[adj. 拉紧的；紧张的；整洁的 
 vt. 使纠缠；使缠结 
+tie 系；领带
+tight 紧的
 ]]></trans>
     <phonetic><![CDATA[[tɔ:t]]]></phonetic>
     <tags>GRE</tags>
@@ -41171,6 +41204,9 @@ vt. 使纠缠；使缠结
 </item><item>    <word>tauten</word>
     <trans><![CDATA[vt. 拉紧；使绷紧 
 vi. 拉紧 
+taut adj. 拉紧的；紧张的；整洁的 
+tie 系；领带
+tight 紧的
 ]]></trans>
     <phonetic><![CDATA[['tɔ:tən]]]></phonetic>
     <tags>GRE</tags>
@@ -41178,6 +41214,7 @@ vi. 拉紧
 </item><item>    <word>tawdry</word>
     <trans><![CDATA[n. 俗丽的东西；廉价而俗丽之物 
 adj. 非常华丽的；廉价而俗丽的 
+“陶醉”
 ]]></trans>
     <phonetic><![CDATA[['tɔ:dri]]]></phonetic>
     <tags>GRE</tags>
@@ -41191,40 +41228,42 @@ adj. 费力的；繁重的
     <progress>0</progress>
 </item><item>    <word>taxonomist</word>
     <trans><![CDATA[n. 分类学者 
+        tax + on + omist
 ]]></trans>
     <phonetic><![CDATA[[tæk'sɔnəmist]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
-</item><item>    <word>tear</word>
-    <trans><![CDATA[vi. 流泪, 撕破 
-n. 眼泪, （撕破的）洞或裂缝, 撕扯 
-vt. 撕掉, 扯下, 扰乱 
-]]></trans>
-    <phonetic><![CDATA[[tɛə,tiə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tease</word>
     <trans><![CDATA[vt. 取笑；戏弄；梳理；欺负；强求；使起毛 
 n. 戏弄；爱纠缠的小孩；挑逗者；卖弄风骚的女孩 
 vi. 取笑 
+no
 ]]></trans>
     <phonetic><![CDATA[[ti:z]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>technocrat</word>
     <trans><![CDATA[n. 技术统治论者；专家政治论者；技术统治 
+         from techno(科技，技术，工艺)- + -cracy(政府；统治).
 ]]></trans>
     <phonetic><![CDATA[['teknəukræt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tedious</word>
     <trans><![CDATA[adj. 沉闷的；冗长乏味的 
+        tedium  ['te·di·um || 'tɪːdɪəm] n.  厌烦, 沉闷
+        to+end= tend-词根：伸
+       ten/ted
+       tedious冗长的，乏味的
 ]]></trans>
     <phonetic><![CDATA[['ti:diəs, 'ti:dʒəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tedium</word>
     <trans><![CDATA[n. 沉闷；单调乏味；厌烦 
+        to+end= tend-词根：伸
+       ten/ted
+       tedious冗长的，乏味的
 ]]></trans>
     <phonetic><![CDATA[['ti:diəm]]]></phonetic>
     <tags>GRE</tags>
@@ -41233,30 +41272,16 @@ vi. 取笑
     <trans><![CDATA[n. 跷跷板；摇摆 
 vt. 使…摇摆；使…上下晃动 
 vi. 摇晃；玩跷跷板；步履蹒跚；摇摇欲坠 
+no
 ]]></trans>
     <phonetic><![CDATA[['ti:tə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
-</item><item>    <word>telling</word>
-    <trans><![CDATA[n. 命令；叙述；吐露真情 
-v. 告诉；讲述（tell的ing形式）；命令 
-adj. 有效的；生动的；显著的 
-]]></trans>
-    <phonetic><![CDATA[['teliŋ]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
 </item><item>    <word>temerity</word>
     <trans><![CDATA[n. 鲁莽，冒失；蛮勇 
+        temp '临时工'都莽撞
 ]]></trans>
     <phonetic><![CDATA[[ti'merəti, tə-]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
-</item><item>    <word>temp</word>
-    <trans><![CDATA[n. 临时雇员 
-abbr. 温度（temperature） 
-vt. 做临时工作 
-]]></trans>
-    <phonetic><![CDATA[[temp]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>temper</word>
@@ -41271,18 +41296,23 @@ vi. 回火；调和
     <trans><![CDATA[n. 暴风雨；骚动；动乱 
 vt. 使狂怒；扰乱，使激动 
 vi. 小题大作；起大风暴 
+temp + pest 暴风雨前夕，害虫开始暂时性骚动
 ]]></trans>
     <phonetic><![CDATA[['tempist]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tempestuous</word>
     <trans><![CDATA[adj. 有暴风雨的；暴乱的；剧烈的 
+        tempest  暴风雨；骚动；动乱 
+        temp + pest 暴风雨前夕，害虫开始暂时性骚动
 ]]></trans>
     <phonetic><![CDATA[[tem'pestjuəs, -tʃu-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tempo</word>
     <trans><![CDATA[n. 速度，发展速度；拍子 
+        temporal  [tem·po·ral || 'tempərəl] adj.  时间的; 世间的; 暂存的, 非永恒的, 短暂的; 世俗的#太阳穴的, 颞的
+        temporary n.  临时工, 临时雇员; 临时房屋; 临时事物 
 ]]></trans>
     <phonetic><![CDATA[['tempəu]]]></phonetic>
     <tags>GRE</tags>
@@ -41290,36 +41320,49 @@ vi. 小题大作；起大风暴
 </item><item>    <word>temporal</word>
     <trans><![CDATA[n. 世间万物；暂存的事物 
 adj. 暂时的；当时的；现世的 
+temporary n.  临时工, 临时雇员; 临时房屋; 临时事物 
 ]]></trans>
     <phonetic><![CDATA[['tempərəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>temporize</word>
     <trans><![CDATA[vi. 拖延；妥协；顺应时势；迎合潮流 
+        temporal adj. 暂时的；当时的；现世的 
 ]]></trans>
     <phonetic><![CDATA[['tempəraiz]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>temptation</word>
     <trans><![CDATA[n. 引诱；诱惑物 
+        tempt  [tempt] v.  诱惑, 吸引, 引诱
+        empty 空的
 ]]></trans>
     <phonetic><![CDATA[[temp'teiʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tenable</word>
     <trans><![CDATA[adj. （主张等）站得住脚的；可维持的 
+        take+in= tain-词根：拿
+        tain
+        ten-词根：拿
 ]]></trans>
     <phonetic><![CDATA[['tenəbl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tenacious</word>
     <trans><![CDATA[adj. 顽强的；坚韧的；固执的；紧握的；黏着力强的 
+         take+in= tain-词根：拿
+        tain
+        ten-词根：拿
 ]]></trans>
     <phonetic><![CDATA[[ti'neiʃəs, tə-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tenacity</word>
     <trans><![CDATA[n. 韧性；固执；不屈不挠；黏性 
+         take+in= tain-词根：拿
+        tain
+        ten-词根：拿
 ]]></trans>
     <phonetic><![CDATA[[ti'næsiti, tə-]]]></phonetic>
     <tags>GRE</tags>
@@ -41327,6 +41370,7 @@ adj. 暂时的；当时的；现世的
 </item><item>    <word>tenant</word>
     <trans><![CDATA[n. 承租人；房客；佃户；居住者 
 vt. 租借（常用于被动语态） 
+tain-词根：拿
 ]]></trans>
     <phonetic><![CDATA[['tenənt]]]></phonetic>
     <tags>GRE</tags>
@@ -41334,12 +41378,16 @@ vt. 租借（常用于被动语态）
 </item><item>    <word>tend</word>
     <trans><![CDATA[vt. 照料，照管 
 vi. 趋向，倾向；照料，照顾 
+attend  [at·tend || ə'tend] v.  参加; 出席; 照顾; 参加, 出席; 护理; 处理, 照料; 侍候
+ from ad- "to" (see ad-) + tendere "stretch" (see tenet). 
+ (as) at + to + end 照顾老人，at老人旁边，直到to结束end
 ]]></trans>
     <phonetic><![CDATA[[tend]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tendentious</word>
     <trans><![CDATA[adj. 有偏见的，有倾向的；宣传性的 
+         tenet
 ]]></trans>
     <phonetic><![CDATA[[ten'denʃəs]]]></phonetic>
     <tags>GRE</tags>
@@ -41349,6 +41397,7 @@ vi. 趋向，倾向；照料，照顾
 adj. 温柔的；柔软的；脆弱的；幼稚的；难对付的 
 vt. 提供，偿还；使…变嫩；是…变柔软 
 vi. 投标；变柔软 
+tend vi. 趋向，倾向；照料，照顾 
 ]]></trans>
     <phonetic><![CDATA[['tendə]]]></phonetic>
     <tags>GRE</tags>
@@ -41362,6 +41411,7 @@ vi. 投标；变柔软
 </item><item>    <word>tenor</word>
     <trans><![CDATA[n. 男高音；要旨，大意；票据的限期；稳定的进程 
 adj. 男高音的 
+from tenere "to hold" (see tenet). 
 ]]></trans>
     <phonetic><![CDATA[['tenə]]]></phonetic>
     <tags>GRE</tags>
@@ -41369,6 +41419,8 @@ adj. 男高音的
 </item><item>    <word>tension</word>
     <trans><![CDATA[n. 张力，拉力；紧张，不安；电压 
 vt. 使紧张；使拉紧 
+ from PIE root *ten- "stretch" (see tenet). 
+ to + end
 ]]></trans>
     <phonetic><![CDATA[['tenʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -41376,12 +41428,16 @@ vt. 使紧张；使拉紧
 </item><item>    <word>tentative</word>
     <trans><![CDATA[n. 假设，试验 
 adj. 试验性的，暂定的；踌躇的 
+tent
 ]]></trans>
     <phonetic><![CDATA[['tentətiv]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tenuous</word>
     <trans><![CDATA[adj. 纤细的；稀薄的；贫乏的 
+        tend-ten-词根：伸（真正）
+        　　-ted-词根：伸（抽象）
+        tedious a.冗长的；乏味的  
 ]]></trans>
     <phonetic><![CDATA[['tenjuəs]]]></phonetic>
     <tags>GRE</tags>
@@ -41389,12 +41445,14 @@ adj. 试验性的，暂定的；踌躇的
 </item><item>    <word>tenure</word>
     <trans><![CDATA[n. 任期；占有 
 vt. 授予…终身职位 
+"to hold" (see tenet).
 ]]></trans>
     <phonetic><![CDATA[['tenjuə, 'tenjə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tepid</word>
     <trans><![CDATA[adj. 微温的，温热的；不太热烈的；不热情的 
+        temperature 温度
 ]]></trans>
     <phonetic><![CDATA[['tepid]]]></phonetic>
     <tags>GRE</tags>
@@ -41402,6 +41460,7 @@ vt. 授予…终身职位
 </item><item>    <word>terminal</word>
     <trans><![CDATA[n. 末端；终点；终端机；极限 
 adj. 末端的；终点的；晚期的 
+term 学期；期限，条款；术语
 ]]></trans>
     <phonetic><![CDATA[['tə:minəl]]]></phonetic>
     <tags>GRE</tags>
@@ -41422,6 +41481,7 @@ vi. 结束，终止；结果
     <progress>0</progress>
 </item><item>    <word>terminology</word>
     <trans><![CDATA[n. 术语，术语学；用辞 
+        term 学期；期限，条款；术语
 ]]></trans>
     <phonetic><![CDATA[[,tə:mi'nɔlədʒi]]]></phonetic>
     <tags>GRE</tags>
@@ -41434,6 +41494,7 @@ vi. 结束，终止；结果
     <progress>0</progress>
 </item><item>    <word>termite</word>
     <trans><![CDATA[n. [昆] 白蚁 
+        no
 ]]></trans>
     <phonetic><![CDATA[['tə:mait]]]></phonetic>
     <tags>GRE</tags>
@@ -41443,6 +41504,7 @@ vi. 结束，终止；结果
 adj. （女服）叠层式的 
 vt. 使成梯田，使成阶地；使有平台屋顶 
 vi. 成阶地；成梯田；筑成坛 
+from Latin terra "earth, land" (see terrain)
 ]]></trans>
     <phonetic><![CDATA[['terəs, -is]]]></phonetic>
     <tags>GRE</tags>
@@ -41456,24 +41518,31 @@ vi. 成阶地；成梯田；筑成坛
 </item><item>    <word>terrestrial</word>
     <trans><![CDATA[n. 陆地生物；地球上的人 
 adj. 地球的；陆地的，[生物] 陆生的；人间的 
+terrain [地理] 地形，地势；领域；地带 
 ]]></trans>
     <phonetic><![CDATA[[ti'restriəl, tə-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>terse</word>
     <trans><![CDATA[adj. 简洁的，精练的，扼要的 
+        no
 ]]></trans>
     <phonetic><![CDATA[[tə:s]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>testament</word>
     <trans><![CDATA[n. [法] 遗嘱；圣约；确实的证明 
+        test + a + ment
+        (as)过去test过几个皇子，然后才立遗嘱
 ]]></trans>
     <phonetic><![CDATA[['testəmənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>testator</word>
     <trans><![CDATA[n. 立遗嘱者 
+        testament [法] 遗嘱；圣约；确实的证明 
+        test + a + ment
+        (as)过去test过几个皇子，然后才立遗嘱
 ]]></trans>
     <phonetic><![CDATA[[te'steitə, 'tes-]]]></phonetic>
     <tags>GRE</tags>
@@ -41481,18 +41550,14 @@ adj. 地球的；陆地的，[生物] 陆生的；人间的
 </item><item>    <word>testify</word>
     <trans><![CDATA[vi. 作证；证明 
 vt. 证明，证实；作证 
+test
 ]]></trans>
     <phonetic><![CDATA[['testifai]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
-</item><item>    <word>testiness</word>
-    <trans><![CDATA[n. 易怒，暴躁；不耐烦 
-]]></trans>
-    <phonetic><![CDATA[['testinis]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
 </item><item>    <word>testy</word>
     <trans><![CDATA[adj. 易怒的；暴躁的 
+        (as)讨厌考试，暴躁
 ]]></trans>
     <phonetic><![CDATA[['testi]]]></phonetic>
     <tags>GRE</tags>
@@ -41500,6 +41565,7 @@ vt. 证明，证实；作证
 </item><item>    <word>tether</word>
     <trans><![CDATA[n. 范围；系链；拴绳 
 vt. 用绳或链拴住 
+no
 ]]></trans>
     <phonetic><![CDATA[['teðə]]]></phonetic>
     <tags>GRE</tags>
@@ -41513,6 +41579,8 @@ vt. 用绳或链拴住
 </item><item>    <word>thatch</word>
     <trans><![CDATA[n. 茅草，杂草；浓密的头发；茅草屋顶 
 vt. 用茅草覆盖屋顶 
+t hat 帽子
+ hatch  n.  舱口; 下半扇门; 天窗#孵化; 一窝#孵化, 舱口
 ]]></trans>
     <phonetic><![CDATA[[θætʃ]]]></phonetic>
     <tags>GRE</tags>
@@ -41521,24 +41589,28 @@ vt. 用茅草覆盖屋顶
     <trans><![CDATA[n. 解冻；融雪 
 vt. 使融解；使变得不拘束 
 vi. 融解；变暖和 
+(as) '嫂'子解冻鱼给我
 ]]></trans>
     <phonetic><![CDATA[[θɔ:]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>thematic</word>
     <trans><![CDATA[adj. 主题的，主旋律的；题目的；语干的 
+        theme  
 ]]></trans>
     <phonetic><![CDATA[[θi'mætik, θi:-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>theocracy</word>
     <trans><![CDATA[n. 神政；神权政体；神治国（复数theocracies） 
+         from theos "god" (see Thea) + kratos "a rule, regime, strength" (see -cracy)
 ]]></trans>
     <phonetic><![CDATA[[θi'ɔkrəsi]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>theoretical</word>
-    <trans><![CDATA[adj. 理论的；理论上的；假设的；推理的 
+    <trans><![CDATA[adj. 理论的；理论上的；假设的；推理的
+    theory 
 ]]></trans>
     <phonetic><![CDATA[[,θiə'retikəl, ,θi:ə-]]]></phonetic>
     <tags>GRE</tags>
@@ -41546,6 +41618,7 @@ vi. 融解；变暖和
 </item><item>    <word>therapeutic</word>
     <trans><![CDATA[n. 治疗剂；治疗学家 
 adj. 治疗的；治疗学的；有益于健康的 
+no
 ]]></trans>
     <phonetic><![CDATA[[,θerə'pju:tik]]]></phonetic>
     <tags>GRE</tags>
@@ -41553,6 +41626,7 @@ adj. 治疗的；治疗学的；有益于健康的
 </item><item>    <word>thermal</word>
     <trans><![CDATA[n. 上升暖气流 
 adj. 热的，热量的 
+warm
 ]]></trans>
     <phonetic><![CDATA[['θə:məl]]]></phonetic>
     <tags>GRE</tags>
@@ -41565,12 +41639,16 @@ adj. 热的，热量的
     <progress>0</progress>
 </item><item>    <word>thicket</word>
     <trans><![CDATA[n. [林] 灌木丛；丛林；错综复杂 
+        thick
 ]]></trans>
     <phonetic><![CDATA[['θikit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>thorn</word>
     <trans><![CDATA[n. 刺；[植] 荆棘 
+        corn 玉米
+        horn 牛角
+        thin+horn=thorn 荆棘
 ]]></trans>
     <phonetic><![CDATA[[θɔ:n]]]></phonetic>
     <tags>GRE</tags>
@@ -41585,6 +41663,7 @@ vi. 通过；穿透过
     <progress>0</progress>
 </item><item>    <word>threadbare</word>
     <trans><![CDATA[adj. 磨破的；衣衫褴褛的；乏味的；俗套的 
+        bare  [beə] v.  使赤裸; 揭露; 露出; 透露
 ]]></trans>
     <phonetic><![CDATA[['θredbεə]]]></phonetic>
     <tags>GRE</tags>
@@ -41597,6 +41676,8 @@ vi. 通过；穿透过
     <progress>0</progress>
 </item><item>    <word>thrive</word>
     <trans><![CDATA[vi. 繁荣，兴旺；茁壮成长 
+        three being
+        tribe  n.部落
 ]]></trans>
     <phonetic><![CDATA[[θraiv]]]></phonetic>
     <tags>GRE</tags>
@@ -41605,6 +41686,7 @@ vi. 通过；穿透过
     <trans><![CDATA[n. 王座；君主；王权 
 vt. 使登王位 
 vi. 登上王座 
+no
 ]]></trans>
     <phonetic><![CDATA[[θrəun]]]></phonetic>
     <tags>GRE</tags>
@@ -41614,19 +41696,16 @@ vi. 登上王座
 vt. 群集；挤满 
 vi. 蜂拥而至；群集 
 adj. 拥挤的 
+no
 ]]></trans>
     <phonetic><![CDATA[[θrɔŋ, θrɔ:ŋ]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
-</item><item>    <word>throwback</word>
-    <trans><![CDATA[返祖现象，复旧]]></trans>
-    <phonetic><![CDATA[]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>thrust</word>
     <trans><![CDATA[n. [力] 推力；刺 
 vt. 插；插入；推挤 
 vi. 插入；用向某人刺去；猛然或用力推 
+ from PIE *trud- "push, press" (see threat), 
 ]]></trans>
     <phonetic><![CDATA[[θrʌst]]]></phonetic>
     <tags>GRE</tags>
@@ -41637,18 +41716,21 @@ n. 划手座；独木舟的横梁
 vt. 挫败；反对；阻碍；横过 
 adj. 横放的；固执的 
 adv. 横过 
+through ward  inward outward
 ]]></trans>
     <phonetic><![CDATA[[θwɔ:t]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tickler</word>
     <trans><![CDATA[n. 难题；使人痒的东西或人；备忘录；使人高兴的人或物 
+        stick
 ]]></trans>
     <phonetic><![CDATA[['tiklə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>ticklish</word>
     <trans><![CDATA[adj. 不安定的，不稳定的；难对付的；易倒的；易痒的；忌讳的 
+        stick
 ]]></trans>
     <phonetic><![CDATA[['tikliʃ]]]></phonetic>
     <tags>GRE</tags>
@@ -41658,6 +41740,7 @@ adv. 横过
 adj. 整齐的；相当大的 
 vi. 整理；收拾 
 vt. 整理；收拾；弄整齐 
+tide 潮汐；
 ]]></trans>
     <phonetic><![CDATA[['taidi]]]></phonetic>
     <tags>GRE</tags>
@@ -41666,12 +41749,16 @@ vt. 整理；收拾；弄整齐
     <trans><![CDATA[n. 淡酒；一口；口角；生气 
 vt. 啜；饮 
 vi. 生气；小争吵 
+stiff 僵尸，死尸（死的夫）；僵硬的
+(as)生点气，喝点酒，浑身僵硬
 ]]></trans>
     <phonetic><![CDATA[[tif]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tightfisted</word>
     <trans><![CDATA[adj. 吝啬的 
+        tight + fist
+        fist n.  拳头, 手
 ]]></trans>
     <phonetic><![CDATA[['tait'fistid]]]></phonetic>
     <tags>GRE</tags>
