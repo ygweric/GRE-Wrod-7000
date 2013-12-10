@@ -42406,30 +42406,36 @@ vt. 歪曲；滑稽地模仿
     <progress>0</progress>
 </item><item>    <word>treatise</word>
     <trans><![CDATA[n. 论述；论文；专著 
+        "to deal with" (see treat).
 ]]></trans>
     <phonetic><![CDATA[['tri:tiz, -tis]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>treaty</word>
     <trans><![CDATA[n. 条约，协议；谈判 
+        treat
 ]]></trans>
     <phonetic><![CDATA[['tri:ti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tremendous</word>
     <trans><![CDATA[adj. 极大的，巨大的；惊人的 
+        tremble  [trem·ble || 'trembl] n.  战栗, 颤抖
 ]]></trans>
     <phonetic><![CDATA[[tri'mendəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tremor</word>
     <trans><![CDATA[n. [医] 震颤；颤动 
+        tremble  [trem·ble || 'trembl] n.  战栗, 颤抖
 ]]></trans>
     <phonetic><![CDATA[['tremə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>trenchant</word>
     <trans><![CDATA[adj. 尖刻的；锐利的；苛刻的；锋利的（名词trenchancy，副词trenchantly） 
+        trench  [trentʃ] n.  沟渠, 管沟, 堑壕 v.  蚕食, 侵犯, 挖; 挖战壕, 侵犯, 接近
+        to+end---trend v.倾向，伸向
 ]]></trans>
     <phonetic><![CDATA[['trentʃənt]]]></phonetic>
     <tags>GRE</tags>
@@ -42438,12 +42444,15 @@ vt. 歪曲；滑稽地模仿
     <trans><![CDATA[n. 趋势，倾向；走向 
 vt. 使…趋向 
 vi. 趋向，伸向 
+to+end
 ]]></trans>
     <phonetic><![CDATA[[trend]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>trepidation</word>
     <trans><![CDATA[n. 恐惧；惊恐；忧虑；颤抖 
+        tremble v. n.战栗, 颤抖
+        trepid  a.惊恐的,悸惧的
 ]]></trans>
     <phonetic><![CDATA[[,trepideiʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -42451,18 +42460,21 @@ vi. 趋向，伸向
 </item><item>    <word>trespass</word>
     <trans><![CDATA[n. 罪过；非法侵入；过失；擅自进入 
 vi. 侵入；犯罪；打扰；冒犯 
+ from tres- "beyond" (from Latin trans-) + passer "go by, pass" (see pass (v.)).
 ]]></trans>
     <phonetic><![CDATA[['trespəs, -pæs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tribunal</word>
     <trans><![CDATA[n. 法庭；裁决；法官席 
+        tribe  [traɪb] n.  部落, 部族
 ]]></trans>
     <phonetic><![CDATA[[trai'bju:nəl, tri-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tribute</word>
     <trans><![CDATA[n. 礼物；[税收] 贡物；颂词 
+        tribe  [traɪb] n.  部落, 部族
 ]]></trans>
     <phonetic><![CDATA[['tribju:t]]]></phonetic>
     <tags>GRE</tags>
@@ -42471,6 +42483,8 @@ vi. 侵入；犯罪；打扰；冒犯
     <trans><![CDATA[n. 滴，淌；细流 
 vt. 使…滴；使…淌；使…细细地流 
 vi. 滴；细细地流；慢慢地移动 
+ form of striken "to flow, move" (see strike).
+ strike  [straɪk] n.  打击; 空袭; 攻击; 罢工, 罢市, 罢课
 ]]></trans>
     <phonetic><![CDATA[['trikl]]]></phonetic>
     <tags>GRE</tags>
@@ -42479,6 +42493,7 @@ vi. 滴；细细地流；慢慢地移动
     <trans><![CDATA[n. 琐事；蛋糕；少量 
 vt. 浪费；虚度 
 vi. 开玩笑；闲混；嘲弄 
+no
 ]]></trans>
     <phonetic><![CDATA[['traifl]]]></phonetic>
     <tags>GRE</tags>
@@ -42486,13 +42501,17 @@ vi. 开玩笑；闲混；嘲弄
 </item><item>    <word>trigger</word>
     <trans><![CDATA[n. 扳机；[电子] 触发器；制滑机 
 vt. 引发，引起；触发 
-vi. 松开扳柄 
+vi. 松开扳柄
+tract-词根：拉扯
+tractor 拖拉机 
 ]]></trans>
     <phonetic><![CDATA[['triɡə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>trilogy</word>
     <trans><![CDATA[n. 三部曲；三部剧 
+        from tri- "three" (see three) + logos "story" (see logos).
+        logos  n.  理法; 宇宙法则; 理性
 ]]></trans>
     <phonetic><![CDATA[['trilədʒi]]]></phonetic>
     <tags>GRE</tags>
@@ -42509,24 +42528,30 @@ vi. 削减
 </item><item>    <word>trinket</word>
     <trans><![CDATA[n. 小装饰品；不值钱的小玩意儿 
 vi. 密谋 
+trick
 ]]></trans>
     <phonetic><![CDATA[['triŋkit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>trio</word>
     <trans><![CDATA[n. 三重唱；三件一套；三个一组 
+        from tri- "three" (see three)
+        duo  [du·o || 'djuːəʊ] n.  二重奏; 二人组; 二重唱
+        two
 ]]></trans>
     <phonetic><![CDATA[['tri:əu]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tripod</word>
     <trans><![CDATA[n. [摄] 三脚架；三脚桌 
+        from tri- "three" (see tri-) + pous (genitive podos) "foot" (see foot).
 ]]></trans>
     <phonetic><![CDATA[['traipɔd]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>trite</word>
     <trans><![CDATA[adj. 陈腐的；平庸的；老一套的 
+        (as)'踹他' ,太陈腐了
 ]]></trans>
     <phonetic><![CDATA[[trait]]]></phonetic>
     <tags>GRE</tags>
@@ -42534,12 +42559,14 @@ vi. 密谋
 </item><item>    <word>triumph</word>
     <trans><![CDATA[n. 胜利，凯旋；欢欣 
 vi. 获得胜利，成功 
+no
 ]]></trans>
     <phonetic><![CDATA[['traiəmf, -ʌmf]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>trivial</word>
     <trans><![CDATA[adj. 不重要的，琐碎的；琐细的 
+        from tri- "three" (see three) + via "road" (see via).
 ]]></trans>
     <phonetic><![CDATA[['triviəl]]]></phonetic>
     <tags>GRE</tags>
@@ -42548,13 +42575,17 @@ vi. 获得胜利，成功
     <trans><![CDATA[n. 奖品；战利品；纪念品 
 vt. 用战利品装饰 
 adj. 显示身份的；有威望的 
+a + troph + y
+ tropho- 或 troph- 营养；营养的：
+  nurture 营养
 ]]></trans>
     <phonetic><![CDATA[['trəufi]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>troupe</word>
     <trans><![CDATA[n. 剧团；一班；一团 
-vi. 巡回演出 
+vi. 巡回演出
+troop  [truːp] n.  群, 多数, 组
 ]]></trans>
     <phonetic><![CDATA[[tru:p]]]></phonetic>
     <tags>GRE</tags>
@@ -42562,12 +42593,14 @@ vi. 巡回演出
 </item><item>    <word>trowel</word>
     <trans><![CDATA[n. （园艺用的）泥铲；（砌砖用的）[建] 泥刀；（抹灰用的）抹子 
 vt. 用抹子涂抹；用小泥铲挖 
+no
 ]]></trans>
     <phonetic><![CDATA[['trauəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>truancy</word>
     <trans><![CDATA[n. 旷课，逃学；玩忽职守 
+        truant  ['tru·ant || 'truːənt] n.  懒惰鬼, 旷课者
 ]]></trans>
     <phonetic><![CDATA[['tru:ənsi]]]></phonetic>
     <tags>GRE</tags>
@@ -42576,12 +42609,15 @@ vt. 用抹子涂抹；用小泥铲挖
     <trans><![CDATA[n. 停战；休战；休战协定 
 vt. 以休战结束；停止争执 
 vi. 停战 
+truth真理, 原理
 ]]></trans>
     <phonetic><![CDATA[[tru:s]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>truculent</word>
     <trans><![CDATA[adj. 好斗的；野蛮的；言词刻毒的 
+        truck 大卡车
+        truce n. 停战；休战；休战协定 
 ]]></trans>
     <phonetic><![CDATA[['trʌkjulənt, 'tru:-]]]></phonetic>
     <tags>GRE</tags>
@@ -42590,6 +42626,7 @@ vi. 停战
     <trans><![CDATA[n. 长途跋涉；沉重的步伐 
 vt. 跋涉 
 vi. 跋涉；步履艰难地走 
+true (as) 苦行僧长途跋涉，只为真理
 ]]></trans>
     <phonetic><![CDATA[[trʌdʒ]]]></phonetic>
     <tags>GRE</tags>
@@ -42598,6 +42635,7 @@ vi. 跋涉；步履艰难地走
     <trans><![CDATA[n. 喇叭；喇叭声 
 vt. 吹喇叭；吹嘘 
 vi. 吹喇叭；发出喇叭般的声音 
+ trump  [trʌmp] n.  王牌; 有效手段; 好人#喇叭, 号筒; 喇叭声
 ]]></trans>
     <phonetic><![CDATA[['trʌmpit]]]></phonetic>
     <tags>GRE</tags>
@@ -42605,6 +42643,7 @@ vi. 吹喇叭；发出喇叭般的声音
 </item><item>    <word>truncate</word>
     <trans><![CDATA[vt. 把…截短；缩短；使成平面 
 adj. 截短的；被删节的 
+trunk 树干
 ]]></trans>
     <phonetic><![CDATA[['trʌŋkeit, trʌŋ'keit, 'trʌŋk-]]]></phonetic>
     <tags>GRE</tags>
@@ -42620,36 +42659,43 @@ vt. 把…放入旅行箱内
 </item><item>    <word>truss</word>
     <trans><![CDATA[n. 束；构架；捆 
 vt. 捆绑；用构架支撑 
+trunk n. 树干；躯干；象鼻；汽车车尾的行李箱 
 ]]></trans>
     <phonetic><![CDATA[[trʌs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>trustworthy</word>
     <trans><![CDATA[adj. 可靠的；可信赖的 
+        trust + worthy
 ]]></trans>
     <phonetic><![CDATA[['trʌst,wə:ði]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tuber</word>
     <trans><![CDATA[n. [植] 块茎；隆起 
+        to swell( 鼓起, 膨胀)" (see thigh).
+        thigh  [θaɪ] n.  大腿, 股
 ]]></trans>
     <phonetic><![CDATA[['tju:bə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tumult</word>
     <trans><![CDATA[n. 骚动；骚乱；吵闹；激动 
+        thigh  [θaɪ] n.  大腿, 股
 ]]></trans>
     <phonetic><![CDATA[['tju:mʌlt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>turbulent</word>
     <trans><![CDATA[adj. 骚乱的，混乱的；狂暴的；吵闹的 
+        tumult n. 骚动；骚乱；吵闹；激动 
 ]]></trans>
     <phonetic><![CDATA[['tə:bjulənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>turgid</word>
     <trans><![CDATA[adj. 肿胀的；浮夸的；浮肿的 
+        no
 ]]></trans>
     <phonetic><![CDATA[['tə:dʒid]]]></phonetic>
     <tags>GRE</tags>
@@ -42662,12 +42708,14 @@ vt. 捆绑；用构架支撑
     <progress>0</progress>
 </item><item>    <word>turncoat</word>
     <trans><![CDATA[n. 变节者；背叛者 
+        turn + coat
 ]]></trans>
     <phonetic><![CDATA[['tə:nkəut]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>turret</word>
     <trans><![CDATA[n. 炮塔；角楼；小塔；攻城用仰冲车 
+        tower
 ]]></trans>
     <phonetic><![CDATA[['tʌrit, 'tə:-, 'tuə-]]]></phonetic>
     <tags>GRE</tags>
@@ -42675,6 +42723,7 @@ vt. 捆绑；用构架支撑
 </item><item>    <word>tusk</word>
     <trans><![CDATA[n. 长牙；尖头，尖形物 
 vt. 以牙刺戳；以长牙掘 
+tooth
 ]]></trans>
     <phonetic><![CDATA[[tʌsk]]]></phonetic>
     <tags>GRE</tags>
@@ -42682,6 +42731,8 @@ vt. 以牙刺戳；以长牙掘
 </item><item>    <word>tussle</word>
     <trans><![CDATA[n. 争斗，扭打 
 vi. 打斗；扭打；剧烈的斗争 
+tousle  [tou·sle || 'taʊzl] v.  搅乱, 弄乱
+tease  [tɪːz] n.  揶揄者, 戏弄 v.  欺负, 取笑, 嘲弄; 戏弄; 取笑
 ]]></trans>
     <phonetic><![CDATA[['tʌsl]]]></phonetic>
     <tags>GRE</tags>
@@ -42696,6 +42747,7 @@ vi. 当家庭教师；（美）在家庭教师指导下学习
     <progress>0</progress>
 </item><item>    <word>tuxedo</word>
     <trans><![CDATA[n. 男士无尾半正式晚礼服；无尾礼服 
+        tuxe(texture) + do
 ]]></trans>
     <phonetic><![CDATA[[tʌk'si:du]]]></phonetic>
     <tags>GRE</tags>
@@ -42704,6 +42756,8 @@ vi. 当家庭教师；（美）在家庭教师指导下学习
     <trans><![CDATA[n. 小枝；嫩枝；末梢 
 vt. 理解 
 vi. 理解 
+root of twi- (see twin), 
+twin  [twɪn] n.  双胞胎中一人, 一对中的一个
 ]]></trans>
     <phonetic><![CDATA[[twiɡ]]]></phonetic>
     <tags>GRE</tags>
@@ -42712,36 +42766,47 @@ vi. 理解
     <trans><![CDATA[n. 阵痛；悔恨 
 vt. 使刺痛；使感到剧痛 
 vi. 刺痛；感到剧痛 
+no
 ]]></trans>
     <phonetic><![CDATA[[twindʒ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>typo</word>
     <trans><![CDATA[n. 排印错误；排字工；印刷工 
+         as short for typographical error (see typography).
+        typography  [ty'pog·ra·phy || taɪ'pɑgrəfɪ /'pɒg] n.  印刷术, 印刷体裁, 排字情形
+         from Greek typos (see type (n.)) + -grapheia "writing," from graphein "to write" (see -graphy).
 ]]></trans>
     <phonetic><![CDATA[['taipəu]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>typographical</word>
     <trans><![CDATA[adj. 印刷上的；排字上的 
+        from Greek typos (see type (n.)) + -grapheia "writing," from graphein "to write" (see -graphy).
 ]]></trans>
     <phonetic><![CDATA[['taipə'græfikəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tyranny</word>
     <trans><![CDATA[n. 暴政；专横；严酷；残暴的行为（需用复数） 
+        tyrant  [ty·rant || 'taɪərənt] n.  暴君; 暴君似的人; 专制君主; 专横的人
+        tur-东突 西突
+        Turanian 突雷尼人
 ]]></trans>
     <phonetic><![CDATA[['tirəni]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tyrant</word>
     <trans><![CDATA[n. 暴君 
+        tur-东突 西突
+        Turanian 突雷尼人
 ]]></trans>
     <phonetic><![CDATA[['tairənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tyro</word>
     <trans><![CDATA[n. 新手，生手；初学者 
+        no
 ]]></trans>
     <phonetic><![CDATA[['taiərəu]]]></phonetic>
     <tags>GRE</tags>
@@ -42749,6 +42814,7 @@ vi. 刺痛；感到剧痛
 </item><item>    <word>turquoise</word>
     <trans><![CDATA[n. 绿松石；蓝绿色 
 adj. 蓝绿色的 
+no
 ]]></trans>
     <phonetic><![CDATA[['tə:kwɔiz, -kwɑ:z]]]></phonetic>
     <tags>GRE</tags>
@@ -42763,12 +42829,14 @@ adj. 激励的；使人兴奋的
 </item><item>    <word>tangible</word>
     <trans><![CDATA[n. 有形资产 
 adj. 有形的；切实的；可触摸的 
+"to touch" (see tangent).
 ]]></trans>
     <phonetic><![CDATA[['tændʒəbl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>turpitude</word>
     <trans><![CDATA[n. 卑鄙；奸恶 
+        no
 ]]></trans>
     <phonetic><![CDATA[['tə:pitju:d]]]></phonetic>
     <tags>GRE</tags>
@@ -42776,24 +42844,31 @@ adj. 有形的；切实的；可触摸的
 </item><item>    <word>sovereign</word>
     <trans><![CDATA[n. 君主；独立国；最高统治者 
 adj. 至高无上的；有主权的；拥有最高统治权的；不折不扣的；极好的 
+no
 ]]></trans>
     <phonetic><![CDATA[['sɔvərin, 'sʌv-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>spectator</word>
     <trans><![CDATA[n. 观众；旁观者 
+        spectacle  [spec·ta·cle || 'spektəkl] n.  公开展示, 场面; 奇观, 壮观; 景象; 眼镜
+        scope
 ]]></trans>
     <phonetic><![CDATA[[spek'teitə, 'spekt-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>testimony</word>
     <trans><![CDATA[n. [法] 证词，证言；证据 
+         testament  [tes·ta·ment || 'testəmənt] n.  圣经旧约; 遗嘱, 遗言; 圣经新约; 证明, 证据
+         (as)过去test过几个皇子，然后才立遗嘱
 ]]></trans>
     <phonetic><![CDATA[['testiməni]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>ubiquitous</word>
     <trans><![CDATA[adj. 普遍存在的；无所不在的 
+        ubiquity  [u'biq·ui·ty || juː'bɪkwətɪ] n.  到处存在, 普遍存在, 无所不在
+         from ubi "where" (see ubi) + que "any, 
 ]]></trans>
     <phonetic><![CDATA[[ju:'bikwitəs]]]></phonetic>
     <tags>GRE</tags>
@@ -42813,12 +42888,16 @@ adj. 至高无上的；有主权的；拥有最高统治权的；不折不扣的
 </item><item>    <word>ultimate</word>
     <trans><![CDATA[n. 终极；根本；基本原则 
 adj. 最终的；极限的；根本的 
+ of *ulter "beyond" (see ultra-).
 ]]></trans>
     <phonetic><![CDATA[['ʌltimət]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>umbrage</word>
     <trans><![CDATA[n. 不快，生气；树荫；怀疑 
+        umbrella 雨伞
+        umbr-词根：阴影
+        adumbrate 画轮廓, 预示
 ]]></trans>
     <phonetic><![CDATA[['ʌmbridʒ]]]></phonetic>
     <tags>GRE</tags>
