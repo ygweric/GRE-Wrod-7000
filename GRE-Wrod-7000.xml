@@ -40286,37 +40286,40 @@ from sub "up (from under)" (see sub-) + fauces (plural) "throat, narrow entrance
     <progress>0</progress>
 </item><item>    <word>sultry</word>
     <trans><![CDATA[adj. 闷热的；狂暴的；淫荡的 
+        sweet 甜的
+        sweat  流汗
+        swelter  闷热, 被暑气所苦
 ]]></trans>
     <phonetic><![CDATA[[sʌltri]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>summarily</word>
     <trans><![CDATA[adv. 概要地；立刻；概略地 
+        summary
 ]]></trans>
     <phonetic><![CDATA[['sʌmərəli, sə'mεərəli]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
-</item><item>    <word>summary</word>
-    <trans><![CDATA[n. 概要，摘要 
-adj. 简易的；扼要的 
-]]></trans>
-    <phonetic><![CDATA[['sʌməri]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
 </item><item>    <word>summation</word>
     <trans><![CDATA[n. 和；[生理] 总和；合计 
+        summary
 ]]></trans>
     <phonetic><![CDATA[[sʌ'meiʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>summon</word>
     <trans><![CDATA[vt. 召唤；召集；鼓起；振作 
+         from sub "under" + monere "warn, advise" (see monitor (n.)). 
 ]]></trans>
     <phonetic><![CDATA[['sʌmən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>sumptuous</word>
     <trans><![CDATA[adj. 华丽的，豪华的；奢侈的 
+        consume 吃完或喝完；消耗；消费
+        consumption  消费, 消费量
+           sumptuous豪华的，奢侈的
+           sumptuary  限制费用的, 禁止奢侈的
 ]]></trans>
     <phonetic><![CDATA[['sʌmptjuəs, -tʃu-]]]></phonetic>
     <tags>GRE</tags>
@@ -40324,18 +40327,23 @@ adj. 简易的；扼要的
 </item><item>    <word>sunder</word>
     <trans><![CDATA[vt. 切开；切断 
 vi. 分离；断开 
+sand 沙子
 ]]></trans>
     <phonetic><![CDATA[['sʌndə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>superb</word>
     <trans><![CDATA[adj. 极好的；华丽的；宏伟的 
+        super
 ]]></trans>
     <phonetic><![CDATA[[sju'pə:b, sə-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>supercilious</word>
     <trans><![CDATA[adj. 目空一切的，高傲的；傲慢的，自大的 
+           shell 贝壳
+           ceiling 天花板
+            ciliary 睫毛
 ]]></trans>
     <phonetic><![CDATA[[,sju:pə'siliəs]]]></phonetic>
     <tags>GRE</tags>
@@ -40343,30 +40351,36 @@ vi. 分离；断开
 </item><item>    <word>superficial</word>
     <trans><![CDATA[n. 表面文章；外表；浅薄的人 
 adj. 表面的；肤浅的 
+super + ficial
 ]]></trans>
     <phonetic><![CDATA[[,sju:pə'fiʃəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>superficiality</word>
     <trans><![CDATA[n. 浅薄，肤浅；表面性的事物 
+        super + ficial
 ]]></trans>
     <phonetic><![CDATA[['sju:pə,fiʃə'æliti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>superfluity</word>
     <trans><![CDATA[n. 奢侈品；额外；过剩 
+        superfluous  [su·per·flu·ous || suː'pɜrflʊəs /-'pɜː-] adj.  多余的, 过量的, 过剩的
+        from super "over" (see super-) + fluere "to flow" (see fluent).
 ]]></trans>
     <phonetic><![CDATA[[,sju:pə'fluiti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>superfluous</word>
     <trans><![CDATA[adj. 多余的；不必要的；奢侈的 
+        from super "over" (see super-) + fluere "to flow" (see fluent).
 ]]></trans>
     <phonetic><![CDATA[[sju'pə:fluəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>superimpose</word>
     <trans><![CDATA[vt. 添加；重叠；附加；安装 
+         from super- (see super-) + imponere "to place upon," from in- "into" + poser "put, place" (see pose (v.1)).
 ]]></trans>
     <phonetic><![CDATA[[,sju:pərim'pəuz]]]></phonetic>
     <tags>GRE</tags>
@@ -40374,18 +40388,23 @@ adj. 表面的；肤浅的
 </item><item>    <word>superintend</word>
     <trans><![CDATA[vt. 监督；管理；主管；指挥 
 vi. 监督；主管；指挥 
+ from Latin super "above" (see super-) + intendere "turn one's attention, direct" (see intend). 
 ]]></trans>
     <phonetic><![CDATA[[,sju:pərin'tend]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>superiority</word>
     <trans><![CDATA[n. 优越，优势；优越性 
+        super-
 ]]></trans>
     <phonetic><![CDATA[[sju:,piəri'ɔriti, sə-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>supernova</word>
     <trans><![CDATA[n. [天] 超新星 
+        super- + nova.
+        nova  [no·va || 'nəʊvə] n.  新星
+        new
 ]]></trans>
     <phonetic><![CDATA[[,sju:pə'nəuvə]]]></phonetic>
     <tags>GRE</tags>
@@ -40393,6 +40412,7 @@ vi. 监督；主管；指挥
 </item><item>    <word>supersede</word>
     <trans><![CDATA[vt. 取代，代替；紧接着……而到来 
 vi. 推迟行动 
+" from super "above" (see super-) + sedere "to sit" (see sedentary).
 ]]></trans>
     <phonetic><![CDATA[[,sju:pə'si:d]]]></phonetic>
     <tags>GRE</tags>
@@ -40400,18 +40420,21 @@ vi. 推迟行动
 </item><item>    <word>supervise</word>
     <trans><![CDATA[vt. 监督，管理；指导 
 vi. 监督，管理；指导 
+from Latin super "over" (see super-) + videre "see" (see vision).
 ]]></trans>
     <phonetic><![CDATA[['sju:pəvaiz]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>supine</word>
     <trans><![CDATA[adj. 仰卧的；懒散的；掌心向上的；向后靠的 
+        from Latin supinus "turned or thrown backwards, inactive, indolent," related to sub "under" (see sub-).
 ]]></trans>
     <phonetic><![CDATA[[sju:'pain, 'sju:pain]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>supplant</word>
     <trans><![CDATA[vt. 代替；排挤掉 
+         from sub "under" + planta "sole of the foot" (see plant (n.)).
 ]]></trans>
     <phonetic><![CDATA[[sə'plɑ:nt, -'plænt]]]></phonetic>
     <tags>GRE</tags>
@@ -40420,6 +40443,9 @@ vi. 监督，管理；指导
     <trans><![CDATA[adj. 柔软的；灵活的；顺从的；易弯曲的；逢迎的 
 vt. 使柔软；使顺从 
 vi. 变柔顺；变柔软 
+from sub "under" + placare "appease" (see placate).
+placate  [pla·cate || pleɪ'keɪt /plə'keɪt] v.  抚慰; 怀柔; 和解
+please
 ]]></trans>
     <phonetic><![CDATA[['sʌpl]]]></phonetic>
     <tags>GRE</tags>
@@ -40427,6 +40453,7 @@ vi. 变柔顺；变柔软
 </item><item>    <word>supplement</word>
     <trans><![CDATA[n. 补充，补遗；补充物；附录 
 vt. 补充，增补 
+supply n.  补给, 供应品, 供给
 ]]></trans>
     <phonetic><![CDATA[['sʌplimənt, 'sʌpləment]]]></phonetic>
     <tags>GRE</tags>
@@ -40434,12 +40461,14 @@ vt. 补充，增补
 </item><item>    <word>suppliant</word>
     <trans><![CDATA[n. 恳求者；哀求者 
 adj. 恳求的；哀求的 
+supply n.  补给, 供应品, 供给
 ]]></trans>
     <phonetic><![CDATA[['sʌpliənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>supplicant</word>
     <trans><![CDATA[n. 恳求者，乞求者 
+        supply n.  补给, 供应品, 供给
 ]]></trans>
     <phonetic><![CDATA[['sʌplikənt]]]></phonetic>
     <tags>GRE</tags>
@@ -40447,12 +40476,15 @@ adj. 恳求的；哀求的
 </item><item>    <word>supplicate</word>
     <trans><![CDATA[vt. 恳求，哀求；恳请 
 vi. 哀求；恳请；祈求 
+supply n.  补给, 供应品, 供给
 ]]></trans>
     <phonetic><![CDATA[['sʌplikeit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>supremacy</word>
     <trans><![CDATA[n. 霸权；至高无上；主权；最高地位 
+        supreme + -acy.
+        super-
 ]]></trans>
     <phonetic><![CDATA[[sju'preməsi, sə-]]]></phonetic>
     <tags>GRE</tags>
@@ -40460,6 +40492,7 @@ vi. 哀求；恳请；祈求
 </item><item>    <word>supreme</word>
     <trans><![CDATA[n. 至高；霸权 
 adj. 最高的；至高的；最重要的 
+super-
 ]]></trans>
     <phonetic><![CDATA[[sju'pri:m, sə-]]]></phonetic>
     <tags>GRE</tags>
@@ -40467,6 +40500,7 @@ adj. 最高的；至高的；最重要的
 </item><item>    <word>surcharge</word>
     <trans><![CDATA[n. 超载；额外费 
 vt. 追加罚款；使…装载过多；使…负担过重 
+sur + charge
 ]]></trans>
     <phonetic><![CDATA[[sə:'tʃɑ:dʒ, 'sə:tʃ-]]]></phonetic>
     <tags>GRE</tags>
@@ -40475,6 +40509,7 @@ vt. 追加罚款；使…装载过多；使…负担过重
     <trans><![CDATA[n. 过度；饮食过度；恶心（由于饮食过度所引起） 
 vt. 使饮食过度；使厌腻；使过度沉溺于 
 vi. 饮食过度；过分放纵 
+from sur- "over" (see sur-) + faire "do," from Latin facere "to make" (see factitious).
 ]]></trans>
     <phonetic><![CDATA[['sə:fit]]]></phonetic>
     <tags>GRE</tags>
@@ -40489,12 +40524,14 @@ vi. 激增；汹涌
     <progress>0</progress>
 </item><item>    <word>surgeon</word>
     <trans><![CDATA[n. 外科医生 
+        no
 ]]></trans>
     <phonetic><![CDATA[['sə:dʒən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>surly</word>
     <trans><![CDATA[adj. 乖戾的；板面孔的，无礼的；阴沉的 
+        sure (as)老大阴沉的面目，不爱搭理人 
 ]]></trans>
     <phonetic><![CDATA[['sə:li]]]></phonetic>
     <tags>GRE</tags>
@@ -40503,12 +40540,14 @@ vi. 激增；汹涌
     <trans><![CDATA[n. 推测；猜度 
 vt. 猜测；推测 
 vi. 猜测；认为 
+ from sur- "upon" (see sur-) + mettre "put," from Latin mittere "to send" (see mission).
 ]]></trans>
     <phonetic><![CDATA[['sə:maiz, sə:'maiz]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>surmount</word>
     <trans><![CDATA[vt. 克服，越过；战胜 
+         from sur- "beyond" (see sur-) + monter "to go up" (see mount (v.))
 ]]></trans>
     <phonetic><![CDATA[[sə:'maunt]]]></phonetic>
     <tags>GRE</tags>
@@ -40528,6 +40567,7 @@ adj. 剩余的；过剩的
     <progress>0</progress>
 </item><item>    <word>surrealism</word>
     <trans><![CDATA[n. 超现实主义 
+        sur + real + ism
 ]]></trans>
     <phonetic><![CDATA[[sə'ri:əlizəm, -'riəl-]]]></phonetic>
     <tags>GRE</tags>
@@ -40536,12 +40576,15 @@ adj. 剩余的；过剩的
     <trans><![CDATA[n. 投降；放弃；交出；屈服 
 vt. 使投降；放弃；交出；听任 
 vi. 投降；屈服；自首 
+from sur- "over" (see sur-) + rendre "give back" (see render). 
+render  [ren·der || 'rendə(r)] v.  给; 给予, 提供; 做; 
 ]]></trans>
     <phonetic><![CDATA[[sə'rendə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>surreptitious</word>
     <trans><![CDATA[adj. 秘密的；鬼鬼祟祟的；暗中的 
+        sub "from under" (hence, "secretly") + rapere "to snatch" (see rapid). 
 ]]></trans>
     <phonetic><![CDATA[[,sʌrəp'tiʃəs, ,sə:-]]]></phonetic>
     <tags>GRE</tags>
@@ -40550,12 +40593,14 @@ vi. 投降；屈服；自首
     <trans><![CDATA[n. 代理；代用品；遗嘱检验法官 
 adj. 代理的；替代的 
 vt. 代理；指定某人为自己的代理人 
+from sub "in the place of, under" + rogare "to ask, propose" (see rogation).
 ]]></trans>
     <phonetic><![CDATA[['sʌrəɡeit, -ɡit, 'sə:-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>surveyor</word>
     <trans><![CDATA[n. 测量员；检验员 
+        survey  [sur·vey || sər'veɪ /sə'] n.  调查; 民意调查; 调查报告; 全面的考察
 ]]></trans>
     <phonetic><![CDATA[[sə'veiə, sə:-]]]></phonetic>
     <tags>GRE</tags>
@@ -40563,12 +40608,14 @@ vt. 代理；指定某人为自己的代理人
 </item><item>    <word>survive</word>
     <trans><![CDATA[vi. 幸存；活下来 
 vt. 幸存；生还；幸免于；比...活得长 
+ from super "over, beyond" (see super-) + vivere "to live" (see vivid).
 ]]></trans>
     <phonetic><![CDATA[[sə'vaiv]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>susceptibility</word>
     <trans><![CDATA[n. 敏感性；感情；磁化系数 
+        from sub "up from under" + capere "to take" (see capable)
 ]]></trans>
     <phonetic><![CDATA[[sə,septə'biləti]]]></phonetic>
     <tags>GRE</tags>
@@ -40576,6 +40623,7 @@ vt. 幸存；生还；幸免于；比...活得长
 </item><item>    <word>susceptible</word>
     <trans><![CDATA[n. 易得病的人 
 adj. 易受影响的；易感动的；容许…的 
+from sub "up from under" + capere "to take" (see capable)
 ]]></trans>
     <phonetic><![CDATA[[sə'septəbl]]]></phonetic>
     <tags>GRE</tags>
@@ -40585,6 +40633,7 @@ adj. 易受影响的；易感动的；容许…的
 adj. 可疑的；不可信的 
 vi. 怀疑；猜想 
 vt. 怀疑；猜想 
+from sub "up to" + specere "to look at" (see scope (n.1)).
 ]]></trans>
     <phonetic><![CDATA[[sə'spekt, 'sʌspekt]]]></phonetic>
     <tags>GRE</tags>
@@ -40592,18 +40641,25 @@ vt. 怀疑；猜想
 </item><item>    <word>suspend</word>
     <trans><![CDATA[vt. 延缓，推迟；使暂停；使悬浮 
 vi. 悬浮；[体]禁赛 
+ from sub "up from under" (see sub-) + pendere "cause to hang, weigh" (see pendant).
+ pendant  [pend·ant || 'pendənt] n.  下垂物; 挂件; 垂饰; 悬吊装置
+ root *(s)pen- "to pull, draw, stretch" (see span (v.)).
 ]]></trans>
     <phonetic><![CDATA[[sə'spend]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>suspense</word>
     <trans><![CDATA[n. 悬念；悬疑；焦虑；悬而不决 
+         pendant  [pend·ant || 'pendənt] n.  下垂物; 挂件; 垂饰; 悬吊装置
+         root *(s)pen- "to pull, draw, stretch" (see span (v.)).
 ]]></trans>
     <phonetic><![CDATA[[sə'spens]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>suspicion</word>
     <trans><![CDATA[n. 怀疑；嫌疑；疑心；一点儿 
+         pendant  [pend·ant || 'pendənt] n.  下垂物; 挂件; 垂饰; 悬吊装置
+         root *(s)pen- "to pull, draw, stretch" (see span (v.)).
 vt. 怀疑 
 ]]></trans>
     <phonetic><![CDATA[[sə'spiʃən]]]></phonetic>
@@ -40611,6 +40667,8 @@ vt. 怀疑
     <progress>0</progress>
 </item><item>    <word>suspicious</word>
     <trans><![CDATA[adj. 可疑的；怀疑的；多疑的 
+         pendant  [pend·ant || 'pendənt] n.  下垂物; 挂件; 垂饰; 悬吊装置
+         root *(s)pen- "to pull, draw, stretch" (see span (v.)).
 ]]></trans>
     <phonetic><![CDATA[[sə'spiʃəs]]]></phonetic>
     <tags>GRE</tags>
@@ -40624,12 +40682,16 @@ vt. 怀疑
 </item><item>    <word>sustained</word>
     <trans><![CDATA[v. 维持（sustain的过去式和过去分词）；承受 
 adj. 持续的；持久的；持久不变的 
+from below" (see sub-) + tenere "to hold" (see tenet). 
+ tenet  [ten·et || 'tenɪt] n.  教义, 原则, 宗旨
 ]]></trans>
     <phonetic><![CDATA[[sə'steind]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>sustenance</word>
     <trans><![CDATA[n. 食物；生计；支持 
+        from below" (see sub-) + tenere "to hold" (see tenet). 
+ tenet  [ten·et || 'tenɪt] n.  教义, 原则, 宗旨
 ]]></trans>
     <phonetic><![CDATA[['sʌstenəns]]]></phonetic>
     <tags>GRE</tags>
@@ -40637,12 +40699,14 @@ adj. 持续的；持久的；持久不变的
 </item><item>    <word>suture</word>
     <trans><![CDATA[n. 缝合；缝合处；缝合用的线 
 vt. 缝合 
+sew  [səʊ] v.  缝合; 缝入; 缝上; 缝制; 缝, 做针线活
 ]]></trans>
     <phonetic><![CDATA[['su:tʃə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>svelte</word>
     <trans><![CDATA[adj. 苗条的；线条清晰的；和蔼的 
+        no
 ]]></trans>
     <phonetic><![CDATA[[svelt, sfelt]]]></phonetic>
     <tags>GRE</tags>
@@ -40652,22 +40716,18 @@ vt. 缝合
 vi. 大摇大摆；吹牛；虚张声势吓人 
 vt. 吓唬；趾高气扬地行走或行事 
 adj. 炫耀的；时髦的 
+swag  [swæg] n.  摇晃, 赃物, 水潭
+swing  [swɪŋ] n.  摆动, 摇动; 振动; 挥动; 振幅
 ]]></trans>
     <phonetic><![CDATA[['swæɡə]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
-</item><item>    <word>swallow</word>
-    <trans><![CDATA[n. 燕子；一次吞咽的量 
-vt. 忍受；吞没 
-vi. 吞下；咽下 
-]]></trans>
-    <phonetic><![CDATA[['swɔləu]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>swamp</word>
     <trans><![CDATA[vt. 使陷于沼泽；使沉没；使陷入困境 
 n. 沼泽；湿地 
 vi. 下沉；陷入沼泽；陷入困境；不知所措（过去式swamped，过去分词swamped，现在分词swamping，第三人称单数swamps，名词swampiness，形容词swampy） 
+  wolf 狼
+ swallow 吞咽
 ]]></trans>
     <phonetic><![CDATA[[swɔmp, swɔ:mp]]]></phonetic>
     <tags>GRE</tags>
@@ -40676,6 +40736,8 @@ vi. 下沉；陷入沼泽；陷入困境；不知所措（过去式swamped，过
     <trans><![CDATA[n. 影响；摇摆；统治 
 vt. 影响；统治；使摇动 
 vi. 影响；摇摆 
+swing 秋千 摇摆
+swag 摇摆
 ]]></trans>
     <phonetic><![CDATA[[swei]]]></phonetic>
     <tags>GRE</tags>
@@ -40685,12 +40747,13 @@ vi. 影响；摇摆
 vt. 使膨胀；使隆起 
 adj. 漂亮的；一流的 
 vi. 膨胀；肿胀；隆起 
+no
 ]]></trans>
     <phonetic><![CDATA[[swel]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
-</item><item>    <word>sweltering</word>
-    <trans><![CDATA[adj. 闷热的；热得难受的 
+</item><item>    <word>swelter</word>
+    <trans><![CDATA[v.  闷热, 汗流夹背, 被暑气所苦; 使闷热, 使中暑
 ]]></trans>
     <phonetic><![CDATA[['sweltəriŋ]]]></phonetic>
     <tags>GRE</tags>
@@ -40699,6 +40762,7 @@ vi. 膨胀；肿胀；隆起
     <trans><![CDATA[vt. 使转弯；使突然转向；使背离 
 vi. 转弯；突然转向；背离 
 n. 转向；偏离的程度 
+no
 ]]></trans>
     <phonetic><![CDATA[[swə:v]]]></phonetic>
     <tags>GRE</tags>
@@ -40707,6 +40771,9 @@ n. 转向；偏离的程度
     <trans><![CDATA[n. 褐雨燕 
 adj. 快的；迅速的；敏捷的；立刻的 
 adv. 迅速地 
+ vovol
+swivel  [swiv·el || 'swɪvl] n.  转环, 旋转椅的台座, 旋转轴承
+
 ]]></trans>
     <phonetic><![CDATA[[swift]]]></phonetic>
     <tags>GRE</tags>
@@ -40715,6 +40782,7 @@ adv. 迅速地
     <trans><![CDATA[n. 泔水；冲洗；痛饮；涮 
 vt. 冲洗；痛饮；涮；倒出 
 vi. 大口地喝；发激荡声 
+ swallow
 ]]></trans>
     <phonetic><![CDATA[[swil]]]></phonetic>
     <tags>GRE</tags>
@@ -40723,12 +40791,14 @@ vi. 大口地喝；发激荡声
     <trans><![CDATA[n. 欺诈；骗局 
 vt. 诈骗；骗取 
 vi. 诈骗 
+s + wind + le  一阵大风，妖精来了，设了骗局
 ]]></trans>
     <phonetic><![CDATA[['swindl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>swine</word>
     <trans><![CDATA[n. 猪；卑贱的人 
+        swallow 燕猪
 ]]></trans>
     <phonetic><![CDATA[[swain]]]></phonetic>
     <tags>GRE</tags>
@@ -40746,18 +40816,21 @@ vi. 摇摆；转向；悬挂；大摇大摆地行走
     <trans><![CDATA[n. 漩涡；打旋；涡状形 
 vi. 盘绕；打旋；眩晕；大口喝酒 
 vt. 使成漩涡 
+swing
 ]]></trans>
     <phonetic><![CDATA[[swə:l]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>sybarite</word>
     <trans><![CDATA[n. 爱奢侈享乐的人 
+        no
 ]]></trans>
     <phonetic><![CDATA[['sibərait]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>sybaritic</word>
     <trans><![CDATA[adj. 奢侈逸乐的；柔弱的 
+        no
 ]]></trans>
     <phonetic><![CDATA[[,sibə'ritik]]]></phonetic>
     <tags>GRE</tags>
@@ -40765,66 +40838,74 @@ vt. 使成漩涡
 </item><item>    <word>sycophant</word>
     <trans><![CDATA[n. 谄媚者；奉承者 
 adj. 奉承的；拍马的 
+no
 ]]></trans>
     <phonetic><![CDATA[['sikəfənt, -fænt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>syllabus</word>
     <trans><![CDATA[n. 教学大纲，摘要；课程表 
+        no
 ]]></trans>
     <phonetic><![CDATA[['siləbəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>symbiosis</word>
     <trans><![CDATA[n. [生态] 共生；合作关系；共栖 
+        from syn- "together" (see syn-) + bios "life" (see bio-).
 ]]></trans>
     <phonetic><![CDATA[[,simbi'əusis, -bai-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>symmetry</word>
     <trans><![CDATA[n. 对称（性）；整齐，匀称 
+        from syn- "together" (see syn-) + metron "meter" (see meter (n.2)).
 ]]></trans>
     <phonetic><![CDATA[['simitri]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>symphony</word>
     <trans><![CDATA[n. 交响乐；谐声，和声 
+        from syn- "together" (see syn-) + phone "voice, sound" (see fame (n.)). 
 ]]></trans>
     <phonetic><![CDATA[['simfəni]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
-</item><item>    <word>synchronous</word>
-    <trans><![CDATA[adj. 同步的；同时的 
-]]></trans>
-    <phonetic><![CDATA[['siŋkrənəs]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
 </item><item>    <word>syndrome</word>
     <trans><![CDATA[n. [临床] 综合征；综合症状；并发症状；校验子；并发位 
+         from syn- "with" (see syn-) + dromos "running, course" (see dromedary).
+         dromedary  [drom·e·dar·y || 'drɒmədərɪ] n.  单峰骆驼
 ]]></trans>
     <phonetic><![CDATA[['sindrəum, -drəm-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>synergic</word>
     <trans><![CDATA[adj. 合作的，协作的 
+          energy 能量
+           ert-
+         alert 警觉的
+           erg-词根：动
 ]]></trans>
     <phonetic><![CDATA[[si'nə:dʒik]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>synopsis</word>
     <trans><![CDATA[n. 概要，大纲 
+         no
 ]]></trans>
     <phonetic><![CDATA[[si'nɔpsis]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>synoptic</word>
     <trans><![CDATA[adj. 天气的；概要的；对观福音书的 
+        synopsis n. 概要，大纲 
 ]]></trans>
     <phonetic><![CDATA[[si'nɔptik]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>synthesis</word>
     <trans><![CDATA[n. 综合，[化学] 合成；综合体 
+         from syn- "together" (see syn-) + tithenai "put, place," from PIE root *dhe- "to put, to do" (see factitious).
 ]]></trans>
     <phonetic><![CDATA[['sinθisis]]]></phonetic>
     <tags>GRE</tags>
@@ -40832,16 +40913,9 @@ adj. 奉承的；拍马的
 </item><item>    <word>syringe</word>
     <trans><![CDATA[n. 注射器；洗涤器 
 vt. 注射，冲洗 
+no
 ]]></trans>
     <phonetic><![CDATA[['sirindʒ, sə'rindʒ]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
-</item><item>    <word>table</word>
-    <trans><![CDATA[n. 桌子；表格；平地层 
-vt. 制表；搁置；嵌合 
-adj. 桌子的 
-]]></trans>
-    <phonetic><![CDATA[['teibl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>taboo</word>
