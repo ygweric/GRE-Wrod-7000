@@ -41767,18 +41767,24 @@ stiff 僵尸，死尸（死的夫）；僵硬的
     <trans><![CDATA[n. 倾斜 
 vt. 使倾斜；使翘起 
 vi. 倾斜；翘起；以言词或文字抨击 
+stalk 树桩
+stilt 高跷, 支柱, 脚柱
 ]]></trans>
     <phonetic><![CDATA[[tilt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>timber</word>
     <trans><![CDATA[n. 木材；木料 
+        timbre n. 木材；木料 
+        timbre n. [声] 音色；音质；音品 
 ]]></trans>
     <phonetic><![CDATA[['timbə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>timbre</word>
     <trans><![CDATA[n. [声] 音色；音质；音品 
+        timbre n. 木材；木料 
+        timbre n. [声] 音色；音质；音品 
 ]]></trans>
     <phonetic><![CDATA[['timbə, 'tæm-, 'tæŋbrə]]]></phonetic>
     <tags>GRE</tags>
@@ -41792,24 +41798,29 @@ adv. 及时地；早
     <progress>0</progress>
 </item><item>    <word>timid</word>
     <trans><![CDATA[adj. 胆小的；羞怯的 
+        tame 驯服，掌控
+        '拟声词'
 ]]></trans>
     <phonetic><![CDATA[['timid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>timidity</word>
     <trans><![CDATA[n. 胆怯，胆小；羞怯 
+        timid  adj. 胆小的；羞怯的 
 ]]></trans>
     <phonetic><![CDATA[[/ti'midəti/]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>timorous</word>
     <trans><![CDATA[adj. 胆怯的；胆小的；羞怯的 
+        timid  adj. 胆小的；羞怯的 
 ]]></trans>
     <phonetic><![CDATA[['timərəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tinder</word>
     <trans><![CDATA[n. 火绒；易燃物 
+        no
 ]]></trans>
     <phonetic><![CDATA[['tində]]]></phonetic>
     <tags>GRE</tags>
@@ -41817,6 +41828,8 @@ adv. 及时地；早
 </item><item>    <word>tined</word>
     <trans><![CDATA[adj. 尖端的；有齿的 
 v. 失去；浪费（tine的过去分词） 
+tin 罐
+tiny  很少的, 微小的
 ]]></trans>
     <phonetic><![CDATA[[taind]]]></phonetic>
     <tags>GRE</tags>
@@ -41825,6 +41838,8 @@ v. 失去；浪费（tine的过去分词）
     <trans><![CDATA[n. 补锅匠；修补匠；焊锅；（美）小鲭鱼 
 vi. 做焊锅匠；焊补；笨手笨脚地做事 
 vt. 修补；粗修 
+tin 罐
+tiny  很少的, 微小的
 ]]></trans>
     <phonetic><![CDATA[['tiŋkə]]]></phonetic>
     <tags>GRE</tags>
@@ -41832,12 +41847,16 @@ vt. 修补；粗修
 </item><item>    <word>tint</word>
     <trans><![CDATA[n. 色彩；浅色 
 vt. 染（发）；给…着色 
+picture 图画，绘画
+tincture  颜料
+tinct 颜色, 染色, 色调, 色彩
 ]]></trans>
     <phonetic><![CDATA[[tint]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tirade</word>
     <trans><![CDATA[n. 激烈的长篇演说 
+        no
 ]]></trans>
     <phonetic><![CDATA[[tai'reid, 'taireid, ti'r-]]]></phonetic>
     <tags>GRE</tags>
@@ -41846,6 +41865,8 @@ vt. 染（发）；给…着色
     <trans><![CDATA[n. 轮胎；头饰 
 vt. 使…疲倦；使…厌烦 
 vi. 疲劳；厌倦 
+tired  ['taɪə(r)d] adj.  疲累的, 厌倦的, 疲乏的
+
 ]]></trans>
     <phonetic><![CDATA[['taiə]]]></phonetic>
     <tags>GRE</tags>
@@ -41853,12 +41874,18 @@ vi. 疲劳；厌倦
 </item><item>    <word>tissue</word>
     <trans><![CDATA[n. 纸巾；薄纱；一套 
 vt. 饰以薄纱；用化妆纸揩去 
+text-课文
+text-词根：编织
+tis-s-ue 
 ]]></trans>
     <phonetic><![CDATA[['tiʃju:, -sju:]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>titanic</word>
     <trans><![CDATA[adj. 巨大的；四价钛的 
+        gigantic 巨人般的, 巨大的
+        Titan    [Ti·tan || 'taɪtən] n.  提坦, 巨人, 太阳神
+        泰坦：一个巨人家族的一位成员，这个家族是乌拉诺斯和盖亚的子女，他们试图统治天国，但被宙斯家族推翻并取代
 ]]></trans>
     <phonetic><![CDATA[[tai'tænik, ti-]]]></phonetic>
     <tags>GRE</tags>
@@ -41866,6 +41893,7 @@ vt. 饰以薄纱；用化妆纸揩去
 </item><item>    <word>titular</word>
     <trans><![CDATA[n. 有称号或头衔的人；只有名义的人 
 adj. 有名无实的；有头衔的；标题的 
+title 头衔, 名称
 ]]></trans>
     <phonetic><![CDATA[['titjulə, -tʃu-]]]></phonetic>
     <tags>GRE</tags>
@@ -41874,6 +41902,8 @@ adj. 有名无实的；有头衔的；标题的
     <trans><![CDATA[n. 谄媚者 
 vt. 谄媚 
 vi. 谄媚 
+toe  脚趾   lung 肺
+toad ]蟾蜍, 癞蛤蟆, 讨厌的家伙
 ]]></trans>
     <phonetic><![CDATA[['təudi]]]></phonetic>
     <tags>GRE</tags>
@@ -41882,12 +41912,14 @@ vi. 谄媚
     <trans><![CDATA[n. 辛苦；苦工；网；圈套 
 vt. 费力地做；使…过度劳累 
 vi. 辛苦工作；艰难地行进 
+no
 ]]></trans>
     <phonetic><![CDATA[[tɔil]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tolerance</word>
     <trans><![CDATA[n. 公差；宽容；容忍；公差 
+        no
 ]]></trans>
     <phonetic><![CDATA[['tɔlərəns]]]></phonetic>
     <tags>GRE</tags>
@@ -41896,12 +41928,14 @@ vi. 辛苦工作；艰难地行进
     <trans><![CDATA[n. 通行费；代价；钟声 
 vt. 征收；敲钟 
 vi. 鸣钟；征税 
+no
 ]]></trans>
     <phonetic><![CDATA[[təul, tɔl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tombstone</word>
     <trans><![CDATA[n. 墓碑；墓石 
+        tomb  [tuːm] n.  墓; 坟地; 墓碑; 葬身之地
 ]]></trans>
     <phonetic><![CDATA[['tu:mstəun]]]></phonetic>
     <tags>GRE</tags>
@@ -41909,6 +41943,8 @@ vi. 鸣钟；征税
 </item><item>    <word>tongs</word>
     <trans><![CDATA[n. [机] 夹具；钳子（tong的复数） 
 v. 用钳夹取（tong的三单形式） 
+tong  n.  帮会; 堂
+'拟声词'
 ]]></trans>
     <phonetic><![CDATA[[tɔŋz]]]></phonetic>
     <tags>GRE</tags>
@@ -41916,12 +41952,16 @@ v. 用钳夹取（tong的三单形式）
 </item><item>    <word>tonic</word>
     <trans><![CDATA[n. 补药；主调音或基音 
 adj. 滋补的；声调的；使精神振作的 
+ tone + -ic
 ]]></trans>
     <phonetic><![CDATA[['tɔnik]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tonsorial</word>
     <trans><![CDATA[adj. 理发的；理发师的 
+        tonsure  [ton·sure || 'tɑnʃə(r) /'tɒn-] n.  剃发, 削发; 头顶剃光部分; 削发仪式
+        from root *tem- "to cut" (see tome)
+        tome  [təʊm] n.  册, 大型书本, 卷
 ]]></trans>
     <phonetic><![CDATA[[tɔn'sɔ:riəl]]]></phonetic>
     <tags>GRE</tags>
@@ -41929,6 +41969,7 @@ adj. 滋补的；声调的；使精神振作的
 </item><item>    <word>topple</word>
     <trans><![CDATA[vt. 推翻；颠覆；使倒塌 
 vi. 倾倒；倒塌；摇摇欲坠 
+top
 ]]></trans>
     <phonetic><![CDATA[['tɔpl]]]></phonetic>
     <tags>GRE</tags>
@@ -41936,6 +41977,7 @@ vi. 倾倒；倒塌；摇摇欲坠
 </item><item>    <word>torment</word>
     <trans><![CDATA[n. 痛苦，苦恼；痛苦的根源 
 vt. 折磨，使痛苦；纠缠，作弄 
+no
 ]]></trans>
     <phonetic><![CDATA[[tɔ:'ment, 'tɔ:m-]]]></phonetic>
     <tags>GRE</tags>
@@ -41948,30 +41990,37 @@ vt. 折磨，使痛苦；纠缠，作弄
     <progress>0</progress>
 </item><item>    <word>torpid</word>
     <trans><![CDATA[adj. 迟钝的，迟缓的；不活泼的；麻痹的；[生物] 蛰伏的 
+        torpor  n.  迟钝, 不活泼, 无感觉
 ]]></trans>
     <phonetic><![CDATA[['tɔ:pid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>torpor</word>
     <trans><![CDATA[n. 不活泼；麻木；懒散，迟缓 
+        no
 ]]></trans>
     <phonetic><![CDATA[['tɔ:pə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>torque</word>
     <trans><![CDATA[n. 转矩，[力] 扭矩；项圈，金属领圈 
+        no
 ]]></trans>
     <phonetic><![CDATA[[tɔ:k]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>torrent</word>
     <trans><![CDATA[n. 奔流；倾注；迸发；连续不断 
+        "to parch" (see terrain)
+        terrain  [ter·rain || tə'reɪn] n.  地带, 地形, 地域
 ]]></trans>
     <phonetic><![CDATA[['tɔrənt, 'tɔ:-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tortuous</word>
     <trans><![CDATA[adj. 扭曲的，弯曲的；啰嗦的 
+        torn-词根：转（tort-词根：转）
+        turn 转
 ]]></trans>
     <phonetic><![CDATA[['tɔ:tjuəs, -tʃu-]]]></phonetic>
     <tags>GRE</tags>
@@ -41980,6 +42029,7 @@ vt. 折磨，使痛苦；纠缠，作弄
     <trans><![CDATA[n. 投掷；摇荡；投掷的距离；掷币赌胜负 
 vt. 投掷；使…不安；突然抬起；使…上下摇动；与…掷币打赌 
 vi. 辗转；被乱扔；颠簸；掷钱币决定某事 
+'拟声词',骰子
 ]]></trans>
     <phonetic><![CDATA[[tɔs, tɔ:s]]]></phonetic>
     <tags>GRE</tags>
@@ -41987,12 +42037,14 @@ vi. 辗转；被乱扔；颠簸；掷钱币决定某事
 </item><item>    <word>totalitarian</word>
     <trans><![CDATA[n. 极权主义者 
 adj. 极权主义的 
+total 
 ]]></trans>
     <phonetic><![CDATA[[,təutæli'tεəriən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>totem</word>
     <trans><![CDATA[n. 图腾；崇拜物 
+        '拟声词'
 ]]></trans>
     <phonetic><![CDATA[['təutəm]]]></phonetic>
     <tags>GRE</tags>
@@ -42000,30 +42052,36 @@ adj. 极权主义的
 </item><item>    <word>totter</word>
     <trans><![CDATA[n. 蹒跚的步子 
 vi. 蹒跚；踉跄 
+no
 ]]></trans>
     <phonetic><![CDATA[['tɔtə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>touchy</word>
     <trans><![CDATA[adj. 过敏的；易生气的；难以取悦的 
+        touch
 ]]></trans>
     <phonetic><![CDATA[['tʌtʃi]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>toupee</word>
     <trans><![CDATA[n. 假发；男子假发 
+        (as) tou + pee 读音 '头皮'
 ]]></trans>
     <phonetic><![CDATA[['tu:pei, tu:'pei]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tournament</word>
     <trans><![CDATA[n. 锦标赛，联赛；比赛 
+        tourney  [tour·ney || 'tʊrnəmənt ,'tɜr- /'tʊə- ,'tɔː-] n.  马上比武竞赛
+        turn
 ]]></trans>
     <phonetic><![CDATA[['tuənəmənt, 'tɔ:-, 'tə:-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tourniquet</word>
     <trans><![CDATA[n. [外科] 止血带；压脉器；压血带 
+        no
 ]]></trans>
     <phonetic><![CDATA[['tuənikei, -kit, -ket, 'tə:-]]]></phonetic>
     <tags>GRE</tags>
@@ -42032,18 +42090,23 @@ vi. 蹒跚；踉跄
     <trans><![CDATA[n. 侦查者；兜售者 
 vt. 兜售；招徕；刺探赛马情报 
 vi. 兜售；招徕顾客；拉选票 
+no
 ]]></trans>
     <phonetic><![CDATA[[taut]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>toxic</word>
     <trans><![CDATA[adj. 有毒的；中毒的 
+        terra土地  earth 泥土 地球
+        nox-词根：毒、害
+        night 
 ]]></trans>
     <phonetic><![CDATA[['tɔksik]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>toxin</word>
     <trans><![CDATA[n. 毒素；毒质 
+        toxic adj. 有毒的；中毒的 
 ]]></trans>
     <phonetic><![CDATA[['tɔksin]]]></phonetic>
     <tags>GRE</tags>
@@ -42058,6 +42121,7 @@ vi. 玩弄；调情；随随便便地对待
     <progress>0</progress>
 </item><item>    <word>traceable</word>
     <trans><![CDATA[adj. 起源于；可追踪的；可描绘的 
+        trace
 ]]></trans>
     <phonetic><![CDATA[['treisəbl]]]></phonetic>
     <tags>GRE</tags>
@@ -42071,43 +42135,54 @@ vi. 追踪；走；留下足迹
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tract</word>
-    <trans><![CDATA[n. 束；大片土地，地带；小册子 
+    <trans><![CDATA[n.  道#广阔的地面; 地方; 土地#短文; 小册子; 传单
 ]]></trans>
     <phonetic><![CDATA[[trækt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tractability</word>
     <trans><![CDATA[n. 温顺；驯良；易处理 
+        tract n.  道#广阔的地面; 地方; 土地#短文; 小册子; 传单
+        (as)马训练后就可以按照tract行走了
 ]]></trans>
     <phonetic><![CDATA[[,træktə'biləti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tractable</word>
     <trans><![CDATA[adj. 易于管教的；易驾驭的；易处理的；驯良的 
+         tract n.  道#广阔的地面; 地方; 土地#短文; 小册子; 传单
+        (as)马训练后就可以按照tract行走了
 ]]></trans>
     <phonetic><![CDATA[['træktəbl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tragedy</word>
     <trans><![CDATA[n. 悲剧；灾难；惨案 
+        comedy 喜剧
 ]]></trans>
     <phonetic><![CDATA[['trædʒidi]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>trait</word>
     <trans><![CDATA[n. 特性，特点；品质；少许 
+        portrait n.肖像
+           trait n.特征
 ]]></trans>
     <phonetic><![CDATA[[trei, treit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>traitor</word>
     <trans><![CDATA[n. 叛徒；卖国贼；背信弃义的人 
+         father 
+         pater
+         patriot 爱国者
 ]]></trans>
     <phonetic><![CDATA[['treitə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>trajectory</word>
     <trans><![CDATA[n. [物] 轨道，轨线；[航][军] 弹道 
+         trans- + jet + ory
 ]]></trans>
     <phonetic><![CDATA[['trædʒiktəri, trə'dʒek-]]]></phonetic>
     <tags>GRE</tags>
@@ -42116,6 +42191,7 @@ vi. 追踪；走；留下足迹
     <trans><![CDATA[n. 蹂躏；践踏声 
 vi. 践踏；蔑视，伤害；脚步沉重地走 
 vt. 践踏；蔑视，伤害 
+踹破
 ]]></trans>
     <phonetic><![CDATA[['træmpl]]]></phonetic>
     <tags>GRE</tags>
@@ -42123,24 +42199,28 @@ vt. 践踏；蔑视，伤害
 </item><item>    <word>trance</word>
     <trans><![CDATA[n. 恍惚；出神；着迷，入迷 
 vt. 使恍惚；使发呆 
+from Latin transire "cross over" (see transient)
 ]]></trans>
     <phonetic><![CDATA[[trɑ:ns, træns]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>tranquility</word>
     <trans><![CDATA[n. 宁静；平静 
+     from trans- "over" +  + a root related to quies "rest" (see quiet (n.)).
 ]]></trans>
     <phonetic><![CDATA[[træŋ'kwiləti, træn-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>transaction</word>
     <trans><![CDATA[n. 交易；事务；办理；会报，学报 
+        from trans- "through" + agere "to drive" (see act). 
 ]]></trans>
     <phonetic><![CDATA[[træn'zækʃən, -'sæk-, trɑ:n-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>transcend</word>
     <trans><![CDATA[vt. 胜过，超越 
+        from trans- "beyond" (see trans-) + scandere "to climb" (see scan (v.)).
 ]]></trans>
     <phonetic><![CDATA[[træn'send, trɑ:n-]]]></phonetic>
     <tags>GRE</tags>
@@ -42148,18 +42228,23 @@ vt. 使恍惚；使发呆
 </item><item>    <word>transcendent</word>
     <trans><![CDATA[n. 卓越的人；超绝物 
 adj. 卓越的；超常的；出类拔萃的 
+transcend vt. 胜过，超越 
+from trans- "beyond" (see trans-) + scandere "to climb" (see scan (v.)).
 ]]></trans>
     <phonetic><![CDATA[[træn'sendənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>transcendental</word>
     <trans><![CDATA[adj. 先验的；卓越的，[数] 超越的；超自然的 
+        transcend vt. 胜过，超越 
+        from trans- "beyond" (see trans-) + scandere "to climb" (see scan (v.)).
 ]]></trans>
     <phonetic><![CDATA[[,trænsen'dentəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>transcribe</word>
     <trans><![CDATA[vt. 转录；抄写 
+         from trans- "over" (see trans-) + scribere "write" (see script (n.)). 
 ]]></trans>
     <phonetic><![CDATA[[træn'skraib, trænz'k-, trɑ:n-]]]></phonetic>
     <tags>GRE</tags>
@@ -42168,12 +42253,14 @@ adj. 卓越的；超常的；出类拔萃的
     <trans><![CDATA[n. 转让；转移；传递；过户 
 vt. 使转移；调任 
 vi. 转让；转学；换车 
+ from trans- "across" (see trans-) + ferre "to carry" (see infer).
 ]]></trans>
     <phonetic><![CDATA[[træns'fə:]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>transfigure</word>
     <trans><![CDATA[vt. 使变形；使改观；美化；理想化 
+        trans + figure
 ]]></trans>
     <phonetic><![CDATA[[træns'fiɡə, trænz-, trɑ:n, -ɡjuə]]]></phonetic>
     <tags>GRE</tags>
@@ -42181,18 +42268,22 @@ vi. 转让；转学；换车
 </item><item>    <word>transgress</word>
     <trans><![CDATA[vt. 违反；侵犯；犯罪 
 vi. 违反；违法；越界 
+from trans- "across" (see trans-) + gradi (past participle gressus) "to walk, go" (see grade).
 ]]></trans>
     <phonetic><![CDATA[[træns'ɡres, trænz-, trɑ:n-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>transgression</word>
     <trans><![CDATA[n. [地质] 海侵；犯罪；违反；逸出 
+        from trans- "across" (see trans-) + gradi (past participle gressus) "to walk, go" (see grade).
 ]]></trans>
     <phonetic><![CDATA[[træns'ɡreʃən, trænz-, trɑ:n-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>transience</word>
     <trans><![CDATA[n. 短暂；无常；顷刻（等于transiency） 
+        transient n. 瞬变现象；过往旅客；候鸟 
+         from trans- "across" (see trans-) + ire "to go" (see ion).
 ]]></trans>
     <phonetic><![CDATA[['trænziəns, -si-, -ʃəns, 'trɑ:n-]]]></phonetic>
     <tags>GRE</tags>
@@ -42200,24 +42291,28 @@ vi. 违反；违法；越界
 </item><item>    <word>transient</word>
     <trans><![CDATA[n. 瞬变现象；过往旅客；候鸟 
 adj. 短暂的；路过的 
+ from trans- "across" (see trans-) + ire "to go" (see ion).
 ]]></trans>
     <phonetic><![CDATA[['trænziənt, -si-, -ʃənt, 'trɑ:n-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>transition</word>
     <trans><![CDATA[n. 过渡；转变；[分子生物] 转换；变调 
+         from trans- "across" (see trans-) + ire "to go" (see ion).
 ]]></trans>
     <phonetic><![CDATA[[træn'siʒən, -'ziʃən, trɑ:n-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>transitory</word>
     <trans><![CDATA[adj. 短暂的，暂时的；瞬息的 
+         from trans- "across" (see trans-) + ire "to go" (see ion).
 ]]></trans>
     <phonetic><![CDATA[['trænsitəri, -zi-, 'trɑ:n-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>translucent</word>
     <trans><![CDATA[adj. 透明的；半透明的 
+        from trans- "through" (see trans-) + lucere "to shine" (see light (n.)).
 ]]></trans>
     <phonetic><![CDATA[[trænz'lju:sənt, træns-, trɑ:n-]]]></phonetic>
     <tags>GRE</tags>
@@ -42225,6 +42320,7 @@ adj. 短暂的；路过的
 </item><item>    <word>transmit</word>
     <trans><![CDATA[vt. 传输；传播；发射；传达；遗传 
 vi. 传输；发射信号 
+from trans- "across" (see trans-) + mittere "to send" (see mission)
 ]]></trans>
     <phonetic><![CDATA[[trænz'mit, træns-, trɑ:n-]]]></phonetic>
     <tags>GRE</tags>
@@ -42232,18 +42328,21 @@ vi. 传输；发射信号
 </item><item>    <word>transmute</word>
     <trans><![CDATA[vt. 使变形；使变质 
 vi. 变形；变质 
+ from trans- (see trans-) + mutable). 
 ]]></trans>
     <phonetic><![CDATA[[trænz'mju:t, træns-, tra:n-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>transparent</word>
     <trans><![CDATA[adj. 透明的；显然的；坦率的；易懂的 
+        from Latin trans- "through" (see trans-) + parere "come in sight, appear" (see appear). 
 ]]></trans>
     <phonetic><![CDATA[[træns'pærənt, -'pεə-, trænz-, trɑ:n-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>transplantation</word>
     <trans><![CDATA[n. 移植；迁移；移民 
+        trans + plant  
 ]]></trans>
     <phonetic><![CDATA[]]></phonetic>
     <tags>GRE</tags>
@@ -42251,6 +42350,7 @@ vi. 变形；变质
 </item><item>    <word>transport</word>
     <trans><![CDATA[n. 运输；运输机；狂喜；流放犯 
 vt. 运输；流放；使狂喜 
+trans + port
 ]]></trans>
     <phonetic><![CDATA[[træns'pɔ:t; trænz-træns'pɔ:t, trænz-, trɑ:n-, 'trænspɔ:t, 'træ]]></phonetic>
     <tags>GRE</tags>
@@ -42258,13 +42358,15 @@ vt. 运输；流放；使狂喜
 </item><item>    <word>transpose</word>
     <trans><![CDATA[n. 转置阵 
 vt. 调换；移项；颠倒顺序 
-vi. 进行变换 
+vi. 进行变换
+trans + pose 
 ]]></trans>
     <phonetic><![CDATA[[træns'pəuz, trænz-, trɑ:n-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>trapeze</word>
     <trans><![CDATA[n. 秋千；吊架 
+literally "a little table," from tra- "four" (see four) + peza "foot, edge," related to pous (see foot (n.)).
 ]]></trans>
     <phonetic><![CDATA[[trə'pi:z, træ-]]]></phonetic>
     <tags>GRE</tags>
@@ -42274,6 +42376,8 @@ vi. 进行变换
 vt. 穿过；反对；详细研究；在…来回移动 
 vi. 横越；旋转；来回移动 
 adj. 横贯的 
+transverse
+from trans- "across" (see trans-) + vertere "to turn" (see versus).
 ]]></trans>
     <phonetic><![CDATA[['trævəs, -və:s, trə'və:s, træ-]]]></phonetic>
     <tags>GRE</tags>
@@ -42281,18 +42385,21 @@ adj. 横贯的
 </item><item>    <word>travesty</word>
     <trans><![CDATA[n. 歪曲；滑稽作品；拙劣的模仿作品 
 vt. 歪曲；滑稽地模仿 
+ trans- "over" (see trans-) + vestire "to clothe" (see wear (v.)).
 ]]></trans>
     <phonetic><![CDATA[['trævisti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>treacherous</word>
     <trans><![CDATA[adj. 奸诈的，叛逆的，背叛的；危险的；不牢靠的 
+         trechier "to cheat, trick" (see trick). 
 ]]></trans>
     <phonetic><![CDATA[['tretʃərəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>treason</word>
     <trans><![CDATA[n. [法] 叛国罪；不忠 
+        tradition  [tra·di·tion || trə'dɪʃn] n.  传统, 惯例
 ]]></trans>
     <phonetic><![CDATA[['tri:zən]]]></phonetic>
     <tags>GRE</tags>
