@@ -44844,6 +44844,7 @@ wade  [weɪd] n.  跋涉, 浅滩
 </item><item>    <word>waffle</word>
     <trans><![CDATA[n. 华夫饼干；动听而无意义的话；无聊话 
 vi. 胡扯；闲聊 
+华夫饼：用蛋奶烘烤的轻而脆的蛋奶饼
 ]]></trans>
     <phonetic><![CDATA[['wɔfəl]]]></phonetic>
     <tags>GRE</tags>
@@ -44852,6 +44853,7 @@ vi. 胡扯；闲聊
     <trans><![CDATA[n. 飘荡；吹拂 
 vt. 使飘荡；吹送 
 vi. 飘荡 
+ related to waken "rouse from sleep" (see wake (n.1)).
 ]]></trans>
     <phonetic><![CDATA[[wɑ:ft, wɔft, wæft]]]></phonetic>
     <tags>GRE</tags>
@@ -44868,18 +44870,22 @@ vt. 摇摆；摇动；饶舌
     <trans><![CDATA[n. 工资；代价；报偿 
 vt. 进行；开展 
 vi. 进行；发动；从事 
+from Frankish *wadja- (cf. Old English wedd, Gothic wadi "pledge"); see wed.
 ]]></trans>
     <phonetic><![CDATA[[weidʒ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>waggish</word>
     <trans><![CDATA[adj. 爱开玩笑的；滑稽的 
+        from wag (n.) + -ish.
+        wag n. 摇摆；爱说笑打趣的人 
 ]]></trans>
     <phonetic><![CDATA[['wæɡiʃ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>walrus</word>
     <trans><![CDATA[n. 海象 
+        no
 ]]></trans>
     <phonetic><![CDATA[['wɔ:lrəs, 'wɔl-]]]></phonetic>
     <tags>GRE</tags>
@@ -44888,12 +44894,16 @@ vi. 进行；发动；从事
     <trans><![CDATA[adj. 无血色的，苍白的；病态的；暗淡的 
 vt. 使变苍白；使呈病态 
 vi. 变苍白 
+wane  [weɪn] n.  衰微, 变弱, 亏缺
+from root *eue- "to leave, abandon, give out" (see vain).
 ]]></trans>
     <phonetic><![CDATA[[wɔn]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>wanderlust</word>
     <trans><![CDATA[n. 流浪癖；漫游癖；旅游热 
+         (see wander + lust).
+         lust  [lʌst] n.  贪欲, 色欲, 欲望
 ]]></trans>
     <phonetic><![CDATA[['wɔndəlʌst]]]></phonetic>
     <tags>GRE</tags>
@@ -44901,20 +44911,17 @@ vi. 变苍白
 </item><item>    <word>wane</word>
     <trans><![CDATA[n. 衰退；月亏；衰退期；缺损 
 vi. 衰落；变小；亏缺；退潮；消逝 
+from root *eue- "to leave, abandon, give out" (see vain).
 ]]></trans>
     <phonetic><![CDATA[[wein]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
-</item><item>    <word>want</word>
-    <trans><![CDATA[n. 需要；缺乏；贫困；必需品 
-vt. 需要；希望；应该；缺少 
-vi. 需要；缺少 
-]]></trans>
-    <phonetic><![CDATA[[wɔnt, wɔ:nt]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
 </item><item>    <word>wardrobe</word>
     <trans><![CDATA[n. 衣柜；行头；全部戏装 
+        from warder "to keep, guard" (see ward (v.)) + robe "garment" (see robe).
+        ward  [wɔrd /wɔːd] n.  守卫, 保护, 保卫
+        robe  [rəʊb] n.  长袍, 罩袍; 礼服; 浴衣, 睡袍; 学士服
+        rob  [rɑb /rɒb] v.  抢劫, 盗取, 劫掠; 非法剥夺, 使丧失; 抢劫
 ]]></trans>
     <phonetic><![CDATA[['wɔ:drəub]]]></phonetic>
     <tags>GRE</tags>
@@ -44922,12 +44929,15 @@ vi. 需要；缺少
 </item><item>    <word>warehouse</word>
     <trans><![CDATA[n. 仓库；货栈；大商店 
 vt. 储入仓库；以他人名义购进（股票） 
+ware + house
 ]]></trans>
     <phonetic><![CDATA[['wεəhaus, 'wεəhauz, -haus]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>warmonger</word>
     <trans><![CDATA[n. 好战者；战争贩子；主战论者 
+        from war (n.) + monger (n.).
+        warmonger  [war·mon·ger || 'wɔrmɑŋgə(r) /'wɔːmʌ-] n.  好战者, 主战论者
 ]]></trans>
     <phonetic><![CDATA[['wɔ:,mʌŋɡə, -,mɔŋ-]]]></phonetic>
     <tags>GRE</tags>
@@ -44936,6 +44946,7 @@ vt. 储入仓库；以他人名义购进（股票）
     <trans><![CDATA[n. 弯曲，歪曲；偏见；乖戾 
 vt. 使变形；使有偏见；曲解 
 vi. 变歪，变弯；曲解 
+from root *wer- (3) "to turn, bend" (see versus).
 ]]></trans>
     <phonetic><![CDATA[[wɔ:p]]]></phonetic>
     <tags>GRE</tags>
@@ -44943,6 +44954,7 @@ vi. 变歪，变弯；曲解
 </item><item>    <word>warrant</word>
     <trans><![CDATA[n. 根据；证明；正当理由；委任状 
 vt. 保证；担保；批准；辩解 
+guard  守卫, 警戒, 护卫队
 ]]></trans>
     <phonetic><![CDATA[['wɔrənt, 'wɔ:-]]]></phonetic>
     <tags>GRE</tags>
@@ -44950,33 +44962,30 @@ vt. 保证；担保；批准；辩解
 </item><item>    <word>warranted</word>
     <trans><![CDATA[v. 批准（warrant的过去分词）；授权 
 adj. 保证的；担保的 
+warrant  n. 根据；证明；正当理由；委任状 
 ]]></trans>
     <phonetic><![CDATA[['wɔrəntid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>warranty</word>
     <trans><![CDATA[n. 保证；担保；授权；（正当）理由 
+        warrant  n. 根据；证明；正当理由；委任状 
 ]]></trans>
     <phonetic><![CDATA[['wɔrənti, 'wɔ:-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>wary</word>
     <trans><![CDATA[adj. 谨慎的；机警的；惟恐的；考虑周到的 
+         wake  唤醒
+        awake  醒着的（生理上）
+        aware  意识到的（心理上的）
 ]]></trans>
     <phonetic><![CDATA[['wεəri]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
-</item><item>    <word>waste</word>
-    <trans><![CDATA[n. 浪费；废物；荒地；损耗；地面风化物 
-adj. 废弃的；多余的；荒芜的 
-vt. 浪费；消耗；使荒芜 
-vi. 浪费；变消瘦；挥霍钱财 
-]]></trans>
-    <phonetic><![CDATA[[weist]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
 </item><item>    <word>wastrel</word>
     <trans><![CDATA[n. 废品；浪费者 
+        waste
 ]]></trans>
     <phonetic><![CDATA[['weistrəl]]]></phonetic>
     <tags>GRE</tags>
@@ -44984,6 +44993,9 @@ vi. 浪费；变消瘦；挥霍钱财
 </item><item>    <word>watershed</word>
     <trans><![CDATA[n. （美）流域；分水岭；集水区；转折点 
 adj. 标志转折点的 
+water + shed
+shed  [ʃed] n.  分水岭; 梭口, 梭道#棚, 小屋; 库房; 堆房; 车库
+shade  [ʃeɪd] n.  荫, 荫凉处, 阴暗; 遮光物
 ]]></trans>
     <phonetic><![CDATA[['wɔ:təʃed, 'wɔ-]]]></phonetic>
     <tags>GRE</tags>
@@ -45007,12 +45019,15 @@ vi. 月亮渐满；增大
 </item><item>    <word>wean</word>
     <trans><![CDATA[n. （苏格兰）幼儿 
 vt. 使断奶；使断念；使放弃 
+no
 ]]></trans>
     <phonetic><![CDATA[[wi:n]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>wearisome</word>
     <trans><![CDATA[adj. 使疲倦的；使厌倦的；乏味的 
+        from weary + -some (1).
+        weary  [wea·ry || 'wɪrɪ /'wɪər] v.  使疲倦, 使厌烦; 疲乏, 不耐烦, 生厌
 ]]></trans>
     <phonetic><![CDATA[['wiərisəm]]]></phonetic>
     <tags>GRE</tags>
@@ -45028,17 +45043,9 @@ vi. 疲倦；厌烦
 </item><item>    <word>weasel</word>
     <trans><![CDATA[n. 鼬鼠；狡猾的人 
 vi. 逃避；含糊其辞 
+no
 ]]></trans>
     <phonetic><![CDATA[['wi:zəl]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
-</item><item>    <word>weather</word>
-    <trans><![CDATA[n. 天气；气象；气候；处境 
-vt. 经受住；使风化；侵蚀；使受风吹雨打 
-adj. 露天的；迎风的 
-vi. 风化；受侵蚀；经受风雨 
-]]></trans>
-    <phonetic><![CDATA[['weðə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>weed</word>
@@ -45053,6 +45060,8 @@ vi. 除草
     <trans><![CDATA[n. 焊接；焊接点 
 vt. 焊接；使结合；使成整体 
 vi. 焊牢 
+alteration of well (v.) "to boil, rise;" 
+well  [wel] n.  井, 源泉, 泉水 v.  涌出 adj.  建康的, 适宜的, 良好的
 ]]></trans>
     <phonetic><![CDATA[[weld]]]></phonetic>
     <tags>GRE</tags>
@@ -45061,6 +45070,7 @@ vi. 焊牢
     <trans><![CDATA[n. 混乱；翻滚；起伏 
 vi. 翻滚；沉溺；起伏 
 adj. 重量级骑手的 
+volve...
 ]]></trans>
     <phonetic><![CDATA[['weltə]]]></phonetic>
     <tags>GRE</tags>
@@ -45068,6 +45078,7 @@ adj. 重量级骑手的
 </item><item>    <word>wheedle</word>
     <trans><![CDATA[vt. 以甜言蜜语诱惑；用甜言蜜语欺骗 
 vi. 用甜言蜜语哄骗 
+no
 ]]></trans>
     <phonetic><![CDATA[['hwi:dl]]]></phonetic>
     <tags>GRE</tags>
@@ -45075,6 +45086,7 @@ vi. 用甜言蜜语哄骗
 </item><item>    <word>whet</word>
     <trans><![CDATA[n. 磨；开胃物；刺激物 
 vt. 刺激；磨快；促进 
+no
 ]]></trans>
     <phonetic><![CDATA[[hwet]]]></phonetic>
     <tags>GRE</tags>
@@ -45083,24 +45095,28 @@ vt. 刺激；磨快；促进
     <trans><![CDATA[n. 一点点；单人小划艇；琴鲆属鱼；吸气或吹气 
 vt. 吸；喷出 
 vi. 喷气；垂钓；轻吹 
+no
 ]]></trans>
     <phonetic><![CDATA[[hwif]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>whim</word>
     <trans><![CDATA[n. 奇想；一时的兴致；怪念头；幻想 
+        no
 ]]></trans>
     <phonetic><![CDATA[[hwim]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>whimsical</word>
     <trans><![CDATA[adj. 古怪的；异想天开的；反复无常的 
+        whim  n. 奇想；一时的兴致；怪念头；幻想 
 ]]></trans>
     <phonetic><![CDATA[['hwimzikəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>whimsy</word>
     <trans><![CDATA[n. 怪念头；反复无常 
+        whim  n. 奇想；一时的兴致；怪念头；幻想 
 ]]></trans>
     <phonetic><![CDATA[['hwimzi]]]></phonetic>
     <tags>GRE</tags>
@@ -45109,12 +45125,15 @@ vi. 喷气；垂钓；轻吹
     <trans><![CDATA[n. 抱怨；牢骚；哀鸣 
 vt. 哀诉 
 vi. 发牢骚；哭诉；嘎嘎响；发呜呜声 
+no
 ]]></trans>
     <phonetic><![CDATA[[hwain]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>whirlpool</word>
     <trans><![CDATA[n. 漩涡，涡流；混乱，纷乱 
+         from whirl (v.) + pool (n.1). 
+         whirl  [hwɜrl /wɜːl /wɜːl] n.  回旋, 急走, 旋转
 ]]></trans>
     <phonetic><![CDATA[['hwə:lpu:l]]]></phonetic>
     <tags>GRE</tags>
@@ -45130,6 +45149,7 @@ vt. 低声说出
 </item><item>    <word>whistle</word>
     <trans><![CDATA[n. 口哨；汽笛；啸啸声 
 vt. 吹口哨；鸣汽笛（过去式whistled，过去分词whistled，现在分词whistling，第三人称单数whistles） 
+no
 ]]></trans>
     <phonetic><![CDATA[['hwisl]]]></phonetic>
     <tags>GRE</tags>
@@ -45138,12 +45158,14 @@ vt. 吹口哨；鸣汽笛（过去式whistled，过去分词whistled，现在分
     <trans><![CDATA[n. 屠刀 
 vi. 削；削木头；弄坏身体 
 vt. 削；削减；切；削弱 
+ hit  打击
 ]]></trans>
     <phonetic><![CDATA[['hwitl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>wholesome</word>
     <trans><![CDATA[adj. 健全的；有益健康的；合乎卫生的；审慎的 
+        whole + some
 ]]></trans>
     <phonetic><![CDATA[['həulsəm]]]></phonetic>
     <tags>GRE</tags>
@@ -45151,18 +45173,24 @@ vt. 削；削减；切；削弱
 </item><item>    <word>wick</word>
     <trans><![CDATA[n. 灯芯，蜡烛心 
 vt. 依靠毛细作用带走 
+wicked  [wick·ed || 'wɪkɪd] adj.  坏的, 缺德的, 邪恶的
+(as) 灯芯是邪恶的 紫霞青霞
 ]]></trans>
     <phonetic><![CDATA[[wik]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>wicked</word>
     <trans><![CDATA[adj. 邪恶的；恶劣的；不道德的；顽皮的 
+        wick 灯芯，蜡烛心 
+        (as) 灯芯是邪恶的 紫霞青霞
 ]]></trans>
     <phonetic><![CDATA[['wikid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>wield</word>
     <trans><![CDATA[vt. 使用；行使；挥舞 
+         wield v.挥
+        willow 柳树
 ]]></trans>
     <phonetic><![CDATA[[wi:ld]]]></phonetic>
     <tags>GRE</tags>
@@ -45176,12 +45204,14 @@ vt. 依靠毛细作用带走
 </item><item>    <word>willow</word>
     <trans><![CDATA[n. [林] 柳树；[木] 柳木制品 
 adj. 柳木制的 
+paralleled that of bellow and fellow(同事, 朋友). 
 ]]></trans>
     <phonetic><![CDATA[['wiləu]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>willowy</word>
     <trans><![CDATA[adj. 苗条的；柔软的 
+        willow  [林] 柳树；[木] 柳木制品 
 ]]></trans>
     <phonetic><![CDATA[['wiləui]]]></phonetic>
     <tags>GRE</tags>
@@ -45190,12 +45220,16 @@ adj. 柳木制的
     <trans><![CDATA[n. 枯萎；憔悴；衰弱 
 vi. 枯萎；畏缩；衰弱 
 vt. 使枯萎；使畏缩；使衰弱 
+mild 温和的
+wild  狂野的 
 ]]></trans>
     <phonetic><![CDATA[[wilt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>wily</word>
     <trans><![CDATA[adj. 狡猾的；诡计多端的 
+         from wile + -ly (1)
+         wile  [waɪl] n.  诡计, 欺骗, 阴谋
 ]]></trans>
     <phonetic><![CDATA[['waili]]]></phonetic>
     <tags>GRE</tags>
@@ -45203,12 +45237,15 @@ vt. 使枯萎；使畏缩；使衰弱
 </item><item>    <word>wince</word>
     <trans><![CDATA[n. 畏缩；脸部肌肉的抽搐 
 vi. 畏缩，退避 
+"to stray, hover;" see wink). 
+wink  [wɪŋk] n.  眨眼, 瞬间, 使眼色
 ]]></trans>
     <phonetic><![CDATA[[wins]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>windbag</word>
     <trans><![CDATA[n. 风囊；饶舌之人 
+        wind + bag
 ]]></trans>
     <phonetic><![CDATA[['windbæɡ]]]></phonetic>
     <tags>GRE</tags>
@@ -45216,12 +45253,14 @@ vi. 畏缩，退避
 </item><item>    <word>winding</word>
     <trans><![CDATA[n. 绕，缠；线圈；弯曲 
 adj. 弯曲的，蜿蜒的；卷绕的 
+wind  [wɪnd ,waɪnd] n.  风, 气味, 气息
 ]]></trans>
     <phonetic><![CDATA[['waindiŋ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>windy</word>
     <trans><![CDATA[adj. 多风的，有风的；腹胀的；吹牛的 
+        wind
 ]]></trans>
     <phonetic><![CDATA[['windi]]]></phonetic>
     <tags>GRE</tags>
@@ -45238,18 +45277,21 @@ vi. 眨眼；使眼色；闪烁
     <trans><![CDATA[n. 扬谷；扬谷器 
 vt. 簸；把…挑出来；精选 
 vi. 分出好坏；扬谷 
+wind 
 ]]></trans>
     <phonetic><![CDATA[['winəu]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>winsome</word>
     <trans><![CDATA[adj. 迷人的；可爱的；引人注目的 
+        see win (v.)) + -sum (see -some (1)). 
 ]]></trans>
     <phonetic><![CDATA[['winsəm]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>wistful</word>
     <trans><![CDATA[adj. 渴望的；留恋的；沉思的 
+        源自 废语 wistly [渴望地] 
 ]]></trans>
     <phonetic><![CDATA[['wistful]]]></phonetic>
     <tags>GRE</tags>
@@ -45263,6 +45305,7 @@ vi. 分出好坏；扬谷
 </item><item>    <word>withdraw</word>
     <trans><![CDATA[vt. 撤退；收回；撤消；拉开 
 vi. 撤退；离开 
+from with "away" + drawen "to draw,"
 ]]></trans>
     <phonetic><![CDATA[[wið'drɔ:, wiθ-]]]></phonetic>
     <tags>GRE</tags>
@@ -45270,6 +45313,7 @@ vi. 撤退；离开
 </item><item>    <word>wither</word>
     <trans><![CDATA[vi. 枯萎；凋谢；衰弱 
 vt. 使凋谢；使畏缩；使衰弱 
+weather
 ]]></trans>
     <phonetic><![CDATA[['wiðə]]]></phonetic>
     <tags>GRE</tags>
@@ -45277,6 +45321,7 @@ vt. 使凋谢；使畏缩；使衰弱
 </item><item>    <word>withhold</word>
     <trans><![CDATA[vt. 保留，不给；隐瞒；抑制 
 vi. 忍住；克制 
+from with- "back, away" (see with) + holden "to hold" (see hold (v.));
 ]]></trans>
     <phonetic><![CDATA[['wið'həuld, wiθ-]]]></phonetic>
     <tags>GRE</tags>
@@ -45284,6 +45329,7 @@ vi. 忍住；克制
 </item><item>    <word>withstand</word>
     <trans><![CDATA[vt. 抵挡；禁得起；反抗 
 vi. 反抗 
+from wið "against" (see with) + standan "to stand" (see stand (v.));
 ]]></trans>
     <phonetic><![CDATA[[wið'stænd, wiθ-]]]></phonetic>
     <tags>GRE</tags>
@@ -45298,6 +45344,7 @@ vi. 作证人
     <progress>0</progress>
 </item><item>    <word>witticism</word>
     <trans><![CDATA[n. 妙语；名言；俏皮话 
+        wit
 ]]></trans>
     <phonetic><![CDATA[['witisizəm]]]></phonetic>
     <tags>GRE</tags>
@@ -45305,6 +45352,7 @@ vi. 作证人
 </item><item>    <word>wizened</word>
     <trans><![CDATA[adj. 干瘪的；枯萎的；消瘦的 
 v. 枯萎（wizen的过去式和过去分词） 
+no
 ]]></trans>
     <phonetic><![CDATA[['wizənd, 'wi:-]]]></phonetic>
     <tags>GRE</tags>
@@ -45313,6 +45361,7 @@ v. 枯萎（wizen的过去式和过去分词）
     <trans><![CDATA[n. 摆动；摇晃；不稳定 
 vt. 使摇摆；使颤动；摇动 
 vi. 摇晃；摇摆；游移不定 
+from Proto-Germanic *wab- "to move back and forth" (see waver).
 ]]></trans>
     <phonetic><![CDATA[['wɔbl]]]></phonetic>
     <tags>GRE</tags>
@@ -45320,6 +45369,7 @@ vi. 摇晃；摇摆；游移不定
 </item><item>    <word>woe</word>
     <trans><![CDATA[n. 悲哀，悲痛；灾难 
 int. 唉（表示痛苦，悲伤或悔恨） 
+'拟声词'
 ]]></trans>
     <phonetic><![CDATA[[wəu]]]></phonetic>
     <tags>GRE</tags>
@@ -45327,6 +45377,7 @@ int. 唉（表示痛苦，悲伤或悔恨）
 </item><item>    <word>woo</word>
     <trans><![CDATA[vt. 追求；招致；向…求爱；恳求 
 vi. 求爱；恳求 
+'拟声词'
 ]]></trans>
     <phonetic><![CDATA[[wu:]]]></phonetic>
     <tags>GRE</tags>
@@ -45335,12 +45386,16 @@ vi. 求爱；恳求
     <trans><![CDATA[n. 崇拜；礼拜；尊敬 
 vt. 崇拜；尊敬；爱慕 
 vi. 拜神；做礼拜 
+from weorð "worthy" (see worth) + -scipe (see -ship).
 ]]></trans>
     <phonetic><![CDATA[['wə:ʃip]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>wrangler</word>
     <trans><![CDATA[n. 争论者；口角者；牧人 
+        wrangle  [wran·gle || 'ræŋgl] n.  口角, 吵嘴
+ from PIE *wrengh-, nasalized variant of *wergh- "to turn" (see wring). 
+ wring  [rɪŋ] n.  扭绞, 挤, 拧
 ]]></trans>
     <phonetic><![CDATA[['ræŋɡlə]]]></phonetic>
     <tags>GRE</tags>
@@ -45349,12 +45404,14 @@ vi. 拜神；做礼拜
     <trans><![CDATA[n. 扳手，扳钳；扭伤；痛苦；歪曲；猛扭 
 vt. 扭伤；猛扭；曲解；折磨 
 vi. 扭伤；猛扭；猛绞 
+from root *wer- (3) "to turn, bend" (see versus)
 ]]></trans>
     <phonetic><![CDATA[[rentʃ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>wretched</word>
     <trans><![CDATA[adj. 可怜的；卑鄙的；令人苦恼或难受的 
+        wrench  n. 扳手，扳钳；扭伤；痛苦；歪曲；猛扭 
 ]]></trans>
     <phonetic><![CDATA[['retʃid]]]></phonetic>
     <tags>GRE</tags>
@@ -45363,6 +45420,7 @@ vi. 扭伤；猛扭；猛绞
     <trans><![CDATA[n. 皱纹 
 vi. 起皱 
 vt. 使起皱纹 
+wrench  n. 扳手，扳钳；扭伤；痛苦；歪曲；猛扭 
 ]]></trans>
     <phonetic><![CDATA[['riŋkl]]]></phonetic>
     <tags>GRE</tags>
@@ -45370,12 +45428,15 @@ vt. 使起皱纹
 </item><item>    <word>wrist</word>
     <trans><![CDATA[n. 手腕；腕关节 
 vt. 用腕力移动 
+*wreik- "to turn" (see wry)
+wry  [raɪ] adj.  扭歪的, 歪斜的, 歪曲的
 ]]></trans>
     <phonetic><![CDATA[[rist]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>writ</word>
     <trans><![CDATA[n. [法] 令状；文书；法院命令 
+        write
 ]]></trans>
     <phonetic><![CDATA[[rit]]]></phonetic>
     <tags>GRE</tags>
@@ -45383,6 +45444,7 @@ vt. 用腕力移动
 </item><item>    <word>wrought</word>
     <trans><![CDATA[adj. 锻造的；加工的；精细的 
 v. 工作（work的过去分词） 
+work
 ]]></trans>
     <phonetic><![CDATA[[rɔ:t]]]></phonetic>
     <tags>GRE</tags>
@@ -45391,18 +45453,25 @@ v. 工作（work的过去分词）
     <trans><![CDATA[adj. 歪斜的，扭歪的；歪曲的 
 vt. 扭曲；扭歪 
 vi. 扭曲；扭歪 
+wring
 ]]></trans>
     <phonetic><![CDATA[[rai]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>xenophobe</word>
     <trans><![CDATA[n. 仇外；害怕生人者；畏惧和憎恨外国人的人 
+        from xeno- "foreign, strange" + -phobe. 
+        xeno- 或 xen-  表示“陌生人”，“外国人”：
+        -phobe  表示“恐惧或厌恶某一特定事物的人”：
 ]]></trans>
     <phonetic><![CDATA[['zenəfəub, 'zi:-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>xerophyte</word>
     <trans><![CDATA[n. [生态] 旱生植物 
+        from xero- + Greek phyton "a plant" (see phyto-).
+        xero- 或 xer-  表示“干的，干燥”：
+        phyto- 或 phyt-  表示“植物”：
 ]]></trans>
     <phonetic><![CDATA[['ziərəufait]]]></phonetic>
     <tags>GRE</tags>
@@ -45410,6 +45479,7 @@ vi. 扭曲；扭歪
 </item><item>    <word>yacht</word>
     <trans><![CDATA[n. 游艇，快艇；轻舟 
 vi. 乘游艇，驾游艇 
+no
 ]]></trans>
     <phonetic><![CDATA[[jɔt]]]></phonetic>
     <tags>GRE</tags>
@@ -45426,18 +45496,21 @@ vi. 讲故事
     <trans><![CDATA[n. 哈欠；裂口 
 vt. 张开；打著呵欠说 
 vi. 打呵欠；裂开 
+'拟声词'
 ]]></trans>
     <phonetic><![CDATA[[jɔ:n]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>yearn</word>
     <trans><![CDATA[vi. 渴望，向往；思念，想念；怀念；同情，怜悯 
+        no
 ]]></trans>
     <phonetic><![CDATA[[jə:n]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>yeast</word>
     <trans><![CDATA[n. 酵母；泡沫；酵母片；引起骚动因素 
+        no
 ]]></trans>
     <phonetic><![CDATA[[ji:st]]]></phonetic>
     <tags>GRE</tags>
@@ -45460,24 +45533,29 @@ vi. 结合；匹配
     <progress>0</progress>
 </item><item>    <word>yokel</word>
     <trans><![CDATA[n. 乡巴佬；庄稼汉 
+        yoke  n. 轭；束缚；牛轭 
 ]]></trans>
     <phonetic><![CDATA[['jəukəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>zealotry</word>
     <trans><![CDATA[n. 狂热的行为；狂言；狂热 
+        zealot  [zeal·ot || 'zelət] n.  狂热者
+        zeal  [zɪːl] n.  热心, 热诚, 热情
 ]]></trans>
     <phonetic><![CDATA[['zelətri]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>zenith</word>
     <trans><![CDATA[n. 顶峰；顶点；最高点 
+        no
 ]]></trans>
     <phonetic><![CDATA[['zeniθ, 'zi:-]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>zephyr</word>
     <trans><![CDATA[n. 和风；西风；轻薄织物 
+        no
 ]]></trans>
     <phonetic><![CDATA[['zefə]]]></phonetic>
     <tags>GRE</tags>
@@ -45485,6 +45563,7 @@ vi. 结合；匹配
 </item><item>    <word>zest</word>
     <trans><![CDATA[n. 风味；热心；强烈的兴趣 
 vt. 给…调味 
+no
 ]]></trans>
     <phonetic><![CDATA[[zest]]]></phonetic>
     <tags>GRE</tags>
@@ -45497,14 +45576,6 @@ adj. 曲折的；锯齿形的；之字形的
 adv. 曲折地；之字形地；z字形地 
 ]]></trans>
     <phonetic><![CDATA[['ziɡzæɡ]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
-</item><item>    <word>zone</word>
-    <trans><![CDATA[n. 地带；地区；[体]联防 
-vt. 使分成地带；环绕 
-vi. 分成区 
-]]></trans>
-    <phonetic><![CDATA[[zəun]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>abase</word>
