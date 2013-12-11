@@ -44306,36 +44306,43 @@ adj. 垂直的，直立的；[解剖] 头顶的，顶点的
     <progress>0</progress>
 </item><item>    <word>vertigo</word>
     <trans><![CDATA[n. 晕头转向，[临床] 眩晕 
+        from vertere "to turn" (see versus).
+        versus  [ver·sus || 'vɜrsəs /'vɜː-] prep.  对; 与...相对
 ]]></trans>
     <phonetic><![CDATA[['və:tiɡəu]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>verve</word>
     <trans><![CDATA[n. 热情；神韵；活力；气魄 
+        verb
 ]]></trans>
     <phonetic><![CDATA[[və:v]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vessel</word>
     <trans><![CDATA[n. 船，舰；[组织] 脉管，血管；容器，器皿 
+        no
 ]]></trans>
     <phonetic><![CDATA[['vesəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vestige</word>
     <trans><![CDATA[n. 遗迹；残余；退化的器官 
+        no
 ]]></trans>
     <phonetic><![CDATA[['vestidʒ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vestigial</word>
     <trans><![CDATA[adj. 退化的；残余的；发育不全的 
+        vestige  遗迹；残余；退化的器官 
 ]]></trans>
     <phonetic><![CDATA[[ve'stidʒiəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vestment</word>
     <trans><![CDATA[n. （作礼拜时教士的）法衣；官服；祭坛布；礼服；衣服 
+        from vestire "to clothe" (see wear).
 ]]></trans>
     <phonetic><![CDATA[['vestmənt]]]></phonetic>
     <tags>GRE</tags>
@@ -44343,6 +44350,7 @@ adj. 垂直的，直立的；[解剖] 头顶的，顶点的
 </item><item>    <word>veteran</word>
     <trans><![CDATA[n. 老兵；老手；富有经验的人；老运动员 
 adj. 经验丰富的；老兵的 
+no
 ]]></trans>
     <phonetic><![CDATA[['vetərən]]]></phonetic>
     <tags>GRE</tags>
@@ -44350,6 +44358,8 @@ adj. 经验丰富的；老兵的
 </item><item>    <word>veterinary</word>
     <trans><![CDATA[n. 兽医（等于veterinarian） 
 adj. 兽医的 
+from vetus (genitive veteris) "old" (see veteran), 
+veteran   老兵；老手；富有经验的人；老运动员 
 ]]></trans>
     <phonetic><![CDATA[['vetərinəri]]]></phonetic>
     <tags>GRE</tags>
@@ -44365,42 +44375,54 @@ vi. 否决；禁止
 </item><item>    <word>vex</word>
     <trans><![CDATA[vt. 使烦恼；使困惑；使恼怒 
 vi. 烦恼 
+ast participle of vehere "to draw, carry" (see vehicle). 
 ]]></trans>
     <phonetic><![CDATA[[veks]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vexation</word>
     <trans><![CDATA[n. 苦恼；恼怒；令人烦恼的事 
+        vex vt. 使烦恼；使困惑；使恼怒 
 ]]></trans>
     <phonetic><![CDATA[[vek'seiʃən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>viability</word>
     <trans><![CDATA[n. 生存能力，发育能力；可行性 
+        viable  [vi·a·ble || 'vaɪəbl] adj.  能养活的, 能生育的
+        vital  [vi·tal || 'vaɪtl] adj.  重要的, 充满活力的, 生命的
 ]]></trans>
     <phonetic><![CDATA[[,vaiə'biliti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>viable</word>
     <trans><![CDATA[adj. 可行的；能养活的；能生育的 
+        vital  [vi·tal || 'vaɪtl] adj.  重要的, 充满活力的, 生命的
 ]]></trans>
     <phonetic><![CDATA[['vaiəbl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>viaduct</word>
     <trans><![CDATA[n. 高架桥；高架铁路 
+        via "road" (see via) + -duct as in aqueduct.
+        aqueduct  [aq·ue·duct || 'ækwɪdʌkt] n.  水渠, 水道, 脉管
+         from aquae, genitive of aqua "water" (see aqua-), + ductus "a leading, conducting," past participle of ducere "to lead" (see duke (n.)).
+         duke  [djuːk] n.  公爵; 手; 拳头
+         duck  [dʌk] n.  鸭子
 ]]></trans>
     <phonetic><![CDATA[['vaiədʌkt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vibrancy</word>
     <trans><![CDATA[n. 振动；活力 
+         vibrate  使振动；使颤动 
 ]]></trans>
     <phonetic><![CDATA[['vaibrənsi]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vibrant</word>
     <trans><![CDATA[adj. 振动的；充满生气的；响亮的；战栗的 
+        vibrate  使振动；使颤动 
 ]]></trans>
     <phonetic><![CDATA[['vaibrənt]]]></phonetic>
     <tags>GRE</tags>
@@ -44414,36 +44436,38 @@ vi. 振动；颤动；摇摆；踌躇
     <progress>0</progress>
 </item><item>    <word>vicar</word>
     <trans><![CDATA[n. 教区牧师，教堂牧师；传教牧师；代理人 
+        vi(via) + car
+        (as) 牧师和代理人都是开车来来去去忙着
 ]]></trans>
     <phonetic><![CDATA[['vikə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vicarious</word>
     <trans><![CDATA[adj. 替代的；代理的；发同感的 
+        vicar   教区牧师，教堂牧师；传教牧师；代理人 
+        (as) 牧师替你和上帝说话
 ]]></trans>
     <phonetic><![CDATA[[vi'kεəriəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vicinity</word>
     <trans><![CDATA[n. 邻近，附近；近处 
+        villa  [vil·la || 'vɪlə] n.  别墅, 城郊小屋
 ]]></trans>
     <phonetic><![CDATA[[vɪ'sɪnɪtɪ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vicious</word>
     <trans><![CDATA[adj. 恶毒的；恶意的；堕落的；有错误的；品性不端的；剧烈的 
+        witch 巫婆
+        wicked 坏的, 邪恶的, 缺德的
 ]]></trans>
     <phonetic><![CDATA[['viʃəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
-</item><item>    <word>vicissitudinous</word>
-    <trans><![CDATA[adj. 变迁的；有变化的；有盛衰的 
-]]></trans>
-    <phonetic><![CDATA[[visisi'tju:dinəs]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
 </item><item>    <word>victimize</word>
     <trans><![CDATA[vt. 使受害；使牺牲；欺骗 
+        victim  [vic·tim || 'vɪktɪm] n.  受害人, 牺牲品, 牺牲者
 ]]></trans>
     <phonetic><![CDATA[['viktimaiz]]]></phonetic>
     <tags>GRE</tags>
@@ -44451,54 +44475,67 @@ vi. 振动；颤动；摇摆；踌躇
 </item><item>    <word>vie</word>
     <trans><![CDATA[vi. 争；竞争 
 vt. 使针锋相对；提出...来竞争；以...作较量 
+from Latin invitare (see invite).
+invite  [in·vite || ɪn'vaɪt] v.  邀请; 请求; 招待; 征求
 ]]></trans>
     <phonetic><![CDATA[[vai]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vigilant</word>
     <trans><![CDATA[adj. 警惕的；警醒的；注意的；警戒的 
+        vigil n.  警戒, 守夜, 监视
+        wake    
 ]]></trans>
     <phonetic><![CDATA[['vidʒilənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vigorous</word>
     <trans><![CDATA[adj. 有力的；精力充沛的 
+        vigor 活力
 ]]></trans>
     <phonetic><![CDATA[['viɡərəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vile</word>
     <trans><![CDATA[adj. 卑鄙的；邪恶的；低廉的；肮脏的 
+      live生活
+      evil 邪恶的
+      vile 可耻的, 恶劣的,
 ]]></trans>
     <phonetic><![CDATA[[vail]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vilify</word>
     <trans><![CDATA[vt. 诽谤；中伤；轻视；贬低 
+        no
 ]]></trans>
     <phonetic><![CDATA[['vilifai]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vindicate</word>
     <trans><![CDATA[vt. 维护；证明…无辜；证明…正确 
+        " from vim, accusative of vis "force" + root of dicere "to say" (see diction).
 ]]></trans>
     <phonetic><![CDATA[['vindikeit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vindicative</word>
     <trans><![CDATA[adj. 辩护的；辩明的；惩罚的 
+        vindicate  [vin·di·cate || 'vɪndɪkeɪt] v.  维护, 表白, 辩护
 ]]></trans>
     <phonetic><![CDATA[['vindikətiv]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vintner</word>
     <trans><![CDATA[n. 葡萄酒商；酿造葡萄酒的人 
+        vine  [vaɪn] n.  攀爬植物, 蔓, 藤
 ]]></trans>
     <phonetic><![CDATA[['vintnə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>violate</word>
     <trans><![CDATA[vt. 违反；侵犯，妨碍；亵渎 
+        violent 暴力的 
 ]]></trans>
     <phonetic><![CDATA[['vaiəleit]]]></phonetic>
     <tags>GRE</tags>
@@ -44506,12 +44543,16 @@ vt. 使针锋相对；提出...来竞争；以...作较量
 </item><item>    <word>violet</word>
     <trans><![CDATA[n. 紫罗兰；堇菜；羞怯的人 
 adj. 紫色的；紫罗兰色的 
+no
 ]]></trans>
     <phonetic><![CDATA[['vaiələt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>viral</word>
     <trans><![CDATA[adj. 滤过性毒菌引起的；滤过性毒菌的 
+        worm 蠕虫
+        vermin害虫, 寄生虫
+        virus [微]病毒, 滤过性微生物, 毒害, 恶毒
 ]]></trans>
     <phonetic><![CDATA[['vairəl]]]></phonetic>
     <tags>GRE</tags>
@@ -44524,6 +44565,10 @@ adj. 紫色的；紫罗兰色的
     <progress>0</progress>
 </item><item>    <word>virtuosity</word>
     <trans><![CDATA[n. 精湛技巧；对艺术品的爱好；艺术爱好者 
+        virtuoso  [vir·tu·o·so || ‚vɜrtʃʊ'əʊzəʊ /‚vɜː-] n.  艺术品鉴赏家
+        virtuous  [vir·tu·ous || 'vɜrtʃʊəs /'vɜː-] adj.  善良的, 贞洁的, 有道德的    
+        virtue  [vir·tue || 'vɜrtjuː /'vɜː-] n.  德行, 贞操, 美德
+        virile  [vir·ile || 'vɪrəl /-raɪl] adj.  男性的, 有男子气概的, 男的
 ]]></trans>
     <phonetic><![CDATA[[,və:tju'ɔsəti]]]></phonetic>
     <tags>GRE</tags>
@@ -44531,36 +44576,50 @@ adj. 紫色的；紫罗兰色的
 </item><item>    <word>virtuoso</word>
     <trans><![CDATA[n. 艺术品鉴赏家；古董收藏家；艺术大师 
 adj. 行家里手的；艺术爱好者的 
+        virtuous  [vir·tu·ous || 'vɜrtʃʊəs /'vɜː-] adj.  善良的, 贞洁的, 有道德的    
+        virtue  [vir·tue || 'vɜrtjuː /'vɜː-] n.  德行, 贞操, 美德
+        virile  [vir·ile || 'vɪrəl /-raɪl] adj.  男性的, 有男子气概的, 男的
 ]]></trans>
     <phonetic><![CDATA[[,və:tju'əuzəu]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>virtuous</word>
     <trans><![CDATA[adj. 善良的；有道德的；贞洁的；正直的；有效力的 
+        virtue  [vir·tue || 'vɜrtjuː /'vɜː-] n.  德行, 贞操, 美德
+        virile  [vir·ile || 'vɪrəl /-raɪl] adj.  男性的, 有男子气概的, 男的
 ]]></trans>
     <phonetic><![CDATA[['və:tʃuəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>virulent</word>
     <trans><![CDATA[adj. 剧毒的；恶性的；有恶意的 
+        from virus "poison" (see virus).
+        virus  [vi·rus || 'vaɪərəs] n.  病毒, 传染病的微生物; 
+        worm 蠕虫
+        vermin害虫, 寄生虫
 ]]></trans>
     <phonetic><![CDATA[['virjulənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>virus</word>
     <trans><![CDATA[n. [病毒] 病毒；恶毒；毒害 
+        worm 蠕虫
+        vermin害虫, 寄生虫
 ]]></trans>
     <phonetic><![CDATA[['vaiərəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>viscid</word>
     <trans><![CDATA[adj. 粘质的；半流体的 
+        viscous  [vis·cous || 'vɪskəs] adj.  粘的, 粘性的, 有粘性的
+         from PIE root *weis- "to melt away, flow" (used of foul or malodorous fluids); see virus.
 ]]></trans>
     <phonetic><![CDATA[['visid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>viscous</word>
     <trans><![CDATA[adj. 粘性的；黏的 
+        from PIE root *weis- "to melt away, flow" (used of foul or malodorous fluids); see virus.
 ]]></trans>
     <phonetic><![CDATA[['viskəs]]]></phonetic>
     <tags>GRE</tags>
@@ -44568,6 +44627,9 @@ adj. 行家里手的；艺术爱好者的
 </item><item>    <word>visionary</word>
     <trans><![CDATA[n. 空想家；梦想者；有眼力的人 
 adj. 梦想的；幻影的 
+ from vision + -ary. 
+ vision  [vi·sion || 'vɪʒn] n.  视觉, 眼光, 先见之明
+ visible
 ]]></trans>
     <phonetic><![CDATA[['viʒənəri]]]></phonetic>
     <tags>GRE</tags>
@@ -44586,12 +44648,14 @@ adj. 梦想的；幻影的
     <progress>0</progress>
 </item><item>    <word>vitalize</word>
     <trans><![CDATA[vt. 赋予…生命；激发；使有生气 
+        vital adj. 至关重要的；生死攸关的；有活力的 
 ]]></trans>
     <phonetic><![CDATA[['vaitəlaiz]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vitiate</word>
     <trans><![CDATA[vt. 损害，弄坏；使无效；污染 
+        vice  [vaɪs] n.  恶习; 坏脾气; 恶行
 ]]></trans>
     <phonetic><![CDATA[['viʃieit]]]></phonetic>
     <tags>GRE</tags>
@@ -44599,30 +44663,37 @@ adj. 梦想的；幻影的
 </item><item>    <word>vitrify</word>
     <trans><![CDATA[vt. 使…成玻璃；使…玻璃化 
 vi. 玻璃化；使成玻璃状 
+vitreous  [vit·re·ous || 'vɪtrɪəs] adj.  玻璃的, 玻璃质的, 玻璃似的
 ]]></trans>
     <phonetic><![CDATA[['vitrifai]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vitriolic</word>
     <trans><![CDATA[adj. 硫酸的；刻薄的 
+        vitriol  [vit·ri·ol || 'vɪtrɪəl] n.  硫酸, 讽刺, 矾
 ]]></trans>
     <phonetic><![CDATA[[,vitri'ɔlik]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vituperate</word>
     <trans><![CDATA[vt. 谩骂；责骂 
+         vituperation  [vi·tu·per·a·tion || vaɪ‚tuːpə'reɪʃn /vɪ‚tju-] n.  谩骂; 咒骂; 辱骂
+          from vitium "fault, defect" (see vice (n.1)) + parare "prepare, provide, procure" (see pare)
+          pare  [per /peə] v.  剥, 修, 削
 ]]></trans>
     <phonetic><![CDATA[[vi'tju:pəreit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vituperative</word>
     <trans><![CDATA[adj. 责骂的 
+        vituperate  vt. 谩骂；责骂
 ]]></trans>
     <phonetic><![CDATA[[vi'tju:pərətiv]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vivacious</word>
     <trans><![CDATA[adj. 活泼的；快活的；有生气的 
+        from vivere "to live" (see vital).
 ]]></trans>
     <phonetic><![CDATA[[vi'veiʃəs]]]></phonetic>
     <tags>GRE</tags>
@@ -44635,12 +44706,16 @@ vi. 玻璃化；使成玻璃状
     <progress>0</progress>
 </item><item>    <word>vocalist</word>
     <trans><![CDATA[n. 歌手；声乐家 
+        from vocal + -ist.
+        vocal  [vo·cal || 'vəʊkl] n.  元音, 声乐作品 adj.  声音的, 歌唱的, 有声的
+        from vox (genitive vocis) "voice" (see voice (n.)).
 ]]></trans>
     <phonetic><![CDATA[['vəukəlist]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vocation</word>
     <trans><![CDATA[n. 职业；天职；天命；神召 
+         from vocatus "called," past participle of vocare "to call" (see voice (n.)). 
 ]]></trans>
     <phonetic><![CDATA[[vəu'keiʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -44648,27 +44723,22 @@ vi. 玻璃化；使成玻璃状
 </item><item>    <word>vogue</word>
     <trans><![CDATA[n. 时尚；流行，时髦 
 adj. 时髦的，流行的 
+ literally "to balance oneself" (see weigh)
 ]]></trans>
     <phonetic><![CDATA[[vəuɡ]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
-</item><item>    <word>void</word>
-    <trans><![CDATA[n. 空虚；空间；空隙 
-adj. 空的；无效的；无人的 
-vt. 使无效；排放 
-]]></trans>
-    <phonetic><![CDATA[[vɔid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>volatile</word>
     <trans><![CDATA[n. 挥发物；有翅的动物 
 adj. [化学] 挥发性的；不稳定的；爆炸性的；反覆无常的 
+from past participle stem of volare "to fly" (see volant).
 ]]></trans>
     <phonetic><![CDATA[['vɔlətail]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>volition</word>
     <trans><![CDATA[n. 意志，意志力；决断力 
+        from PIE *wel-/*wol- "be pleasing" (see will (v.)).
 ]]></trans>
     <phonetic><![CDATA[[vəu'liʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -44677,36 +44747,43 @@ adj. [化学] 挥发性的；不稳定的；爆炸性的；反覆无常的
     <trans><![CDATA[n. 齐射；齐射出的子弹；凌空状态 
 vt. 截击；齐发；连声发出 
 vi. 截击；齐鸣；进行群射 
+"to fly" (see volant)
 ]]></trans>
     <phonetic><![CDATA[['vɔli]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>voluble</word>
     <trans><![CDATA[adj. 健谈的；缠绕的；易旋转的 
+        from volvere "to turn around, roll" (see volvox).
+        volvox   n.  团藻属
 ]]></trans>
     <phonetic><![CDATA[['vɔljubl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>voluminous</word>
     <trans><![CDATA[adj. 大量的；多卷的，长篇的；著书多的 
+        volume
 ]]></trans>
     <phonetic><![CDATA[[və'lju:minəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>voluptuous</word>
     <trans><![CDATA[adj. 撩人的；骄奢淫逸的；沉溺酒色的 
+         from PIE *wol-/*wel- "be pleasing" (see will (v.))
 ]]></trans>
     <phonetic><![CDATA[[və'lʌptjuəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>voracious</word>
     <trans><![CDATA[adj. 贪婪的；贪吃的；狼吞虎咽的 
+        voracity  n.  贪食; 贪婪
 ]]></trans>
     <phonetic><![CDATA[[vɔ'reiʃəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>voracity</word>
     <trans><![CDATA[n. 贪食，贪婪 
+        no
 ]]></trans>
     <phonetic><![CDATA[[vɔ'ræsəti]]]></phonetic>
     <tags>GRE</tags>
@@ -44714,6 +44791,7 @@ vi. 截击；齐鸣；进行群射
 </item><item>    <word>votary</word>
     <trans><![CDATA[n. 崇拜者；出家人 
 adj. 立誓任圣职的；誓约的 
+vow
 ]]></trans>
     <phonetic><![CDATA[['vəutəri]]]></phonetic>
     <tags>GRE</tags>
@@ -44721,6 +44799,7 @@ adj. 立誓任圣职的；誓约的
 </item><item>    <word>vouch</word>
     <trans><![CDATA[vi. 保证；证明；确定 
 vt. 担保；证明；传出庭作证 
+to call, call upon, summon" (see voice (n.)).
 ]]></trans>
     <phonetic><![CDATA[[vautʃ]]]></phonetic>
     <tags>GRE</tags>
@@ -44728,25 +44807,28 @@ vt. 担保；证明；传出庭作证
 </item><item>    <word>vulgar</word>
     <trans><![CDATA[n. 平民，百姓 
 adj. 粗俗的；通俗的；本土的 
+folk 人民
 ]]></trans>
     <phonetic><![CDATA[['vʌlɡə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vulnerable</word>
     <trans><![CDATA[adj. 易受攻击的，易受…的攻击；易受伤害的；有弱点的 
+        wound n.  创伤, 伤疤, 伤口
+        vuln-
 ]]></trans>
     <phonetic><![CDATA[['vʌlnərəbl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vulture</word>
     <trans><![CDATA[n. 秃鹰，秃鹫；贪婪的人 
+        no
 ]]></trans>
     <phonetic><![CDATA[['vʌltʃə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
-</item><item>    <word>vying</word>
-    <trans><![CDATA[v. 争夺（vie的现在分词） 
-adj. 竞争的 
+</item><item>    <word>vie</word>
+    <trans><![CDATA[v.  争, 争胜, 竞争; 冒...的危险, 使竞争
 ]]></trans>
     <phonetic><![CDATA[['vaiiŋ]]]></phonetic>
     <tags>GRE</tags>
@@ -44754,6 +44836,7 @@ adj. 竞争的
 </item><item>    <word>waddle</word>
     <trans><![CDATA[n. 蹒跚；摇摆的步子 
 vi. 摇摇摆摆地走；蹒跚而行 
+wade  [weɪd] n.  跋涉, 浅滩
 ]]></trans>
     <phonetic><![CDATA[['wɔdəl]]]></phonetic>
     <tags>GRE</tags>
