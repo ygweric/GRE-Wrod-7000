@@ -43234,12 +43234,14 @@ un- (1) "not" + Old Norse gegn "convenient") + -like.
     <progress>0</progress>
 </item><item>    <word>unicorn</word>
     <trans><![CDATA[n. 独角兽；麒麟 
+        from uni- "one" (see uni-) + cornus "horn" (see horn (n.)). 
 ]]></trans>
     <phonetic><![CDATA[['ju:nikɔ:n]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>unification</word>
     <trans><![CDATA[n. 统一；一致；联合 
+        unify
 ]]></trans>
     <phonetic><![CDATA[[,ju:nifi'keiʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -43248,6 +43250,7 @@ un- (1) "not" + Old Norse gegn "convenient") + -like.
     <trans><![CDATA[n. 制服 
 adj. 统一的；一致的；相同的；均衡的；始终如一的 
 vt. 使穿制服；使成一样 
+unify
 ]]></trans>
     <phonetic><![CDATA[['ju:nifɔ:m]]]></phonetic>
     <tags>GRE</tags>
@@ -43260,18 +43263,22 @@ vt. 使穿制服；使成一样
     <progress>0</progress>
 </item><item>    <word>unimpassioned</word>
     <trans><![CDATA[adj. 没有激情的；不动感情的；不感情用事的 
+        impassion  v.  激动; 激起热情
 ]]></trans>
     <phonetic><![CDATA[['ʌnim'pæʃənd]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>unimpeachable</word>
     <trans><![CDATA[adj. 无可指责的；无可怀疑的；无懈可击的；无过失的，无罪的 
+       impeach  [im·peach || ɪm'pɪːtʃ] v.  控告; 弹劾; 检举; 怀疑
+form of in- "into, in" (see in- (2)) + Latin pedica "shackle(桎梏, 束缚物)," from pes (genitive pedis) "foot."
 ]]></trans>
     <phonetic><![CDATA[[,ʌnim'pi:tʃəbl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>uninitiated</word>
     <trans><![CDATA[adj. 不知情的；缺少经验的 
+        initiate  [in·i·ti·ate || ɪ'nɪʃɪeɪt] n.  接受初步知识者; 新加入者 v.  开始; 传授; 发动
 ]]></trans>
     <phonetic><![CDATA[[,ʌni'niʃieitid]]]></phonetic>
     <tags>GRE</tags>
@@ -43285,6 +43292,7 @@ adj. 独特的，稀罕的；[数] 唯一的，独一无二的
     <progress>0</progress>
 </item><item>    <word>univocal</word>
     <trans><![CDATA[adj. 意义明确的；单一意思的 
+         from uni- (see uni-) + vox (see voice (n.)).
 ]]></trans>
     <phonetic><![CDATA[[,ju:ni'vəukəl]]]></phonetic>
     <tags>GRE</tags>
@@ -43303,6 +43311,8 @@ adj. 独特的，稀罕的；[数] 唯一的，独一无二的
     <progress>0</progress>
 </item><item>    <word>unkempt</word>
     <trans><![CDATA[adj. 蓬乱的，不整洁的；（言语等）粗野的 
+        rom un- (1) "not" + kempt "well-combed, neat," from variant past participle of Old English cemban "to comb," from Proto-Germanic *kambijan, from *kamb- "comb" (see comb). 
+        comb  [kəʊm] n.  头梳, 鸡冠 v.  用梳子梳理; 彻底搜查; 涌起
 ]]></trans>
     <phonetic><![CDATA[[,ʌn'kempt]]]></phonetic>
     <tags>GRE</tags>
@@ -43310,12 +43320,16 @@ adj. 独特的，稀罕的；[数] 唯一的，独一无二的
 </item><item>    <word>unleash</word>
     <trans><![CDATA[vt. 发动；解开…的皮带；解除…的束缚 
 vi. 不受约束；自由自在；放荡不羁 
+leash  [lɪːʃ] n.  拴狗颈的皮带; 约束; 控制 v.  以皮带束缚; 束缚
+lax
 ]]></trans>
     <phonetic><![CDATA[[,ʌn'li:ʃ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>unmitigated</word>
     <trans><![CDATA[adj. 全然的；严厉的；未缓和的 
+        mitigate  [mit·i·gate || 'mɪtɪgeɪt] v.  镇静, 减轻, 缓和; 缓和下来; 减轻
+        from mitis "gentle, soft" (from PIE *mei- "mild") + root of agere "do, make, act" (see act).
 ]]></trans>
     <phonetic><![CDATA[[,ʌn'mitiɡeitid]]]></phonetic>
     <tags>GRE</tags>
@@ -43328,66 +43342,89 @@ vi. 不受约束；自由自在；放荡不羁
     <progress>0</progress>
 </item><item>    <word>unnoticed</word>
     <trans><![CDATA[adj. 被忽视的；不引人注意的；未被注意的 
+        notice
 ]]></trans>
     <phonetic><![CDATA[[,ʌn'nəutist]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>unobtrusive</word>
     <trans><![CDATA[adj. 不唐突的；谦虚的；不引人注目的 
+        obtrude  [ob·trude || əb'truːd] v.  强迫; 伸出; 强使接受; 打扰
+     from ob "toward" (see ob-) + trudere "to thrust" (see extrusion).
+     extrusion  [ex'tru·sion || -uːʒn] n.  挤压; 喷出; 突出; 逐出
+      from ex- "out" (see ex-) + trudere "to thrust, push," from PIE *treud- "to press, push, squeeze" (see threat).
 ]]></trans>
     <phonetic><![CDATA[[,ʌnəb'tru:siv]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>unpalatable</word>
     <trans><![CDATA[adj. 味道差的，难吃的；讨人厌的，使人不快的 
+        palate  [pal·ate || 'pælət] n.  上颚, 趣味, 味觉
 ]]></trans>
     <phonetic><![CDATA[[,ʌn'pælətəbl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>unprecedented</word>
     <trans><![CDATA[adj. 空前的；无前例的 
+         precedent  [prec·e·dent || 'presɪdənt] n.  先例, 前例 adj.  在前的, 前面的, 在先的
+        precede  [pre·cede || ‚prɪː'sɪːd] v.  在...之前, 较...优先, 优于; 处在前面; 领先
+         from prae "before" (see pre-) + cedere "to go" (see cede).
 ]]></trans>
     <phonetic><![CDATA[[,ʌn'presidəntid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>unpremeditated</word>
     <trans><![CDATA[adj. 无预谋的；偶然的 
+        premeditate  [pre·med·i·tate || ‚prɪː'medɪteɪt] v.  预先考虑; 预谋
+        meditate  [med·i·tate || 'medɪteɪt] v.  想, 计划, 考虑; 沉思, 深思熟虑
+        "to measure;" medical
+        medical  [med·i·cal || 'medɪkl] n.  医生; 体格检查 adj.  医学的; 药的; 内科的
 ]]></trans>
     <phonetic><![CDATA[['ʌnpri'mediteitid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>unprepossessing</word>
     <trans><![CDATA[adj. 不吸引人的；不讨人喜欢的 
+        prepossess  [pre·pos·sess || ‚prɪːpə'zes] v.  使预先产生; 预先拥有; 使产生印象
+         pre- + possess. 
 ]]></trans>
     <phonetic><![CDATA[[ʌnpri:pə'zesiŋ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>unpretentious</word>
     <trans><![CDATA[adj. 谦逊的；含蓄的；不炫耀的；不铺张的 
+        pretentious  [pre'ten·tious || prɪ'tenʃəs] adj.  自负的, 夸耀的, 自任不凡的
+        pretend  [pre·tend || prɪ'tend] v.  佯装; 自命, 自称; 假装; 假扮; 假装; 妄求; 自封, 自称 adj.  假装的; 假想的
+         from prae "before" (see pre-) + tendere "to stretch," from PIE root *ten- "to stretch" (see tend). 
 ]]></trans>
     <phonetic><![CDATA[[,ʌnpri'tenʃəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>unprincipled</word>
     <trans><![CDATA[adj. 无原则的；不道德的，不正直的；不合人道的 
+        principle
 ]]></trans>
     <phonetic><![CDATA[[,ʌn'prinsəpld]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>unproductive</word>
     <trans><![CDATA[adj. 非生产性的；徒劳的；不毛的；不生产的 
+        roduct
 ]]></trans>
     <phonetic><![CDATA[[,ʌnprə'dʌktiv]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>unprovoked</word>
     <trans><![CDATA[adj. 无缘无故的；未受挑衅的 
+        provoke  [pro·voke || prə'vəʊk] v.  激怒, 煽动, 挑拨
+         from pro- "forth" (see pro-) + vocare "to call" (see voice (n.)). 
 ]]></trans>
     <phonetic><![CDATA[[,ʌnprə'vəukt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>unqualified</word>
     <trans><![CDATA[adj. 不合格的；无资格的；不胜任的 
+        qualify  
 ]]></trans>
     <phonetic><![CDATA[[,ʌn'kwɔlifaid]]]></phonetic>
     <tags>GRE</tags>
@@ -43395,66 +43432,90 @@ vi. 不受约束；自由自在；放荡不羁
 </item><item>    <word>unravel</word>
     <trans><![CDATA[vt. 解开；阐明；解决；拆散 
 vi. 解决；散开 
+ravel  [rav·el || 'rævl] v.  使纠缠, 解开, 使混乱; 散开, 解决
 ]]></trans>
     <phonetic><![CDATA[[,ʌn'rævəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>unregenerate</word>
     <trans><![CDATA[adj. 不悔改的；灵魂未得再生的；顽固不化的 
+        generate
 ]]></trans>
     <phonetic><![CDATA[[,ʌnri'dʒenərət]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>unregulated</word>
     <trans><![CDATA[adj. 未经调节的；[仪] 未校准的 
+        regulate
 ]]></trans>
     <phonetic><![CDATA[[ʌn'regjuleitid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>unremitting</word>
     <trans><![CDATA[adj. 不懈的；不间断的；坚忍的 
+        remit  [re·mit || rɪ'mɪt] v.  宽恕, 免除, 赦免; 缓和; 汇款; 减轻
+         from re- "back" (see re-) + mittere "to send" (see mission). 
 ]]></trans>
     <phonetic><![CDATA[[,ʌnri'mitiŋ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>unrepentant</word>
     <trans><![CDATA[adj. 顽固不化的；不后悔的 
+        repentant  [re'pent·ant || rɪ'pentənt] adj.  后悔的; 悔改的
+        repent  [re·pent || rɪ'pent] v.  悔悟, 悔改; 忏悔; 后悔, 懊悔; 悔悟, 悔改; 忏悔; 对...感到后悔
+         penal  [pe·nal || 'pɪːnl] adj.  刑的, 刑法上的, 刑罚的
 ]]></trans>
     <phonetic><![CDATA[['ʌnri'pentənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>unrequited</word>
     <trans><![CDATA[adj. 无回报的；无报酬的 
+        requite  [re·quite || rɪ'kwaɪt] v.  报答; 酬谢; 回报; 报复
+        from re- "back" + Middle English quite "clear, pay up," earlier variant of quit (see quit)
 ]]></trans>
     <phonetic><![CDATA[[,ʌnri'kwaitid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>unreserved</word>
     <trans><![CDATA[adj. 不隐瞒的；坦白的；无限制的；未被预订的 
+        reserve  [re·serve || rɪ'zɜrv /-'zɜːv] n.  储备; 保留; 储备金; 储藏量
+        from re- "back" (see re-) + servare "to keep, save, preserve, protect" (see observe). 
 ]]></trans>
     <phonetic><![CDATA[[,ʌnri'zə:vd]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>unscathed</word>
     <trans><![CDATA[adj. 未受伤的 
+        scathe  [skeɪð] n.  危害, 损害, 损伤
+        scar
 ]]></trans>
     <phonetic><![CDATA[[,ʌn'skeiðd]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>unscented</word>
     <trans><![CDATA[adj. 无香味的；无气味的 
+           sense
+           sent
+           scent嗅觉，气味
 ]]></trans>
     <phonetic><![CDATA[[ʌn'sentid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>unscrupulous</word>
     <trans><![CDATA[adj. 肆无忌惮的；寡廉鲜耻的；不讲道德的 
+          pebble(小圆石) rubble(粗石,) marble(大理石) 
+          scruple 微量；踌躇, 犹豫
+          scrupulous 小心谨慎的, 细心的
 ]]></trans>
     <phonetic><![CDATA[[,ʌn'skru:pjuləs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>unscrupulousness</word>
     <trans><![CDATA[n. 狂妄；不择手段 
+        scrupulous  ['scru·pu·lous || 'skruːpjələs /-pjʊl-] adj.  小心谨慎的, 细心的; 有顾忌的
+        scruple  [scru·ple || 'skruːpl] n.  踌躇, 微量, 犹豫
+         pebble(小圆石) rubble(粗石,) marble(大理石) 
+        scruple 微量；踌躇, 犹豫
 ]]></trans>
     <phonetic><![CDATA[[ʌn'skru:pjuləsnis]]]></phonetic>
     <tags>GRE</tags>
@@ -43462,6 +43523,7 @@ vi. 解决；散开
 </item><item>    <word>unseemly</word>
     <trans><![CDATA[adj. 不适宜的；不得体的 
 adv. 不得体地；不适宜地 
+seem
 ]]></trans>
     <phonetic><![CDATA[[,ʌn'si:mli]]]></phonetic>
     <tags>GRE</tags>
@@ -43469,6 +43531,7 @@ adv. 不得体地；不适宜地
 </item><item>    <word>unsettle</word>
     <trans><![CDATA[vt. 使动摇；使不安定；使心神不宁 
 vi. 不安；动荡不定 
+sit
 ]]></trans>
     <phonetic><![CDATA[[,ʌn'setl]]]></phonetic>
     <tags>GRE</tags>
@@ -43476,48 +43539,62 @@ vi. 不安；动荡不定
 </item><item>    <word>unsettling</word>
     <trans><![CDATA[adj. 使人不安的；（消息）扰乱的 
 v. 动乱不定；心绪不宁（unsettle的ing形式） 
+sit
 ]]></trans>
     <phonetic><![CDATA[[ʌn'setliŋ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>unsound</word>
     <trans><![CDATA[adj. 不健全的；不健康的；谬误的；腐烂的；不牢靠的 
+        sound
 ]]></trans>
     <phonetic><![CDATA[[,ʌn'saund]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>unspoiled</word>
     <trans><![CDATA[adj. 未损坏的；未宠坏的 
+        spoiled   adj.  被宠坏的
+        spoil  [spɔɪl] n.  战利品, 奖品, 赃物 v.  损坏, 宠坏, 搞糟; 变坏, 腐败; 抢劫, 掠夺
+        from root *spel- "to split, to break off" (see spill (v.)). 
+        spill  [spɪl] n.  溢出, 涌出, 溅出#木片, 纸捻; 小金属棒; 小塞子; 销子
 ]]></trans>
     <phonetic><![CDATA[[,ʌn'spɔild]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>unspotted</word>
     <trans><![CDATA[adj. 清白的；无瑕疵的；无污点的 
+        point
+        spot班点, 污点
 ]]></trans>
     <phonetic><![CDATA[[,ʌn'spɔtid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>unstinting</word>
     <trans><![CDATA[adj. 慷慨的；大方的；无限制的 
+          stint  [stɪnt] n.  节省, 吝惜; 定量, 限额; 限制; 分配的工作#滨鹬
+        steep  [stɪːp] v.  泡, 浸泡; 使埋头, 使沉湎; 浸透; 使充满; 泡, 浸泡; 浸透
 ]]></trans>
     <phonetic><![CDATA[['ʌn'stintiŋ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>unsubstantiated</word>
     <trans><![CDATA[adj. 未经证实的，无事实根据的 
+        substantial  [sub·stan·tial || səb'stænʃl] adj.  实质上的, 有内容的, 物质的
+       from sub "up to, under" + stare "to stand," from PIE root *sta- "to stand" (see stet).
 ]]></trans>
     <phonetic><![CDATA[[,ʌnsəb'stænʃieitid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>untapped</word>
     <trans><![CDATA[adj. 未开发的；未使用的；塞子未开的 
+        tap
 ]]></trans>
     <phonetic><![CDATA[[ʌn'tæpt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>unthreatening</word>
     <trans><![CDATA[adj. 不具威胁的
+        threat
 ]]></trans>
     <phonetic><![CDATA[[ʌn'θretəniŋ]]]></phonetic>
     <tags>GRE</tags>
@@ -43526,12 +43603,15 @@ v. 动乱不定；心绪不宁（unsettle的ing形式）
     <trans><![CDATA[n. 候补演员；替工 
 vt. 练习代演；当…的替手；实地演习 
 vi. 学当替工 
+under + study
 ]]></trans>
     <phonetic><![CDATA[['ʌndə,stʌdi]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>unidimensional</word>
     <trans><![CDATA[adj. 一维的；线性的 
+        dimension  [di·men·sion || dɪ'menʃn] n.  尺寸, 容积, 次元
+        from dis- (see dis-) + metiri "to measure" (see measure). 
 ]]></trans>
     <phonetic><![CDATA[[,ju:nidi'menʃənəl]]]></phonetic>
     <tags>GRE</tags>
@@ -43539,36 +43619,45 @@ vi. 学当替工
 </item><item>    <word>untimely</word>
     <trans><![CDATA[adj. 不合时宜的；过早的 
 adv. 不合时宜地；过早地 
+time
 ]]></trans>
     <phonetic><![CDATA[[,ʌn'taimli]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>untold</word>
     <trans><![CDATA[adj. 数不清的；未说过的；未透露的；无限的 
+        told
 ]]></trans>
     <phonetic><![CDATA[[,ʌn'təuld]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>untoward</word>
     <trans><![CDATA[adj. 不幸的；麻烦的；倔强的；困难的 
+        toward
 ]]></trans>
     <phonetic><![CDATA[[,ʌntə'wɔ:d]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>untutored</word>
     <trans><![CDATA[adj. 未受教育的；粗野的；天真的 
+        tutor  [tu·tor || 'tuːtə /'tju-] n.  家庭教师, 助教, 指导教师
 ]]></trans>
     <phonetic><![CDATA[[,ʌn'tju:təd]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>unwarranted</word>
     <trans><![CDATA[adj. 无根据的；无保证的 
+        warrant  [war·rant || 'wɑrənt ,'wɔ- /'wɒ-] n.  授权, 根据, 正当理由
+        guard 守卫, 警戒, 护卫队
 ]]></trans>
     <phonetic><![CDATA[[ʌn'wɔ:rəntid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>unwieldy</word>
     <trans><![CDATA[adj. 笨拙的；笨重的；不灵便的；难处理的 
+        wield  [wɪːld] v.  使用, 运用, 挥舞
+         wield v.挥
+        willow 柳树
 ]]></trans>
     <phonetic><![CDATA[[,ʌn'wi:ldi]]]></phonetic>
     <tags>GRE</tags>
@@ -43576,35 +43665,32 @@ adv. 不合时宜地；过早地
 </item><item>    <word>unwitting</word>
     <trans><![CDATA[adj. 不知情的；不知不觉的，无意的 
 v. 使精神错乱；使丧失智能（unwit的ing形式） 
+wit  [wɪt] n.  机智, 机智的人, 机警#风趣
 ]]></trans>
     <phonetic><![CDATA[[,ʌn'witiŋ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>unwonted</word>
     <trans><![CDATA[adj. 不习惯的；不寻常的；少有的 
+        wont  [won't || wəʊnt] n.  习惯, 惯常活动
+        "to win" (see win)
 ]]></trans>
     <phonetic><![CDATA[[,ʌn'wəuntid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>unworldly</word>
     <trans><![CDATA[adj. 非尘世的；精神上的，非物质的；天真的 
+        world
 ]]></trans>
     <phonetic><![CDATA[[,ʌn'wə:ldli]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>upbraid</word>
     <trans><![CDATA[vt. 责骂；训斥 
+         from up "up" + bregdan "move quickly, intertwine" (see braid (v.)).
+        braid  [breɪd] n.  辫子, 穗带 v.  编成辫, 镶边
 ]]></trans>
     <phonetic><![CDATA[[ʌp'breid]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
-</item><item>    <word>upgrade</word>
-    <trans><![CDATA[n. 升级；上升；上坡 
-vt. 使升级；提升；改良品种 
-adj. 向上的 
-adv. 往上 
-]]></trans>
-    <phonetic><![CDATA[['ʌpɡreid, ʌp'ɡreid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>upheaval</word>
@@ -43615,6 +43701,7 @@ adv. 往上
     <progress>0</progress>
 </item><item>    <word>uphold</word>
     <trans><![CDATA[vt. 支撑；鼓励；赞成；举起 
+        hold
 ]]></trans>
     <phonetic><![CDATA[[ʌp'həuld]]]></phonetic>
     <tags>GRE</tags>
@@ -43628,6 +43715,7 @@ adj. 正直的，诚实的；垂直的，直立的；笔直的；合乎正道的
     <progress>0</progress>
 </item><item>    <word>uproar</word>
     <trans><![CDATA[n. 骚动；喧嚣 
+        roar  [rɔr /rɔː]  n.  吼, 轰鸣, 咆哮
 ]]></trans>
     <phonetic><![CDATA[['ʌprɔ:]]]></phonetic>
     <tags>GRE</tags>
@@ -43637,6 +43725,7 @@ adj. 正直的，诚实的；垂直的，直立的；笔直的；合乎正道的
 adj. 自负的；在舞台后部的 
 vt. 抢…镜头；使相形见绌 
 adv. 在舞台后方 
+stage  [steɪdʒ] n.  舞台, 活动场所, 戏剧
 ]]></trans>
     <phonetic><![CDATA[['ʌp'steidʒ, ,ʌp'steidʒ, 'ʌpsteidʒ]]]></phonetic>
     <tags>GRE</tags>
@@ -43644,12 +43733,15 @@ adv. 在舞台后方
 </item><item>    <word>upswing</word>
     <trans><![CDATA[n. 上升；增加；向上摆动 
 vi. 提高；回升；向上摆动 
+swing
 ]]></trans>
     <phonetic><![CDATA[['ʌpswiŋ, ʌp'swiŋ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>urgent</word>
     <trans><![CDATA[adj. 紧急的；急迫的 
+          force 力量；强迫
+          urge v.催促，逼迫
 ]]></trans>
     <phonetic><![CDATA[['ə:dʒənt]]]></phonetic>
     <tags>GRE</tags>
@@ -43657,12 +43749,14 @@ vi. 提高；回升；向上摆动
 </item><item>    <word>usurp</word>
     <trans><![CDATA[vt. 篡夺；夺取；侵占 
 vi. 篡夺；篡权 
+from usus "a use" (see use) + rapere "to seize" (see rapid).
 ]]></trans>
     <phonetic><![CDATA[[ju:'zə:p]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>usury</word>
     <trans><![CDATA[n. 高利；高利贷；利益 
+        from stem of uti (see use (v.)). 
 ]]></trans>
     <phonetic><![CDATA[['ju:ʒuri]]]></phonetic>
     <tags>GRE</tags>
@@ -43670,18 +43764,21 @@ vi. 篡夺；篡权
 </item><item>    <word>utilitarian</word>
     <trans><![CDATA[n. 功利主义者 
 adj. 功利的；功利主义的；实利的 
+utility  [u·til·i·ty || juː'tɪlətɪ] n.  公用程序, 实用, 实用品
 ]]></trans>
     <phonetic><![CDATA[[,ju:tili'tεəriən]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>utilize</word>
     <trans><![CDATA[vt. 利用 
+        use
 ]]></trans>
     <phonetic><![CDATA[['ju:tilaiz]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>utopia</word>
     <trans><![CDATA[n. 乌托邦（理想中最美好的社会）；理想国 
+        '拟声词'
 ]]></trans>
     <phonetic><![CDATA[[ju:'təupiə]]]></phonetic>
     <tags>GRE</tags>
@@ -43689,6 +43786,7 @@ adj. 功利的；功利主义的；实利的
 </item><item>    <word>utopian</word>
     <trans><![CDATA[n. 空想家；乌托邦的居民 
 adj. 乌托邦的；空想的；理想化的 
+utopia  n. 乌托邦（理想中最美好的社会）；理想国 
 ]]></trans>
     <phonetic><![CDATA[[ju:'təupiən]]]></phonetic>
     <tags>GRE</tags>
@@ -43696,6 +43794,7 @@ adj. 乌托邦的；空想的；理想化的
 </item><item>    <word>utter</word>
     <trans><![CDATA[adj. 完全的；彻底的；无条件的 
 vt. 发出，表达；发射 
+from Old English utan "to put out," from ut (see out).
 ]]></trans>
     <phonetic><![CDATA[['ʌtə]]]></phonetic>
     <tags>GRE</tags>
@@ -43703,7 +43802,8 @@ vt. 发出，表达；发射
 </item><item>    <word>vaccinate</word>
     <trans><![CDATA[vt. 给…注射疫苗 
 vi. 接种疫苗 
-n. 被接种牛痘者 
+n. 被接种牛痘者
+vaccine  ['vac·cine || 'væksɪːn] n.  疫苗 
 ]]></trans>
     <phonetic><![CDATA[['væksineit]]]></phonetic>
     <tags>GRE</tags>
@@ -43711,30 +43811,43 @@ n. 被接种牛痘者
 </item><item>    <word>vaccine</word>
     <trans><![CDATA[n. 疫苗；牛痘苗 
 adj. 疫苗的；牛痘的 
+no
 ]]></trans>
     <phonetic><![CDATA[['væksi:n]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vacillate</word>
     <trans><![CDATA[vi. 犹豫；踌躇；摇摆 
+        way
+        vag-词根：走
+        vague 游移的，犹豫的
 ]]></trans>
     <phonetic><![CDATA[['væsileit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vacuous</word>
     <trans><![CDATA[adj. 空的；空虚的；空洞的；无意义的 
+        vacuum  [vac·u·um || 'vækjʊəm] n.  真空, 真空吸尘器, 空间
+        related to vacare "be empty" (see vain)
+        vain  [veɪn] adj.  徒然的, 空虚的, 虚荣的
+        vanish 消失, 成为零, 突然不见  glow发光
+        vanity  n.  虚荣心, 自负, 虚无
 ]]></trans>
     <phonetic><![CDATA[['vækjuəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vagary</word>
     <trans><![CDATA[n. 奇想；奇特行为 
+        vague  [veɪg] adj.  含糊的, 茫然的, 不清楚的
 ]]></trans>
     <phonetic><![CDATA[['veiɡəri]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vagrancy</word>
     <trans><![CDATA[n. 流浪；漂泊；思想游移不定 
+        vagrant  ['va·grant || 'veɪgrənt]
+        adj.  漂泊的, 游荡的, 流浪的
+        n.  流浪汉, 无赖, 漂泊者
 ]]></trans>
     <phonetic><![CDATA[['veiɡrənsi]]]></phonetic>
     <tags>GRE</tags>
@@ -43742,18 +43855,23 @@ adj. 疫苗的；牛痘的
 </item><item>    <word>vagrant</word>
     <trans><![CDATA[n. 游民；流浪者；无赖；漂泊者 
 adj. 流浪的；漂泊的；游荡的 
+no
 ]]></trans>
     <phonetic><![CDATA[['veiɡrənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vague</word>
     <trans><![CDATA[adj. 模糊的；含糊的；不明确的；暧昧的 
+        way
+        vag-词根：走
 ]]></trans>
     <phonetic><![CDATA[[veiɡ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vain</word>
     <trans><![CDATA[adj. 徒劳的；虚荣的；空虚的 
+        vanish 消失, 成为零, 突然不见  glow发光
+        vanity  n.  虚荣心, 自负, 虚无
 ]]></trans>
     <phonetic><![CDATA[[vein]]]></phonetic>
     <tags>GRE</tags>
@@ -43767,6 +43885,8 @@ adj. 流浪的；漂泊的；游荡的
 </item><item>    <word>valedictory</word>
     <trans><![CDATA[n. 告别辞 
 adj. 告别的 
+valere "be well" (see valiant) + dicere "to say" (see diction).
+valiant  adj.  勇敢的, 英勇的
 ]]></trans>
     <phonetic><![CDATA[[,væli'diktəri]]]></phonetic>
     <tags>GRE</tags>
@@ -43774,24 +43894,29 @@ adj. 告别的
 </item><item>    <word>valiant</word>
     <trans><![CDATA[n. 勇士；勇敢的人 
 adj. 英勇的，勇敢的 
+ root *wal- "be strong"
 ]]></trans>
     <phonetic><![CDATA[['væljənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>uproarious</word>
     <trans><![CDATA[adj. 骚动的；喧嚣的 
+        uproar   n.  喧嚣, 骚动
+      "up" + ruhr ,  related to Old English hreran "to move, stir, shake" (see rare (adj.2)).
 ]]></trans>
     <phonetic><![CDATA[[ʌp'rɔ:riəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>validate</word>
     <trans><![CDATA[vt. 证实，验证；确认；使生效 
+        valid 有效的, 有根据的, 正当的, 正确的
 ]]></trans>
     <phonetic><![CDATA[['vælideit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>valorous</word>
     <trans><![CDATA[adj. 勇敢的；勇武的 
+        root *wal- "be strong"
 ]]></trans>
     <phonetic><![CDATA[['vælərəs]]]></phonetic>
     <tags>GRE</tags>
@@ -43799,18 +43924,21 @@ adj. 英勇的，勇敢的
 </item><item>    <word>valve</word>
     <trans><![CDATA[n. 阀；[解剖] 瓣膜；真空管；活门 
 vt. 装阀于；以活门调节 
+no
 ]]></trans>
     <phonetic><![CDATA[[vælv]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vandalism</word>
     <trans><![CDATA[n. 汪达尔人作风；故意毁坏文物的行为；破坏他人财产的行为 
+        Vandal   汪达尔人：日耳曼人的一支，于公元 4世纪和5世纪进入高卢、西班牙和北非，并于455年占领罗马 
 ]]></trans>
     <phonetic><![CDATA[['vændəlizəm]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vandalize</word>
     <trans><![CDATA[vt. 肆意毁坏；摧残（等于vandalise） 
+        Vandal   汪达尔人
 ]]></trans>
     <phonetic><![CDATA[['vændəlaiz]]]></phonetic>
     <tags>GRE</tags>
@@ -43818,36 +43946,44 @@ vt. 装阀于；以活门调节
 </item><item>    <word>vanilla</word>
     <trans><![CDATA[n. 香子兰，香草 
 adj. 香草味的 
+no
 ]]></trans>
     <phonetic><![CDATA[[və'nilə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vanity</word>
     <trans><![CDATA[n. 虚荣心；空虚；浮华；无价值的东西 
+        vain
 ]]></trans>
     <phonetic><![CDATA[['vænəti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vanquish</word>
     <trans><![CDATA[vt. 征服；击败；克服；抑制（感情等） 
+        victor
 ]]></trans>
     <phonetic><![CDATA[['væŋkwiʃ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vantage</word>
     <trans><![CDATA[n. 优势；有利情况 
+         advantage
 ]]></trans>
     <phonetic><![CDATA[['vɑ:ntidʒ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vapid</word>
     <trans><![CDATA[adj. 无趣味的；无生气的；索然乏味的 
+        no
 ]]></trans>
     <phonetic><![CDATA[['væpid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vaporization</word>
     <trans><![CDATA[n. 蒸发；喷雾器；蒸馏器 
+        vaporize (Amer.)  [va·por·ize || 'veɪpəraɪz] v.  使...蒸发, 蒸发; 蒸发
+         from vapor + -ize.
+          vapor   n.  水汽, 蒸汽, 汽; 无实质之物; 烟雾; 幻想
 ]]></trans>
     <phonetic><![CDATA[[,veipərai'zeiʃən, -ri'z-]]]></phonetic>
     <tags>GRE</tags>
@@ -43855,30 +43991,35 @@ adj. 香草味的
 </item><item>    <word>vaporize</word>
     <trans><![CDATA[vt. 使…蒸发 
 vi. 蒸发 
+vapor   n.  水汽, 蒸汽, 汽; 无实质之物; 烟雾; 幻想
 ]]></trans>
     <phonetic><![CDATA[['veipəraiz]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vaporous</word>
     <trans><![CDATA[adj. 空想的；多蒸气的；雾状的 
+        vapor   n.  水汽, 蒸汽, 汽; 无实质之物; 烟雾; 幻想
 ]]></trans>
     <phonetic><![CDATA[['veipərəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>variance</word>
     <trans><![CDATA[n. 变异；变化；不一致；分歧；[数] 方差 
+         vary
 ]]></trans>
     <phonetic><![CDATA[['vεəriəns]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>variegate</word>
     <trans><![CDATA[vt. 使多样化，使丰富多彩；使成杂色 
+        (see vary) + root of agere "to drive" (see act).
 ]]></trans>
     <phonetic><![CDATA[['vεəriəɡeit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>variegation</word>
     <trans><![CDATA[n. 彩色；上色；斑 
+         (see vary) + root of agere "to drive" (see act).
 ]]></trans>
     <phonetic><![CDATA[[,vεəriə'ɡeiʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -43886,12 +44027,17 @@ vi. 蒸发
 </item><item>    <word>varnish</word>
     <trans><![CDATA[n. 亮光漆，清漆；虚饰；光泽面 
 vt. 装饰，粉饰；在…上涂清漆；使…有光泽 
+vanish  [van·ish || 'vænɪʃ] v.  消失, 成为零, 突然不见
+varnish  [var·nish || 'vɑrnɪʃ /'vɑːn-] n.  油漆, 掩饰, 清漆 v.  粉饰, 装饰, 涂油漆于
 ]]></trans>
     <phonetic><![CDATA[['vɑ:niʃ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vascular</word>
     <trans><![CDATA[adj. [生物] 血管的 
+         way
+         wagon 马车
+         vagina 阴道
 ]]></trans>
     <phonetic><![CDATA[['væskjulə]]]></phonetic>
     <tags>GRE</tags>
@@ -43900,6 +44046,7 @@ vt. 装饰，粉饰；在…上涂清漆；使…有光泽
     <trans><![CDATA[n. 拱顶；撑竿跳；地下室 
 vi. 跳跃；成穹状弯曲 
 vt. 做成圆拱形；撑竿跳过 
+no
 ]]></trans>
     <phonetic><![CDATA[[vɔ:lt]]]></phonetic>
     <tags>GRE</tags>
@@ -43908,12 +44055,17 @@ vt. 做成圆拱形；撑竿跳过
     <trans><![CDATA[n. 转向；方向的转变 
 vt. 使转向；使顺风；使船尾向上风 
 vi. 转向；改变观点；风向顺时针转；调转船尾向上风 
+wheel
 ]]></trans>
     <phonetic><![CDATA[[viə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vehicle</word>
     <trans><![CDATA[n. [车辆] 车辆；工具；交通工具；运载工具；传播媒介；媒介物 
+        went
+        vent-词根：走
+        ven-词根：走
+        bicycle
 ]]></trans>
     <phonetic><![CDATA[['viːɪk(ə)l]]]></phonetic>
     <tags>GRE</tags>
@@ -43922,30 +44074,43 @@ vi. 转向；改变观点；风向顺时针转；调转船尾向上风
     <trans><![CDATA[n. 面纱；面罩；遮蔽物；托词 
 vt. 遮蔽；掩饰；以面纱遮掩；用帷幕分隔 
 vi. 蒙上面纱；出现轻度灰雾 
+willow 柳树
+wield 挥舞
 ]]></trans>
     <phonetic><![CDATA[[veil]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>velocity</word>
     <trans><![CDATA[n. [力] 速率；迅速；周转率 
+        related to vehere "carry" (see vehicle),
+        went
+        vent-词根：走
+        ven-词根：走
+        bicycle
 ]]></trans>
     <phonetic><![CDATA[[vi'lɔsəti]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>venal</word>
     <trans><![CDATA[adj. 贪污的；用金钱买得的；贿赂的；贪赃枉法的 
+        Venus 维纳斯; 金星
 ]]></trans>
     <phonetic><![CDATA[['vi:nəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vendetta</word>
     <trans><![CDATA[n. （尤指族间或血亲间的）仇杀；深仇 
+        vendor 卖主；小贩；[贸易] 自动售货机 
+        (as) 传说中的无奸不商，心狠手辣！！！！
+        revenge  [re·venge || rɪ'vendʒ] n.  报仇, 报复, 复仇
 ]]></trans>
     <phonetic><![CDATA[[ven'detə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vendor</word>
     <trans><![CDATA[n. 卖主；小贩；[贸易] 自动售货机 
+        from Latin vendere "to sell" (see vend).
+         vend  [vend] v.  出售; 公开发表; 贩卖; 出售, 贩卖
 ]]></trans>
     <phonetic><![CDATA[['vendɔ:]]]></phonetic>
     <tags>GRE</tags>
@@ -43953,30 +44118,37 @@ vi. 蒙上面纱；出现轻度灰雾
 </item><item>    <word>veneer</word>
     <trans><![CDATA[n. 外表；虚饰；饰面；胶合板的一层；薄木片 
 vt. 胶合；虚饰；给…镶以饰片 
+veil  [veɪl] n.  面纱, 借口, 面罩
 ]]></trans>
     <phonetic><![CDATA[[və'niə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>venerate</word>
     <trans><![CDATA[vt. 崇敬，尊敬 
+        Venus 维纳斯; 金星
 ]]></trans>
     <phonetic><![CDATA[['venəreit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vengeance</word>
     <trans><![CDATA[n. 复仇；报复；报仇 
+        vindicate  [vin·di·cate || 'vɪndɪkeɪt] v.  维护, 表白, 辩护
+        vindication  [vin·di·ca·tion || ‚vɪndɪ'keɪʃn] n.  证明无罪; 辩护
+        from vim, accusative of vis "force" + root of dicere "to say" (see diction). 
 ]]></trans>
     <phonetic><![CDATA[['vendʒəns]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vengeful</word>
     <trans><![CDATA[adj. 复仇的，报复的；复仇心重的 
+        from obsolete venge "take revenge" + -ful. 
 ]]></trans>
     <phonetic><![CDATA[['vendʒful]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>venial</word>
     <trans><![CDATA[adj. 可原谅的；（罪过）轻微的；可宽恕的 
+        Venus 维纳斯; 金星
 ]]></trans>
     <phonetic><![CDATA[['vi:niəl]]]></phonetic>
     <tags>GRE</tags>
@@ -43984,6 +44156,7 @@ vt. 胶合；虚饰；给…镶以饰片
 </item><item>    <word>venom</word>
     <trans><![CDATA[n. 毒液；恶意 
 vt. 使有毒；放毒 
+from PIE *wenes-no-, and thus connected to venus "erotic love" (see Venus)
 ]]></trans>
     <phonetic><![CDATA[['venɔm]]]></phonetic>
     <tags>GRE</tags>
@@ -43992,30 +44165,37 @@ vt. 使有毒；放毒
     <trans><![CDATA[n. （感情的）发泄；出口；通风孔 
 vt. 发泄感情；放出…；给…开孔 
 vi. 放出；（通过排泄等）减轻压力 
+from Latin ex- "out" + ventus "wind" (see wind (n.1)).
 ]]></trans>
     <phonetic><![CDATA[[vent]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>ventilate</word>
     <trans><![CDATA[vt. 使通风；给…装通风设备；宣布 
+        from Latin ex- "out" + ventus "wind" (see wind (n.1)).
 ]]></trans>
     <phonetic><![CDATA[['ventileit]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>ventriloquist</word>
     <trans><![CDATA[n. 腹语术者；口技艺人 
+        from Latin venter (genitive ventris) "belly(腹)" (see ventral) + loqui "speak" (see locution). 
+        ventral  [ven·tral || 'ventrəl] adj.  腹的; 腹侧的; 腹部的
+        locution  [lo·cu·tion || ləʊ'kjuːʃn] n.  独特的措辞; 说话风格; 惯用语
 ]]></trans>
     <phonetic><![CDATA[[ven'triləkwist]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>veracious</word>
     <trans><![CDATA[adj. 诚实的；真实的 
+        from verus "true" (see very) + -ous.
 ]]></trans>
     <phonetic><![CDATA[[və'reiʃəs]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>veracity</word>
     <trans><![CDATA[n. 诚实；精确性；老实；说真实话 
+        from verus "true" (see very).
 ]]></trans>
     <phonetic><![CDATA[[və'ræsəti]]]></phonetic>
     <tags>GRE</tags>
@@ -44023,60 +44203,66 @@ vi. 放出；（通过排泄等）减轻压力
 </item><item>    <word>verbal</word>
     <trans><![CDATA[n. 动词的非谓语形式 
 adj. 口头的；言语的；动词的；照字面的 
+verb
 ]]></trans>
     <phonetic><![CDATA[['və:bəl]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>verbiage</word>
     <trans><![CDATA[n. 冗词；废话；措辞方式 
+        verb
 ]]></trans>
     <phonetic><![CDATA[['və:biidʒ]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>verbose</word>
-    <trans><![CDATA[adj. 冗长的；啰嗦的 
+    <trans><![CDATA[adj. 冗长的；啰嗦的
+    verb 
 ]]></trans>
     <phonetic><![CDATA[[və:'bəus]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>verdant</word>
     <trans><![CDATA[adj. 青翠的；翠绿的；没有经验的；不老练的 
+         from Latin viridis "green" (see verdure)
+         verdure  [ver·dure || 'vɜrdʒə(r) /'vɜːd-] n.  翠绿, 碧绿, 新绿
+          from verd, variant of vert "green,"
 ]]></trans>
     <phonetic><![CDATA[['və:dənt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>verdict</word>
     <trans><![CDATA[n. 结论；裁定 
+        from ver, veir "true" (see very) + dit, past participle of dire "to say" (see diction).
 ]]></trans>
     <phonetic><![CDATA[['və:dikt]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>verdigris</word>
     <trans><![CDATA[n. 铜锈，[材] 铜绿；碱式碳酸铜 
+        verdure  [ver·dure || 'vɜrdʒə(r) /'vɜːd-] n.  翠绿, 碧绿, 新绿
 ]]></trans>
     <phonetic><![CDATA[['və:diɡris]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>verified</word>
     <trans><![CDATA[adj. 已查清的，已证实的 
+        "to see" (see vision).
 ]]></trans>
     <phonetic><![CDATA[['verifaid]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>verify</word>
     <trans><![CDATA[vt. 核实；查证 
+        from Latin verus "true" (see very) + root of facere "to make" (see factitious).
 ]]></trans>
     <phonetic><![CDATA[['verifai]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
-</item><item>    <word>verisimilar</word>
-    <trans><![CDATA[adj. 好像是真的 
-]]></trans>
-    <phonetic><![CDATA[[,veri'similə]]]></phonetic>
-    <tags>GRE</tags>
-    <progress>0</progress>
 </item><item>    <word>veritable</word>
     <trans><![CDATA[adj. 真正的，名副其实的 
+         verity  [ver·i·ty || 'verətɪ] n.  真实, 真理, 事实
+         from verus "true" (see very)
 ]]></trans>
     <phonetic><![CDATA[['veritəbl]]]></phonetic>
     <tags>GRE</tags>
@@ -44084,24 +44270,29 @@ adj. 口头的；言语的；动词的；照字面的
 </item><item>    <word>vernacular</word>
     <trans><![CDATA[n. 本地话，方言；动植物的俗名 
 adj. 本国的；地方的；用本地语写成的 
+from verna "home-born slave, native," a word of Etruscan origin
 ]]></trans>
     <phonetic><![CDATA[[və'nækjulə]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>versatile</word>
     <trans><![CDATA[adj. 多才多艺的；通用的，万能的；多面手的 
+         vertere "to turn" (see versus).
 ]]></trans>
     <phonetic><![CDATA[['və:sətail]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>verse</word>
     <trans><![CDATA[n. 诗，诗篇；韵文；诗节 
+          from PIE root *wer- (3) "to turn, bend" (see versus)
 ]]></trans>
     <phonetic><![CDATA[[və:s]]]></phonetic>
     <tags>GRE</tags>
     <progress>0</progress>
 </item><item>    <word>vertex</word>
     <trans><![CDATA[n. 顶点；[昆] 头顶；[天] 天顶 
+        from vertere "to turn" (see versus).
+        versus  [ver·sus || 'vɜrsəs /'vɜː-] prep.  对; 与...相对
 ]]></trans>
     <phonetic><![CDATA[['və:teks]]]></phonetic>
     <tags>GRE</tags>
