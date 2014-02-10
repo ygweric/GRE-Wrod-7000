@@ -1064,6 +1064,7 @@ no
     <trans><![CDATA[n. 病痛，苦恼 
 vi. 生病 
 vt. 使苦恼，使烦恼 
+拟声词
 ]]></trans>
     <phonetic><![CDATA[[eil]]]></phonetic>
     <tags>GRE</tags>
@@ -1933,7 +1934,7 @@ adj. 防腐的，抗菌的；非常整洁的
     <progress>1</progress>
 </item><item>    <word>apocalyptic</word>
     <trans><![CDATA[adj. 启示录的；天启的 
-        Calypso 海之女神，她将奥德修斯困在她的俄吉吉亚岛上七年
+        Calypso 卡吕普索, 海之女神，她将奥德修斯困在她的俄吉吉亚岛上七年
 ]]></trans>
     <phonetic><![CDATA[[ə,pɔkə'liptik]]]></phonetic>
     <tags>GRE</tags>
@@ -2573,6 +2574,7 @@ as pen
 </item><item>    <word>aspersion</word>
     <trans><![CDATA[n. 中伤，诽谤；洒水 
         sparse adj.  稀疏的, 薄的, 稀稀落落的
+        (拟声)'泼水'
 ]]></trans>
     <phonetic><![CDATA[[ə'spə:ʃən]]]></phonetic>
     <tags>GRE</tags>
@@ -9317,7 +9319,8 @@ column  n.  专栏, 纵队, 圆柱
     <progress>1</progress>
 </item><item>    <word>culpable</word>
     <trans><![CDATA[adj. 有罪的；该责备的；不周到的；应受处罚的 
-        no
+        cult adj. 狂热崇拜的 
+        cultivate n. 祭仪;礼拜； vt. 培养；陶冶；耕作 
 ]]></trans>
     <phonetic><![CDATA[['kʌlpəbl]]]></phonetic>
     <tags>GRE</tags>
@@ -9325,7 +9328,7 @@ column  n.  专栏, 纵队, 圆柱
 </item><item>    <word>cult</word>
     <trans><![CDATA[n. 祭仪（尤其指宗教上的）；礼拜；狂热信徒 
 adj. 狂热崇拜的 
-no
+cultivate vt. 培养；陶冶；耕作 
 ]]></trans>
     <phonetic><![CDATA[[kʌlt]]]></phonetic>
     <tags>GRE</tags>
@@ -12073,7 +12076,7 @@ vi. 躲避，避开
     <progress>1</progress>
 </item><item>    <word>doff</word>
     <trans><![CDATA[vt. 脱（衣，帽等）；丢弃，废除；落纱 
-        no
+        (as)甘'道夫' 丢弃灰袍
 ]]></trans>
     <phonetic><![CDATA[[dɔf]]]></phonetic>
     <tags>GRE</tags>
@@ -12417,7 +12420,7 @@ no
     <trans><![CDATA[n. 鼻涕；口水；糊涂话 
 vi. 淌口水；流鼻涕；说傻话 
 vt. 浪费 
-no
+drip
 ]]></trans>
     <phonetic><![CDATA[[drivəl]]]></phonetic>
     <tags>GRE</tags>
@@ -17321,7 +17324,7 @@ no
 </item><item>    <word>gauge</word>
     <trans><![CDATA[n. 计量器；标准尺寸；容量规格 
 vt. 测量；估计；给…定规格 
-no
+"稿纸"
 ]]></trans>
     <phonetic><![CDATA[[ɡeidʒ]]]></phonetic>
     <tags>GRE</tags>
@@ -24577,8 +24580,7 @@ low
 </item><item>    <word>lubricant</word>
     <trans><![CDATA[n. 润滑剂；润滑油 
 adj. 润滑的 
-sleeve  [slɪːv] n.  袖子; 唱片套子; 袖套; 套筒, 套管
-slip  [slɪp] n.  滑动; 失足; 滑跤; 下降#片条, 板条; 接枝, 插枝; 纸条#后裔
+(as)'撸吧'
 ]]></trans>
     <phonetic><![CDATA[['lu:brikənt]]]></phonetic>
     <tags>GRE</tags>
@@ -25135,7 +25137,7 @@ manual  [man·u·al || 'mænjʊəl] n.  手册; 指南
     <progress>0</progress>
 </item><item>    <word>maple</word>
     <trans><![CDATA[n. 枫树；淡棕色 
-        no
+        (as)map,枫叶的图文像地图
 ]]></trans>
     <phonetic><![CDATA[['meipl]]]></phonetic>
     <tags>GRE</tags>
@@ -25143,7 +25145,7 @@ manual  [man·u·al || 'mænjʊəl] n.  手册; 指南
 </item><item>    <word>mar</word>
     <trans><![CDATA[n. 污点；瑕疵 
 vt. 损毁；损伤；糟蹋；玷污 
-no
+(as)mark
 ]]></trans>
     <phonetic><![CDATA[[mɑ:]]]></phonetic>
     <tags>GRE</tags>
@@ -25168,7 +25170,7 @@ marble 大理石
     <progress>0</progress>
 </item><item>    <word>margarine</word>
     <trans><![CDATA[n. 人造黄油；人造奶油 
-        no
+          (as) margin黄油涂抹边缘
 ]]></trans>
     <phonetic><![CDATA[[,mɑ:dʒə'ri:n]]]></phonetic>
     <tags>GRE</tags>
@@ -35990,7 +35992,7 @@ vi. 跨上马鞍
 </item><item>    <word>sagacious</word>
     <trans><![CDATA[adj. 睿智的，聪慧的；有远见的，聪慧的 
         sagacity  [sa·gac·i·ty || sə'gæsətɪ] n.  睿智, 聪慧
-        sage   圣人；贤人；哲人 
+        sage   圣人；贤人；哲人 (as)'三个'人行必有我师
 ]]></trans>
     <phonetic><![CDATA[[sə'ɡeiʃəs]]]></phonetic>
     <tags>GRE</tags>
